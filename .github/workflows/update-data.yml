@@ -1,0 +1,46 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: "12 * * * *"
+  workflow_dispatch:
+  push:
+
+jobs:
+  update-data:
+    name: Update deutschland-tarif data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      - uses: abatilo/actions-poetry@v2
+      - name: Setup venv config
+        run: |
+          poetry config virtualenvs.create true --local
+          poetry config virtualenvs.in-project true --local
+      - uses: actions/cache@v3
+        name: Cache venv
+        with:
+          path: ./.venv
+          key: venv-${{ hashFiles('poetry.lock') }}
+      - name: Install the project dependencies
+        run: poetry install
+      - name: Update data
+        run: poetry run python 01-update-data.py data/
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update tarif data [skip ci]
+
+  workflow-keepalive:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: liskin/gh-workflow-keepalive@v1
