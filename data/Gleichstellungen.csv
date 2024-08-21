@@ -1,0 +1,1672 @@
+gleichgestellter Tarifpunkt,IBNR,Typ,ab km,preisbildender Tarifpunkt,IBNR,Sammelbezeichnung
+Aachen Hbf,1,CITY,101,Aachen Hbf,1,Aachen
+Aachen Hbf,1,TARIF,31,Aachen Hbf,1,Aachen
+Aachen-Rothe Erde,406,CITY,101,Aachen Hbf,1,Aachen
+Aachen-Rothe Erde,406,TARIF,31,Aachen Hbf,1,Aachen
+Aachen Schanz,405,CITY,101,Aachen Hbf,1,Aachen
+Aachen Schanz,405,TARIF,31,Aachen Hbf,1,Aachen
+Aachen West,404,CITY,101,Aachen Hbf,1,Aachen
+Aachen West,404,TARIF,31,Aachen Hbf,1,Aachen
+Aalen Hbf,2,CITY,101,Aalen Hbf,2,Aalen
+Ahrensburg,446,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Ahrensburg-Gartenh.,480,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Ahrensfelde,11003,CITY,101,Berlin Friedrichstr,10038,Berlin
+Ahrweiler,448,TARIF,1,Ahrweiler,448,Ahrweiler
+Ahrweiler Markt,449,TARIF,1,Ahrweiler,448,Ahrweiler
+Albrechtshof,11008,CITY,101,Berlin Friedrichstr,10038,Berlin
+Alte Veste,511,CITY,101,Fürth(Bay)Hbf,114,Fürth(Bay)
+Alzenau(Unterfr),531,TARIF,51,Alzenau(Unterfr),531,Alzenau
+Alzenau Burg,535,TARIF,51,Alzenau(Unterfr),531,Alzenau
+Alzenau Nord,529,TARIF,51,Alzenau(Unterfr),531,Alzenau
+Angermund,579,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Angersdorf,11043,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Annaberg-Buchholz M,11045,TARIF,71,Annaberg-Buchh u Bf,11047,Annaberg-Buchholz
+Annaberg-Buchholz S,10005,TARIF,71,Annaberg-Buchh u Bf,11047,Annaberg-Buchholz
+Annaberg-Buchh u Bf,11047,TARIF,71,Annaberg-Buchh u Bf,11047,Annaberg-Buchholz
+Annweiler am Trifels,582,TARIF,51,Annweiler am Trifels,582,Annweiler
+Annweiler-Sarnstall,5257,TARIF,51,Annweiler am Trifels,582,Annweiler
+Annweiler West,587,TARIF,51,Annweiler am Trifels,582,Annweiler
+Arnstadt Hbf,10007,TARIF,31,Arnstadt Hbf,10007,Arnstadt
+Arnstadt Süd,11055,TARIF,31,Arnstadt Hbf,10007,Arnstadt
+Aschaffenburg Hbf,10,CITY,101,Aschaffenburg Hbf,10,Aschaffenburg
+Aschaffenburg Hbf,10,TARIF,51,Aschaffenburg Hbf,10,Aschaffenburg
+Aschaffenburg Hochs.,618,CITY,101,Aschaffenburg Hbf,10,Aschaffenburg
+Aschaffenburg Hochs.,618,TARIF,51,Aschaffenburg Hbf,10,Aschaffenburg
+Aschaffenburg Süd,619,CITY,101,Aschaffenburg Hbf,10,Aschaffenburg
+Aschaffenburg Süd,619,TARIF,51,Aschaffenburg Hbf,10,Aschaffenburg
+Ashausen,627,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Asperg,630,CITY,101,Ludwigsburg,235,Ludwigsburg
+Augsburg Haunstett.,658,CITY,101,Augsburg Hbf,13,Augsburg
+Augsburg Haunstett.,658,TARIF,71,Augsburg Hbf,13,Augsburg
+Augsburg Hbf,13,CITY,101,Augsburg Hbf,13,Augsburg
+Augsburg Hbf,13,TARIF,71,Augsburg Hbf,13,Augsburg
+Augsburg-Hochzoll,661,CITY,101,Augsburg Hbf,13,Augsburg
+Augsburg-Hochzoll,661,TARIF,71,Augsburg Hbf,13,Augsburg
+Augsburg Messe,659,CITY,101,Augsburg Hbf,13,Augsburg
+Augsburg Messe,659,TARIF,71,Augsburg Hbf,13,Augsburg
+Augsburg Morellstr.,660,CITY,101,Augsburg Hbf,13,Augsburg
+Augsburg Morellstr.,660,TARIF,71,Augsburg Hbf,13,Augsburg
+Augsburg-Oberhausen,662,CITY,101,Augsburg Hbf,13,Augsburg
+Augsburg-Oberhausen,662,TARIF,71,Augsburg Hbf,13,Augsburg
+Auringen-Medenbach,671,CITY,101,Wiesbaden Hbf,250,Wiesbaden
+Bad Brückenau,1211,TARIF,71,Bad Brückenau Stbad,1210,Bad Brückenau
+Bad Brückenau Stbad,1210,TARIF,71,Bad Brückenau Stbad,1210,Bad Brückenau
+Baden-Baden,774,CITY,101,Baden-Baden,774,Baden-Baden
+Baden-Baden Haueneb,771,CITY,101,Baden-Baden,774,Baden-Baden
+Baden-Baden Rebland,775,CITY,101,Baden-Baden,774,Baden-Baden
+Bad Homburg,712,CITY,101,Bad Homburg,712,Bad Homburg
+Bad Mergentheim,724,TARIF,51,Bad Mergentheim,724,Bad Mergentheim
+Bad Urach,6029,TARIF,1,Bad Urach,6029,Bad Urach
+Bad Urach Eklinik,6027,TARIF,1,Bad Urach,6029,Bad Urach
+Bad Urach Wasserfall,6028,TARIF,1,Bad Urach,6029,Bad Urach
+Bad Wildbad Bf,6431,TARIF,1,Bad Wildbad Bf,6431,Bad Wildbad
+Bad Wildbad Kurpark,6435,TARIF,1,Bad Wildbad Bf,6431,Bad Wildbad
+Bad Wildbad Nord,6434,TARIF,1,Bad Wildbad Bf,6431,Bad Wildbad
+Bad Wildbad Uhlandpl,6439,TARIF,1,Bad Wildbad Bf,6431,Bad Wildbad
+Bamberg,25,CITY,101,Bamberg,25,Bamberg
+Bardowick,801,CITY,101,Lüneburg,238,Lüneburg
+Barleber See,11112,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Bayreuth Hbf,28,CITY,101,Bayreuth Hbf,28,Bayreuth
+Bayreuth-St Georgen,833,CITY,101,Bayreuth Hbf,28,Bayreuth
+Bellheim Bf,863,TARIF,1,Bellheim Bf,863,Bellheim
+Bellheim Mühlbuckel,861,TARIF,1,Bellheim Bf,863,Bellheim
+Bergisch Gladbach,899,CITY,101,Bergisch Gladbach,899,Bergisch Gladb.
+Berlin-Adlershof,11227,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Alexanderpl.,11155,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Alexanderpl.,11155,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Altglienicke,11229,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Alt-Reinick.,11437,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Anhalter Bf,11128,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Anhalter Bf,11128,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Attilastraße,11233,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Baumschulenw,11120,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Bbf Rummelsbg,11235,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Bellevue,11157,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Bellevue,11157,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Beusselstr.,11129,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Beusselstr.,11129,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Biesdorf,11237,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Blankenburg,11124,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Bornholm.Str,11239,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Botanischer G,11240,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Brandenbg.Tor,11193,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Brandenbg.Tor,11193,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Buch,11241,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Buckower Ch.,11243,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Bundesplatz,11130,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Bundesplatz,11130,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Charlottenbg.,10403,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Charlottenbg.,10403,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Eichborndamm,11244,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Feuerbachstr.,11249,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Frankfurter A,11134,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Frankfurter A,11134,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Friedenau,11259,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Friedrfel.Ost,11262,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Friedrichshg.,11266,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Friedrichstr,10038,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Friedrichstr,10038,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Frohnau,11268,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Gehrenseestr.,11273,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Gesundbrunnen,11102,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Gesundbrunnen,11102,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Greifswald.St,11135,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Greifswald.St,11135,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Grünau,11274,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Grünbg.allee,11275,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Grunewald,11276,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Hackescher M.,11158,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Hackescher M.,11158,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Halensee,11204,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Halensee,11204,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Hbf,11160,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Hbf,11160,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Heerstraße,11279,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Heidelberg.Pl,11136,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Heidelberg.Pl,11136,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Heiligensee,11280,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Hermannstr.,11137,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Hermannstr.,11137,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Hermsdorf,11287,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Hirschgarten,11289,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Hohenschönh.,11901,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Hohenzollernd,11145,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Hohenzollernd,11145,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Humboldthain,11147,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Humboldthain,11147,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Innsbrucker P,11148,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Innsbrucker P,11148,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Jannowitzbr.,11159,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Jannowitzbr.,11159,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Johannisthal,11234,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Jul.-Leber-Br,11092,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Jul.-Leber-Br,11092,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Jungfernheide,11167,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Jungfernheide,11167,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Karlshorst,10035,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Karow,11046,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Kaulsdorf,11291,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin K-B.-N.klinik,11295,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Kölln.Heide,11313,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Köpenick,11332,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Landsberger A,11151,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Landsberger A,11151,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Lankwitz,11333,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Lichtenberg,10036,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Lichtenberg,10036,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Lichtenrade,11337,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Lichterf.Ost,11041,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Lichterf.Süd,11156,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Lichterf.West,11338,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Mahlsdorf,11343,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Marienfelde,11345,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Marzahn,11347,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Mehrow.Allee,11348,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin MesseNord/ICC,11166,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin MesseNord/ICC,11166,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin MesseS(Eichk),11350,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Mexikoplatz,11353,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Neukölln,11207,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Neukölln,11207,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Nikolassee,11359,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Nöldnerplatz,11161,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Nöldnerplatz,11161,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Nordbahnhof,11174,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Nordbahnhof,11174,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Oberspree,11365,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Olympiastad.,11367,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Oranienb.Str.,11175,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Oranienb.Str.,11175,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Osdorfer Str.,11369,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Ostbahnhof,10255,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Ostbahnhof,10255,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Ostkreuz,11162,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Ostkreuz,11162,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Pankow,11372,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Pankow-Hein.,11374,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Pichelsberg,11375,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Plänterwald,11379,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Poelchaustr.,11391,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Potsdamer Pl,11118,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Potsdamer Pl,11118,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Prenzlauer Al,11180,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Prenzlauer Al,11180,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Priesterweg,11394,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Rahnsdorf,11410,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Rath.Steglitz,11432,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Rummelsburg,11441,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin R-Wallenbg-St,11443,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Savignyplatz,11163,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Savignyplatz,11163,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Schichauweg,11444,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Schlachtensee,11445,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Schöneberg,11109,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Schöneberg,11109,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Schöneweide,10041,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Schönh.Allee,11182,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Schönh.Allee,11182,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Schönholz,11448,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Schulzendorf,11452,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Sonnenallee,11186,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Sonnenallee,11186,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Spandau,10404,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Spindlersfeld,11457,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Springpfuhl,11459,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Staaken,13021,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Storkower Str,11192,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Storkower Str,11192,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Stresow,11461,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Südende,11463,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Südkreuz,11113,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Südkreuz,11113,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Sundgauer Str,11467,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Tegel,11475,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Tempelhof,11217,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Tempelhof,11217,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Tiergarten,11164,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Tiergarten,11164,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Treptower Pk,11117,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Treptower Pk,11117,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Waidmannslust,11478,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Wannsee,10405,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Warschauer St,11165,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Warschauer St,11165,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Wartenberg,11479,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Wedding,11220,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Wedding,11220,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Westend,11196,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Westend,11196,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Westhafen,11197,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Westhafen,11197,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Westkreuz,11108,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Westkreuz,11108,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Wilhelmshagen,11485,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Wilhelmsruh,11498,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Witten.(WhrD),11499,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Wollankstr,11501,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Wuhletal,11504,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Wuhlheide,11511,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Yorckstraße,11198,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Yorckstraße,11198,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin-Zehlendorf,11514,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Zoolg. Garten,10406,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Zoolg. Garten,10406,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Beyendorf,11181,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Bielefeld-Brackwede,48,CITY,101,Bielefeld Hbf,36,Bielefeld
+Bielefeld Hbf,36,CITY,101,Bielefeld Hbf,36,Bielefeld
+Bielefeld Ost,953,CITY,101,Bielefeld Hbf,36,Bielefeld
+Bielefeld-Senne,956,CITY,101,Bielefeld Hbf,36,Bielefeld
+Bielefeld-Sennestadt,5535,CITY,101,Bielefeld Hbf,36,Bielefeld
+Bielefeld-Windelsbl.,6466,CITY,101,Bielefeld Hbf,36,Bielefeld
+Bingen(Rhein) Hbf,39,TARIF,71,Bingen(Rhein) Hbf,39,Bingen(Rhein)
+Bingen(Rhein) Stadt,976,TARIF,71,Bingen(Rhein) Hbf,39,Bingen(Rhein)
+Blumberg-Riedöschin,1029,TARIF,1,Blumberg-Zollhaus,6669,Blumberg(Baden)
+Blumberg-Zollhaus,6669,TARIF,1,Blumberg-Zollhaus,6669,Blumberg(Baden)
+Böblingen,1055,CITY,101,Böblingen,1055,Böblingen
+Bochum-Dahlhausen,1038,CITY,101,Bochum-Dahlhausen,1038,Bochum-Dahlhaus
+Bochum-Ehrenfeld,1039,CITY,101,Bochum Hbf,41,Bochum
+Bochum-Hamme,6710,CITY,101,Bochum Hbf,41,Bochum
+Bochum Hbf,41,CITY,101,Bochum Hbf,41,Bochum
+Bochum-Langendreer,358,CITY,101,Bochum Hbf,41,Bochum
+Bochum-Langendreer W,4474,CITY,101,Bochum Hbf,41,Bochum
+Bochum-Riemke,1035,CITY,101,Bochum Hbf,41,Bochum
+Bochum West,6711,CITY,101,Bochum Hbf,41,Bochum
+Bödigheim,1056,TARIF,51,Buchen(Odenw),1227,Buchen(Odenw)
+Bonn-Bad Godesberg,1082,CITY,101,Bonn Hbf,44,Bonn
+Bonn-Bad Godesberg,1082,TARIF,71,Bonn Hbf,44,Bonn
+Bonn-Beuel,1083,CITY,101,Bonn-Beuel,1083,Bonn-Beuel
+Bonn-Duisdorf,1084,CITY,101,Bonn Hbf,44,Bonn
+Bonn-Endenich Nord,1088,CITY,101,Bonn Hbf,44,Bonn
+Bonn Hbf,44,CITY,101,Bonn Hbf,44,Bonn
+Bonn Hbf,44,TARIF,71,Bonn Hbf,44,Bonn
+Bonn Helmholtzstr.,1081,CITY,101,Bonn Hbf,44,Bonn
+Bonn-Mehlem,1085,CITY,101,Bonn Hbf,44,Bonn
+Bonn-Mehlem,1085,TARIF,71,Bonn Hbf,44,Bonn
+Bonn-Oberkassel,1086,CITY,101,Bonn-Beuel,1083,Bonn-Beuel
+Bonn UN Campus,1091,CITY,101,Bonn Hbf,44,Bonn
+Bonn UN Campus,1091,TARIF,71,Bonn Hbf,44,Bonn
+Bottrop-Boy,1107,CITY,101,Bottrop Hbf,47,Bottrop
+Bottrop Hbf,47,CITY,101,Bottrop Hbf,47,Bottrop
+Bottrop-Vonderort,1108,CITY,101,Bottrop Hbf,47,Bottrop
+Brake(b Bielefeld),1118,CITY,101,Bielefeld Hbf,36,Bielefeld
+Bräunlingen Bahnhof,1119,TARIF,1,Bräunlingen Bahnhof,1119,Bräunlingen
+Bräunlingen Industr,1127,TARIF,1,Bräunlingen Bahnhof,1119,Bräunlingen
+Braunschweig-Gliesm.,1134,CITY,101,Braunschweig Hbf,49,Braunschweig
+Braunschweig Hbf,49,CITY,101,Braunschweig Hbf,49,Braunschweig
+Breitendiel,1148,TARIF,51,Miltenberg,640,Miltenberg
+Bremen-Aumund,1187,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Blumenthal,1194,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Burg,1156,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Farge,1208,CITY,101,Bremen Hbf,50,Bremen
+Bremen Hbf,50,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Hemelingen,1157,CITY,101,Bremen Hbf,50,Bremen
+Bremen Kreinsloger,1204,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Lesum,1159,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Mahndorf,1160,CITY,101,Bremen Hbf,50,Bremen
+Bremen Mühlenstr.,1202,CITY,101,Bremen Hbf,50,Bremen
+Bremen Neustadt,1155,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Oberneuland,1161,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Oslebshausen,1162,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Schönebeck,1163,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Sebaldsbrück,1164,CITY,101,Bremen Hbf,50,Bremen
+Bremen-St Magnus,1165,CITY,101,Bremen Hbf,50,Bremen
+Bremen Turnerstraße,1206,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Vegesack,1166,CITY,101,Bremen Hbf,50,Bremen
+Bremen-Walle,1167,CITY,101,Bremen Hbf,50,Bremen
+Bremerhaven Hbf,51,CITY,101,Bremerhaven Hbf,51,Bremerhaven
+Bremerhaven Hbf,51,TARIF,71,Bremerhaven Hbf,51,Bremerhaven
+Bremerhaven-Lehe,1168,CITY,101,Bremerhaven Hbf,51,Bremerhaven
+Bremerhaven-Lehe,1168,TARIF,71,Bremerhaven Hbf,51,Bremerhaven
+Bremerhaven-Wulsdorf,1170,CITY,101,Bremerhaven Hbf,51,Bremerhaven
+Bretten,53,TARIF,1,Bretten,53,Bretten
+Bretten Schulzentrum,1144,TARIF,1,Bretten,53,Bretten
+Bretten Stadtmitte,1152,TARIF,1,Bretten,53,Bretten
+Brigachtal Kirchdorf,3339,TARIF,1,Brigachtal Klengen,3336,Brigachtal
+Brigachtal Klengen,3336,TARIF,1,Brigachtal Klengen,3336,Brigachtal
+Brötzingen Mitte,4799,CITY,101,Pforzheim Hbf,299,Pforzheim
+Bruchsal,55,TARIF,1,Bruchsal,55,Bruchsal
+Bruchsal Am Mantel,1214,TARIF,1,Bruchsal,55,Bruchsal
+Bruchsal AVG,1195,TARIF,1,Bruchsal,55,Bruchsal
+Bruchsal Bildungsz,1197,TARIF,1,Bruchsal,55,Bruchsal
+Bruchsal Schlachthof,1216,TARIF,1,Bruchsal,55,Bruchsal
+Bruchsal Sportzentr.,1212,TARIF,1,Bruchsal,55,Bruchsal
+Bruchsal Tunnelstr.,1219,TARIF,1,Bruchsal,55,Bruchsal
+Bubenreuth,1223,CITY,101,Erlangen,1844,Erlangen
+Buchen(Odenw),1227,TARIF,51,Buchen(Odenw),1227,Buchen(Odenw)
+Buchen Ost,1226,TARIF,51,Buchen(Odenw),1227,Buchen(Odenw)
+Burbach Mitte,1302,CITY,101,Saarbrücken Hbf,323,Saarbrücken
+Burbach Mitte,1302,TARIF,71,Saarbrücken Hbf,323,Saarbrücken
+Büttgen,1261,CITY,101,Neuss Hbf,274,Neuss
+Cainsdorf,11305,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Celle,64,CITY,101,Celle,64,Celle
+Chemnitz-Altchemnitz,13602,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz-Borna,11974,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Erdmannsd.S,13604,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Erfenschlag,11975,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Friedrichs.,13600,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz G-Freytag-S,13606,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz G-Freytag-S,13606,TARIF,31,Chemnitz Hbf,10184,Chemnitz
+Chemnitz-Harthau,11977,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Hbf,10184,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Hbf,10184,TARIF,31,Chemnitz Hbf,10184,Chemnitz
+Chemnitz-Hilbersd,13450,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Kinderwald,11970,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Küchwald,11969,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Mitte,11971,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Mitte,11971,TARIF,31,Chemnitz Hbf,10184,Chemnitz
+Chemnitz-Reichenhain,11978,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Riemensch.S,13601,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Roesslerstr,13605,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz-Schönau,11979,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Schule Altc,13603,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz-Siegmar,11980,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Stadlerpl,13610,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Stadlerpl,13610,TARIF,31,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Süd,10185,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Süd,10185,TARIF,31,Chemnitz Hbf,10184,Chemnitz
+Chemnitz TU Campus,13612,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Zentralhst,13607,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Chemnitz Zentralhst,13607,TARIF,31,Chemnitz Hbf,10184,Chemnitz
+Cossebaude,11320,CITY,101,Dresden Hbf,10085,Dresden
+Cottbus Hbf,10073,CITY,101,Cottbus Hbf,10073,Cottbus
+Cottbus-Merzdorf,12341,CITY,101,Cottbus Hbf,10073,Cottbus
+Cottbus-Sandow,11318,CITY,101,Cottbus Hbf,10073,Cottbus
+Cottbus-Willmersd N,11331,CITY,101,Cottbus Hbf,10073,Cottbus
+Dahl,1357,CITY,101,Hagen Hbf,142,Hagen
+Darmstadt-Arheilgen,1378,CITY,101,Darmstadt Hbf,68,Darmstadt
+Darmstadt-Eberstadt,1379,CITY,101,Darmstadt Hbf,68,Darmstadt
+Darmstadt Hbf,68,CITY,101,Darmstadt Hbf,68,Darmstadt
+Darmstadt Hbf,68,TARIF,71,Darmstadt Hbf,68,Darmstadt
+Darmstadt-Kranichst.,1380,CITY,101,Darmstadt Hbf,68,Darmstadt
+Darmstadt Nord,1375,CITY,101,Darmstadt Hbf,68,Darmstadt
+Darmstadt Nord,1375,TARIF,71,Darmstadt Hbf,68,Darmstadt
+Darmstadt Ost,1376,CITY,101,Darmstadt Hbf,68,Darmstadt
+Darmstadt Süd,1377,CITY,101,Darmstadt Hbf,68,Darmstadt
+Darmstadt Süd,1377,TARIF,71,Darmstadt Hbf,68,Darmstadt
+Darmstadt TU-Lichtw.,1386,CITY,101,Darmstadt Hbf,68,Darmstadt
+Darmstadt-Wixhausen,6528,CITY,101,Darmstadt Hbf,68,Darmstadt
+Dedinghausen,1394,CITY,101,Lippstadt,571,Lippstadt
+Deisenhofen,1404,CITY,101,München Hbf,261,München
+Delmenhorst,70,CITY,101,Delmenhorst,70,Delmenhorst
+Detmold,1420,CITY,101,Detmold,1420,Detmold
+Dettingen Freibad,1424,TARIF,1,Dettingen-Mitte,1425,Dettingen(Erms)
+Dettingen Lehen,1422,TARIF,1,Dettingen-Mitte,1425,Dettingen(Erms)
+Dettingen-Mitte,1425,TARIF,1,Dettingen-Mitte,1425,Dettingen(Erms)
+Distelhausen,1472,TARIF,51,Tauberbischofsheim,5827,Tauberbischofsheim
+Dittigheim,1474,TARIF,51,Tauberbischofsheim,5827,Tauberbischofsheim
+Donauesch.Allmendsh.,1479,TARIF,1,Donaueschingen,77,Donaueschingen
+Donauesch.Grüningen,1483,TARIF,1,Donaueschingen,77,Donaueschingen
+Donauesch.Mitte/Sied,1485,TARIF,1,Donaueschingen,77,Donaueschingen
+Donaueschingen Aufen,1482,TARIF,1,Donaueschingen,77,Donaueschingen
+Dortmund-Aplerbeck,1523,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Aplerbeck S,1524,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Asseln Mitt,1526,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Barop,1527,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Bövingh.,1528,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Brackel,1529,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Derne,1530,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Dorstfeld,81,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Dorstfeld S,4230,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Germania,1540,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund Hbf,80,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Hörde,961,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Huckarde,1505,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Huckarde N,1532,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Kirchderne,1533,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Kirchhörde,1534,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Kley,4269,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund Knappschaft,1517,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Körne,1535,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Körne West,3916,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Kruckel,1536,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Kurl,1537,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Löttringh.,1538,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Lütgend.N,1539,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Lütgendort,1516,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Marten,1541,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Marten Süd,1542,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Mengede,1543,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund Möllerbr.,1518,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Nette/Oest,1519,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Oespel,4288,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Rahm,1544,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Scharnhorst,1515,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund Signal Idu.,1522,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Sölde,1545,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Somborn,1549,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund Stadthaus,1520,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund Tierpark,1521,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Uni.,4419,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund West,3946,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Westerfilde,1525,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Wickede,1546,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Wickede W,3936,CITY,101,Dortmund Hbf,80,Dortmund
+Dortmund-Wischlingen,1531,CITY,101,Dortmund Hbf,80,Dortmund
+Dresden Bischofspl.,11416,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Cotta,11419,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Dobritz,11420,CITY,101,Dresden Hbf,10085,Dresden
+Dresden Flughafen,11399,CITY,101,Dresden Hbf,10085,Dresden
+Dresden Freiberg.Str,11431,CITY,101,Dresden Hbf,10085,Dresden
+Dresden Freiberg.Str,11431,TARIF,31,Dresden Hbf,10085,Dresden
+Dresden-Friedrichst,13475,CITY,101,Dresden Hbf,10085,Dresden
+Dresden Grenzstraße,11417,CITY,101,Dresden Hbf,10085,Dresden
+Dresden Hbf,10085,CITY,101,Dresden Hbf,10085,Dresden
+Dresden Hbf,10085,TARIF,31,Dresden Hbf,10085,Dresden
+Dresden Industriegel,11418,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Kemnitz,11421,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Klotzsche,10088,CITY,101,Dresden Hbf,10085,Dresden
+Dresden Mitte,13444,CITY,101,Dresden Hbf,10085,Dresden
+Dresden Mitte,13444,TARIF,31,Dresden Hbf,10085,Dresden
+Dresden-Neustadt,10089,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Neustadt,10089,TARIF,31,Dresden Hbf,10085,Dresden
+Dresden-Niedersedl,11422,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Pieschen,11423,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Plauen,13476,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Reick,11424,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Stetzsch,11425,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Strehlen,11426,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Trachau,11427,CITY,101,Dresden Hbf,10085,Dresden
+Dresden-Zschachwitz,11428,CITY,101,Dresden Hbf,10085,Dresden
+Duckterath,1566,CITY,101,Bergisch Gladbach,899,Bergisch Gladb.
+Dudweiler,1570,CITY,101,Saarbrücken Hbf,323,Saarbrücken
+Duisburg-Bissingheim,1599,CITY,101,Duisburg Hbf,86,Duisburg
+Duisburg-Buchholz,1600,CITY,101,Duisburg Hbf,86,Duisburg
+Duisburg Entenfang,5272,CITY,101,Duisburg Hbf,86,Duisburg
+Duisburg-Großenbaum,1602,CITY,101,Duisburg Hbf,86,Duisburg
+Duisburg Hbf,86,CITY,101,Duisburg Hbf,86,Duisburg
+Duisburg-Hochfeld S,1605,CITY,101,Duisburg Hbf,86,Duisburg
+Duisburg-Meiderich O,1607,CITY,101,Duisburg-Ruhrort,1611,Duisbg-Ruhrort
+Duisburg-Meiderich S,367,CITY,101,Duisburg-Ruhrort,1611,Duisbg-Ruhrort
+Duisburg-Obermeider.,1608,CITY,101,Duisburg-Ruhrort,1611,Duisbg-Ruhrort
+Duisburg-Rahm,1609,CITY,101,Duisburg Hbf,86,Duisburg
+Duisburg-Ruhrort,1611,CITY,101,Duisburg-Ruhrort,1611,Duisbg-Ruhrort
+Duisburg-Schlenk,1596,CITY,101,Duisburg Hbf,86,Duisburg
+Duisburg-Wedau,1612,CITY,101,Duisburg Hbf,86,Duisburg
+Düren,84,CITY,101,Düren-Annakirmespl.,223,Düren Stadt
+Düren,84,TARIF,1,Düren-Annakirmespl.,223,Düren Stadt
+Düren-Annakirmespl.,223,CITY,101,Düren-Annakirmespl.,223,Düren Stadt
+Düren-Annakirmespl.,223,TARIF,1,Düren-Annakirmespl.,223,Düren Stadt
+Düren Im GroßenTal,224,CITY,101,Düren-Annakirmespl.,223,Düren Stadt
+Düren Im GroßenTal,224,TARIF,1,Düren-Annakirmespl.,223,Düren Stadt
+Düren-Kuhbrücke,3468,CITY,101,Düren-Annakirmespl.,223,Düren Stadt
+Düren-Kuhbrücke,3468,TARIF,1,Düren-Annakirmespl.,223,Düren Stadt
+Düren-Lendersdorf,3642,CITY,101,Düren-Annakirmespl.,223,Düren Stadt
+Düren-Lendersdorf,3642,TARIF,1,Düren-Annakirmespl.,223,Düren Stadt
+Düren Renkerstraße,4969,CITY,101,Düren-Annakirmespl.,223,Düren Stadt
+Düren Renkerstraße,4969,TARIF,1,Düren-Annakirmespl.,223,Düren Stadt
+Düsseldorf-Benrath,1584,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Bilk,1585,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Bilk,1585,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Derend.,1586,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Derend.,1586,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Eller,1587,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Eller M,1308,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Eller S,1588,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Flingern,1598,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Flingern,1598,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Flugh.,82,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Flugh.T.,1580,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Friedrst,1579,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Friedrst,1579,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Garath,1589,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Gerresh.,1590,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Hamm,1597,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Hbf,85,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Hbf,85,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Hellerh.,4920,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Oberbilk,1591,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Oberbilk,1591,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Rath,1592,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Rath Mit,1593,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Reisholz,1594,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Unterr.,1595,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Volksg.,1581,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Volksg.,1581,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Völk St,1603,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Wehrhahn,1582,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf Wehrhahn,1582,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Zoo,1583,CITY,101,Düsseldorf Hbf,85,Düsseldorf
+Düsseldorf-Zoo,1583,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
+Ebersbrunn,11446,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Edelfingen,1660,TARIF,51,Bad Mergentheim,724,Bad Mergentheim
+Ehrang,370,CITY,101,Trier Hbf,134,Trier
+Ehrang Ort,1688,CITY,101,Trier Hbf,134,Trier
+Eilendorf,1712,CITY,101,Aachen Hbf,1,Aachen
+Einsiedel,11466,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Einsiedel Brauerei,11465,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Einsiedel Hp Gymnas.,11464,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Einsiedlerhof,1720,CITY,101,Kaiserslautern Hbf,189,Kaiserslautern
+Eiserfeld(Sieg),1729,CITY,101,Siegen Hbf,46,Siegen
+Ellhofen,1747,TARIF,1,Ellhofen,1747,Ellhofen
+Elmshorn,92,CITY,101,Elmshorn,92,Elmshorn
+Elpersheim,1754,TARIF,51,Weikersheim,6269,Weikersheim
+Eltersdorf,1762,CITY,101,Erlangen,1844,Erlangen
+Er. Paul-Gossen-Str.,1846,CITY,101,Erlangen,1844,Erlangen
+Erfurt-Bischleben,11502,CITY,101,Erfurt Hbf,10101,Erfurt
+Erfurt-Gispersleben,11503,CITY,101,Erfurt Hbf,10101,Erfurt
+Erfurt Hbf,10101,CITY,101,Erfurt Hbf,10101,Erfurt
+Erfurt Nord,10102,CITY,101,Erfurt Hbf,10101,Erfurt
+Erfurt Ost,11500,CITY,101,Erfurt Hbf,10101,Erfurt
+Erlangen,1844,CITY,101,Erlangen,1844,Erlangen
+Erlangen-Bruck,1845,CITY,101,Erlangen,1844,Erlangen
+Erndtebrück,1851,TARIF,31,Erndtebrück,1851,Erndtebrück
+Eschborn Süd,1871,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Essen-Altenessen,1900,CITY,101,Essen-Altenessen,1900,E-Altenessen
+Essen-Bergeborbeck,1901,CITY,101,Essen-Altenessen,1900,E-Altenessen
+Essen-Borbeck,1902,CITY,101,Essen Hbf,98,Essen
+Essen-Borbeck Süd,5031,CITY,101,Essen Hbf,98,Essen
+Essen-Dellwig,1903,CITY,101,Essen-Altenessen,1900,E-Altenessen
+Essen-Dellwig Ost,1904,CITY,101,Essen Hbf,98,Essen
+Essen-Eiberg,1905,CITY,101,Essen Hbf,98,Essen
+Essen-Frohnhausen,1906,CITY,101,Essen Hbf,98,Essen
+Essen-Gerschede,1907,CITY,101,Essen Hbf,98,Essen
+Essen Hbf,98,CITY,101,Essen Hbf,98,Essen
+Essen Hbf,98,TARIF,1,Essen Hbf,98,Essen
+Essen-Holthausen,6514,CITY,101,Essen Hbf,98,Essen
+Essen-Horst,6194,CITY,101,Essen Hbf,98,Essen
+Essen-Hügel,1908,CITY,101,Essen Hbf,98,Essen
+Essen-Kray Nord,1910,CITY,101,Essen Hbf,98,Essen
+Essen-Kray Süd,1911,CITY,101,Essen Hbf,98,Essen
+Essen-Kupferdreh,1912,CITY,101,Essen Hbf,98,Essen
+Essen Stadtwald,1896,CITY,101,Essen Hbf,98,Essen
+Essen-Steele,99,CITY,101,Essen Hbf,98,Essen
+Essen-Steele Ost,1913,CITY,101,Essen Hbf,98,Essen
+Essen Süd,1897,CITY,101,Essen Hbf,98,Essen
+Essen Süd,1897,TARIF,1,Essen Hbf,98,Essen
+Essen-Überruhr,1914,CITY,101,Essen Hbf,98,Essen
+Essen-Werden,1915,CITY,101,Essen Hbf,98,Essen
+Essen West,1898,CITY,101,Essen Hbf,98,Essen
+Essen West,1898,TARIF,1,Essen Hbf,98,Essen
+Essen-Zollver. Nord,1909,CITY,101,Essen-Altenessen,1900,E-Altenessen
+Esslingen(Neckar),1920,CITY,101,Esslingen(Neckar),1920,Esslingen(N)
+Esslingen-Mettingen,1921,CITY,101,Esslingen(Neckar),1920,Esslingen(N)
+Esslingen-Zell,6642,CITY,101,Esslingen(Neckar),1920,Esslingen(N)
+Eutingen(Baden),1942,CITY,101,Pforzheim Hbf,299,Pforzheim
+Fallersleben,1957,CITY,101,Wolfsburg Hbf,6552,Wolfsburg
+Fasanenpark,1963,CITY,101,München Hbf,261,München
+Favoritepark,1967,CITY,101,Ludwigsburg,235,Ludwigsburg
+Feldhausen,1972,CITY,101,Feldhausen,1972,Feldhausen
+Feldkirchen(b M),1973,CITY,101,München Hbf,261,München
+Fellbach,1974,CITY,101,Stuttgart Hbf,96,Stuttgart
+Ff-Höchst Farbwerke,2051,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Finningerstraße,1985,CITY,101,Ulm Hbf,170,Ulm
+Fischbach(Nürnberg),1989,CITY,101,Nürnberg Hbf,284,Nürnberg
+Flensburg,103,CITY,101,Flensburg,103,Flensburg
+Flughafen BER,11201,TARIF,1,Schönefeld (b.Bln.),10109,Flughafen BER
+Forsthaus,2027,CITY,101,Krefeld Hbf,211,Krefeld
+Frankfurt(M)Gallusw.,6690,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Gallusw.,6690,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Hauptw.,6692,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Hauptw.,6692,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Konst.,4429,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Konst.,4429,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Lokalbf.,2038,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Lokalbf.,2038,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Mühlbg.,2034,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Mühlbg.,2034,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Ostend.,2058,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Ostend.,2058,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Stadion,2040,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Stresem.,2059,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Stresem.,2059,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Tsanlage,6691,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(M)Tsanlage,6691,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(Main)Hbf,105,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(Main)Hbf,105,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(Main)Messe,2035,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(Main)Messe,2035,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(Main)Ost,2039,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(Main)Süd,2041,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(Main)Süd,2041,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(Main)West,2042,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(Main)West,2042,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt(O)-Roseng,11559,TARIF,71,Frankfurt(Oder),10113,Frankfurt(Oder)
+Frankfurt(Oder),10113,TARIF,71,Frankfurt(Oder),10113,Frankfurt(Oder)
+Frankfurt(Oder)-Neub,11557,TARIF,71,Frankfurt(Oder),10113,Frankfurt(Oder)
+Frankfurt-Berkersh.,2043,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Eschersh.,2045,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-F. Berg,2044,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Griesheim,2046,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Griesheim,2046,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Höchst,106,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Louisa,2047,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Louisa,2047,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Mainkur,2048,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Nied,2049,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Niederrad,2050,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Niederrad,2050,TARIF,71,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Rödelheim,2052,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Sindlingen,2053,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Sossenheim,2054,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Unterlied.,3417,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Frankfurt-Zeilsheim,2055,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Freiburg(Brsg)Hbf,107,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg(Brsg)Hbf,107,TARIF,71,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg-Herdern,2067,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg-Herdern,2067,TARIF,71,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg Klinikum,2077,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg-Landwasser,2066,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg-Littenweil.,2068,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg Messe/Uni,2064,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg-St Georgen,2069,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg-Wiehre,2070,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg-Wiehre,2070,TARIF,71,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg-Zähringen,2071,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freiburg-Zähringen,2071,TARIF,71,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Freising,2078,CITY,101,Freising,2078,Freising
+Freudenstadt Hbf,110,TARIF,71,Freudenstadt Hbf,110,Freudenstadt
+Freudenstadt Schulen,2090,TARIF,71,Freudenstadt Hbf,110,Freudenstadt
+Freudenstadt Stadt,2091,TARIF,71,Freudenstadt Hbf,110,Freudenstadt
+Friedberg(Augsburg),2099,CITY,101,Augsburg Hbf,13,Augsburg
+Friedberg Süd,2105,TARIF,1,Friedberg(Hess),111,Friedberg
+Friedrichroda,11578,TARIF,31,Friedrichroda,11578,Friedrichroda
+Friedrichshafen-Fiba,2111,CITY,101,Friedrichshafen St.,112,Friedrichshafen
+Friedrichshafen Flug,2120,CITY,101,Friedrichshafen St.,112,Friedrichshafen
+Friedrichshafen Haf.,2110,CITY,101,Friedrichshafen St.,112,Friedrichshafen
+Friedrichshafen Haf.,2110,TARIF,1,Friedrichshafen St.,112,Friedrichshafen
+Friedrichshafen-Kluf,3345,CITY,101,Friedrichshafen St.,112,Friedrichshafen
+Friedrichshafen LRA,2122,CITY,101,Friedrichshafen St.,112,Friedrichshafen
+Friedrichshafen-Manz,3850,CITY,101,Friedrichshafen St.,112,Friedrichshafen
+Friedrichshafen Ost,2030,CITY,101,Friedrichshafen St.,112,Friedrichshafen
+Friedrichshafen St.,112,CITY,101,Friedrichshafen St.,112,Friedrichshafen
+Friedrichshafen St.,112,TARIF,1,Friedrichshafen St.,112,Friedrichshafen
+Friedrichsthal(Bayr),2118,CITY,101,Bayreuth Hbf,28,Bayreuth
+Fulda,115,CITY,101,Fulda,115,Fulda
+Fürth(Bay)Hbf,114,CITY,101,Fürth(Bay)Hbf,114,Fürth(Bay)
+Furth(b Deisenhofen),2161,CITY,101,München Hbf,261,München
+Fürth-Burgfarrnbach,2152,CITY,101,Fürth(Bay)Hbf,114,Fürth(Bay)
+Fürth-Dambach,2153,CITY,101,Fürth(Bay)Hbf,114,Fürth(Bay)
+Fürth-Klinikum,2154,CITY,101,Fürth(Bay)Hbf,114,Fürth(Bay)
+Fürth-Unterfürberg,2155,CITY,101,Fürth(Bay)Hbf,114,Fürth(Bay)
+Fürth Westvorstadt,2149,CITY,101,Fürth(Bay)Hbf,114,Fürth(Bay)
+Galgenschanze,2175,CITY,101,Kaiserslautern Hbf,189,Kaiserslautern
+Gamburg(Tauber),2177,TARIF,51,Gamburg(Tauber),2177,Gamburg(Taubert)
+Geisingen-Hausen,2204,TARIF,1,Geisingen-Kirchen,2213,Geisingen-Kirchen
+Geisingen-Kirchen,2213,TARIF,1,Geisingen-Kirchen,2213,Geisingen-Kirchen
+Gelsenkirchen-Buer N,2224,CITY,101,Gelsenkirchen-Buer N,2224,Gelsenk.-Buer N
+Gelsenkirchen-Buer S,2225,CITY,101,Gelsenkirchen-Buer S,2225,Gelsenk.-Buer S
+Gelsenkirchen-Hassel,2226,CITY,101,Gelsenkirchen-Buer N,2224,Gelsenk.-Buer N
+Gelsenkirchen Hbf,118,CITY,101,Gelsenkirchen Hbf,118,Gelsenkirchen
+Gelsenkirchen-Rotth.,2227,CITY,101,Gelsenkirchen Hbf,118,Gelsenkirchen
+Gelsenkirchen Zoo,2223,CITY,101,Gelsenkirchen-Buer S,2225,Gelsenk.-Buer S
+Gera Hbf,10125,CITY,101,Gera Hbf,10125,Gera
+Gera-Langenberg,11619,CITY,101,Gera Hbf,10125,Gera
+Gera Süd,10126,CITY,101,Gera Hbf,10125,Gera
+Gera-Zwötzen,11623,CITY,101,Gera Hbf,10125,Gera
+Gerlenhofen,2244,CITY,101,Ulm Hbf,170,Ulm
+Germersheim,376,TARIF,1,Germersheim,376,Germersheim
+Germersheim Mitte/R.,2239,TARIF,1,Germersheim,376,Germersheim
+Germersheim Süd/N.,2241,TARIF,1,Germersheim,376,Germersheim
+Gersthofen,2256,CITY,101,Augsburg Hbf,13,Augsburg
+Gießen,124,CITY,101,Gießen,124,Gießen
+Gießen Erdkaut Weg,1826,CITY,101,Gießen,124,Gießen
+Gießen Licher Str,3674,CITY,101,Gießen,124,Gießen
+Gießen-Oswaldsgart.,2269,CITY,101,Gießen,124,Gießen
+Goldberg(Württ),5201,CITY,101,Böblingen,1055,Böblingen
+Goldshöfe,380,CITY,101,Aalen Hbf,2,Aalen
+Göppingen,127,CITY,101,Göppingen,127,Göppingen
+Göttingen,128,CITY,101,Göttingen,128,Göttingen
+Graben-Neudorf,131,TARIF,1,Graben-Neudorf,131,Graben-Neudorf
+Graben-Neudorf Nord,2345,TARIF,1,Graben-Neudorf,131,Graben-Neudorf
+Gräfelfing,2339,CITY,101,München Hbf,261,München
+Gräfenroda,10137,TARIF,31,Gräfenroda,10137,Gräfenroda
+Greifswald,10139,CITY,101,Greifswald,10139,Greifswald
+Greifswald Süd,11694,CITY,101,Greifswald,10139,Greifswald
+Gronsdorf,2383,CITY,101,München Hbf,261,München
+Großauheim(Kr Hu),2400,CITY,101,Hanau Hbf,150,Hanau
+Großhesselohe Isart,2422,CITY,101,München Hbf,261,München
+Grötzingen,381,CITY,101,Karlsruhe Hbf,191,Karlsruhe
+Grötzingen,381,TARIF,1,Karlsruhe Hbf,191,Karlsruhe
+Grüna(Sachs)Hp,11770,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Gundelfingen(Breisg),2465,CITY,101,Freiburg(Brsg)Hbf,107,Freiburg(Brsg)
+Gütersloh Hbf,2461,CITY,101,Gütersloh Hbf,2461,Gütersloh
+Haar,2491,CITY,101,München Hbf,261,München
+Hagen Hbf,142,CITY,101,Hagen Hbf,142,Hagen
+Hagen-Heubing,2512,CITY,101,Hagen Hbf,142,Hagen
+Hagen-Oberhagen,2514,CITY,101,Hagen Hbf,142,Hagen
+Hagen-Vorhalle,977,CITY,101,Hagen Hbf,142,Hagen
+Hagen-Wehringhausen,6712,CITY,101,Hagen Hbf,142,Hagen
+Hagen-Westerbauer,4440,CITY,101,Hagen Hbf,142,Hagen
+Hainstadt(Baden),2529,TARIF,51,Buchen(Odenw),1227,Buchen(Odenw)
+Halle(Saale)Hbf,10159,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle-Ammendorf,10162,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle Dessauer Br,10164,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle Messe,10155,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle-Neustadt,10160,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle-Nietleben,11813,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle Rosengarten,10165,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle-Silberhöhe,13448,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle Steintorbr,10180,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle Südstadt,10190,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle-Trotha,11814,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle Wohnstadt Nord,10187,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle Zoo,10200,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halle Zscherbener S,10197,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Halstenbek,2545,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Airport,2547,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Allermöhe,779,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Alte Wöhr,512,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Altona,2553,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Altona,2553,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Bahrenfeld,780,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Barmbek,805,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Bergedorf,2554,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Berliner Tor,908,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Billw.Moorfl,971,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Blankenese,1007,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Dammtor,2548,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Dammtor,2548,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg Diebsteich,1438,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Eidelstedt,2555,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Elbbrücken,2551,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Elbgaustr.,1739,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Fischbek,2556,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Hamburg Friedrichsb.,2106,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Hammerbrook,4266,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Harburg,147,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Hamburg-Harburg,147,TARIF,1,Hamburg-Harburg,147,Hamburg-Harburg
+Hamburg-Harburg Rath,4267,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Hamburg-Harburg Rath,4267,TARIF,1,Hamburg-Harburg,147,Hamburg-Harburg
+Hamburg Hasselbrook,2628,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Hbf,2549,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Hbf,2549,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Heimfeld,6749,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Hamburg Hochkamp,2873,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Hoheneichen,2946,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Holstenstr.,2550,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Holstenstr.,2550,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Iserbrook,3088,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Jungfernst.,3137,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Jungfernst.,3137,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg Klein Flottb,3312,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Königstr.,6706,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Königstr.,6706,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg Kornweg/Kl.B,3410,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Landungsbr.,3518,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Landungsbr.,3518,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg Landwehr,3519,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Langenfelde,3541,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Mittl.Lanw.,4048,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Nettelnburg,4241,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Neugraben,2557,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Hamburg Neuwiedenth.,6750,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Hamburg-Ohlsdorf,4661,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Othmarschen,4719,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Ottensen,2562,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Poppenb.,4862,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Rahlstedt,2558,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Reeperbahn,6705,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Reeperbahn,6705,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Rissen,5106,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Rothenb.Ort,5191,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Rübenkamp,5207,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Stadthausbr.,5663,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg Stadthausbr.,5663,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Stellingen,2559,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Sternschanze,146,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Sternschanze,146,TARIF,71,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Sülldorf,5785,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Tiefstack,5870,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Tonndorf,6197,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Veddel,6062,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Hamburg Wandsb.Chaus,6198,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Wandsbek,2560,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Wellingsb.,6319,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Hamburg-Wilhelmsburg,2561,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Hameln,148,CITY,101,Hameln,148,Hameln
+Hamm(Westf)Hbf,149,CITY,101,Hamm(Westf)Hbf,149,Hamm(Westf)
+Hamm-Bockum-Hövel,1045,CITY,101,Hamm(Westf)Hbf,149,Hamm(Westf)
+Hamm-Heessen,2680,CITY,101,Hamm(Westf)Hbf,149,Hamm(Westf)
+Hanau Hbf,150,CITY,101,Hanau Hbf,150,Hanau
+Hanau Hbf,150,TARIF,71,Hanau Hbf,150,Hanau
+Hanau Klein-Auheim,3311,CITY,101,Hanau Hbf,150,Hanau
+Hanau Nord,2572,CITY,101,Hanau Hbf,150,Hanau
+Hanau Nord,2572,TARIF,71,Hanau Hbf,150,Hanau
+Hanau West,2573,CITY,101,Hanau Hbf,150,Hanau
+Hanau West,2573,TARIF,71,Hanau Hbf,150,Hanau
+Hanau-Wilhelmsbad,2574,CITY,101,Hanau Hbf,150,Hanau
+Hannover Ander.Misb.,578,CITY,101,Hannover Hbf,152,Hannover
+Hannover Bismarckstr,2580,CITY,101,Hannover Hbf,152,Hannover
+Hannover Bismarckstr,2580,TARIF,71,Hannover Hbf,152,Hannover
+Hannover-Bornum,2581,CITY,101,Hannover Hbf,152,Hannover
+Hannover Hbf,152,CITY,101,Hannover Hbf,152,Hannover
+Hannover Hbf,152,TARIF,71,Hannover Hbf,152,Hannover
+Hannover-Kleefeld,2584,CITY,101,Hannover Hbf,152,Hannover
+Hannover-Kleefeld,2584,TARIF,71,Hannover Hbf,152,Hannover
+Hannover-Ledeburg,2583,CITY,101,Hannover Hbf,152,Hannover
+Hannover-Leinhausen,2585,CITY,101,Hannover Hbf,152,Hannover
+Hannover-Linden/Fi.,2586,CITY,101,Hannover Hbf,152,Hannover
+HannoverMesseLaatzen,3487,TARIF,71,Hannover Hbf,152,Hannover
+Hannover-Nordstadt,2576,CITY,101,Hannover Hbf,152,Hannover
+Hannover-Nordstadt,2576,TARIF,71,Hannover Hbf,152,Hannover
+Hannover-Vinnhorst,6089,CITY,101,Hannover Hbf,152,Hannover
+Hannover Wiech-Allee,2591,CITY,101,Hannover Hbf,152,Hannover
+Hannover Wiech-Allee,2591,TARIF,71,Hannover Hbf,152,Hannover
+Harthaus,2610,CITY,101,München Hbf,261,München
+Heidelb.K/Rohrbach,2686,CITY,101,Heidelberg Hbf,156,Heidelberg
+Heidelb.Orthopädie,2684,CITY,101,Heidelberg Hbf,156,Heidelberg
+Heidelb.P/Wieblingen,2687,CITY,101,Heidelberg Hbf,156,Heidelberg
+Heidelb.Sch/Z.hausen,5366,CITY,101,Heidelberg Hbf,156,Heidelberg
+Heidelb.-W/S.stadt,2681,CITY,101,Heidelberg Hbf,156,Heidelberg
+Heidelberg-Altstadt,2685,CITY,101,Heidelberg Hbf,156,Heidelberg
+Heidelberg Hbf,156,CITY,101,Heidelberg Hbf,156,Heidelberg
+Heidenheim Voithwerk,2693,TARIF,1,Heidenheim,2689,Heidenheim
+Heidkrug,2694,CITY,101,Delmenhorst,70,Delmenhorst
+Heilbr.Finanz/Pfühl,2714,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbr.Finanz/Pfühl,2714,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heilbr.Harmon/Fried,2701,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbr.Harmon/Fried,2701,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heilbr.Indpl/H-R-Str,2723,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbr.Indpl/H-R-Str,2723,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heilbr.NeckarT/Rath,2713,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbr.NeckarT/Rath,2713,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heilbr.Thr/Techschul,2722,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbr.Thr/Techschul,2722,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heilbr-Böckingen BZ,2698,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbr-Böckingen BZ,2698,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heilbronn Hbf,157,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbronn Hbf,157,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heilbronn Kaufland,2726,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbronn Kaufland,2726,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heilbronn Sülmertor,2699,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbronn Sülmertor,2699,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heilbronn Trappensee,2700,CITY,101,Heilbronn Hbf,157,Heilbronn
+Heilbronn Trappensee,2700,TARIF,71,Heilbronn Hbf,157,Heilbronn
+Heinsberg,2721,TARIF,71,Heinsberg-Dremmen,1557,Heinsberg
+Heinsberg-Dremmen,1557,TARIF,71,Heinsberg-Dremmen,1557,Heinsberg
+Heinsberg-Horst,2719,TARIF,71,Heinsberg-Dremmen,1557,Heinsberg
+Heinsberg-Kreishaus,2725,TARIF,71,Heinsberg-Dremmen,1557,Heinsberg
+Heinsberg-Oberbruch,4519,TARIF,71,Heinsberg-Dremmen,1557,Heinsberg
+Heinsberg-Porselen,2720,TARIF,71,Heinsberg-Dremmen,1557,Heinsberg
+Heinsberg-Randerath,2718,TARIF,71,Heinsberg-Dremmen,1557,Heinsberg
+Hennen,2754,CITY,101,Iserlohn,186,Iserlohn
+Herford,162,CITY,101,Herford,162,Herford
+Herne,164,CITY,101,Herne,164,Herne
+Herne-Börnig,2779,CITY,101,Herne,164,Herne
+Herrath,2784,CITY,101,Mönchengladbach Hbf,253,Mönchengladb.
+Herten(Westf),2795,CITY,101,Recklinghausen Hbf,307,Recklinghausen
+Herten(Westf)-Weste.,2796,CITY,101,Recklinghausen Hbf,307,Recklinghausen
+Herzberg Schloß,2800,TARIF,31,Herzberg(Harz),166,Herzberg(Harz)
+Hildesheim Hbf,169,CITY,101,Hildesheim Hbf,169,Hildesheim
+Hildesheim Ost,2830,CITY,101,Hildesheim Hbf,169,Hildesheim
+Hittfeld,2864,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Hochhausen(Tauber),2871,TARIF,51,Tauberbischofsheim,5827,Tauberbischofsheim
+Hochheim(Main),2872,CITY,101,Wiesbaden Hbf,250,Wiesbaden
+Hofen(b Aalen),2930,CITY,101,Aalen Hbf,2,Aalen
+Hohenlimburg,2953,CITY,101,Hagen Hbf,142,Hagen
+Höllriegelskreuth,2899,CITY,101,München Hbf,261,München
+Holzdorf(b Weimar),11910,CITY,101,Weimar,10366,Weimar
+Holzheim(b Neuss),2979,CITY,101,Neuss Hbf,274,Neuss
+Hörpolding,2914,TARIF,1,Hörpolding,2914,Traunreut
+Horst(Holst),3003,CITY,101,Elmshorn,92,Elmshorn
+Hoykenkamp,3008,CITY,101,Delmenhorst,70,Delmenhorst
+Hulb,3022,CITY,101,Böblingen,1055,Böblingen
+Igersheim,3045,TARIF,51,Bad Mergentheim,724,Bad Mergentheim
+Ilmenau,10178,TARIF,40,Ilmenau Pörl. Höhe,11935,Ilmenau
+Ilmenau Bad,11931,TARIF,40,Ilmenau Pörl. Höhe,11935,Ilmenau
+Ilmenau Pörl. Höhe,11935,TARIF,40,Ilmenau Pörl. Höhe,11935,Ilmenau
+Ilmenau-Roda,11932,TARIF,40,Ilmenau Pörl. Höhe,11935,Ilmenau
+Immendingen Mitte,3061,TARIF,1,Immendingen,182,Immendingen
+Immendingen Zimmern,3066,TARIF,1,Immendingen,182,Immendingen
+Ingolstadt Audi,3074,CITY,101,Ingolstadt Hbf,183,Ingolstadt
+Ingolstadt Hbf,183,CITY,101,Ingolstadt Hbf,183,Ingolstadt
+Ingolstadt Nord,3076,CITY,101,Ingolstadt Hbf,183,Ingolstadt
+Inningen,3079,CITY,101,Augsburg Hbf,13,Augsburg
+Iserlohn,186,CITY,101,Iserlohn,186,Iserlohn
+Iserlohn,186,TARIF,31,Iserlohn,186,Iserlohn
+Iserlohnerheide,3090,CITY,101,Iserlohn,186,Iserlohn
+Isselhorst-Avenwedde,3096,CITY,101,Gütersloh Hbf,2461,Gütersloh
+Jägersfreude,3108,CITY,101,Saarbrücken Hbf,323,Saarbrücken
+Jägersfreude,3108,TARIF,71,Saarbrücken Hbf,323,Saarbrücken
+Jena-Göschwitz,10133,CITY,101,Jena Saalbf,11058,Jena
+Jena Paradies,11956,CITY,101,Jena Saalbf,11058,Jena
+Jena Paradies,11956,TARIF,31,Jena Saalbf,11058,Jena
+Jena Saalbf,11058,CITY,101,Jena Saalbf,11058,Jena
+Jena Saalbf,11058,TARIF,31,Jena Saalbf,11058,Jena
+Jena West,11957,CITY,101,Jena Saalbf,11058,Jena
+Jena-Zwätzen,11958,CITY,101,Jena Saalbf,11058,Jena
+Jena-Zwätzen,11958,TARIF,31,Jena Saalbf,11058,Jena
+Kaarster Bahnhof,3141,CITY,101,Neuss Hbf,274,Neuss
+Kaarster See,430,CITY,101,Neuss Hbf,274,Neuss
+Kaarst IKEA,438,CITY,101,Neuss Hbf,274,Neuss
+Kaarst Mitte/Holzb.,432,CITY,101,Neuss Hbf,274,Neuss
+Kahl(Main),3143,TARIF,1,Kahl(Main),3143,Kahl(Main)
+Kahl Kopp/Heide,3142,TARIF,1,Kahl(Main),3143,Kahl(Main)
+Kaiserslautern Hbf,189,CITY,101,Kaiserslautern Hbf,189,Kaiserslautern
+Kaiserslautern Pfaff,3150,CITY,101,Kaiserslautern Hbf,189,Kaiserslautern
+Kaiserslautern West,3151,CITY,101,Kaiserslautern Hbf,189,Kaiserslautern
+Kälberau,3139,TARIF,51,Alzenau(Unterfr),531,Alzenau
+Kalthof(Kr Iserlohn),3166,CITY,101,Iserlohn,186,Iserlohn
+Karlsruhe Albtal. S1,3180,CITY,101,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe Albtal. S1,3180,TARIF,1,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe-Durlach,3184,CITY,101,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe-Durlach,3184,TARIF,1,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe-Hagsfeld,3185,CITY,101,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe-Hagsfeld,3185,TARIF,1,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe Hbf,191,CITY,101,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe Hbf,191,TARIF,1,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe-Knielingen,3186,CITY,101,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe-Knielingen,3186,TARIF,1,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe-Mühlburg,3187,CITY,101,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe-Mühlburg,3187,TARIF,1,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe West,3183,CITY,101,Karlsruhe Hbf,191,Karlsruhe
+Karlsruhe West,3183,TARIF,1,Karlsruhe Hbf,191,Karlsruhe
+Kassel-Harleshausen,3196,CITY,101,Kassel-Wilhelmshöhe,3200,Kassel
+Kassel-Harleshausen,3196,TARIF,61,Kassel-Wilhelmshöhe,3200,Kassel
+Kassel Hbf,193,CITY,101,Kassel-Wilhelmshöhe,3200,Kassel
+Kassel Hbf,193,TARIF,61,Kassel-Wilhelmshöhe,3200,Kassel
+Kassel-Jungfernkopf,3197,CITY,101,Kassel-Wilhelmshöhe,3200,Kassel
+Kassel-Oberzwehren,3199,CITY,101,Kassel-Wilhelmshöhe,3200,Kassel
+Kassel-Wilhelmshöhe,3200,CITY,101,Kassel-Wilhelmshöhe,3200,Kassel
+Kassel-Wilhelmshöhe,3200,TARIF,61,Kassel-Wilhelmshöhe,3200,Kassel
+Katzwang,3214,CITY,101,Nürnberg Hbf,284,Nürnberg
+Kempten(Allgäu)Hbf,197,TARIF,31,Kempten(Allgäu)Hbf,197,Kempten(Allgäu)
+Kempten(Allgäu)Ost,3230,TARIF,31,Kempten(Allgäu)Hbf,197,Kempten(Allgäu)
+Kennelgarten,3232,CITY,101,Kaiserslautern Hbf,189,Kaiserslautern
+Kettwig,198,CITY,101,Essen Hbf,98,Essen
+Kettwig Stausee,3245,CITY,101,Essen Hbf,98,Essen
+Kiel-Ellerbek,3259,CITY,101,Kiel Hbf,199,Kiel
+Kiel-Elmschenhagen,3477,CITY,101,Kiel Hbf,199,Kiel
+Kiel-Hassee CITTI-P.,3474,CITY,101,Kiel Hbf,199,Kiel
+Kiel Hbf,199,CITY,101,Kiel Hbf,199,Kiel
+Kiel-Oppendorf,3260,CITY,101,Kiel Hbf,199,Kiel
+Kiel-Russee,3253,CITY,101,Kiel Hbf,199,Kiel
+Kiel Schulen Langsee,3251,CITY,101,Kiel Hbf,199,Kiel
+Klaffenbach Hp,10192,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Klecken,3309,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Klinikum Bremen-Nord,1189,CITY,101,Bremen Hbf,50,Bremen
+Kloster Bronnbach,1193,TARIF,51,Wertheim,231,Wertheim
+Koblenz-Ehrenbreit.,3351,CITY,101,Koblenz Hbf,206,Koblenz
+Koblenz-Ehrenbreit.,3351,TARIF,31,Koblenz Hbf,206,Koblenz
+Koblenz-Güls,2454,CITY,101,Koblenz Hbf,206,Koblenz
+Koblenz Hbf,206,CITY,101,Koblenz Hbf,206,Koblenz
+Koblenz Hbf,206,TARIF,31,Koblenz Hbf,206,Koblenz
+Koblenz-Lützel,3352,CITY,101,Koblenz Hbf,206,Koblenz
+Koblenz-Lützel,3352,TARIF,31,Koblenz Hbf,206,Koblenz
+Koblenz-Moselweiß,3354,CITY,101,Koblenz Hbf,206,Koblenz
+Koblenz Stadtmitte,3341,CITY,101,Koblenz Hbf,206,Koblenz
+Koblenz Stadtmitte,3341,TARIF,31,Koblenz Hbf,206,Koblenz
+Köln/Bonn Flughafen,3330,CITY,101,Köln Hbf,207,Köln
+Köln Airport-Busin.,3370,CITY,101,Köln Hbf,207,Köln
+Köln-Blumenberg,3359,CITY,101,Köln Hbf,207,Köln
+Köln-Buchforst,3364,CITY,101,Köln Hbf,207,Köln
+Köln-Chorweiler,3365,CITY,101,Köln Hbf,207,Köln
+Köln-Chorweiler N,3366,CITY,101,Köln Hbf,207,Köln
+Köln-Dellbrück,3367,CITY,101,Köln Hbf,207,Köln
+Köln-Ehrenfeld,208,CITY,101,Köln Hbf,207,Köln
+Köln Frankfurter St,3358,CITY,101,Köln Hbf,207,Köln
+Köln Geldernstr/P.,3360,CITY,101,Köln Hbf,207,Köln
+Köln Hansaring,3392,CITY,101,Köln Hbf,207,Köln
+Köln Hansaring,3392,TARIF,1,Köln Hbf,207,Köln
+Köln Hbf,207,CITY,101,Köln Hbf,207,Köln
+Köln Hbf,207,TARIF,1,Köln Hbf,207,Köln
+Köln-Holweide,3369,CITY,101,Köln Hbf,207,Köln
+Köln-Longerich,3371,CITY,101,Köln Hbf,207,Köln
+Köln Messe/Deutz,3368,CITY,101,Köln Hbf,207,Köln
+Köln Messe/Deutz,3368,TARIF,1,Köln Hbf,207,Köln
+Köln-Mülheim,209,CITY,101,Köln Hbf,207,Köln
+Köln-Müngersdorf T,3375,CITY,101,Köln Hbf,207,Köln
+Köln-Nippes,3372,CITY,101,Köln Hbf,207,Köln
+Köln-Stammheim,3310,CITY,101,Köln Hbf,207,Köln
+Köln Steinstraße,3379,CITY,101,Köln Hbf,207,Köln
+Köln Süd,3361,CITY,101,Köln Hbf,207,Köln
+Köln Trimbornstr,3320,CITY,101,Köln Hbf,207,Köln
+Köln Volkhov.Weg,3362,CITY,101,Köln Hbf,207,Köln
+Köln-Weiden West,3383,CITY,101,Köln Hbf,207,Köln
+Köln West,3363,CITY,101,Köln Hbf,207,Köln
+Köln-Worringen,3373,CITY,101,Köln Hbf,207,Köln
+Königshofen(Baden),3381,TARIF,51,Lauda,221,Lauda
+Königshofen(Kahl),3387,TARIF,51,Mömbris-Mensenges,4059,Mömbris
+Konstanz,3400,CITY,101,Konstanz,3400,Konstanz
+Konstanz-Fürstenb.,3404,CITY,101,Konstanz,3400,Konstanz
+Konstanz-Petersh.,3401,CITY,101,Konstanz,3400,Konstanz
+Konstanz-Wollmat,3416,CITY,101,Konstanz,3400,Konstanz
+Korntal,3409,CITY,101,Stuttgart Hbf,96,Stuttgart
+Kornwestheim Pbf,3411,CITY,101,Ludwigsburg,235,Ludwigsburg
+Krefeld Hbf,211,CITY,101,Krefeld Hbf,211,Krefeld
+Krefeld-Hoh.Chempark,2941,CITY,101,Krefeld Hbf,211,Krefeld
+Krefeld-Linn,3426,CITY,101,Krefeld Hbf,211,Krefeld
+Krefeld-Oppum,212,CITY,101,Krefeld Hbf,211,Krefeld
+Krefeld-Uerdingen,3427,CITY,101,Krefeld Hbf,211,Krefeld
+Kreuztal,214,TARIF,31,Kreuztal,214,Kreuztal
+Kronshagen,3479,CITY,101,Kiel Hbf,199,Kiel
+Krupunder,3460,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Laineck,3495,CITY,101,Bayreuth Hbf,28,Bayreuth
+Landshut(Bay)Hbf,217,CITY,101,Landshut(Bay)Hbf,217,Landshut
+Landshut(Bay)Süd,3514,CITY,101,Landshut(Bay)Hbf,217,Landshut
+Langebrück(Sachs),12150,CITY,101,Dresden Hbf,10085,Dresden
+Lauda,221,TARIF,51,Lauda,221,Lauda
+Laudenbach(Württ),3572,TARIF,51,Weikersheim,6269,Weikersheim
+Legefeld,12180,CITY,101,Weimar,10366,Weimar
+Leingarten,3623,TARIF,1,Leingarten Mitte,3625,Leingarten Mitte
+Leingarten Mitte,3625,TARIF,1,Leingarten Mitte,3625,Leingarten Mitte
+Leipzig Allee-Center,13070,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Ang-Crottdf,10008,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Bayer Bf,12184,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Bayer Bf,12184,TARIF,1,Leipzig Hbf,10205,Leipzig
+Leipzig-Connewitz,10206,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Coppiplatz,11310,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Engelsdorf,11491,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Essener Str.,12200,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Gohlis,12188,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Grünauer A,11771,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Hbf,10205,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Hbf,10205,TARIF,1,Leipzig Hbf,10205,Leipzig
+Leipzig-Heiterblick,12190,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Holzhausen,11913,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Karlsr Str,10186,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Knauthain,12192,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Leutzsch,10207,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Liebertwolkw,12228,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Lindenau,12236,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Lützschena,12285,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Markt,12186,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Markt,12186,TARIF,1,Leipzig Hbf,10205,Leipzig
+Leipzig MDR,12187,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Messe,12478,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Milt. Allee,12344,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Miltitz,12355,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Mockauer Str,12273,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Möckern,12193,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Mölkau,12375,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Nord,12196,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Olbrichtstr.,12181,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Paunsdorf,10208,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Plagwitz,10209,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Rückmarsdf.,12817,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Sellerhausen,12983,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Slevogtstr.,12204,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Stötteritz,12194,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Thekla,12195,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Völkersch.,12343,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig-Wahren,12197,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig Werkstätten,11495,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig W-Leuschn-Pl,12202,CITY,101,Leipzig Hbf,10205,Leipzig
+Leipzig W-Leuschn-Pl,12202,TARIF,1,Leipzig Hbf,10205,Leipzig
+Lemgo,3633,TARIF,1,Lemgo,3633,Lemgo
+Lemgo-Lüttfeld,3634,TARIF,1,Lemgo,3633,Lemgo
+Letmathe,227,CITY,101,Iserlohn,186,Iserlohn
+Letmathe Dechenh.,3657,CITY,101,Iserlohn,186,Iserlohn
+Leverkusen Chempark,832,CITY,101,Leverkusen Mitte,6713,Leverkusen
+Leverkusen-Küpper.,3668,CITY,101,Leverkusen Mitte,6713,Leverkusen
+Leverkusen-Manfort,3669,CITY,101,Opladen,853,Opladen
+Leverkusen Mitte,6713,CITY,101,Leverkusen Mitte,6713,Leverkusen
+Leverkusen-Rheindorf,3672,CITY,101,Leverkusen Mitte,6713,Leverkusen
+Lichtentanne(Sachs),12224,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Liederbach-Süd,3453,CITY,101,Frankfurt(Main)Hbf,105,Frankfurt(Main)
+Limburg(Lahn),229,TARIF,1,Limburg(Lahn),229,Limburg(Lahn)
+Limburg Süd,3680,TARIF,1,Limburg(Lahn),229,Limburg(Lahn)
+Lindau-Aeschach,3692,TARIF,50,Lindau-Insel,230,Lindau
+Lindau-Insel,230,TARIF,50,Lindau-Insel,230,Lindau
+Lindau-Reutin,3693,TARIF,50,Lindau-Insel,230,Lindau
+Lippstadt,571,CITY,101,Lippstadt,571,Lippstadt
+Lochham,3720,CITY,101,München Hbf,261,München
+Lörrach-Bromb./Hau,1191,CITY,101,Lörrach Hbf,3729,Lörrach
+Lörrach Dammstraße,3736,CITY,101,Lörrach Hbf,3729,Lörrach
+Lörrach-Haagen/Mess,2489,CITY,101,Lörrach Hbf,3729,Lörrach
+Lörrach Hbf,3729,CITY,101,Lörrach Hbf,3729,Lörrach
+Lörrach Museum/Burg,3737,CITY,101,Lörrach Hbf,3729,Lörrach
+Lörrach Schw.waldst,3743,CITY,101,Lörrach Hbf,3729,Lörrach
+Lörrach-Stetten,3730,CITY,101,Lörrach Hbf,3729,Lörrach
+Lövenich,3732,CITY,101,Köln Hbf,207,Köln
+Löwental,3733,CITY,101,Friedrichshafen St.,112,Friedrichshafen
+Lübeck Hbf,237,CITY,101,Lübeck Hbf,237,Lübeck
+Lübeck Hochschulsta,3785,CITY,101,Lübeck Hbf,237,Lübeck
+Lübeck St Jürgen,3774,CITY,101,Lübeck Hbf,237,Lübeck
+Lübeck-Travem.Hafen,3777,TARIF,1,Lübeck-Travem.Hafen,3777,Lübeck-Travemünde
+Lübeck-Travem.Skan.,6704,TARIF,1,Lübeck-Travem.Hafen,3777,Lübeck-Travemünde
+Lübeck-Travem.Str.,3778,TARIF,1,Lübeck-Travem.Hafen,3777,Lübeck-Travemünde
+Ludwigsburg,235,CITY,101,Ludwigsburg,235,Ludwigsburg
+Ludwigshafen(Rh)Hbf,236,CITY,101,Ludwigshafen(Rh)Hbf,236,Ludwigshfn(Rh)
+Ludwigshafen BASF S,2056,CITY,101,Ludwigshafen(Rh)Hbf,236,Ludwigshfn(Rh)
+Ludwigshafen Mitte,3759,CITY,101,Ludwigshafen(Rh)Hbf,236,Ludwigshfn(Rh)
+Ludwigshafen-Mundenh,3765,CITY,101,Ludwigshafen(Rh)Hbf,236,Ludwigshfn(Rh)
+Ludwigshafen-Oggersh,3766,CITY,101,Ludwigshafen(Rh)Hbf,236,Ludwigshfn(Rh)
+Ludwigshafen-Rheing.,3767,CITY,101,Ludwigshafen(Rh)Hbf,236,Ludwigshfn(Rh)
+Lüneburg,238,CITY,101,Lüneburg,238,Lüneburg
+Magdeburg-Buckau,13456,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg-Buckau,13456,TARIF,51,Magdeburg Hbf,10224,Magdeburg
+Magdeburg-Eichenw,12289,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg Hasselpl,13457,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg Hasselpl,13457,TARIF,51,Magdeburg Hbf,10224,Magdeburg
+Magdeburg Hbf,10224,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg Hbf,10224,TARIF,51,Magdeburg Hbf,10224,Magdeburg
+Magdeburg Herrenkrug,13455,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg Herrenkrug,13455,TARIF,51,Magdeburg Hbf,10224,Magdeburg
+Magdeburg-Neustadt,10226,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg-Neustadt,10226,TARIF,51,Magdeburg Hbf,10224,Magdeburg
+Magdeburg-Rothensee,10086,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg-Salbke,12291,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg SKET Ipark,13485,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg-Sudenburg,12292,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Magdeburg-Sudenburg,12292,TARIF,51,Magdeburg Hbf,10224,Magdeburg
+Magdeburg Südost,12287,CITY,101,Magdeburg Hbf,10224,Magdeburg
+Maichingen,3808,CITY,101,Böblingen,1055,Böblingen
+Maichingen Nord,3834,CITY,101,Böblingen,1055,Böblingen
+Mainz-Gonsenheim,3817,CITY,101,Mainz Hbf,240,Mainz
+Mainz-Gonsenheim,3817,TARIF,71,Mainz Hbf,240,Mainz
+Mainz-Gustavsburg,3818,TARIF,71,Mainz Hbf,240,Mainz
+Mainz Hbf,240,CITY,101,Mainz Hbf,240,Mainz
+Mainz Hbf,240,TARIF,71,Mainz Hbf,240,Mainz
+Mainz-Kastel,615,CITY,101,Wiesbaden Hbf,250,Wiesbaden
+Mainz-Laubenheim,3819,CITY,101,Mainz Hbf,240,Mainz
+Mainz-Laubenheim,3819,TARIF,71,Mainz Hbf,240,Mainz
+Mainz-Marienborn,3820,CITY,101,Mainz Hbf,240,Mainz
+Mainz-Marienborn,3820,TARIF,71,Mainz Hbf,240,Mainz
+Mainz-Mombach,3821,CITY,101,Mainz Hbf,240,Mainz
+Mainz-Mombach,3821,TARIF,71,Mainz Hbf,240,Mainz
+Mainz Nord,3815,CITY,101,Mainz Hbf,240,Mainz
+Mainz Nord,3815,TARIF,71,Mainz Hbf,240,Mainz
+Mainz Röm.Theater,3816,CITY,101,Mainz Hbf,240,Mainz
+Mainz Röm.Theater,3816,TARIF,71,Mainz Hbf,240,Mainz
+Mainz Waggonfabrik,6136,CITY,101,Mainz Hbf,240,Mainz
+Mainz Waggonfabrik,6136,TARIF,71,Mainz Hbf,240,Mainz
+Mannheim ARENA/Maim.,3841,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim-Friedrich.S,3842,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim Handelshaf,6508,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim Hbf,244,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim-Käfertal,3843,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim-Luzenberg,6509,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim-Neckarau,3844,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim-Neckarstadt,6511,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim-Rheinau,3845,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim-Seckenheim,3847,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim-Waldhof,3848,CITY,101,Mannheim Hbf,244,Mannheim
+Marbach Ost(VS),3857,TARIF,1,Villingen(Schwarzw),366,Villingen
+Marbach West(VS),3854,TARIF,1,Villingen(Schwarzw),366,Villingen
+Marburg(Lahn),337,CITY,101,Marburg(Lahn),337,Marburg(Lahn)
+Marburg(Lahn),337,TARIF,51,Marburg(Lahn),337,Marburg
+Marburg Süd,3856,CITY,101,Marburg(Lahn),337,Marburg(Lahn)
+Marburg Süd,3856,TARIF,51,Marburg(Lahn),337,Marburg
+Markelsheim,3873,TARIF,51,Bad Mergentheim,724,Bad Mergentheim
+Markkleeberg Nord,12304,CITY,101,Leipzig Hbf,10205,Leipzig
+Marktoberdorf,3885,TARIF,1,Marktoberdorf,3885,Marktoberdorf
+Marktoberdorf Schule,3877,TARIF,1,Marktoberdorf,3885,Marktoberdorf
+Maschen,3906,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Maxau,3917,CITY,101,Karlsruhe Hbf,191,Karlsruhe
+Maxau,3917,TARIF,1,Karlsruhe Hbf,191,Karlsruhe
+Maximiliansau Eisenb,3923,TARIF,1,Maximiliansau Eisenb,3923,Maximiliansau
+Maximiliansau-Im Rü,3911,TARIF,1,Maximiliansau Eisenb,3923,Maximiliansau
+Maximiliansau West,3919,TARIF,1,Maximiliansau Eisenb,3923,Maximiliansau
+Mayen Ost,3940,TARIF,1,Mayen Ost,3940,Mayen
+Mayen West,3924,TARIF,1,Mayen Ost,3940,Mayen
+Meckelfeld,3929,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Meißen,12326,TARIF,1,Meißen,12326,Meißen
+Meißen Altstadt,12318,TARIF,1,Meißen,12326,Meißen
+Meißen Triebischtal,12327,TARIF,1,Meißen,12326,Meißen
+Melsdorf,3960,CITY,101,Kiel Hbf,199,Kiel
+Michelbach(Unterfr),4015,TARIF,51,Alzenau(Unterfr),531,Alzenau
+Michelbach Herrnm,4016,TARIF,51,Alzenau(Unterfr),531,Alzenau
+Miltenberg,640,TARIF,51,Miltenberg,640,Miltenberg
+Minden(Westf),252,CITY,101,Minden(Westf),252,Minden(Westf)
+Moers,644,CITY,101,Moers,644,Moers
+Möhringen Bahnhof,4068,TARIF,1,Möhringen Rathaus,4067,Möhringen(Baden)
+Möhringen Rathaus,4067,TARIF,1,Möhringen Rathaus,4067,Möhringen(Baden)
+Mömbris-Mensenges,4059,TARIF,51,Mömbris-Mensenges,4059,Mömbris
+Mönchengladbach-Gen,4061,CITY,101,Mönchengladbach Hbf,253,Mönchengladb.
+Mönchengladbach Hbf,253,CITY,101,Mönchengladbach Hbf,253,Mönchengladb.
+Mönchengladbach-Lü,1745,CITY,101,Mönchengladbach Hbf,253,Mönchengladb.
+Mönchengladbach-Rhd,4063,CITY,101,Mönchengladbach Hbf,253,Mönchengladb.
+Mosel,12388,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Mülheim(Ruhr)Hbf,259,CITY,101,Mülheim(Ruhr)Hbf,259,Mülheim(Ruhr)
+Mülheim(Ruhr)Hbf,259,TARIF,1,Mülheim(Ruhr)Hbf,259,Mülheim(Ruhr)
+Mülheim(Ruhr)Styr.,687,CITY,101,Mülheim(Ruhr)Hbf,259,Mülheim(Ruhr)
+Mülheim(Ruhr)West,4122,CITY,101,Mülheim(Ruhr)Hbf,259,Mülheim(Ruhr)
+Mülheim(Ruhr)West,4122,TARIF,1,Mülheim(Ruhr)Hbf,259,Mülheim(Ruhr)
+München-Allach,4140,CITY,101,München Hbf,261,München
+München-Aubing,4141,CITY,101,München Hbf,261,München
+München-Berg a Laim,4142,CITY,101,München Hbf,261,München
+München-Daglfing,4143,CITY,101,München Hbf,261,München
+München Donnersb.,4128,CITY,101,München Hbf,261,München
+München-Englschalk.,4144,CITY,101,München Hbf,261,München
+München-Fasanerie,4145,CITY,101,München Hbf,261,München
+München-Fasangarten,4146,CITY,101,München Hbf,261,München
+München-Feldmoching,4147,CITY,101,München Hbf,261,München
+München Flug Besuch,4167,TARIF,1,München Flughafen T,4168,München Flughafen
+München Flughafen T,4168,TARIF,1,München Flughafen T,4168,München Flughafen
+München-Freiham,4181,CITY,101,München Hbf,261,München
+München-Giesing,4148,CITY,101,München Hbf,261,München
+München Hackerbr.,4129,CITY,101,München Hbf,261,München
+München Harras,4130,CITY,101,München Hbf,261,München
+München Hbf,261,CITY,101,München Hbf,261,München
+München Heimeranpl.,5419,CITY,101,München Hbf,261,München
+München Hirschgart.,4179,CITY,101,München Hbf,261,München
+München Isartor,4131,CITY,101,München Hbf,261,München
+München-Johannesk.,4149,CITY,101,München Hbf,261,München
+München-Karlsfeld,4150,CITY,101,München Hbf,261,München
+München Karlsplatz,4132,CITY,101,München Hbf,261,München
+München-Laim,4151,CITY,101,München Hbf,261,München
+München-Langwied,4152,CITY,101,München Hbf,261,München
+München Leienfels.,4133,CITY,101,München Hbf,261,München
+München Leuchtenb.,4134,CITY,101,München Hbf,261,München
+München-Lochhausen,4153,CITY,101,München Hbf,261,München
+München Marienplatz,4135,CITY,101,München Hbf,261,München
+München-Mittersend.,4154,CITY,101,München Hbf,261,München
+München-Moosach,4155,CITY,101,München Hbf,261,München
+München-Neuaubing,4156,CITY,101,München Hbf,261,München
+München-Neuperl.S,6696,CITY,101,München Hbf,261,München
+München-Obermenzing,4157,CITY,101,München Hbf,261,München
+München Ost,262,CITY,101,München Hbf,261,München
+München-Pasing,4158,CITY,101,München Hbf,261,München
+München-Perlach,4159,CITY,101,München Hbf,261,München
+München-Riem,4160,CITY,101,München Hbf,261,München
+München Rosenh.Pl.,4136,CITY,101,München Hbf,261,München
+München Siemensw.,4137,CITY,101,München Hbf,261,München
+München-Solln,4161,CITY,101,München Hbf,261,München
+München St Martin.,4138,CITY,101,München Hbf,261,München
+München-Trudering,4162,CITY,101,München Hbf,261,München
+München-Untermenzin,4139,CITY,101,München Hbf,261,München
+München-Westkreuz,4163,CITY,101,München Hbf,261,München
+Münster(W)Zentrum N,4173,CITY,101,Münster(Westf)Hbf,263,Münster(Westf)
+Münster(Westf)Hbf,263,CITY,101,Münster(Westf)Hbf,263,Münster(Westf)
+Münster-Albachten,462,CITY,101,Münster(Westf)Hbf,263,Münster(Westf)
+Münster-Amelsbüren,569,CITY,101,Münster(Westf)Hbf,263,Münster(Westf)
+Münster-Häger,4426,CITY,101,Münster(Westf)Hbf,263,Münster(Westf)
+Münster-Hiltrup,2841,CITY,101,Münster(Westf)Hbf,263,Münster(Westf)
+Münster-Mecklenbeck,3934,CITY,101,Münster(Westf)Hbf,263,Münster(Westf)
+Münster-Roxel,4190,CITY,101,Münster(Westf)Hbf,263,Münster(Westf)
+Münster-Sprakel,5635,CITY,101,Münster(Westf)Hbf,263,Münster(Westf)
+Neubiberg,4252,CITY,101,München Hbf,261,München
+Neu-Edingen/Fried.,631,CITY,101,Mannheim Hbf,244,Mannheim
+Neuenbürg(Enz),4265,TARIF,31,Neuenbürg(Enz),4265,Neuenbürg(Enz)
+Neuenbürg(Enz) Süd,4264,TARIF,31,Neuenbürg(Enz),4265,Neuenbürg(Enz)
+Neue Schenke,12443,CITY,101,Jena Saalbf,11058,Jena
+Neukirchen-Klaffenb,12462,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Neumünster,271,CITY,101,Neumünster,271,Neumünster
+Neusäß,4318,CITY,101,Augsburg Hbf,13,Augsburg
+Neuss Allerheiligen,4335,CITY,101,Neuss Hbf,274,Neuss
+Neuss Am Kaiser,4320,CITY,101,Neuss Hbf,274,Neuss
+Neuss Hbf,274,CITY,101,Neuss Hbf,274,Neuss
+Neuss Rheinpark Cent,4316,CITY,101,Neuss Hbf,274,Neuss
+Neuss Süd,4317,CITY,101,Neuss Hbf,274,Neuss
+Neustadt(Weinstr)Hbf,275,CITY,101,Neustadt(Weinstr)Hbf,275,Neustadt(Wstr)
+Neustadt(Wstr) Süd,4306,CITY,101,Neustadt(Weinstr)Hbf,275,Neustadt(Wstr)
+Neustadt-Böbig,4489,CITY,101,Neustadt(Weinstr)Hbf,275,Neustadt(Wstr)
+Neu-Ulm,6730,CITY,101,Ulm Hbf,170,Ulm
+Neuwirtshaus(Por.pl),4338,CITY,101,Stuttgart Hbf,96,Stuttgart
+Neu Wulmstorf,4247,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Niederau-Tuchmühle,4301,CITY,101,Düren-Annakirmespl.,223,Düren Stadt
+Niederbiegen,4362,CITY,101,Ravensburg,4965,Ravensburg
+Niederschelden,4406,CITY,101,Siegen Hbf,46,Siegen
+Niederschelden Nord,4407,CITY,101,Siegen Hbf,46,Siegen
+Niedersteinbach,4411,TARIF,51,Mömbris-Mensenges,4059,Mömbris
+Niederwartha,12503,CITY,101,Dresden Hbf,10085,Dresden
+Niederweimar,4420,CITY,101,Marburg(Lahn),337,Marburg(Lahn)
+Niklashausen,4437,TARIF,51,Gamburg(Tauber),2177,Gamburg(Taubert)
+Nohra(Weimar),12511,CITY,101,Weimar,10366,Weimar
+Norddeich,4449,TARIF,1,Norddeich,4449,Norddeich Mole
+Norddeich Mole,4439,TARIF,1,Norddeich,4449,Norddeich Mole
+Norf,4462,CITY,101,Neuss Hbf,274,Neuss
+Nürnberg-Dürrenhof,4442,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Dürrenhof,4442,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Dutzendt.,4476,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Dutzendt.,4476,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Eibach,4477,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Eibach,4477,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Erlensteg.,4478,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg Frankensta,4493,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg Frankensta,4493,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Gleißh.,5304,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Gleißh.,5304,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg Hbf,284,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg Hbf,284,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Laufamholz,4480,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Mögeldorf,4481,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Mögeldorf,4481,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg Nordost,4469,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg Ost,4471,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg Ost,4471,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg Ostring,4470,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg Ostring,4470,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Rehhof,4491,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Rehhof,4491,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Reichelsd.,4483,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg Rothenb.,4473,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg Rothenb.,4473,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Sandreuth,4484,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Sandreuth,4484,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Schweinau,4485,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Schweinau,4485,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Stein,4486,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Stein,4486,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Steinbühl,4487,CITY,101,Nürnberg Hbf,284,Nürnberg
+Nürnberg-Steinbühl,4487,TARIF,71,Nürnberg Hbf,284,Nürnberg
+Oberesslingen,4528,CITY,101,Esslingen(Neckar),1920,Esslingen(N)
+Obergrunstedt,12524,CITY,101,Weimar,10366,Weimar
+Oberhausen Hbf,286,CITY,101,Oberhausen Hbf,286,Oberhausen
+Oberhausen-Holten,4540,CITY,101,Oberhausen Hbf,286,Oberhausen
+Oberhausen-Osterf.S,4541,CITY,101,Oberhausen Hbf,286,Oberhausen
+Oberhausen-Sterkrade,4542,CITY,101,Oberhausen Hbf,286,Oberhausen
+Obernau,4558,TARIF,51,Aschaffenburg Hbf,10,Aschaffenburg
+Oberrothenbach,12534,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Obertraubling,4592,CITY,101,Regensburg Hbf,309,Regensburg
+Oberweimar,12541,CITY,101,Weimar,10366,Weimar
+Oberzell,4605,CITY,101,Ravensburg,4965,Ravensburg
+Offenbach(M)Kaiserl,4648,CITY,101,Offenbach(Main)Hbf,349,Offenbach(Main)
+Offenbach(M)Ledermu,4646,CITY,101,Offenbach(Main)Hbf,349,Offenbach(Main)
+Offenbach(M)Marktpl,4641,CITY,101,Offenbach(Main)Hbf,349,Offenbach(Main)
+Offenbach(Main)Hbf,349,CITY,101,Offenbach(Main)Hbf,349,Offenbach(Main)
+Offenbach(Main)Ost,4645,CITY,101,Offenbach(Main)Hbf,349,Offenbach(Main)
+Offenbach-Bieber,4647,CITY,101,Offenbach(Main)Hbf,349,Offenbach(Main)
+Offenbach-Waldhof,4640,CITY,101,Offenbach(Main)Hbf,349,Offenbach(Main)
+Offenburg,290,CITY,101,Offenburg,290,Offenburg
+Offenburg Krs.Schulz,4639,CITY,101,Offenburg,290,Offenburg
+Oggersheim RNV,4659,CITY,101,Ludwigshafen(Rh)Hbf,236,Ludwigshfn(Rh)
+Öhringen-Cappel,4620,TARIF,1,Öhringen Hbf,4623,Öhringen
+Öhringen Hbf,4623,TARIF,1,Öhringen Hbf,4623,Öhringen
+Öhringen West,4624,TARIF,1,Öhringen Hbf,4623,Öhringen
+Oldenburg(Oldb)Hbf,291,CITY,101,Oldenburg(Oldb)Hbf,291,Oldenburg(Oldb)
+Oldentrup,4673,CITY,101,Bielefeld Hbf,36,Bielefeld
+Opladen,853,CITY,101,Opladen,853,Opladen
+Osnabrück Altstadt,4689,CITY,101,Osnabrück Hbf,294,Osnabrück
+Osnabrück Altstadt,4689,TARIF,31,Osnabrück Hbf,294,Osnabrück
+Osnabrück Hbf,294,CITY,101,Osnabrück Hbf,294,Osnabrück
+Osnabrück Hbf,294,TARIF,31,Osnabrück Hbf,294,Osnabrück
+Osterode a. H. Leege,4705,TARIF,31,Osterode a. H. Mitte,4704,Osterode am Harz
+Osterode a. H. Mitte,4704,TARIF,31,Osterode a. H. Mitte,4704,Osterode am Harz
+Ottobrunn,4733,CITY,101,München Hbf,261,München
+Paderborn Hbf,297,CITY,101,Paderborn Hbf,297,Paderborn
+Paderborn Kassel.Tor,4744,CITY,101,Paderborn Hbf,297,Paderborn
+Paderborn Nord,4745,CITY,101,Paderborn Hbf,297,Paderborn
+Pasewalk,10268,TARIF,31,Pasewalk,10268,Pasewalk
+Pasewalk Ost,12610,TARIF,31,Pasewalk,10268,Pasewalk
+Passau Hbf,298,CITY,101,Passau Hbf,298,Passau
+Pfalzbau,4785,CITY,101,Ludwigshafen(Rh)Hbf,236,Ludwigshfn(Rh)
+Pfalzel,4784,CITY,101,Trier Hbf,134,Trier
+Pforzheim Durl. Str.,4800,CITY,101,Pforzheim Hbf,299,Pforzheim
+Pforzheim Hbf,299,CITY,101,Pforzheim Hbf,299,Pforzheim
+Pforzheim Maihälden,4804,CITY,101,Pforzheim Hbf,299,Pforzheim
+Pforzheim-Weißenst.,4801,CITY,101,Pforzheim Hbf,299,Pforzheim
+Pinneberg,4819,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Planegg,4827,CITY,101,München Hbf,261,München
+Porz(Rhein),4869,CITY,101,Köln Hbf,207,Köln
+Porz-Wahn,4873,CITY,101,Köln Hbf,207,Köln
+Potsdam-Babelsberg,11089,CITY,101,Potsdam Hbf,12666,Potsdam
+Potsdam Charlottenh,10280,CITY,101,Potsdam Hbf,12666,Potsdam
+Potsdam Griebnitzsee,11695,CITY,101,Potsdam Hbf,12666,Potsdam
+Potsdam Hbf,12666,CITY,101,Potsdam Hbf,12666,Potsdam
+Potsdam Park Sanss.,10377,CITY,101,Potsdam Hbf,12666,Potsdam
+Potsdam Pirschheide,10279,CITY,101,Potsdam Hbf,12666,Potsdam
+Prisdorf,4888,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Pullach,4899,CITY,101,München Hbf,261,München
+Pulling(b Freising),4900,CITY,101,Freising,2078,Freising
+Quelle,4908,CITY,101,Bielefeld Hbf,36,Bielefeld
+Quelle-Kupferheide,4905,CITY,101,Bielefeld Hbf,36,Bielefeld
+Quint,4910,CITY,101,Trier Hbf,134,Trier
+Raisdorf,4924,CITY,101,Kiel Hbf,199,Kiel
+Ravensburg,4965,CITY,101,Ravensburg,4965,Ravensburg
+Recklinghausen Hbf,307,CITY,101,Recklinghausen Hbf,307,Recklinghausen
+Recklinghausen Süd,887,CITY,101,Recklinghausen Hbf,307,Recklinghausen
+Regensburg-Burgwein.,1298,CITY,101,Regensburg Hbf,309,Regensburg
+Regensburg Hbf,309,CITY,101,Regensburg Hbf,309,Regensburg
+Regensburg-Prüfen.,4983,CITY,101,Regensburg Hbf,309,Regensburg
+Reichelsdorfer Kell.,4994,CITY,101,Nürnberg Hbf,284,Nürnberg
+Reicholzheim,5011,TARIF,51,Wertheim,231,Wertheim
+Reinbek,5016,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Reinhardsbrunn-Fried,12742,TARIF,31,Friedrichroda,11578,Friedrichroda
+Remscheid-Güldenw.,5034,CITY,101,Remscheid Hbf,5033,Remscheid
+Remscheid-Güldenw.,5034,TARIF,31,Remscheid Hbf,5033,Remscheid
+Remscheid Hbf,5033,CITY,101,Remscheid Hbf,5033,Remscheid
+Remscheid Hbf,5033,TARIF,31,Remscheid Hbf,5033,Remscheid
+Remscheid-Lennep,311,CITY,101,Remscheid Hbf,5033,Remscheid
+Remscheid-Lüttringh,5035,CITY,101,Remscheid Hbf,5033,Remscheid
+Reutlingen-Betzingen,5053,CITY,101,Reutlingen Hbf,314,Reutlingen
+Reutlingen Hbf,314,CITY,101,Reutlingen Hbf,314,Reutlingen
+Reutlingen-Sondelf.,5054,CITY,101,Reutlingen Hbf,314,Reutlingen
+Reutlingen West,5052,CITY,101,Reutlingen Hbf,314,Reutlingen
+Rheine,316,CITY,101,Rheine,316,Rheine
+Rheine-Mesum,4000,CITY,101,Rheine,316,Rheine
+Rheinhausen,317,CITY,101,Duisburg Hbf,86,Duisburg
+Rheinhausen Ost,5065,CITY,101,Duisburg Hbf,86,Duisburg
+Rheinzabern Bf,5069,TARIF,1,Rheinzabern Bf,5069,Rheinzabern
+Rheinzabern Rappeng,5071,TARIF,1,Rheinzabern Bf,5069,Rheinzabern
+Rheinzabern Römerst,5072,TARIF,1,Rheinzabern Bf,5069,Rheinzabern
+Rheydt Hbf,318,CITY,101,Mönchengladbach Hbf,253,Mönchengladb.
+Rheydt-Odenkirchen,5073,CITY,101,Mönchengladbach Hbf,253,Mönchengladb.
+Riehen,5091,CITY,101,Lörrach Hbf,3729,Lörrach
+Riehen Niederholz,5093,CITY,101,Lörrach Hbf,3729,Lörrach
+Rippberg,5105,TARIF,51,Walldürn,6176,Walldürn
+Rostock-Bramow,12803,CITY,101,Rostock Hbf,10304,Rostock
+Rostock-Evershagen,11523,CITY,101,Rostock Hbf,10304,Rostock
+Rostock Hbf,10304,CITY,101,Rostock Hbf,10304,Rostock
+Rostock Holbeinplatz,12805,CITY,101,Rostock Hbf,10304,Rostock
+Rostock-Kassebohm,12806,CITY,101,Rostock Hbf,10304,Rostock
+Rostock-Lichtenhagen,12221,CITY,101,Rostock Hbf,10304,Rostock
+Rostock-Lütten Kl.,12271,CITY,101,Rostock Hbf,10304,Rostock
+Rostock-Marienehe,12807,CITY,101,Rostock Hbf,10304,Rostock
+Rostock Parkstraße,12801,CITY,101,Rostock Hbf,10304,Rostock
+Rostock Thierf.Str.,12810,CITY,101,Rostock Hbf,10304,Rostock
+Rottweil Göllsdorf,5200,TARIF,1,Rottweil,322,Rottweil
+Rottweil Saline,5202,TARIF,1,Rottweil,322,Rottweil
+Ruchheim,5204,CITY,101,Ludwigshafen(Rh)Hbf,236,Ludwigshfn(Rh)
+Rülzheim Bf,5217,TARIF,1,Rülzheim Bf,5217,Rülzheim
+Rülzheim Frz.Zentr.,5214,TARIF,1,Rülzheim Bf,5217,Rülzheim
+Rumeln,5225,CITY,101,Duisburg Hbf,86,Duisburg
+Rummenohl,5227,CITY,101,Hagen Hbf,142,Hagen
+Rüsselsh. Opelwerk,5221,TARIF,1,Rüsselsheim,5220,Rüsselsheim
+Saarbrücken-Burbach,5243,CITY,101,Saarbrücken Hbf,323,Saarbrücken
+Saarbrücken-Burbach,5243,TARIF,71,Saarbrücken Hbf,323,Saarbrücken
+Saarbrücken Hbf,323,CITY,101,Saarbrücken Hbf,323,Saarbrücken
+Saarbrücken Hbf,323,TARIF,71,Saarbrücken Hbf,323,Saarbrücken
+Saarbrücken Ost,5241,CITY,101,Saarbrücken Hbf,323,Saarbrücken
+Saarbrücken Ost,5241,TARIF,71,Saarbrücken Hbf,323,Saarbrücken
+Salzburg Aiglhof,5271,TARIF,1,Salzburg Hbf,5263,Salzburg
+Salzburg Hbf,5263,TARIF,1,Salzburg Hbf,5263,Salzburg
+Salzburg-Liefering,5267,TARIF,1,Salzburg Hbf,5263,Salzburg
+Salzburg Mülln-Alt.,5273,TARIF,1,Salzburg Hbf,5263,Salzburg
+Salzburg-Taxham Euro,5266,TARIF,1,Salzburg Hbf,5263,Salzburg
+Salzgitter-Bad,5265,CITY,101,Salzgitter-Ringelh.,325,Salzg.-Ringelh.
+Salzgitter-Immendorf,5269,CITY,101,Salzgitter-Lebenstdt,5270,Salzg.-Lebenst.
+Salzgitter-Lebenstdt,5270,CITY,101,Salzgitter-Lebenstdt,5270,Salzg.-Lebenst.
+Salzgitter-Ringelh.,325,CITY,101,Salzgitter-Ringelh.,325,Salzg.-Ringelh.
+Salzgitter-Thiede,5274,CITY,101,Salzgitter-Lebenstdt,5270,Salzg.-Lebenst.
+Salzgitter-Watenst.,5275,CITY,101,Salzgitter-Lebenstdt,5270,Salzg.-Lebenst.
+Schafbrücke,5306,CITY,101,Saarbrücken Hbf,323,Saarbrücken
+Scheidt(Saar),5332,CITY,101,Saarbrücken Hbf,323,Saarbrücken
+Schiltach,5350,TARIF,1,Schiltach,5350,Schiltach
+Schiltach Mitte,5347,TARIF,1,Schiltach,5350,Schiltach
+Schimborn,5348,TARIF,51,Mömbris-Mensenges,4059,Mömbris
+Schmalkalden,10315,TARIF,31,Schmalkalden,10315,Schmalkalden
+Schmalkalden-Fachhs.,12881,TARIF,31,Schmalkalden,10315,Schmalkalden
+Schönefeld (b.Bln.),10109,TARIF,1,Schönefeld (b.Bln.),10109,Flughafen BER
+Schwäbisch Gmünd,329,CITY,101,Schwäbisch Gmünd,329,Schwäbisch Gmünd
+Schwenningen(Neckar),5490,TARIF,1,Schwenningen(Neckar),5490,Schwenningen(Neckar)
+Schwerin-Görries,10325,CITY,101,Schwerin Hbf,10324,Schwerin
+Schwerin-Görries,10325,TARIF,71,Schwerin Hbf,10324,Schwerin
+Schwerin Hbf,10324,CITY,101,Schwerin Hbf,10324,Schwerin
+Schwerin Hbf,10324,TARIF,71,Schwerin Hbf,10324,Schwerin
+Schwerin Mitte,12940,CITY,101,Schwerin Hbf,10324,Schwerin
+Schwerin Mitte,12940,TARIF,71,Schwerin Hbf,10324,Schwerin
+Schwerin Süd,12951,CITY,101,Schwerin Hbf,10324,Schwerin
+Schwerin Süd,12951,TARIF,71,Schwerin Hbf,10324,Schwerin
+Siegen-Geisweid,3018,CITY,101,Siegen Hbf,46,Siegen
+Siegen Hbf,46,CITY,101,Siegen Hbf,46,Siegen
+Siegen Hbf,46,TARIF,71,Siegen Hbf,46,Siegen
+Siegen-Weidenau,3020,CITY,101,Siegen Hbf,46,Siegen
+Siegen-Weidenau,3020,TARIF,71,Siegen Hbf,46,Siegen
+Silberstraße,12996,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Sindelfingen,5574,CITY,101,Böblingen,1055,Böblingen
+Sinzheim,5587,CITY,101,Baden-Baden,774,Baden-Baden
+Sinzheim Nord,5588,CITY,101,Baden-Baden,774,Baden-Baden
+Sinzing,5581,CITY,101,Regensburg Hbf,309,Regensburg
+Solingen Grünewald,5597,CITY,101,Solingen Hbf,87,Solingen
+Solingen Hbf,87,CITY,101,Solingen Hbf,87,Solingen
+Solingen Mitte,5598,CITY,101,Solingen Hbf,87,Solingen
+Solingen-Schaberg,5590,CITY,101,Solingen Hbf,87,Solingen
+Solingen Vogelpark,6714,CITY,101,Solingen Hbf,87,Solingen
+Sondershausen,10329,TARIF,31,Sondershausen,10329,Sondershausen
+Sonneberg(Thür)Hbf,13008,TARIF,71,Sonneberg(Thür)Hbf,13008,Sonneberg(Thür)
+Sonneberg(Thür)Nord,13009,TARIF,71,Sonneberg(Thür)Hbf,13008,Sonneberg(Thür)
+Sonneberg(Thür)Ost,13010,TARIF,71,Sonneberg(Thür)Hbf,13008,Sonneberg(Thür)
+Sonneberg(Thür)West,13011,TARIF,71,Sonneberg(Thür)Hbf,13008,Sonneberg(Thür)
+Spaichingen Mitte,5617,TARIF,1,Spaichingen,5616,Spaichingen
+Speyer Hbf,5628,CITY,101,Speyer Hbf,5628,Speyer
+Speyer Nord-West,5626,CITY,101,Speyer Hbf,5628,Speyer
+Steinheim(Main),5706,CITY,101,Hanau Hbf,150,Hanau
+Stelle,5717,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
+Stenn,13047,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+St Mang,5653,TARIF,31,Kempten(Allgäu)Hbf,197,Kempten(Allgäu)
+Stockdorf,5735,CITY,101,München Hbf,261,München
+Strötzbach,5759,TARIF,51,Mömbris-Mensenges,4059,Mömbris
+Stuttgart-Bad Cannst,5769,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Bad Cannst,5769,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart Ebitzweg,5766,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Feuerbach,5770,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Feuerbach,5770,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart Feuersee,6699,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Feuersee,6699,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart Hbf,96,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Hbf,96,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Münster,5771,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Neckarpark,6743,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Neckarpark,6743,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart Nord,5767,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Nord,5767,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart Nürn.Str.,4357,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Nürn.Str.,4357,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Obertürkh,5772,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Österfeld,5779,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Rohr,5773,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Schwabstr.,6698,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Schwabstr.,6698,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Sommerrain,5774,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Stadtmitte,6700,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart Stadtmitte,6700,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart Uni,6513,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Untertürk,5775,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Untertürk,5775,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Vaihingen,5776,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Zazenh.,5777,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Zuffenh.,5778,CITY,101,Stuttgart Hbf,96,Stuttgart
+Stuttgart-Zuffenh.,5778,TARIF,71,Stuttgart Hbf,96,Stuttgart
+Suchsdorf,5781,CITY,101,Kiel Hbf,199,Kiel
+Sülzbach,5786,TARIF,1,Sülzbach,5786,Sülzbach
+Sülzbach Schule,5792,TARIF,1,Sülzbach,5786,Sülzbach
+Tauberbischofsheim,5827,TARIF,51,Tauberbischofsheim,5827,Tauberbischofsheim
+Taufkirchen,5831,CITY,101,München Hbf,261,München
+Thesdorf,5858,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Traunreut,5894,TARIF,1,Hörpolding,2914,Traunreut
+Trier Hbf,134,CITY,101,Trier Hbf,134,Trier
+Trier Mäusheckerweg,5904,CITY,101,Trier Hbf,134,Trier
+Trier Süd,5905,CITY,101,Trier Hbf,134,Trier
+Trompet,5910,CITY,101,Duisburg Hbf,86,Duisburg
+Tübingen-Derending.,5917,CITY,101,Tübingen Hbf,141,Tübingen
+Tübingen Hbf,141,CITY,101,Tübingen Hbf,141,Tübingen
+Tübingen-Lustnau,5918,CITY,101,Tübingen Hbf,141,Tübingen
+Tübingen West,5916,CITY,101,Tübingen Hbf,141,Tübingen
+Tuttlingen Gänsäck,5946,TARIF,1,Tuttlingen,163,Tuttlingen
+Tuttlingen Nord,5926,TARIF,1,Tuttlingen,163,Tuttlingen
+Tuttlingen Schulen,5925,TARIF,1,Tuttlingen,163,Tuttlingen
+Tuttlingen Zentrum,5936,TARIF,1,Tuttlingen,163,Tuttlingen
+Ubbedissen,5930,CITY,101,Bielefeld Hbf,36,Bielefeld
+Ueckermünde Stadthf,13156,TARIF,1,Ueckermünde,13162,Ueckermünde
+Ulm-Donautal,5954,CITY,101,Ulm Hbf,170,Ulm
+Ulm-Donautal,5954,TARIF,71,Ulm Hbf,170,Ulm
+Ulm Hbf,170,CITY,101,Ulm Hbf,170,Ulm
+Ulm Hbf,170,TARIF,71,Ulm Hbf,170,Ulm
+Ulm Ost,5952,CITY,101,Ulm Hbf,170,Ulm
+Ulm Ost,5952,TARIF,71,Ulm Hbf,170,Ulm
+Ulm-Söflingen,5955,CITY,101,Ulm Hbf,170,Ulm
+Ulm-Söflingen,5955,TARIF,71,Ulm Hbf,170,Ulm
+Unterföhring,5986,CITY,101,München Hbf,261,München
+Unterhaching,5991,CITY,101,München Hbf,261,München
+Unterjesingen Mitte,6002,CITY,101,Tübingen Hbf,141,Tübingen
+Unterjesingen Sand.,6003,CITY,101,Tübingen Hbf,141,Tübingen
+Unterkochen,5997,CITY,101,Aalen Hbf,2,Aalen
+Vach,6052,CITY,101,Fürth(Bay)Hbf,114,Fürth(Bay)
+Villingen(Schwarzw),366,TARIF,1,Villingen(Schwarzw),366,Villingen
+Villingen-SchwennEis,356,TARIF,1,Schwenningen(Neckar),5490,Schwenningen(Neckar)
+Villingen-SchwennHam,393,TARIF,1,Schwenningen(Neckar),5490,Schwenningen(Neckar)
+Vogelweh,6100,CITY,101,Kaiserslautern Hbf,189,Kaiserslautern
+Walldürn,6176,TARIF,51,Walldürn,6176,Walldürn
+Wanne-Eickel Hbf,192,CITY,101,Wanne-Eickel Hbf,192,Wanne-Eickel
+Warnemünde,13236,CITY,101,Rostock Hbf,10304,Rostock
+Warnemünde Werft,13237,CITY,101,Rostock Hbf,10304,Rostock
+Wasseralfingen,6217,CITY,101,Aalen Hbf,2,Aalen
+Waßmannsdorf,13241,TARIF,1,Schönefeld (b.Bln.),10109,Flughafen BER
+Wattenscheid,6226,CITY,101,Bochum Hbf,41,Bochum
+Wattenscheid-Höntr.,6227,CITY,101,Bochum Hbf,41,Bochum
+Wedel(Holst),6236,CITY,101,Hamburg-Sternschanze,146,Hamburg
+Weida,10365,TARIF,31,Weida,10365,Weida
+Weida Altstadt,13254,TARIF,31,Weida,10365,Weida
+Weida Mitte,13251,TARIF,31,Weida,10365,Weida
+Weikersheim,6269,TARIF,51,Weikersheim,6269,Weikersheim
+Weilimdorf,6268,CITY,101,Stuttgart Hbf,96,Stuttgart
+Weimar,10366,CITY,101,Weimar,10366,Weimar
+Weimar Berkaer Bf,13256,CITY,101,Weimar,10366,Weimar
+Weimar West,13266,CITY,101,Weimar,10366,Weimar
+Weingarten Berg,6288,CITY,101,Ravensburg,4965,Ravensburg
+Weinsberg,6289,TARIF,1,Weinsberg,6289,Weinsberg
+Weinsberg West,6290,TARIF,1,Weinsberg,6289,Weinsberg
+Weinsbg/Ellhofen Gew,6294,TARIF,1,Ellhofen,1747,Ellhofen
+Weißenau,6296,CITY,101,Ravensburg,4965,Ravensburg
+Weixdorf,13268,CITY,101,Dresden Hbf,10085,Dresden
+Weixdorf Bad,13269,CITY,101,Dresden Hbf,10085,Dresden
+Wertheim,231,TARIF,51,Wertheim,231,Wertheim
+Wertheim-Bestenheid,6354,TARIF,51,Wertheim,231,Wertheim
+Westheim(Schwab),6378,CITY,101,Augsburg Hbf,13,Augsburg
+Wickrath,6391,CITY,101,Mönchengladbach Hbf,253,Mönchengladb.
+Wiesbaden-Biebrich,288,CITY,101,Wiesbaden Hbf,250,Wiesbaden
+Wiesbaden-Erbenheim,6407,CITY,101,Wiesbaden Hbf,250,Wiesbaden
+Wiesbaden-Erbenheim,6407,TARIF,71,Wiesbaden Hbf,250,Wiesbaden
+Wiesbaden Hbf,250,CITY,101,Wiesbaden Hbf,250,Wiesbaden
+Wiesbaden Hbf,250,TARIF,71,Wiesbaden Hbf,250,Wiesbaden
+Wiesbaden-Igstadt,6408,CITY,101,Wiesbaden Hbf,250,Wiesbaden
+Wiesbaden Ost,6404,CITY,101,Wiesbaden Hbf,250,Wiesbaden
+Wiesbaden Ost,6404,TARIF,71,Wiesbaden Hbf,250,Wiesbaden
+Wiesbaden-Schierst.,6409,CITY,101,Wiesbaden Hbf,250,Wiesbaden
+Wilhelmshaven,6445,CITY,101,Wilhelmshaven,6445,Wilhelmshaven
+Wilkau-Haßlau,10379,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Witten-Annen Nord,6510,CITY,101,Witten Hbf,251,Witten Hbf
+Witten Hbf,251,CITY,101,Witten Hbf,251,Witten Hbf
+Wittgensdorf Mitte,13324,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Wittgensdorf ob Bf,10383,CITY,101,Chemnitz Hbf,10184,Chemnitz
+Wolfgang(Kr Hanau),6548,CITY,101,Hanau Hbf,150,Hanau
+Wolfsburg Hbf,6552,CITY,101,Wolfsburg Hbf,6552,Wolfsburg
+Worms Brücke,6567,CITY,101,Worms Hbf,257,Worms
+Worms Hbf,257,CITY,101,Worms Hbf,257,Worms
+Worms-Pfeddersheim,4788,CITY,101,Worms Hbf,257,Worms
+Wörth(Rh.)Zügelstr,6531,TARIF,1,Wörth(Rhein),254,Wörth(Rhein)
+Wörth(Rhein),254,TARIF,1,Wörth(Rhein),254,Wörth(Rhein)
+Wörth(Rhein) Badepa,6530,TARIF,1,Wörth(Rhein),254,Wörth(Rhein)
+Wörth(Rhein) Bahnm,6521,TARIF,1,Wörth(Rhein),254,Wörth(Rhein)
+Wörth(Rhein) Bdalle,6526,TARIF,1,Wörth(Rhein),254,Wörth(Rhein)
+Wörth(Rhein) Bienw,6522,TARIF,1,Wörth(Rhein),254,Wörth(Rhein)
+Wörth(Rhein) Bürg,6523,TARIF,1,Wörth(Rhein),254,Wörth(Rhein)
+Wörth(Rhein) Mozart,6536,TARIF,1,Wörth(Rhein),254,Wörth(Rhein)
+Wörth(Rhein) Raths,6525,TARIF,1,Wörth(Rhein),254,Wörth(Rhein)
+Wuppertal-Barmen,6596,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Barmen,6596,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Ha/Düssel,6601,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Ha/Düssel,6601,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wuppertal Hbf,266,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal Hbf,266,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Langerfeld,6607,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Langerfeld,6607,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Oberbarmen,6719,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Oberbarmen,6719,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Ronsdorf,6616,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Sonnborn,6618,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Sonnborn,6618,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Steinbeck,6619,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Steinbeck,6619,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Unterbarm.,6620,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Unterbarm.,6620,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Vohwinkel,6718,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Vohwinkel,6718,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Zool.Gart.,6623,CITY,101,Wuppertal Hbf,266,Wuppertal
+Wuppertal-Zool.Gart.,6623,TARIF,51,Wuppertal Hbf,266,Wuppertal
+Wurmlingen Mitte,6625,TARIF,1,Wurmlingen Mitte,6625,Wurmlingen
+Wurmlingen Nord,6626,TARIF,1,Wurmlingen Mitte,6625,Wurmlingen
+Würzburg Hbf,260,CITY,101,Würzburg Hbf,260,Würzburg
+Würzburg Süd,6582,CITY,101,Würzburg Hbf,260,Würzburg
+Würzburg-Zell,6586,CITY,101,Würzburg Hbf,260,Würzburg
+Zella-Mehlis,10391,TARIF,31,Zella-Mehlis,10391,Zella-Mehlis
+Zella-Mehlis West,13383,TARIF,31,Zella-Mehlis,10391,Zella-Mehlis
+Zollhaus(VS),6667,TARIF,1,Schwenningen(Neckar),5490,Schwenningen(Neckar)
+Zscherben,13425,CITY,101,Halle(Saale)Hbf,10159,Halle(Saale)
+Zwickau(Sachs)Hbf,10397,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Zwickau-Pölbitz,13433,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Zwickau-Schedewitz,13434,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Zwickau Stadthalle,13441,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
+Zwickau Zentrum,13440,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)

@@ -1,0 +1,688 @@
+Leitpunktkürzel,Tarifpunkt,IBNR,Verbund
+A,Augsburg Hbf,13,AVV
+AA,Aalen Hbf,2,OAM
+AB,Aschaffenburg Hbf,10,VAB
+ABG,Altenburg,10003,MDV
+AC,Aachen Hbf,1,AVV
+ACH,Achern,412,TGO
+ACSG,Aachen Süd(Gr),403,AVV
+ADE,Adelebsen,418,VSN
+AIC,Aichach,452,AVV
+ALL,Allersberg(Rothsee),498,VGN
+ALT,Altenbeken,4,HST
+AN,Ansbach,9,VGN
+AND,Andernach,331,VRM
+ANG,Angermünde,10004,VBB
+APO,Apolda,11051,VMT
+ARD,Arnsdorf(Dresden),10006,VVO
+ARN,Arnstadt Hbf,10007,VMT
+ASCH,Ascheberg(Holst),11,SHT
+ASL,Aschersleben,10009,MAR
+AU,Aue(Sachs),10010,VMS
+AUL,Aulendorf,14,BOD
+AUS,Au(Sieg),12,VRS
+AZ,Alzey,7,VRN
+B,Berlin Friedrichstr,10038,VBB
+BA,Bamberg,25,VGN
+BAAL,Baalberge,10013,MAR
+BAB,Babenhausen(Hess),15,RMV
+BACK,Backnang,16,VVS
+BAD,Baden-Baden,774,KVV
+BALI,Bad Liebenwerda,11078,VBB
+BAS,Basel Bad Bf,26,RVL
+BB,Böblingen,1055,VVS
+BBG,Bernburg Hbf,10043,MAR
+BCH,Berlin-Charlottenbg.,10403,VBB
+BEB,Bebra,29,NVV
+BED,Bedburg(Erft),30,VRS
+BEGR,Bad Bentheim(Gr),151,
+BELZ,Bad Belzig,10031,VBB
+BENS,Bensheim,31,VRN
+BENT,Bad Bentheim,879,
+BER,Bernau(b Berlin),13470,VBB
+BETZ,Betzdorf(Sieg),34,VRM
+BF,Steinfurt-Burgstein.,62,VGM
+BGS,Berlin Gesundbrunnen,11102,VBB
+BHBF,Berlin Hbf,11160,VBB
+BHS,Berlin-Hohenschönh.,11901,VBB
+BHV,Bremerhaven Hbf,51,VBN
+BI,Bielefeld Hbf,36,OWL
+BIET,Bietigheim-Bissingen,38,VVS
+BILL,Billerbeck,970,VGM
+BIN,Bingen(Rhein) Hbf,39,RNN
+BIW,Bischofswerda,10049,VON
+BIZ,Biederitz,10047,MAR
+BKH,Berlin-Karlshorst,10035,VBB
+BKL,Bad Kleinen,10018,
+BLAM,Blankenberg(Meckl),10051,
+BLF,Blankenf(Teltow-Fl),10053,VBB
+BLG,Bad Blankenburg(Th),10014,VMT
+BLH,Blankenheim(Sangerh),10054,
+BLI,Berlin-Lichtenberg,10036,VBB
+BN,Bonn Hbf,44,VRS
+BNBE,Bonn-Beuel,1083,VRS
+BNG,Burg-u.Ndr Gemünden,61,RMV
+BNGO,Bonn-Bad Godesberg,1082,VRS
+BO,Bochum Hbf,41,VRR
+BOB,Berlin Ostbahnhof,10255,VBB
+BOH,Bocholt,40,VGM
+BOK,Berlin Ostkreuz,11162,VBB
+BOP,Boppard Hbf,45,VRM
+BOR,Borken(Westf),346,VGM
+BORS,Borsdorf(Sachs),10059,MDV
+BOT,Bottrop Hbf,47,VRR
+BR,Bruchsal,55,KVV
+BRAC,Bielefeld-Brackwede,48,OWL
+BRB,Brandenburg Hbf,10060,VBB
+BRE,Bretleben,10061,
+BRI,Brilon Wald,54,VRL
+BRIT,Britz,10064,VBB
+BROI,Lengede-Broistedt,1188,VRB
+BRT,Bretten,53,KVV
+BRV,Bremervörde,1171,HVV
+BS,Braunschweig Hbf,49,VRB
+BSFL,Schönefeld (b.Bln.),10109,VBB
+BSK,Berlin Südkreuz,11113,VBB
+BSP,Berlin-Spandau,10404,VBB
+BSU,Bad Schandau,10022,VVO
+BT,Bayreuth Hbf,28,VGN
+BTF,Bitterfeld,10050,MDV
+BUCH,Buchholz(Nordheide),56,HVV
+BUE,Büchen,58,HVV
+BUEN,Bünde(Westf),59,OWL
+BUEZ,Bützow,10066,VVW
+BULL,Bullay(DB),1267,VRM
+BULO,Buchloe,57,
+BUT,Buttstädt,11304,VMT
+BWA,Berlin-Wannsee,10405,VBB
+BWK,Berlin Westkreuz,11108,VBB
+BZ,Bautzen,10026,VON
+BZG,Berlin Zoolg. Garten,10406,VBB
+C,Chemnitz Hbf,10184,VMS
+CA,Calau(Nl),10069,VBB
+CALO,Calbe(Saale) Ost,10070,MAR
+CALW,Calbe(Saale) West,10071,MAR
+CAMB,Camburg(Saale),13474,VMT
+CB,Cottbus Hbf,10073,VBB
+CE,Celle,64,
+CO,Coburg,1338,VGN
+COC,Cochem(Mosel),1340,VRM
+COE,Coesfeld(Westf),66,VGM
+COEL,Cölbe,65,RMV
+CON,Coburg Nord,1334,VGN
+COS,Coswig(Anh),11322,MDV
+COSD,Coswig(b Dresden),10072,VVO
+CR,Crailsheim,67,VSH
+CW,Calw,63,VGC
+D,Düsseldorf Hbf,85,VRR
+DA,Darmstadt Hbf,68,RMV
+DD,Dresden Hbf,10085,VVO
+DDN,Dresden-Neustadt,10089,VVO
+DE,Dessau Hbf,10077,MDV
+DEL,Delmenhorst,70,VBN
+DERN,Derneburg(Han),71,
+DFL,Düsseldorf Flugh.,82,VRR
+DH,Diepholz,1443,VBN
+DIL,Dillenburg,74,RMV
+DILL,Dillingen(Saar),75,SVV
+DL,Döbeln Hbf,10080,MDV
+DN,Düren,84,AVV
+DO,Dortmund Hbf,80,VRR
+DOD,Dortmund-Dorstfeld,81,VRR
+DOKI,Doberlug-Kirchhain,10079,VBB
+DON,Donauwörth,78,AVV
+DOWH,Dortmund Signal Idu.,1522,VRR
+DOWW,Dortmund-Wickede W,3936,VRR
+DS,Donaueschingen,77,VSB
+DU,Duisburg Hbf,86,VRR
+DUED,Dürrröhrsdorf,10091,VVO
+DUEL,Dülmen,83,VGM
+DZ,Delitzsch,10076,MDV
+E,Essen Hbf,98,VRR
+EALT,Essen-Altenessen,1900,VRR
+EB,Eilenburg,10095,MDV
+EBB,Eberbach,369,VRN
+EF,Erfurt Hbf,10101,VMT
+EGID,St Egidien,10331,VMS
+EICH,Eichenberg,90,NVV
+EIL,Lutherstadt Eisleben,12279,
+EILS,Eilsleben(Magdeb),10096,MAR
+ELMS,Elmshorn,92,HVV
+ELW,Elsterwerda,10099,VBB
+ELXL,Elxleben,11489,VMT
+ELZE,Elze(Han),93,
+EMD,Emden Hbf,1768,
+EMM,Emmerich,1773,VRR
+EMMG,Emmerich(Gr),1774,VRR
+ENG,Engers,94,VRM
+ER,Erlangen,1844,VGN
+ERK,Erkelenz,1839,AVV
+ESA,Eisenach,10097,VMT
+ESW,Eschwege-Niederhone,1895,NVV
+ESWE,Eschwege,1884,NVV
+EU,Euskirchen,100,VRS
+EUTG,Eutingen im Gäu,101,VGF
+EW,Eberswalde Hbf,10093,VBB
+F,Frankfurt(Main)Hbf,105,RMV
+FB,Friedberg(Hess),111,RMV
+FBE,Falkenberg(Elster),10103,VBB
+FD,Fulda,115,RMV
+FDS,Freudenstadt Hbf,110,VGF
+FF,Frankfurt(Oder),10113,VBB
+FFMF,Frankfurt(M)Flugh.,281,RMV
+FFMN,Frankfurt-Niederrad,2050,RMV
+FFMS,Frankfurt(Main)Süd,2041,RMV
+FG,Freiberg(Sachs),10115,VMS
+FH,Frankfurt-Höchst,106,RMV
+FIN,Finnentrop,102,VGW
+FINK,Finkenkrug,11541,VBB
+FIW,Finsterwalde(Nl),11542,VBB
+FKB,Frankenberg(Eder),104,NVV
+FL,Flensburg,103,SHT
+FLOE,Flöha,10108,VMS
+FN,Friedrichshafen St.,112,BOD
+FOER,Förderstedt,11549,MAR
+FOFR,Forbach(fr),2021,
+FOR,Forst(Lausitz),10111,VBB
+FR,Freiburg(Brsg)Hbf,107,RVF
+FREI,Freilassing,108,
+FRIJ,Bad Friedrichsh Hbf,17,HNV
+FROE,Fröndenberg,113,VRL
+FROS,Frose,10119,MAR
+FRT,Frankenthal Hbf,332,VRN
+FRW,Bad Freienwalde,10017,VBB
+FS,Freising,2078,MVV
+FSTD,Frankfurt(M)Stadion,2040,RMV
+FUB,Fürstenberg(Havel),10399,VBB
+FUE,Fürth(Bay)Hbf,114,VGN
+FUGR,Furth im Wald(Gr),3,
+FW,Fürstenwalde(Spree),10120,VBB
+G,Gera Hbf,10125,VMT
+GAI,Gaimersheim,2171,
+GAM,Gammertingen,2178,NAL
+GAP,Garmisch-Partenk.,2187,
+GC,Glauchau(Sachs),10129,VMS
+GE,Gelsenkirchen Hbf,118,VRR
+GEES,Geestgottberg,10121,
+GELN,Gelnhausen,117,RMV
+GELT,Geltendorf,119,MVV
+GEM,Gemünden(Main),120,VVM
+GER,Germersheim,376,KVV
+GERO,Gerolstein,123,VRT
+GERS,Gerstungen,11629,
+GF,Gifhorn,185,VRB
+GG,Groß Gerau,136,RMV
+GHA,Geithain,10122,MDV
+GHCB,Großenhain Cottb Bf,11749,VVO
+GHW,Gensingen-Horrweiler,121,RNN
+GI,Gießen,124,RMV
+GLA,Gladbeck West,125,VRR
+GLK,Geilenkirchen,2206,AVV
+GNT,Genthin,10123,MAR
+GO,Gokels,2319,SHT
+GODE,Riedstadt-Goddelau,126,RMV
+GOE,Göttingen,128,VSN
+GOES,Gößnitz,10134,MDV
+GOLM,Golm,13481,VBB
+GP,Göppingen,127,VVS
+GR,Görlitz,10131,VON
+GRAB,Graben-Neudorf,131,KVV
+GRAG,Grambow(Gr),10138,
+GRAS,Grasellenbach,6731,VRN
+GRB,Großbothen,10144,MDV
+GREV,Grevenbroich,133,VRR
+GRIM,Grimmenthal,10142,
+GRK,Großkorbetha,10146,MDV
+GRS,Gransee,11691,VBB
+GRUE,Grünstadt,137,VRN
+GRUI,Haan-Gruiten,138,VRR
+GRUN,Grunow(Nl),10150,VBB
+GRZ,Greiz,10140,
+GS,Goslar,130,VRB
+GSN,Güsen(b Genthin),10151,MAR
+GT,Gütersloh Hbf,2461,OWL
+GTH,Gotha,10136,VMT
+GUE,Güstrow,10153,VVW
+GUET,Güterglück,10154,MDV
+GUNT,Baunatal-Guntershaus,140,NVV
+GUS,Güsten,10152,MAR
+GUT,Gutenfürst,11790,VVV
+GWZ,Jena-Göschwitz,10133,VMT
+GZ,Günzburg,139,
+H,Hannover Hbf,152,GVH
+HA,Hagen Hbf,142,VRR
+HAGL,Hagenow Land,10156,
+HAL,Halle(Saale)Hbf,10159,MDV
+HALA,Halle-Ammendorf,10162,MDV
+HALN,Halle-Neustadt,10160,MDV
+HALT,Haltern am See,145,VRR
+HAM,Hamm(Westf)Hbf,149,VRL
+HAR,Hamburg-Harburg,147,HVV
+HARZ,Bad Harzburg,19,VRB
+HAST,Haste,2634,GVH
+HAUS,Hausach,333,TGO
+HB,Bremen Hbf,50,VBN
+HBS,Halberstadt,10157,
+HCH,Hechingen,2673,NAL
+HD,Heidelberg Hbf,156,VRN
+HDL,Haldensleben,10158,MAR
+HDO,Holzdorf(Elster),11909,VBB
+HE,Helmstedt,159,VRB
+HEBO,Herborn(Dillkr),161,RMV
+HEI,Heide(Holst),155,SHT
+HENN,Hennigsdorf(b Bln),13483,VBB
+HER,Herne,164,VRR
+HERB,Herbertingen,160,NAL
+HERL,Herlasgrün,10166,VVV
+HERP,Hersbruck(r Pegnitz),2794,VGN
+HERS,Bad Hersfeld,20,NVV
+HERV,Hervest-Dorsten,165,VRR
+HERZ,Herzogenrath,2806,AVV
+HESE,Hesepe,167,
+HET,Hettstedt,10168,
+HF,Herford,162,OWL
+HH,Hamburg-Sternschanze,146,HVV
+HHAL,Hamburg-Altona,2553,HVV
+HHBD,Hamburg-Bergedorf,2554,HVV
+HHDA,Hamburg Dammtor,2548,HVV
+HHH,Hamburg Hbf,2549,HVV
+HI,Hildesheim Hbf,169,
+HIDH,Hiddenh.-Schweicheln,2824,OWL
+HL,Lübeck Hbf,237,SHT
+HM,Hameln,148,
+HML,HannoverMesseLaatzen,3487,GVH
+HN,Heilbronn Hbf,157,HNV
+HNB,Herrnburg,11864,
+HO,Hof Hbf,2924,VGN
+HOCK,Hockeroda,10170,VMT
+HOE,Höchst(Odenw),172,RMV
+HOLT,Holthusen,10173,
+HOLZ,Holzminden,391,VSN
+HOM,Homburg(Saar)Hbf,176,SVV
+HOR,Horb,177,VGF
+HORK,Horka,10174,VON
+HORR,Horrem,178,VRS
+HOS,Hosena,10171,VBB
+HOSP,Hochspeyer,2875,VRN
+HRB,Herrenberg,2785,VVS
+HRO,Rostock Hbf,10304,VVW
+HST,Stralsund Hbf,10338,
+HU,Hanau Hbf,150,RMV
+HUS,Husum,181,SHT
+HY,Hoyerswerda,10177,VVO
+HZ,Herzberg(Harz),166,VSN
+IBB,Ibbenbüren,3036,VGM
+IGGR,Igel(Gr),303,
+IMM,Immendingen,182,TUT
+IN,Ingolstadt Hbf,183,
+IS,Iserlohn,186,VRL
+IZ,Itzehoe,3102,HVV
+JB,Jüterbog,10182,VBB
+JE,Jessen(Elster),11960,MDV
+JP,Jena Paradies,11956,VMT
+JS,Jena Saalbf,11058,VMT
+JUEB,Jübek,334,SHT
+JW,Jena West,11957,VMT
+K,Köln Hbf,207,VRS
+KA,Karlsruhe Hbf,191,KVV
+KADU,Karlsruhe-Durlach,3184,KVV
+KAHL,Kahl(Main),3143,VAB
+KALD,Kaldenkirchen,190,VRR
+KAM,Kamen,3168,VRL
+KAMZ,Kamenz(Sachs),11988,VVO
+KAUF,Kaufering,195,
+KB,Korbach Hbf,210,NVV
+KBFL,Köln/Bonn Flughafen,3330,VRS
+KBR,Königsbrück,12067,VVO
+KDEU,Köln Messe/Deutz,3368,VRS
+KE,Kempten(Allgäu)Hbf,197,
+KEGR,Kehl(Gr),8,
+KEHL,Kehl,3218,TGO
+KEHR,Köln-Ehrenfeld,208,VRS
+KF,Kaufbeuren,194,
+KH,Bad Kreuznach,21,RNN
+KI,Kiel Hbf,199,SHT
+KL,Kaiserslautern Hbf,189,VRN
+KLB,Kirchenlaibach,201,VGN
+KLE,Kleve,205,VRR
+KLG,Kißlegg,203,BOD
+KO,Koblenz Hbf,206,VRM
+KOEB,Koblenz-Ehrenbreit.,3351,VRM
+KOEN,Königsbach(Baden),3376,VPE
+KOET,Köthen,10195,MDV
+KOLZ,Koblenz-Lützel,3352,VRM
+KON,Könnern,10194,MAR
+KR,Krefeld Hbf,211,VRR
+KREI,Kreiensen,213,VSN
+KREU,Kreuztal,214,VGW
+KS,Kassel-Wilhelmshöhe,3200,NVV
+KSHB,Kassel Hbf,193,NVV
+KTW,Kettwig,198,VRR
+KUF,Kufstein,3475,MVV
+KW,Königs Wusterhausen,10193,VBB
+L,Leipzig Hbf,10205,MDV
+LA,Landshut(Bay)Hbf,217,
+LAA,Laage(Meckl),12143,VVW
+LAGE,Lage(Lippe),215,OWL
+LAUD,Lauda,221,VRN
+LAUT,Lauterbach(Hess)Nord,222,RMV
+LAWL,Langwedel,586,VBN
+LB,Ludwigsburg,235,VVS
+LBB,Lübbenau(Spreewald),10220,VBB
+LBG,Velbert-Langenberg,3529,VRR
+LCH,Laucha(Unstrut),12167,MDV
+LD,Landau(Pfalz)Hbf,216,KVV
+LEES,Leese-Stolzenau,335,
+LEHR,Lehrte,226,GVH
+LEIF,Leinefelde,10203,
+LER,Leer(Ostfriesl),225,
+LETM,Letmathe,227,VRL
+LEUT,Leutkirch,336,BOD
+LEVM,Leverkusen Mitte,6713,VRS
+LG,Lüneburg,238,HVV
+LHFL,Leipzig/Halle Flugh,12183,MDV
+LI,Lindau-Insel,230,BOD
+LIF,Lichtenfels,228,VGN
+LIPP,Lippstadt,571,VRL
+LIRE,Lindau-Reutin,3693,BOD
+LLEU,Leipzig-Leutzsch,10207,MDV
+LM,Limburg(Lahn),229,RMV
+LMS,Limburg Süd,3680,RMV
+LN,Lübben(Spreewald),10217,VBB
+LOEB,Löbau(Sachs),10212,VON
+LOEH,Löhne(Westf),233,OWL
+LOH,Lohmen,12249,VVO
+LOLL,Lollar,234,RMV
+LOW,Löwenberg(Mark),10214,VBB
+LPLA,Leipzig-Plagwitz,10209,MDV
+LSZ,Bad Langensalza,10020,VMT
+LU,Ludwigshafen(Rh)Hbf,236,VRN
+LUEN,Lünen Hbf,239,VRL
+LUF,Ludwigsfelde,10215,VBB
+LWL,Ludwigslust,10216,
+M,München Hbf,261,MVV
+MA,Mannheim Hbf,244,VRN
+MAK,Marktredwitz,247,VGN
+MALS,Malsfeld,243,NVV
+MARG,Markkleeberg-Großst,10228,MDV
+MCK,Mühlacker,339,VPE
+MD,Magdeburg Hbf,10224,MAR
+MDR,Magdeburg-Rothensee,10086,MAR
+MEHL,Mehltheuer,10229,VVV
+MEI,Meißen,12326,VVO
+MELL,Mellingen(Thür),12332,VMT
+MER,Merseburg Hbf,10232,MDV
+MERK,Merklingen - S. Alb,3983,DIN
+MET,Mellrichstadt Bf,3959,
+MG,Mönchengladbach Hbf,253,VRR
+MH,Mülheim(Ruhr)Hbf,259,VRR
+MI,Minden(Westf),252,OWL
+MIDO,Michendorf,10233,VBB
+MIL,Miltenberg,640,VAB
+MIN,Mindelheim,338,
+MIW,Mittweida,12369,VMS
+MM,Memmingen,249,
+MOST,München Ost,262,MVV
+MPAS,München-Pasing,4158,MVV
+MR,Marburg(Lahn),337,RMV
+MS,Münster(Westf)Hbf,263,VGM
+MT,Montabaur,667,
+MUE,Mühldorf(Oberbay),258,
+MZ,Mainz Hbf,240,RMV
+MZBI,Mainz-Bischofsheim,241,RMV
+N,Nürnberg Hbf,284,VGN
+NAU,Nauen,10239,VBB
+NB,Neubrandenburg,10241,
+NDD,Neudietendorf,10242,VMT
+NDF,Narsdorf,10238,MDV
+NDH,Nordhausen,10256,
+NE,Neuss Hbf,274,VRR
+NEA,Neustadt(Aisch)Bahnh,4323,VGN
+NECK,Mosbach-Neckarelz,264,VRN
+NENN,Bad Nenndorf,22,GVH
+NEUD,Neustadt(Dosse),10248,VBB
+NEUF,Neufahrn(Niederbay),688,
+NEUK,Neukieritzsch,10243,MDV
+NEUS,Neustadt(Sachs),10249,VVO
+NEUZ,Neuzelle,12479,VBB
+NFS,Nürnberg Frankensta,4493,VGN
+NGM,Neckargemünd,265,VRN
+NHM,Bad Nauheim,728,RMV
+NI,Nienburg(Weser),279,
+NIDA,Nidderau,158,RMV
+NIDD,Nidda,277,RMV
+NIDH,Niedernhausen(Ts),4400,RMV
+NILA,Niederlahnstein,278,VRM
+NK,Neunkirchen(Saar)Hbf,272,SVV
+NKN,Neukirchen(b Sulzb),269,VGN
+NMB,Naumburg(Saale)Hbf,10240,MDV
+NMK,Neumark(Sachs),10244,VVV
+NMO,Neumarkt(Oberpf),4305,VGN
+NMS,Neumünster,271,SHT
+NMV,Neumarkt-St Veit,720,
+NMW,Neuenmarkt-Wirsberg,267,VGN
+NOE,Nördlingen,280,OAM
+NOM,Northeim(Han),283,VSN
+NOR,Norden,800,
+NP,Neuruppin West,10246,VBB
+NR,Neuwied,276,VRM
+NST,Nordstemmen,282,
+NW,Neustadt(Weinstr)Hbf,275,VRN
+NWAL,Niederwalgern,4417,RMV
+NZ,Neustrelitz Hbf,10250,
+OB,Oberhausen Hbf,286,VRR
+OBRO,Rödermark-Ob.Roden,285,RMV
+OD,Bad Oldesloe,23,HVV
+OEB,Oebisfelde,10261,MAR
+OERL,Oerlinghausen,4630,OWL
+OEYN,Bad Oeynhausen,732,OWL
+OF,Offenbach(Main)Hbf,349,RMV
+OG,Offenburg,290,TGO
+OHA,Osterode a. H. Mitte,4704,VSN
+OKZ,Oberkotzau,287,VGN
+OL,Oldenburg(Oldb)Hbf,291,VBN
+OLD,Oldenburg(Holst),4669,SHT
+OO,Oberoderwitz,10259,VON
+OR,Oranienburg,13487,VBB
+ORTR,Ortrand,12565,VBB
+OS,Osnabrück Hbf,294,
+OST,Osterburken,295,VRN
+OZ,Oschatz,13461,MDV
+P,Potsdam Hbf,12666,VBB
+PA,Passau Hbf,298,VLP
+PB,Paderborn Hbf,297,HST
+PE,Peine,4760,VRB
+PEG,Pegnitz,4759,VGN
+PEGA,Pegau,10269,MDV
+PF,Pforzheim Hbf,299,VPE
+PIR,Pirna,10272,VVO
+PL,Plauen(Vogtl) ob Bf,10275,VVV
+PLA,Plaaz,10273,VVW
+PLAT,Plattling,301,WBV
+PLO,Plochingen,302,VVS
+PLTH,Plaue(Thür),10274,
+PPIR,Potsdam Pirschheide,10279,VBB
+PRIB,Priemerburg,10284,VVW
+PRIE,Priestewitz,10285,VVO
+PRO,Probstzella,10288,VMT
+PRWK,Pritzwalk,10287,VBB
+PS,Pirmasens Nord,876,VRN
+PULS,Pulsnitz,12685,VVO
+PUMS,Puttgarden(MS),79,
+PUTT,Puttgarden,4903,SHT
+PW,Pasewalk,10268,
+PZ,Prenzlau,10282,VBB
+QFT,Querfurt,10291,MDV
+QLB,Quedlinburg,10290,
+R,Regensburg Hbf,309,
+RA,Rastatt,306,KVV
+RAT,Ratingen Ost,4948,VRR
+RCOL,Reichenbach(Ol),12738,VON
+RCVO,Reichenbach(V) o Bf,12739,VVV
+RD,Rendsburg,312,SHT
+RDW,Radebeul-Kötzschenb,10293,VVO
+RE,Recklinghausen Hbf,307,VRR
+REM,Remagen,310,VRM
+RENN,Renningen,313,VVS
+RHED,Rheda-Wiedenbrück,315,OWL
+RHEI,Rheine,316,VGM
+RHH,Rheinhausen,317,VRR
+RIE,Riesa,10297,VVO
+RN,Rathenow,10296,VBB
+RO,Rosenheim,320,MVV
+ROBL,Röblingen am See,10299,
+ROHR,Rohrbach(Saar),319,SVV
+ROIL,Rohrbach(Ilm),256,
+RONN,Ronneburg(Thür),10301,
+ROTT,Rottenbach,10305,VMT
+ROW,Rotenburg(Wümme),321,VBN
+RS,Remscheid Hbf,5033,VRR
+RSL,Roßlau(Elbe),10302,MDV
+RT,Reutlingen Hbf,314,NAL
+RU,Rudolstadt(Thür),10306,VMT
+RUHL,Ruhland,10308,VBB
+RW,Rottweil,322,VVR
+RY,Rheydt Hbf,318,VRR
+S,Stuttgart Hbf,96,VVS
+SAD,Schwandorf,27,VLC
+SALZ,Salzburg Hbf,5263,
+SAW,Salzwedel,10310,
+SB,Saarbrücken Hbf,323,SVV
+SBC,Stuttgart-Bad Cannst,5769,VVS
+SBG,Strasburg(Uckerm),10339,
+SBK,Schönebeck(Elbe),10318,MAR
+SCHG,Schöna(Gr),10316,
+SCHH,Schaffhausen,24,
+SCHL,Schlüchtern,891,RMV
+SCHM,Schwelm,33,VRR
+SCHW,Schwerte(Ruhr),37,VRL
+SDH,Sondershausen,10329,
+SDL,Stendal Hbf,10334,
+SE,Bad Segeberg,751,SHT
+SECK,Seckach,42,VRN
+SEES,Seesen,43,VRB
+SFB,Senftenberg,10327,VBB
+SFT,Staßfurt,10332,MAR
+SG,Solingen Hbf,87,VRR
+SGH,Sangerhausen,10312,
+SGM,Schwäbisch Gmünd,329,OAM
+SHA,Schwäb.Hall-Hessent,330,VSH
+SHL,Suhl,10345,
+SHS,Schönhausen(Elbe),10321,
+SI,Siegen Hbf,46,VGW
+SIF,Schifferstadt,326,VRN
+SIG,Sigmaringen,69,NAL
+SIGB,Siegburg/Bonn,5556,VRS
+SIHA,Siershahn,60,
+SIMB,Simbach(Inn),72,VRI
+SIN,Singen(Hohentwiel),73,VHB
+SINS,Sinsheim(Elsenz) Hbf,5578,VRN
+SLB,Sandersleben(Anh),10311,MAR
+SLF,Saalfeld(Saale),10309,VMT
+SLN,Schmölln(Thür),12889,MDV
+SLZ,Bad Salzungen,10021,
+SM,Schmalkalden,10315,
+SN,Schwerin Hbf,10324,
+SO,Soest,76,VRL
+SOEM,Sömmerda,10328,VMT
+SOL,Soltau(Han),88,HVV
+SON,Sonneberg(Thür)Hbf,13008,VGN
+SPAI,Spaichingen,5616,TUT
+SR,Straubing,95,
+STD,Stade,89,HVV
+STEI,Steinach(b Rothenb),91,VGN
+STF,Straußfurt,10342,
+STHM,Glauburg-Stockheim,347,RMV
+STOL,Stolpen,13057,VVO
+SW,Schweinfurt Hbf,32,
+SWAA,Schwaan,10322,VVW
+SWB,Schwarzenberg(Erzg),10323,VMS
+SZRI,Salzgitter-Ringelh.,325,VRB
+TANG,Tantow(Gr),10346,
+TBZ,Treuenbrietzen,13145,VBB
+TEL,Teltow,13100,VBB
+TEU,Teuchern,10349,MDV
+THEM,Themar,10350,
+THH,Thalheim(Erzgeb),13113,VMS
+TP,Templin,10347,VBB
+TR,Trier Hbf,134,VRT
+TREU,Treuchtlingen,122,VGN
+TREY,Treysa,129,NVV
+TRIP,Triptis,10352,VMT
+TROI,Troisdorf,135,VRS
+TS,Traunstein,116,
+TUE,Tübingen Hbf,141,NAL
+TUEH,Türkheim(Bay)Bf,144,
+TUEM,Türkismühle,154,SVV
+TUT,Tuttlingen,163,TUT
+UCKR,Luckau-Uckro,10353,VBB
+UE,Uelzen,168,
+UL,Ulm Hbf,170,DIN
+UN,Unna,171,VRL
+VAI,Vaihingen(Enz),6053,VVS
+VER,Verden(Aller),6076,VBN
+VIE,Viersen,174,VRR
+VIEN,Vienenburg,364,VRB
+VK,Völklingen,175,SVV
+VS,Villingen(Schwarzw),366,VSB
+W,Wuppertal Hbf,266,VRR
+WAB,Wabern(Bz Kassel),368,NVV
+WAF,Warendorf,6206,VGM
+WAL,Wallau(Lahn),187,RMV
+WALK,Walkenried,6172,VSN
+WAN,Wanne-Eickel Hbf,192,VRR
+WAR,Warburg(Westf),196,HST
+WB,Luth. Wittenberg Hbf,10222,MDV
+WBE,Wittenberge,10382,VBB
+WBG,Wiesenburg(Mark),10376,VBB
+WBR,Wüstenbrand,10388,VMS
+WDA,Werdau,10372,VMS
+WDH,Waldheim,10359,MDV
+WE,Weimar,10366,VMT
+WEB,Westerburg,245,
+WEET,Weetzen,342,GVH
+WEID,Weida,10365,VMT
+WEIL,Weil der Stadt,6271,VVS
+WEIN,Weinheim(Bergstr)Hbf,377,VRN
+WEL,Weilburg,218,RMV
+WEN,Weiden(Oberpf),204,
+WERH,Werder(Havel),10373,VBB
+WERL,Werl,6342,VRL
+WERN,Werneuchen,13285,VBB
+WERT,Wertheim,231,VRN
+WES,Wesel,242,VRR
+WEST,Westerland(Sylt),6369,SHT
+WETZ,Wetzlar,383,RMV
+WF,Wolfenbüttel,255,VRB
+WHSN,Wernshausen,10375,
+WI,Wiesbaden Hbf,250,RMV
+WIBI,Wiesbaden-Biebrich,288,RMV
+WINN,Winnweiler,6483,VRN
+WIT,Witten Hbf,251,VRR
+WITT,Wittingen,344,VRB
+WIWA,Wiesloch-Walldorf,6421,VRN
+WK,Wittstock(Dosse),10384,VBB
+WM,Weilheim(Oberbay),220,
+WN,Waiblingen,180,VVS
+WO,Worms Hbf,257,VRN
+WOB,Wolfsburg Hbf,6552,VRB
+WOE,Wörth(Rhein),254,KVV
+WRN,Waren(Müritz),10361,
+WSF,Weißenfels,10368,MDV
+WTH,Wilthen,10380,VON
+WTL,Wittlich Hbf,379,VRT
+WUE,Würzburg Hbf,260,VVM
+WUED,Wünschendorf,10387,
+WUM,Wustermark,10389,VBB
+WUN,Wunsiedel-Holenbrunn,173,VGN
+WUNS,Wunstorf,268,GVH
+WWI,Weilerswist,6280,VRS
+WZN,Wriezen,10386,VBB
+Z,Zwickau(Sachs)Hbf,10397,VMS
+ZE,Zerbst/Anhalt,13389,MDV
+ZEUL,Zeulenroda unt Bf,13396,
+ZGGR,Zgorzelec(Gr),10132,
+ZI,Zittau,10393,VON
+ZME,Zella-Mehlis,10391,
+ZS,Zossen,10395,VBB
+ZZ,Zeitz,10390,MDV
