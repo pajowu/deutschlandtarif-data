@@ -1,3 +1,4 @@
+from typing import final
 import fitz
 import argparse
 import csv
@@ -7,6 +8,8 @@ import requests
 from bs4 import BeautifulSoup
 from tqdm.contrib.concurrent import process_map
 import itertools
+
+HEADER_REPLACEMENTS = {"Regio n": "Region"}
 
 
 def combine_tables(tables):
@@ -22,6 +25,16 @@ def extract_page_table(file_content, page):
     return [table.extract() for table in doc[page].find_tables().tables]
 
 
+def cleanup_headers(table):
+    headers = table[0]
+    for i, header in enumerate(headers):
+        header = " ".join(header.splitlines()).replace("- ", "")
+        header = HEADER_REPLACEMENTS.get(header, header)
+        headers[i] = header
+    table[0] = headers
+    return table
+
+
 def extract_table(file_content):
     doc = fitz.Document(stream=file_content)
     num_pages = doc.page_count
@@ -34,6 +47,7 @@ def extract_table(file_content):
         chunksize=1,
     )
     final_table = combine_tables(list(itertools.chain.from_iterable(tables)))
+    final_table = cleanup_headers(final_table)
     return final_table
 
 
@@ -84,6 +98,7 @@ def download_if_modified(url, if_modified_since=None):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("output", type=pathlib.Path)
+    parser.add_argument("--force", action="store_true")
     args = parser.parse_args()
 
     args.output.mkdir(exist_ok=True)
@@ -99,9 +114,8 @@ if __name__ == "__main__":
     links = list(extract_pdf_links())
     for url, name in links:
         print("Downloading", name)
-        content, last_modified = download_if_modified(
-            url, if_modified_since=last_modified_data.get(name)
-        )
+        last_mod = last_modified_data.get(name) if not args.force else None
+        content, last_modified = download_if_modified(url, if_modified_since=last_mod)
         if content is None:
             print(name, "was not modified, skipping")
             continue
