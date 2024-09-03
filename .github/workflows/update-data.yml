@@ -32,6 +32,8 @@ jobs:
         run: poetry install
       - name: Update data
         run: poetry run python 01-update-data.py data/
+      - name: Generate derived data
+        run: poetry run python 02-derive-data.py data/ derived/
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
