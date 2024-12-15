@@ -157,7 +157,7 @@ EMMG,Emmerich(Gr),1774,VRR
 ENG,Engers,94,VRM
 ER,Erlangen,1844,VGN
 ERK,Erkelenz,1839,AVV
-ESA,Eisenach,10097,VMT
+ESA,Eisenach Hbf,10097,VMT
 ESW,Eschwege-Niederhone,1895,NVV
 ESWE,Eschwege,1884,NVV
 EU,Euskirchen,100,VRS
@@ -206,7 +206,7 @@ GE,Gelsenkirchen Hbf,118,VRR
 GEES,Geestgottberg,10121,
 GELN,Gelnhausen,117,RMV
 GELT,Geltendorf,119,MVV
-GEM,Gemünden(Main),120,VVM
+GEM,Gemünden(Main),120,NVM
 GER,Germersheim,376,KVV
 GERO,Gerolstein,123,VRT
 GERS,Gerstungen,11629,
@@ -262,7 +262,7 @@ HARZ,Bad Harzburg,19,VRB
 HAST,Haste,2634,GVH
 HAUS,Hausach,333,TGO
 HB,Bremen Hbf,50,VBN
-HBS,Halberstadt,10157,
+HBS,Halberstadt Hbf,10157,
 HCH,Hechingen,2673,NAL
 HD,Heidelberg Hbf,156,VRN
 HDL,Haldensleben,10158,MAR
@@ -330,7 +330,7 @@ KAHL,Kahl(Main),3143,VAB
 KALD,Kaldenkirchen,190,VRR
 KAM,Kamen,3168,VRL
 KAMZ,Kamenz(Sachs),11988,VVO
-KAUF,Kaufering,195,
+KAUF,Kaufering,195,MVV
 KB,Korbach Hbf,210,NVV
 KBFL,Köln/Bonn Flughafen,3330,VRS
 KBR,Königsbrück,12067,VVO
@@ -413,7 +413,7 @@ MEI,Meißen,12326,VVO
 MELL,Mellingen(Thür),12332,VMT
 MER,Merseburg Hbf,10232,MDV
 MERK,Merklingen - S. Alb,3983,DIN
-MET,Mellrichstadt Bf,3959,
+MET,Mellrichstadt Bf,3959,NVM
 MG,Mönchengladbach Hbf,253,VRR
 MH,Mülheim(Ruhr)Hbf,259,VRR
 MI,Minden(Westf),252,OWL
@@ -498,7 +498,7 @@ PF,Pforzheim Hbf,299,VPE
 PIR,Pirna,10272,VVO
 PL,Plauen(Vogtl) ob Bf,10275,VVV
 PLA,Plaaz,10273,VVW
-PLAT,Plattling,301,WBV
+PLAT,Plattling,301,
 PLO,Plochingen,302,VVS
 PLTH,Plaue(Thür),10274,
 PPIR,Potsdam Pirschheide,10279,VBB
@@ -594,7 +594,7 @@ STEI,Steinach(b Rothenb),91,VGN
 STF,Straußfurt,10342,
 STHM,Glauburg-Stockheim,347,RMV
 STOL,Stolpen,13057,VVO
-SW,Schweinfurt Hbf,32,
+SW,Schweinfurt Hbf,32,NVM
 SWAA,Schwaan,10322,VVW
 SWB,Schwarzenberg(Erzg),10323,VMS
 SZRI,Salzgitter-Ringelh.,325,VRB
@@ -610,6 +610,7 @@ TREU,Treuchtlingen,122,VGN
 TREY,Treysa,129,NVV
 TRIP,Triptis,10352,VMT
 TROI,Troisdorf,135,VRS
+TRW,Trier West,5906,VRT
 TS,Traunstein,116,
 TUE,Tübingen Hbf,141,NAL
 TUEH,Türkheim(Bay)Bf,144,
@@ -662,7 +663,7 @@ WIT,Witten Hbf,251,VRR
 WITT,Wittingen,344,VRB
 WIWA,Wiesloch-Walldorf,6421,VRN
 WK,Wittstock(Dosse),10384,VBB
-WM,Weilheim(Oberbay),220,
+WM,Weilheim(Oberbay),220,MVV
 WN,Waiblingen,180,VVS
 WO,Worms Hbf,257,VRN
 WOB,Wolfsburg Hbf,6552,VRB
@@ -671,7 +672,7 @@ WRN,Waren(Müritz),10361,
 WSF,Weißenfels,10368,MDV
 WTH,Wilthen,10380,VON
 WTL,Wittlich Hbf,379,VRT
-WUE,Würzburg Hbf,260,VVM
+WUE,Würzburg Hbf,260,NVM
 WUED,Wünschendorf,10387,
 WUM,Wustermark,10389,VBB
 WUN,Wunsiedel-Holenbrunn,173,VGN

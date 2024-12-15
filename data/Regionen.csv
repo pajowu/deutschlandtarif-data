@@ -9,8 +9,8 @@ Walldorf(Werra), Wasungen, Wölfershausen"
 6,"Ansbach, Fürth(Bay)Hbf, Nürnberg Hbf,
 Treuchtlingen","Büchenbach, Cronheim, Eckersmühlen, Ellingen(Bay), Georgensgmünd, Gunzenhausen, Hilpoltstein, Katzwang, Langlau, Lohgarten-Roth, Markt Berolzheim,
 Mühlstetten, Muhr a See, Nürnberg-Eibach, Nürnberg-Reichelsd., Nürnberg Rothenb., Nürnberg-Sandreuth, Nürnberg-Steinbühl, Pleinfeld, Ramsberg,
-Rednitzhembach, Reichelsdorfer Kell., Roth, Schwabach, Schwabach-Limbach, Triesdorf, Unterheckenhofen, Unterschwaningen, Wassertrüdingen,
-Weißenburg(Bay), Wettelsheim, Windsfeld-Dittenheim"
+Rednitzhembach, Reichelsdorfer Kell., Roth, Schwabach, Schwabach-Limbach, Triesdorf, Unterheckenhofen, Unterschwaningen, Unterwurmbach,
+Wassertrüdingen, Weißenburg(Bay), Wettelsheim, Windsfeld-Dittenheim"
 7,Traunstein,"Hufschlag, Otting, Unteraschau, Waging, Weibhausen"
 8,"Rostock Hbf, Stralsund Hbf","Altenwillershagen, Barth, Bentwisch, Buchenhorst, Gelbensande, Graal-Müritz, Graal-Müritz Ko.weg, Kenz, Martensdorf, Mönchhagen, Ribnitz-Damgarten O,
 Ribnitz-Damgarten W, Rostock-Kassebohm, Rostock-Torfbrücke, Rövershagen, Rövershagen Karls, Saatel, Stralsund-Grünhufe, Velgast"
@@ -25,8 +25,8 @@ Pfeddersheim"
 14,"Bad Oldesloe, Büchen, Hamburg Hbf","Ahrensburg, Ahrensburg-Gartenh., Aumühle, Bargteheide, Hamburg Airport, Hamburg-Allermöhe, Hamburg Alte Wöhr, Hamburg-Barmbek, Hamburg-
 Bergedorf, Hamburg Berliner Tor, Hamburg Billw.Moorfl, Hamburg Friedrichsb., Hamburg Hasselbrook, Hamburg Hoheneichen, Hamburg Kornweg/Kl.B,
 Hamburg Landwehr, Hamburg Mittl.Lanw., Hamburg-Nettelnburg, Hamburg-Ohlsdorf, Hamburg-Poppenb., Hamburg-Rahlstedt, Hamburg-Rothenb.Ort,
-Hamburg Rübenkamp, Hamburg-Tiefstack, Hamburg-Tonndorf, Hamburg Wandsb.Chaus, Hamburg-Wandsbek, Hamburg-Wellingsb., Kupfermühle, Müssen,
-Reinbek, Schwarzenbek, Wohltorf"
+Hamburg Rübenkamp, Hamburg-Tiefstack, Hamburg-Tonndorf, Hamburg Wandsb.Chaus, Hamburg-Wellingsb., Kupfermühle, Müssen, Reinbek,
+Schwarzenbek, Wohltorf"
 15,Kaiserslautern Hbf,"Heinzenhausen, Hirschhorn(Pfalz), Kaiserslautern Pfaff, Kaiserslautern West, Katzweiler, Kreimbach-Kaulbach, Lampertsmühle-Ott., Lauterecken-Grumbach,
 Lohnweiler, Olsbrücken, Reckweilerhof, Roßbach(Pfalz), Sulzbachtal, Wolfstein"
 16,Fulda,"Altenfeld(Rhön), Eichenzell, Gersfeld(Rhön), Hettenhausen, Lütter, Ried, Rönshausen, Schmalnau, Welkers"
@@ -46,7 +46,7 @@ Unadingen"
 25,"Bad Nenndorf, Minden(Westf), Wunstorf","Bückeburg, Haste, Kirchhorsten, Lindhorst(Schaumb-L), Stadthagen"
 26,"Basel Bad Bf, Freiburg(Brsg)Hbf","Atzenbach, Auggen, Bad Bellingen, Bad Krozingen, Bad Krozingen Ost, Buggingen, Dietzelbach, Ebringen, Efringen-Kirchen, Eimeldingen, Etzenbach, Fahrnau,
 Freiburg-St Georgen, Haltingen, Hausen-Raitbach, Heitersheim, Hof(Münstertal), Istein, Kleinkems, Lörrach-Bromb./Hau, Lörrach Dammstraße, Lörrach-
-Haagen/Mess, Lörrach Hbf, Lörrach Museum/Burg, Lörrach Schw.waldst, Lörrach-Stetten, Maulburg, Müllheim(Baden), Münstertal(Schw),
+Haagen/Mess, Lörrach Hbf, Lörrach Museum/Burg, Lörrach Schw.waldst, Lörrach-Stetten, Maulburg, Müllheim im Mark., Münstertal(Schw),
 Neuenburg(Baden), Neuenburg(Baden)(Gr), Norsingen, Oberkrozingen, Rheinweiler, Riehen, Riehen Niederholz, Schallstadt, Schliengen,
 Schönau(Schwarzw), Schopfheim, Schopfheim-Schlatth., Schopfheim West, Staufen, Staufen Süd, Steinen, Todtnau, Weil am Rhein, Weil am Rhein-Garten,
 Weil am Rhein Ost, Weil am Rhein-Pfädl, Zell(Wiesental)"
@@ -57,7 +57,7 @@ Kenzingen, Kollmarsreute, Kollnau, Köndringen, Königschaffhausen, Lahr(Schwarz
 Orschweier, Riegel a K Ort, Riegel-Malterdingen, Ringsheim/Europa-P., Sasbach a. K., Teningen-Mundingen, Waldkirch, Wasenweiler"
 30,"Grevenbroich, Rheydt Hbf","Hochneukirch, Jüchen, Rheydt-Odenkirchen"
 31,Finnentrop,"Attendorn, Attendorn-Hohen Hag., Eichhagen, Heggen, Kraghammer, Listerscheid, Olpe, Sondern"
-32,Remagen,"Ahrbrück, Ahrweiler, Ahrweiler Markt, Altenahr, Bad Bodendorf, Bad Neuenahr, Dernau, Heimersheim, Kreuzberg(Ahr), Mayschoß, Rech, Walporzheim"
+32,Remagen,"Ahrbrück, Ahrweiler, Ahrweiler Markt, Altenahr, Bad Bodendorf, Bad Neuenahr, Dernau, Heimersh./Lohrsd., Kreuzberg(Ahr), Mayschoß, Rech, Walporzheim"
 33,"Aue(Sachs), Chemnitz Hbf, St Egidien","Adorf(Erzgeb), Aue(Sachs) Erzgeb.St, Burkhardtsdorf, Burkhardtsdorf Mitte, Chemnitz-Altchemnitz, Chemnitz Erdmannsd.S, Chemnitz Erfenschlag, Chemnitz
 Friedrichs., Chemnitz G-Freytag-S, Chemnitz-Harthau, Chemnitz-Reichenhain, Chemnitz Riemensch.S, Chemnitz Roesslerstr, Chemnitz Schule Altc, Chemnitz
 Stadlerpl, Chemnitz TU Campus, Chemnitz Zentralhst, Dittersdorf, Dorfchemnitz, Einsiedel, Einsiedel Brauerei, Einsiedel Hp Gymnas., Hohndorf Mitte,
@@ -74,8 +74,7 @@ Schwarzenberg-Neuw"
 39,"Buchholz(Nordheide), Rotenburg(Wümme)","Lauenbrück, Scheeßel, Sprötze, Tostedt"
 40,"Buchholz(Nordheide), Hamburg-Harburg","Hittfeld, Klecken"
 41,"Buchholz(Nordheide), Soltau(Han)","Büsenbachtal, Handeloh, Holm-Seppensen, Schneverdingen, Soltau Nord, Suerhop, Wintermoor, Wolterdingen(Han)"
-42,"Delmenhorst, Hesepe","Brettorf, Ganderkesee, Goldenstedt(Oldb), Holdorf(Oldb), Lohne(Oldb), Lutten, Mühlen(Oldb), Neuenkirchen(Oldb), Rechterfeld, Rieste, Steinfeld(Oldb),
-Vechta, Wildeshausen"
+42,"Hesepe, Osnabrück Hbf, Rheine","Achmer, Bramsche, Halen, Hörstel, Ibbenbüren, Ibbenbüren-Esch, Ibbenbüren-Laggenb., Osnabrück Altstadt"
 43,"Hamburg-Harburg, Lüneburg","Ashausen, Bardowick, Maschen, Meckelfeld, Radbruch, Stelle, Winsen(Luhe)"
 44,"Büchen, Lüneburg","Echem, Lauenburg(Elbe)"
 45,"Wernshausen, Zella-Mehlis","Altersbach, Auehütte, Benshausen, Mittelschmalkalden, Niederschmalkalden, Schmalkalden, Schmalkalden-Fachhs., Steinbach-Hallenberg, Viernau, Zella-
@@ -104,7 +103,7 @@ Dietersheim, Dottenheim, Emskirchen, Eschenbach(b M.Erlb), Eßleben, Fürth-Burg
 Iphofen, Ipsheim, Kitzingen, Langenfeld(Mittelfr), Langenzenn, Laubendorf, Mainbernheim, Markt Bibart, Markt Erlbach, Neustadt(Aisch)Bahnh,
 Neustadt(Aisch)Mitte, Neustadt(Aisch)Stadt, Ottenhofen-Bergel, Puschendorf, Raindorf, Rottendorf, Seligenstadt(b Wü), Siegelsdorf, Waigolshausen,
 Wilhermsdorf, Wilhermsdorf Mitte"
-58,"Hesepe, Osnabrück Hbf, Rheine","Achmer, Bramsche, Halen, Hörstel, Ibbenbüren, Ibbenbüren-Esch, Ibbenbüren-Laggenb., Osnabrück Altstadt"
+58,"Hesepe, Oldenburg(Oldb)Hbf","Ahlhorn, Bersenbrück, Cloppenburg, Essen(Oldb), Großenkneten, Huntlosen, Quakenbrück, Sandkrug"
 59,"Buchloe, Kempten(Allgäu)Hbf","Aitrang, Beckstetten, Betzigau, Biessenhofen, Ebenhofen, Füssen, Günzach, Kaufbeuren, Lengenwang, Leuterschach, Marktoberdorf, Marktoberdorf Schule,
 Ruderatshofen, Seeg, Weizern-Hopferau, Wildpoldsried"
 60,"Chemnitz Hbf, Döbeln Hbf","Altmittweida, Chemnitz Kinderwald, Erlau(Sachs), Limmritz(Sachs), Mittweida, Oberlichtenau, Ottendorf(Mittweida), Schweikershain, Steina, Waldheim"
@@ -129,8 +128,8 @@ Oppenheim, Osthofen"
 74,"Bensheim, Graben-Neudorf, Heidelberg Hbf,
 Mannheim Hbf","Birkenau, Fürth(Odenw), Grasellenbach, Heddesheim/Hirschb., Heidelb.P/Wieblingen, Hemsbach, Heppenheim(Bergstr), Hockenheim, Ladenburg,
 Laudenbach(Bergstr), Lörzenbach-Fahrenb., Mannheim ARENA/Maim., Mannheim-Friedrich.S, Mannheim-Neckarau, Mannheim-Rheinau, Mannheim-
-Seckenheim, Mörlenbach, Neu-Edingen/Fried., Neulußheim, Oftersheim, Reisen(Hess), Rimbach, Schwetzingen, Schwetzingen-Hirsch., Waghäusel, Wahlen,
-Waldmichelbach, Weinheim(Bergstr)Hbf, Weinheim-Lützels., Weinheim-Sulzbach, Wiesental, Zotzenbach"
+Seckenheim, Mörlenbach, Neu-Edingen/Fried., Neulußheim, Oftersheim, Reisen(Hess), Rimbach, Schwetzingen, Schwetzingen-Hirsch., Schwetzingen Nordst.,
+Waghäusel, Wahlen, Waldmichelbach, Weinheim(Bergstr)Hbf, Weinheim-Lützels., Weinheim-Sulzbach, Wiesental, Zotzenbach"
 75,"Hameln, Löhne(Westf)","Bad Oeynhausen Süd, Hessisch Oldendorf, Rinteln, Vlotho"
 76,"Elze(Han), Hameln","Coppenbrügge, Marienau, Osterwald"
 77,"Braunschweig Hbf, Gifhorn","Braunschweig-Gliesm., Meine, Rötgesbüttel"
@@ -202,24 +201,23 @@ Zeutern"
 109,"Ansbach, Crailsheim","Büchelberg, Dombühl, Leutershausen-Wied., Schnelldorf, Zumhaus"
 110,Rheydt Hbf,"Arsbeck, Dalheim, Mönchengladbach-Gen, Mönchengladbach-Rhd, Wegberg"
 111,"Hannover Hbf, Lehrte","Ahlten, Hannover Ander.Misb., Hannover-Kleefeld, Hannover Wiech-Allee"
-112,"Altenbeken, Göttingen, Kreiensen,
-Northeim(Han)","Adelebsen, Bad Driburg(Westf), Bad Karlshafen, Beverungen-Wehrden, Bodenfelde, Brakel(Höxter), Ertinghausen, Hardegsen, Holzminden, Höxter-
-Godelheim, Höxter-Lüchtringen, Höxter-Ottbergen, Höxter Rathaus, Lauenförde-Beverung, Lenglern, Lödingsen, Offensen(Kr North), Stadtoldendorf, Uslar,
-Verliehausen, Vernawahlshausen, Volpriehausen, Vorwohle"
+112,"Kreiensen, Northeim(Han)","Einbeck BBS/PS-Sp., Einbeck Mitte, Einbeck Otto-HahnStr, Einbeck-Salzderhel"
 113,"Kirchenlaibach, Marktredwitz","Brand(Fichtelgeb), Ebnath(Oberpf), Fichtelberg, Haidenaab-Göppmanns, Immenreuth, Mehlmeisel, Neusorg, Unterlind, Waldershof"
-114,"Kreiensen, Northeim(Han)","Einbeck BBS/PS-Sp., Einbeck Mitte, Einbeck Otto-HahnStr, Einbeck-Salzderhel"
+114,"Elze(Han), Kreiensen","Alfeld(Leine), Banteln, Freden(Leine)"
 115,"Aalen Hbf, Donauwörth, Günzburg, Ulm Hbf","Bergenweiler, Blindheim, Dillingen(Donau), Giengen(Brenz), Gundelfingen(Bay), Heidenheim, Heidenheim-Mergelst., Heidenheim-Schnaith., Heidenheim
 Voithwerk, Herbrechtingen, Hermaringen, Höchstädt(Donau), Itzelberg, Königsbronn, Langenau(Württ), Lauingen, Niederstotzingen, Oberelchingen,
 Oberkochen, Rammingen(Württ), Schwenningen(Bay), Sontheim-Brenz, Steinheim(Donau), Tapfheim, Thalfingen(b Ulm), Ulm Ost, Unterelchingen,
 Unterkochen"
-116,"Elze(Han), Kreiensen","Alfeld(Leine), Banteln, Freden(Leine)"
+116,"Altenbeken, Göttingen, Kreiensen,
+Northeim(Han)","Adelebsen, Bad Driburg(Westf), Bad Karlshafen, Beverungen-Wehrden, Bodenfelde, Brakel(Höxter), Ertinghausen, Hardegsen, Holzminden, Höxter-
+Godelheim, Höxter-Lüchtringen, Höxter-Ottbergen, Höxter Rathaus, Lauenförde-Beverung, Lenglern, Lödingsen, Offensen(Kr North), Stadtoldendorf, Uslar,
+Verliehausen, Vernawahlshausen, Volpriehausen"
 117,Passau Hbf,"Schönberg(Nbay), Tittling Markt"
 118,"Aschaffenburg Hbf, Gemünden(Main)","Heigenbrücken, Hösbach, Langenprozelten, Laufach, Lohr Bahnhof, Partenstein, Wiesthal"
 119,"Göttingen, Northeim(Han)",Nörten-Hardenberg
 120,Garmisch-Partenk.,"Kainzenbad, Kaltenbrunn(Oberbay), Klais, Mittenwald, Mittenwald(Gr)"
 121,"Braunschweig Hbf, Salzgitter-Ringelh.","Salzgitter-Bad, Salzgitter-Immendorf, Salzgitter-Lebenstdt, Salzgitter-Thiede, Salzgitter-Watenst."
 122,"Frankenberg(Eder), Korbach Hbf","Frankenberg-Goßberg, Frankenberg-Vierm., Korbach Süd, Vöhl-Ederbringhaus., Vöhl-Herzhausen, Vöhl-Schmittlotheim, Vöhl-Thalitter"
-123,"Helmstedt, Wolfenbüttel","Dettum, Jerxheim, Neu Büddenstedt, Schöningen, Schöppenstedt, Söllingen(Braunsch), Watenstedt"
 124,"Neuwied, Troisdorf","Bad Honnef(Rhein), Bad Hönningen, Bonn-Beuel, Bonn-Oberkassel, Erpel(Rhein), Friedrich Wilhelmsh., Königswinter, Leubsdorf(Rhein), Leutesdorf(Rhein),
 Linz(Rhein), Menden(Rheinl), Niederdollendorf, Rheinbrohl, Rhöndorf, Unkel"
 125,"Garmisch-Partenk., Weilheim(Oberbay)","Altenau(Bay), Bad Kohlgrub, Bad Kohlgrub Kurhaus, Eschenlohe, Farchant, Grafenaschau, Hechendorf, Huglfing, Murnau, Murnau Ort, Oberammergau,
@@ -319,9 +317,14 @@ Börnig"
 182,"Bochum Hbf, Herne, Wanne-Eickel Hbf","Bochum-Hamme, Bochum-Riemke, Bochum West"
 183,"Bochum Hbf, Essen Hbf","Essen-Kray Süd, Wattenscheid"
 184,Puttgarden,Puttgarden(MS)
-186,"Dillingen(Saar), Igel(Gr), Trier Hbf","Apach(fr), Beckingen(Saar), Besch, Besseringen, Fremersdorf, Igel, Kanzem, Karthaus, Konz, Konz Mitte, Kreuz Konz, Merzig(Saar), Merzig-Stadtmitte,
-Mettlach, Nennig, Nittel, Oberbillig, Palzem, Perl, Saarburg(Bz Trier), Saarhölzbach, Schoden-Ockfen, Serrig, Taben, Temmels, Trier Süd, Wasserliesch,
-Wehr(Mosel), Wellen(Mosel), Wiltingen(Saar), Wincheringen"
+186,"Dillingen(Saar), Gerolstein, Igel(Gr), Koblenz
+Hbf, Trier Hbf","Apach(fr), Auw an der Kyll, Beckingen(Saar), Bengel, Besch, Besseringen, Birresborn, Bitburg-Erdorf, Bullay(DB), Cochem(Mosel), Daufenbach, Densborn,
+Ediger-Eller, Ehrang Ort, Föhren, Fremersdorf, Hatzenport, Hetzerath, Hüttingen, Igel, Kanzem, Karthaus, Kattenes, Klotten, Kobern-Gondorf, Koblenz-Güls,
+Koblenz-Moselweiß, Konz, Konz Mitte, Kordel, Kreuz Konz, Kyllburg, Lehmen, Löf, Merzig(Saar), Merzig-Stadtmitte, Mettlach, Moselkern, Müden(Mosel),
+Mürlenbach, Neef, Nennig, Nittel, Oberbillig, Palzem, Perl, Pfalzel, Philippsheim, Pommern(Mosel), Quint, Saarburg(Bz Trier), Saarhölzbach, Salmtal,
+Schoden-Ockfen, Schweich(DB), Sehlem(Kr Wittlich), Serrig, Speicher, St Thomas, Taben, Temmels, Treis-Karden, Trier-Euren, Trier Hafenstraße, Trier-
+Pallien, Trier Süd, Trier West, Trier-Zewen, Ürzig(DB), Usch-Zendscheid, Wasserliesch, Wehr(Mosel), Wellen(Mosel), Wiltingen(Saar), Wincheringen,
+Winningen(Mosel), Wittlich Hbf"
 187,"Bottrop Hbf, Essen Hbf, Mülheim(Ruhr)Hbf","Essen-Borbeck, Essen-Borbeck Süd, Essen-Dellwig Ost, Essen-Frohnhausen, Essen-Gerschede, Essen West"
 188,"Freudenstadt Hbf, Rastatt","Au im Murgtal, Bad Rotenfels Bf, Bad Rotenfels Schl., Bad Rotenfels Weinbr, Baiersbronn Bf, Baiersbronn Schule, Bischweier, Forbach(Schwarzw),
 Freudenstadt Indust., Freudenstadt Schulen, Freudenstadt Stadt, Friedrichstal b FDS, Gaggenau Bf, Gaggenau Mercedes-B., Gausbach, Gernsbach Bf,
@@ -373,7 +376,8 @@ Essen-Kupferdreh, Essen-Steele, Essen-Steele Ost, Essen-Überruhr, Hattingen(R) 
 Mettmann Zentrum, Neanderthal, Velbert-Langenberg, Velbert-Neviges, Velbert-Nierenhof, Velbert Rosenhügel, Wattenscheid-Höntr., Wülfrath-Aprath,
 Wuppertal-Ha/Düssel, Wuppertal-Sonnborn, Wuppertal-Steinbeck, Wuppertal-Vohwinkel, Wuppertal-Zool.Gart."
 215,"Lippstadt, Soest",Bad Sassendorf
-216,"Frankfurt(M)Flugh., Limburg(Lahn), Montabaur",Limburg Süd
+216,"Braunschweig Hbf, Gifhorn, Helmstedt,
+Wolfsburg Hbf","Calberlah, Fallersleben, Frellstedt, Königslutter, Schandelah, Weddel(Braunschw)"
 217,"Baunatal-Guntershaus, Treysa","Bad Wildungen, Borken(Hess), Edermünde-Grifte, Felsberg-Altenbruns., Felsberg-Gensungen, Felsberg-Wolfershau., Fritzlar, Mandern, Schlierbach(Sch Ed),
 Singlis, Ungedanken, Wabern(Bz Kassel), Wega, Zennern, Zimmersrode"
 218,"Kreuztal, Wallau(Lahn)","Amalienhütte, Aue-Wingeshausen, Bad Berleburg, Bad Laasphe, Bad Laasphe-Niederl., Berghausen(b Wittg), Birkelbach, Dahlbruch, Erndtebrück,
@@ -387,8 +391,6 @@ Mülheim-Kärlich, Namedy, Plaidt, Sinzig(Rhein), Thür, Urmersbach, Urmitz Rhei
 224,"Bedburg(Erft), Grevenbroich","Frimmersdorf, Gustorf"
 225,"Grevenbroich, Neuss Hbf","Holzheim(b Neuss), Kapellen-Wevelingh."
 226,"Hagen Hbf, Schwelm",Ennepetal
-227,"Braunschweig Hbf, Gifhorn, Helmstedt,
-Wolfsburg Hbf","Calberlah, Fallersleben, Frellstedt, Königslutter, Schandelah, Weddel(Braunschw)"
 228,Frankfurt-Höchst,"Frankfurt-Unterlied., Kelkheim, Kelkheim-Hornau, Kelkheim-Münster, Königstein(Taunus), Liederbach, Liederbach-Süd, Schneidhain"
 230,"Hagen Hbf, Letmathe",Hohenlimburg
 231,"Iserlohn, Letmathe",Letmathe Dechenh.
@@ -486,6 +488,7 @@ Rudersdorf, Würgendorf, Würgendorf (Ort)"
 282,"Plochingen, Reutlingen Hbf, Ulm Hbf","Bad Urach, Bad Urach Eklinik, Bad Urach Wasserfall, Bempflingen, Brucken, Dettingen(Teck), Dettingen Freibad, Dettingen Gsaidt, Dettingen Lehen,
 Dettingen-Mitte, Kirchheim(Teck), Kirchheim(Teck)-Ötl, Kirchheim(Teck)Süd, Merklingen - S. Alb, Metzingen(Württ), Metzingen-Neuhausen, Nürtingen,
 Oberboihingen, Oberlenningen, Owen(Teck), Reutlingen-Sondelf., Unterlenningen, Wendlingen(Neckar), Wernau(Neckar)"
+283,"Eilsleben(Magdeb), Helmstedt","Marienborn, Wefensleben"
 284,"Cölbe, Treysa","Anzefahr, Bürgeln, Kirchhain(Bz Kassel), Neustadt(Kr Marburg), Schwalmstadt-Wiera, Stadtallendorf"
 287,Flensburg,Flensburg(Gr)
 288,"Flensburg, Kiel Hbf, Rendsburg","Achterwehr, Bredenbek, Eckernförde, Felde, Gettorf, Husby, Kiel-Hassee CITTI-P., Kiel-Russee, Kronshagen, Melsdorf, Rieseby, Schleibr. Nord-Süd,
@@ -493,10 +496,7 @@ Schülldorf, Sörup, Suchsdorf, Süderbrarup"
 289,"Flensburg, Husum, Rendsburg","Jübek, Owschlag, Schleswig, Tarp"
 293,"Bebra, Eichenberg","Bad Sooden-Allendorf, Eschwege, Eschwege-Niederhone, Sontra, Wehretal-Reichens."
 294,"Bebra, Malsfeld","Altmorschen, Heinebach, Lispenhausen, Malsfeld-Beiseförth, Rotenburg a.d. Fulda"
-296,"Gerolstein, Koblenz Hbf, Trier Hbf","Auw an der Kyll, Bengel, Birresborn, Bitburg-Erdorf, Bullay(DB), Cochem(Mosel), Daufenbach, Densborn, Ediger-Eller, Ehrang, Ehrang Ort, Föhren,
-Hatzenport, Hetzerath, Hüttingen, Kattenes, Klotten, Kobern-Gondorf, Koblenz-Güls, Koblenz-Moselweiß, Kordel, Kyllburg, Lehmen, Löf, Moselkern,
-Müden(Mosel), Mürlenbach, Neef, Pfalzel, Philippsheim, Pommern(Mosel), Quint, Salmtal, Schweich(DB), Sehlem(Kr Wittlich), Speicher, St Thomas, Treis-
-Karden, Trier Mäusheckerweg, Ürzig(DB), Usch-Zendscheid, Winningen(Mosel), Wittlich Hbf"
+296,Wolfenbüttel,"Dettum, Schöppenstedt"
 297,"Bad Hersfeld, Bebra",Ludwigsau-Friedlos
 298,"Bischofswerda, Zittau","Ebersbach(Sachs), Eibau, Mittelherwigsdorf, Neugersdorf, Neukirch(Lausitz)Ost, Neukirch(Lausitz)W, Neusalza-Spremberg, Niederoderwitz, Oberoderwitz,
 Oberoderwitz Oberd, Putzkau, Rumburk(Gr), Schirgisw-Kirschau, Schmölln(Ol), Sohland, Taubenheim(Spree), Wilthen"
@@ -504,7 +504,7 @@ Oberoderwitz Oberd, Putzkau, Rumburk(Gr), Schirgisw-Kirschau, Schmölln(Ol), Soh
 Eilendorf, Erkelenz, Eschweiler Hbf, Eschweiler-Nothberg, Eschweiler-St.Jöris, Eschweiler-Talbahnh., Eschweiler-Weisweil., Eschweiler-West, Geilenkirchen,
 Heinsberg, Heinsberg-Dremmen, Heinsberg-Horst, Heinsberg-Kreishaus, Heinsberg-Oberbruch, Heinsberg-Porselen, Heinsberg-Randerath, Herrath,
 Herzogenrath, Herzogenrath(Gr), Herzogenrath-A-Merk., Herzogenrath-Aug-S-P, Hückelhoven-Baal, Kohlscheid, Langerwehe, Lindern, Stolberg(Rheinl)Hbf,
-Stolberg-Altstadt, Stolberg-MühlenerBf, Stolberg-Rathaus, Stolberg-Schneidmü, Übach-Palenberg, Wickrath"
+Stolberg-Altstadt, Stolberg-MühlenerBf, Stolberg-Rathaus, Stolberg-Schneidmü, Übach-Palenberg, Wickrath, Würselen-Merzbrück"
 300,"Düren, Horrem","Buir, Merzenich, Sindorf"
 304,"Ascheberg(Holst), Lübeck Hbf, Oldenburg(Holst)","Bad Malente-Gremsmü, Bad Schwartau, Eutin, Haffkrug, Lensahn, Neustadt(Holst), Pansdorf, Plön, Pönitz(Holst), Scharbeutz, Sierksdorf, Timmendorfer
 Strand"
@@ -531,7 +531,7 @@ Dutzendt., Nürnberg-Erlensteg., Nürnberg Frankensta, Nürnberg-Gleißh., Nürn
 Nürnberg-Rehhof, Obereichstätt, Oberferrieden, Ochenbruck, Ottensoos, Pappenheim, Parsberg, Pegnitz, Plankstetten, Poikam, Pollanten, Pölling,
 Pommelsbrunn, Postbauer-Heng, Pressath, Ranna Ort, Rebdorf-Hofmühle, Regensburg-Prüfen., Reichenschwand, Rollhofen, Röthenbach(Pegnitz),
 Röthenbach-Seespitz, Röthenbach-Steinb, Rückersdorf(Mfr), Rupprechtstegen, Saal(Donau), Schnabelwaid, Schnaittach Markt, Schwaig, Schwarzenbach(b
-Pre), Sengenthal, Seubersdorf, Simmelsdorf-Hüttenb, Sinzing, Solnhofen, Speikern, Tauberfeld, Trabitz, Undorf, Velden(b Hersbruck), Vohburg,
+Pre), Sengenthal, Seubersdorf, Simmelsdorf-Hüttenb, Sinzing, Solnhofen, Speikern, Tauberfeld, Trabitz, Undorf, Velden(b Hersbruck), Vohburg-Rockolding,
 Vorbach(Oberpf), Vorra(Pegnitz), Wasserzell(b Eichst), Winkelhaid"
 315,"Bingen(Rhein) Hbf, Boppard Hbf","Bacharach, Boppard-Bad Salzig, Boppard-Hirzenach, Niederheimbach, Oberwesel, St Goar, Trechtingshausen"
 316,"Britz, Löwenberg(Mark)","Alt Hüttendorf, Bergsdorf, Friedrichswalde(Ew), Golzow(Eberswalde), Götschendorf, Hammelspring, Joachimsthal, Joachimsthal Kaiserb, Milmersdorf,
@@ -545,11 +545,11 @@ Niederzeuzheim, Staffel, Steinefrenz, Willmenrod, Wilsenroth"
 322,"Dillenburg, Herborn(Dillkr)","Burg(Dillkr) Nord, Niederscheld(Dillk)S"
 323,"Kufstein, Rosenheim","Brannenburg, Flintsbach, Kiefersfelden, Oberaudorf, Raubling"
 325,"Friedberg(Hess), Gießen, Nidda","Bad Salzhausen, Beienheim, Berstadt-Wohnbach, Borsdorf(Hess), Dorheim(Wetterau), Echzell, Garbenteich, Geiß-Nidda, Gettenau-Bingenheim, Gießen
-Erdkaut Weg, Grund Schwalheim, Häuserhof, Hungen, Inheiden, Langsdorf(Oberhess), Lich(Oberhess), Melbach, Ober Widdersheim, Reichelsheim(Wett),
+Erdkaut Weg, Grund Schwalheim, Häuserhof, Hungen, Inheiden, Langsdorf(Oberhess), Lich(Oberhess), Melbach, Ober-Widdersheim, Reichelsheim(Wett),
 Trais-Horloff, Watzenborn-Steinberg, Weckesheim, Wölfersheim-Södel"
 326,"Delmenhorst, Oldenburg(Oldb)Hbf","Berne, Bookholzberg, Brake(Unterweser), Elsfleth, Hoykenkamp, Hude, Kirchhammelwarden, Kleinensiel, Nordenham, Rodenkirchen(Oldb), Schierbrok,
 Wüsting"
-327,"Eisenach, Gotha","Friedrichroda, Fröttstädt, Hörselgau, Mechterstädt, Reinhardsbrunn-Fried, Sättelstädt, Schönau(Hörsel), Waltershausen, Waltershausen Schnep, Wutha"
+327,"Eisenach Hbf, Gotha","Friedrichroda, Fröttstädt, Hörselgau, Mechterstädt, Reinhardsbrunn-Fried, Sättelstädt, Schönau(Hörsel), Waltershausen, Waltershausen Schnep, Wutha"
 329,"Burg-u.Ndr Gemünden, Gießen","Gießen Licher Str, Göbelnrod, Großen Buseck, Grünberg(Oberhess), Lehnheim, Mücke(Hess), Nieder Ohmen, Reiskirchen(Kr Gi), Saasen"
 330,"Basel Bad Bf, Schaffhausen","Albbruck, Bad Säckingen, Beringen Bad Bf, Beringerfeld, Beuggen, Dogern, Erzingen(Baden), Grenzach, Grießen(Baden), Herten(Baden), Lauchringen,
 Lauchringen West, Laufenburg(Baden), Laufenburg(Baden)Ost, Murg(Baden), Neuhausen Bad Bf, Neunkirch, Rheinfelden(Baden), Schwörstadt, Stühlingen,
@@ -579,7 +579,8 @@ Markelsheim, Niederstetten, Reinsbronn, Rosenberg(Baden), Rot am See, Satteldorf
 348,"Haltern am See, Recklinghausen Hbf",Marl-Sinsen
 349,"Graben-Neudorf, Karlsruhe Hbf","Blankenloch, Friedrichstal(Baden), Karlsruhe-Hagsfeld"
 351,"Herne, Recklinghausen Hbf, Wanne-Eickel Hbf",Recklinghausen Süd
-352,"Halberstadt, Magdeburg Hbf, Schönebeck(Elbe)","Beyendorf, Dodendorf, Hadmersleben, Langenweddingen, Magdeburg-Buckau, Magdeburg Hasselpl, Magdeburg-Salbke, Magdeburg SKET Ipark, Magdeburg
+352,"Halberstadt Hbf, Magdeburg Hbf,
+Schönebeck(Elbe)","Beyendorf, Dodendorf, Hadmersleben, Langenweddingen, Magdeburg-Buckau, Magdeburg Hasselpl, Magdeburg-Salbke, Magdeburg SKET Ipark, Magdeburg
 Südost, Nienhagen(Halberst), Oschersleben(Bode), Osterweddingen, Schönebeck-Frohse"
 353,"Dortmund Hbf, Hamm(Westf)Hbf","Bönen-Nordbögge, Dortmund-Kurl, Dortmund-Scharnhorst, Kamen, Kamen-Methler"
 354,"Emmerich, Wesel","Empel-Rees, Haldern(Rheinl), Mehrhoog, Millingen(b Rees), Praest, Wesel Feldmark"
@@ -618,10 +619,11 @@ Weinböhla Hp, Weixdorf, Weixdorf Bad, Zabeltitz"
 380,"Frankfurt(Main)Hbf, Frankfurt-Höchst,
 Friedberg(Hess), Nidderau","Bad Homburg, Bad Soden(Taunus), Bad Vilbel, Bad Vilbel-Gronau, Bad Vilbel Süd, Brandoberndorf, Bruchenbrücken, Burgholzhausen v d H, Dortelweil,
 Eschborn, Eschborn Süd, Frankfurt(M)Gallusw., Frankfurt(Main)Messe, Frankfurt(Main)West, Frankfurt-Berkersh., Frankfurt-Eschersh., Frankfurt-F. Berg,
-Frankfurt-Rödelheim, Frankfurt-Sossenheim, Friedberg Süd, Friedrichsdorf(Ts), Grävenwiesbach, Groß Karben, Hasselborn, Hausen(Taunus), Hundstadt,
-Köppern, Kronberg(Taunus), Kronberg Süd, Neu-Anspach, Nidderau-Windecken, Niederdorfelden, Niederhöchstadt, Nieder Wöllstadt, Oberursel(Taunus),
-Oberursel-Stierstadt, Oberursel-Weiß/Stei, Okarben, Rodheim v d Höhe, Rosbach v d Höhe, Saalburg(Taunus), Schöneck-Büdesheim, Schöneck-Kilianst.,
-Schöneck-Oberdorfel, Schwalbach(Ts)Limes, Schwalbach(Ts)Nord, Seulberg, Sulzbach(Taunus), Sulzbach(Taunus)Nord, Usingen, Wehrheim, Wilhelmsdorf"
+Frankfurt-Ginnheim, Frankfurt-Rödelheim, Frankfurt-Sossenheim, Friedberg Süd, Friedrichsdorf(Ts), Grävenwiesbach, Groß Karben, Hasselborn,
+Hausen(Taunus), Hundstadt, Köppern, Kronberg(Taunus), Kronberg Süd, Neu-Anspach, Nidderau-Windecken, Niederdorfelden, Niederhöchstadt, Nieder
+Wöllstadt, Oberursel(Taunus), Oberursel-Stierstadt, Oberursel-Weiß/Stei, Okarben, Rodheim v d Höhe, Rosbach v d Höhe, Saalburg(Taunus), Schöneck-
+Büdesheim, Schöneck-Kilianst., Schöneck-Oberdorfel, Schwalbach(Ts)Limes, Schwalbach(Ts)Nord, Seulberg, Sulzbach(Taunus), Sulzbach(Taunus)Nord,
+Usingen, Wehrheim, Wilhelmsdorf"
 381,"Neunkirchen(Saar)Hbf, Türkismühle","Baltersweiler, Hofeld, Namborn, Niederlinxweiler, Oberlinxweiler, Ottweiler(Saar), St Wendel, Walhausen(Saar), Wiebelskirchen"
 382,"Celle, Uelzen","Eschede, Suderburg, Unterlüß"
 384,Sömmerda,"Buttstädt, Großneuhausen, Guthmannshausen, Kiebitzhöhe, Kölleda, Olbersleben-Ellersl."
@@ -639,7 +641,8 @@ Niederwalluf, Oberlahnstein, Oestrich-Winkel, Osterspai, Rüdesheim(Rhein), St G
 395,"Neubrandenburg, Priemerburg, Rostock Hbf,
 Waren(Müritz)","Kavelstorf, Kleeth, Kronskamp, Laage(Meckl), Lalendorf, Langhagen, Malchin, Mölln(Meckl), Neu Wokern, Plaaz, Reuterst Stavenhagen, Scharstorf, Subzin-
 Liessow, Teterow"
-396,"Hesepe, Oldenburg(Oldb)Hbf","Ahlhorn, Alfhausen, Bersenbrück, Cloppenburg, Essen(Oldb), Großenkneten, Huntlosen, Quakenbrück, Sandkrug"
+396,"Delmenhorst, Hesepe","Brettorf, Ganderkesee, Goldenstedt(Oldb), Holdorf(Oldb), Lohne(Oldb), Lutten, Mühlen(Oldb), Neuenkirchen(Oldb), Rechterfeld, Rieste, Steinfeld(Oldb),
+Vechta, Wildeshausen"
 397,"Eichenberg, Göttingen",Friedland(Han)
 398,"Jena Saalbf, Naumburg(Saale)Hbf, Weimar","Apolda, Bad Kösen, Bad Sulza, Camburg(Saale), Dornburg(Saale), Großheringen, Jena-Zwätzen, Niedertrebra, Oßmannstedt, Porstendorf"
 399,"Aulendorf, Herbertingen, Horb, Reutlingen Hbf,
@@ -682,7 +685,7 @@ Sontheim(Schwab), Stetten(Schwab), Türkheim(Bay)Bf, Türkheim(Bay)Markt, Unterr
 Westendorf, Westheim(Schwab), Wiedergeltingen, Wollmetshofen"
 414,"Groß Gerau, Mainz-Bischofsheim",Nauheim(b Gr.Gerau)
 415,"Donauwörth, Ingolstadt Hbf","Burgheim, Genderkingen, Neuburg(Donau), Rain, Rohrenfeld, Straß-Moos, Unterhausen(Bay), Weichering"
-416,Oldenburg(Oldb)Hbf,"Burhafe(Ostfriesl), Esens(Ostfriesl), Jaderberg, Jever, Rastede, Sande, Sanderbusch, Schortens-Heidmü, Varel(Oldb), Wilhelmshaven, Wittmund"
+416,Oldenburg(Oldb)Hbf,"Burhafe(Ostfriesl), Esens(Ostfriesl), Jaderberg, Jever, Rastede, Sande, Schortens-Heidmü, Varel(Oldb), Wilhelmshaven, Wittmund"
 418,"Neukirchen(b Sulzb), Schwandorf,
 Weiden(Oberpf)","Altendorf(b Nabburg), Amberg, Freihöls, Irrenlohe, Königstein(Oberpf), Lind(Oberpf), Luhe, Luhe-Wildenau, Luitpoldhütte, Nabburg, Niedermurach,
 Oberviechtach, Pertolzhofen, Pfreimd, Schönsee(Oberpf), Schwarzach(b Nabb), Schwarzenfeld(Opf), Schwarzhofen, Sulzbach-Rosenberg, Sulzbach-
@@ -721,7 +724,7 @@ Monzingen, Münchweiler(Alsenz), Neidenfels, Neubrücke(Nahe), Nohen, Nohfelden,
 443,"Bonn Hbf, Euskirchen","Alfter-Impekoven, Alfter-Witterschlick, Bonn-Duisdorf, Bonn-Endenich Nord, Bonn Helmholtzstr., Euskirchen-Kuchenhe., Meckenheim(Bz Köln), Meckenheim
 Ind.Park, Meckenheim Kottenfo., Rheinbach, Rheinbach Römer., Swisttal-Odendorf"
 444,"Bensheim, Mannheim Hbf, Riedstadt-Goddelau,
-Worms Hbf","Biblis, Biebesheim, Bobstadt, Bürstadt, Gernsheim, Groß Rohrheim, Hofheim (Ried), Lampertheim, Lorsch, Mannheim Handelshaf, Mannheim-Käfertal,
+Worms Hbf","Biblis, Biebesheim, Bobstadt, Bürstadt, Gernsheim, Groß-Rohrheim, Hofheim (Ried), Lampertheim, Lorsch, Mannheim Hand./Jung., Mannheim-Käfertal,
 Mannheim-Luzenberg, Mannheim-Neckarstadt, Mannheim-Waldhof, Riedrode, Stockstadt(Rhein), Worms Brücke"
 445,"Bensheim, Darmstadt Hbf","Bensheim-Auerbach, Bickenbach(Bergstr), Darmstadt-Eberstadt, Darmstadt Süd, Hähnlein-Alsbach, Pfungstadt, Zwingenberg(Bergstr)"
 446,"Calau(Nl), Cottbus Hbf",Kolkwitz Süd
@@ -800,7 +803,7 @@ Hochkamp, Hamburg Holstenstr., Hamburg-Iserbrook, Hamburg Jungfernst., Hamburg K
 Langenfelde, Hamburg-Othmarschen, Hamburg-Ottensen, Hamburg Reeperbahn, Hamburg-Rissen, Hamburg Stadthausbr., Hamburg-Stellingen, Hamburg-
 Sülldorf, Krupunder, Pinneberg, Prisdorf, Thesdorf, Tornesch, Wedel(Holst)"
 489,"Berlin Gesundbrunnen, Berlin Hbf, Berlin-
-Spandau, Berlin Westkreuz","Berlin Beusselstr., Berlin Jungfernheide, Berlin MesseNord/ICC, Berlin-Wedding, Berlin Westend, Berlin Westhafen"
+Spandau, Berlin Westkreuz","Berlin Beusselstr., Berlin Jungfernheide, Berlin Messe N/ZOB, Berlin-Wedding, Berlin Westend, Berlin Westhafen"
 490,"Berlin Hbf, Berlin Westkreuz","Berlin Bellevue, Berlin-Charlottenbg., Berlin Savignyplatz, Berlin-Tiergarten, Berlin Zoolg. Garten"
 491,Bamberg,"Drosendorf, Giech, Gundelsheim(b Bamb), Memmelsdorf(Oberfr), Scheßlitz"
 493,"Elmshorn, Heide(Holst)","Burg(Dithm), Glückstadt, Herzhorn, Itzehoe, Krempe, Kremperheide, Meldorf, St Michaelisdonn, Wilster"
@@ -828,8 +831,8 @@ Waldhausen(b Schorn), Weiler(Rems), Winterbach(b Schorn)"
 650,"Geltendorf, München-Pasing","Buchenau(Oberbay), Eichenau(Oberbay), Fürstenfeldbruck, Grafrath, München-Aubing, München Leienfels., Puchheim, Schöngeising, Türkenfeld"
 667,"Husum, Westerland(Sylt)","Bredstedt, Keitum, Klanxbüll, Langenhorn(Schlesw), Morsum, Niebüll, Süderlügum, Toender(Gr), Uphusum"
 674,"Lollar, Marburg(Lahn)","Friedelhausen, Fronhausen(Lahn), Marburg Süd, Niederwalgern, Niederweimar"
-679,"Bamberg, Erlangen","Baiersdorf, Bubenreuth, Buttenheim, Ebermannstadt, Eggolsheim, Forchheim(Oberfr), Gosberg, Hirschaid, Kersbach, Kirchehrenbach, Pinzberg, Pretzfeld,
-Strullendorf, Wiesenthau"
+679,"Bamberg, Erlangen","Baiersdorf, Bubenreuth, Buttenheim, Ebermannstadt, Eggolsheim, Forchheim(Oberfr), Forchheim Nord, Gosberg, Hirschaid, Kersbach, Kirchehrenbach,
+Pinzberg, Pretzfeld, Strullendorf, Wiesenthau"
 680,Erlangen,"Herzogenaurach, Niederndorf"
 681,"Baden-Baden, Kehl, Offenburg","Achern, Achern Stadt, Appenweier, Baden-Baden Rebland, Bad Griesbach(Schw), Bad Peterstal, Bühl(Baden), Furschenbach, Hubacker, Ibach, Kappelrodeck,
 Kork, Lautenbach(Baden), Legelshurst, Löcherberg, Oberachern, Oberachern Bindfaden, Oberkirch, Oberkirch-Köhlersdl, Oppenau, Ottenhöfen, Ottenhöfen
@@ -868,7 +871,7 @@ Zwenkau-Großdalzig"
 1016,"Dessau Hbf, Köthen","Dessau-Alten, Dessau-Mosigkau, Elsnigk(Anh), Osternienburg"
 1017,"Markkleeberg-Großst, Neukieritzsch","Böhlen(Leipzig), Böhlen Werke, Großdeuben, Markkleeberg-Gaschwi"
 1019,"Aschersleben, Güsten","Giersleben, Schierstedt"
-1020,"Halberstadt, Vienenburg","Darlingerode, Heudeber-Danstedt, Ilsenburg, Stapelburg, Wernigerode Elmowerk, Wernigerode Hbf"
+1020,"Halberstadt Hbf, Vienenburg","Darlingerode, Heudeber-Danstedt, Ilsenburg, Stapelburg, Wernigerode Elmowerk, Wernigerode Hbf"
 1025,"Magdeburg-Rothensee, Oebisfelde","Barleben, Bösdorf(Sachs-Anh), Flechtingen, Groß Ammensleben, Haldensleben, Meitzendorf, Rätzlingen, Vahldorf, Wegenstedt"
 1027,"Halle(Saale)Hbf, Köthen","Arensdorf(Köthen), Niemberg, Stumsdorf, Weißandt-Gölzau, Zöberitz"
 1028,"Bitterfeld, Halle(Saale)Hbf","Brehna, Hohenthurm, Landsberg(Halle), Roitzsch(Bitterf)"
@@ -905,7 +908,7 @@ Zscherben"
 1044,"Bischofswerda, Löbau(Sachs)","Bautzen, Breitendorf, Demitz-Thumitz, Kubschütz, Pommritz, Seitschen"
 1049,Hockeroda,"Bad Lobenstein, Blankenstein(Saale), Harra, Harra Nord, Leutenberg, Lichtentanne(Thür), Unterlemnitz, Wurzbach(Thür)"
 1052,Rottenbach,"Bechstedt-Trippstein, Katzhütte, Mellenbach-Glasbach, Meuselbach-Schwarzm, Obstfelderschmiede, Schwarzburg, Sitzendorf-Unterw"
-1054,"Frose, Halberstadt","Ditfurt, Gatersleben, Hedersleben-Wedderst, Nachterstedt-Hoym, Neinstedt, Quedlinburg, Thale Hbf, Thale Musestieg, Wegeleben"
+1054,"Frose, Halberstadt Hbf","Ditfurt, Gatersleben, Hedersleben-Wedderst, Nachterstedt-Hoym, Neinstedt, Quedlinburg, Thale Hbf, Thale Musestieg, Wegeleben"
 1061,Naumburg(Saale)Hbf,"Balgstädt, Freyburg(Unstrut), Karsdorf, Kirchscheidungen, Kleinjena, Laucha(Unstrut), Naumburg-Roßbach, Nebra, Reinsdorf(bei Nebra), Wangen(Unstrut)"
 1064,"Sandersleben(Anh), Sangerhausen","Hettstedt, Klostermansfeld"
 1065,"Frankfurt(Oder), Fürstenwalde(Spree), Königs
@@ -915,17 +918,17 @@ Pfaffendorf(Mark), Schneeberg(Mark), Storkow(Mark), Wendisch-Rietz, Zernsdorf"
 1066,"Bretleben, Sömmerda","Etzleben, Griefstedt, Heldrungen, Leubingen"
 1067,"Bretleben, Sangerhausen","Artern, Oberröblingen, Reinsdorf(Artern), Voigtstedt"
 1070,"Königs Wusterhausen, Lübben(Spreewald)","Bestensee, Brand Trop. Islands, Groß Köris, Halbe, Lubolz, Oderin, Schönwalde(Spreew), Zeesen"
-1071,Merseburg Hbf,"Beuna(Geiseltal), Braunsbedra, Braunsbedra Ost, Frankleben, Krumpa, Langeneichstädt, Merseburg Bergmannsr, Mücheln(Geiselt) St, Mücheln(Geiseltal),
+1071,Merseburg Hbf,"Beuna(Geiseltal), Braunsbedra, Braunsbedra Pf., Frankleben, Krumpa, Langeneichstädt, Merseburg Bergmannsr, Mücheln(Geiselt) St, Mücheln(Geiseltal),
 Nemsdorf-Göhrendorf, Querfurt"
 1072,"Röblingen am See, Sangerhausen","Blankenheim(Sangerh), Erdeborn, Lutherstadt Eisleben, Riestedt, Wolferode"
-1074,Halberstadt,"Blankenburg(Harz), Börnecke(Harz), Halberstadt Oststr, Halberstadt-Spiegels, Langenstein"
+1074,Halberstadt Hbf,"Blankenburg(Harz), Börnecke(Harz), Halberstadt Oststr, Halberstadt-Spiegels, Langenstein"
 1075,"Neuruppin West, Wittenberge","Dossow(Prign), Fretzdorf, Groß Pankow, Heiligengrabe, Liebenthal(Prign), Netzeband, Perleberg, Pritzwalk, Rossow(Fretzdorf), Walsleben, Weisen,
 Wittstock(Dosse)"
 1079,"Gera Hbf, Zeitz","Bad Köstritz, Crossen a d Elster, Crossen Ort, Gera-Langenberg, Wetterzeube"
 1080,"Calbe(Saale) Ost, Schönebeck(Elbe)","Gnadau, Schönebeck-Felgel"
 1081,"Nordhausen, Sangerhausen","Bennungen, Berga-Kelbra, Görsbach, Heringen(Helme), Roßla, Wallhausen(Helme)"
 1084,"Calbe(Saale) Ost, Calbe(Saale) West",Calbe(Saale) Stadt
-1085,"Eisenach, Wernshausen","Bad Salzungen, Breitungen(Werra), Ettenhausen, Förtha(Eisenach), Immelborn, Marksuhl, Oberrohn"
+1085,"Eisenach Hbf, Wernshausen","Bad Salzungen, Breitungen(Werra), Ettenhausen, Förtha(Eisenach), Immelborn, Marksuhl, Oberrohn"
 1087,Plaue(Thür),"Elgersburg, Geraberg, Ilmenau, Ilmenau Bad, Ilmenau Pörl. Höhe, Ilmenau-Roda, Manebach, Martinroda, Rennsteig, Stützerbach"
 1088,"Bad Langensalza, Leinefelde","Ammern, Birkungen, Dachrieden, Großengottern, Mühlhausen(Thür), Schönstedt, Seebach(Mühlhausen), Silberhausen"
 1089,"Eilenburg, Falkenberg(Elster)","Beilrode, Doberschütz, Eilenburg Ost, Mockrehna, Rehfeld(Falkenberg), Torgau"
@@ -938,7 +941,6 @@ Sassnitz(Gr), Sassnitz Fährhafen, Stralsund Rügendamm, Teschenhagen"
 Neustadt(Sachs), Pirna-Copitz, Pirna-Copitz Nord, Porschdorf(Pirna), Rathmannsdorf(Pirna), Sebnitz(Gr), Sebnitz(Sachs), Stolpen, Ulbersdorf"
 1099,"Berlin Friedrichstr, Berlin Gesundbrunnen","Berlin Humboldthain, Berlin Nordbahnhof, Berlin Oranienb.Str."
 1100,"Eilsleben(Magdeb), Magdeburg Hbf","Dreileben-Drackenst, Magdeburg-Sudenburg, Niederndodeleben, Ochtmersleben, Ovelgünne, Wellen(Magdeburg)"
-1101,"Eilsleben(Magdeb), Helmstedt","Marienborn, Wefensleben"
 1105,"Güsten, Schönebeck(Elbe)","Eggersdorf, Eickendorf, Förderstedt, Neundorf(Anh), Schönebeck-Bad Salz, Schönebeck Süd, Staßfurt"
 1111,"Jüterbog, Luth. Wittenberg Hbf, Michendorf,
 Potsdam Pirschheide, Roßlau(Elbe)","Altes Lager, Bad Belzig, Baitz, Beelitz-Heilstätten, Beelitz Stadt, Borkheide, Brück(Mark), Buchholz(Zauche), Caputh-Geltow, Caputh Schwielowsee,
@@ -1001,7 +1003,7 @@ Mellingen(Thür), Neue Schenke, Oberweimar, Orlamünde, Papiermühle(Stadtr), P�
 Sonneberg(Thür)Ost, Steinach(Thür), Steinach(Thür)Süd"
 1312,"Sonneberg(Thür)Hbf, Themar","Bachfeld, Effelder(Thür), Eisfeld, Harras(Thür), Hildburghausen, Mengersgereuth-H, Mengersgereuth-H Ost, Rauenstein(Thür), Reurieth, Schalkau, Schalkau
 Mitte, Seltendorf, Sonneberg(Thür)West, Veilsdorf"
-1315,"Eisenach, Gerstungen","Eisenach Opelwerk Hp, Eisenach West, Herleshausen Hp, Hörschel Hp"
+1315,"Eisenach Hbf, Gerstungen","Eisenach Opelwerk Hp, Eisenach West, Herleshausen Hp, Hörschel Hp"
 1318,"Leinefelde, Nordhausen, Sondershausen","Bernterode, Bleicherode Ost, Gebra(Hainleite), Gernrode-N.erorschel, Glückauf, Großfurra, Hausen(Eichsfeld), Kleinfurra, Nohra(Wipper), Sollstedt,
 Werther, Wipperdorf, Wolkramshausen"
 1319,"Nordhausen, Walkenried","Ellrich, Niedersachswerfen, Nordhausen-Salza, Woffleben"

@@ -162,8 +162,8 @@ Berlin-Mahlsdorf,11343,CITY,101,Berlin Friedrichstr,10038,Berlin
 Berlin-Marienfelde,11345,CITY,101,Berlin Friedrichstr,10038,Berlin
 Berlin-Marzahn,11347,CITY,101,Berlin Friedrichstr,10038,Berlin
 Berlin Mehrow.Allee,11348,CITY,101,Berlin Friedrichstr,10038,Berlin
-Berlin MesseNord/ICC,11166,CITY,101,Berlin Friedrichstr,10038,Berlin
-Berlin MesseNord/ICC,11166,TARIF,101,Berlin Friedrichstr,10038,Berlin
+Berlin Messe N/ZOB,11166,CITY,101,Berlin Friedrichstr,10038,Berlin
+Berlin Messe N/ZOB,11166,TARIF,101,Berlin Friedrichstr,10038,Berlin
 Berlin MesseS(Eichk),11350,CITY,101,Berlin Friedrichstr,10038,Berlin
 Berlin Mexikoplatz,11353,CITY,101,Berlin Friedrichstr,10038,Berlin
 Berlin-Neukölln,11207,CITY,101,Berlin Friedrichstr,10038,Berlin
@@ -529,7 +529,6 @@ Düsseldorf-Zoo,1583,CITY,101,Düsseldorf Hbf,85,Düsseldorf
 Düsseldorf-Zoo,1583,TARIF,31,Düsseldorf Hbf,85,Düsseldorf
 Ebersbrunn,11446,CITY,101,Zwickau(Sachs)Hbf,10397,Zwickau(Sachs)
 Edelfingen,1660,TARIF,51,Bad Mergentheim,724,Bad Mergentheim
-Ehrang,370,CITY,101,Trier Hbf,134,Trier
 Ehrang Ort,1688,CITY,101,Trier Hbf,134,Trier
 Eilendorf,1712,CITY,101,Aachen Hbf,1,Aachen
 Einsiedel,11466,CITY,101,Chemnitz Hbf,10184,Chemnitz
@@ -810,7 +809,6 @@ Hamburg-Tiefstack,5870,CITY,101,Hamburg-Sternschanze,146,Hamburg
 Hamburg-Tonndorf,6197,CITY,101,Hamburg-Sternschanze,146,Hamburg
 Hamburg-Veddel,6062,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
 Hamburg Wandsb.Chaus,6198,CITY,101,Hamburg-Sternschanze,146,Hamburg
-Hamburg-Wandsbek,2560,CITY,101,Hamburg-Sternschanze,146,Hamburg
 Hamburg-Wellingsb.,6319,CITY,101,Hamburg-Sternschanze,146,Hamburg
 Hamburg-Wilhelmsburg,2561,CITY,101,Hamburg-Harburg,147,Hamburg-Harburg
 Hameln,148,CITY,101,Hameln,148,Hameln
@@ -1163,7 +1161,7 @@ Mainz Waggonfabrik,6136,CITY,101,Mainz Hbf,240,Mainz
 Mainz Waggonfabrik,6136,TARIF,71,Mainz Hbf,240,Mainz
 Mannheim ARENA/Maim.,3841,CITY,101,Mannheim Hbf,244,Mannheim
 Mannheim-Friedrich.S,3842,CITY,101,Mannheim Hbf,244,Mannheim
-Mannheim Handelshaf,6508,CITY,101,Mannheim Hbf,244,Mannheim
+Mannheim Hand./Jung.,6508,CITY,101,Mannheim Hbf,244,Mannheim
 Mannheim Hbf,244,CITY,101,Mannheim Hbf,244,Mannheim
 Mannheim-Käfertal,3843,CITY,101,Mannheim Hbf,244,Mannheim
 Mannheim-Luzenberg,6509,CITY,101,Mannheim Hbf,244,Mannheim
@@ -1546,9 +1544,11 @@ Tauberbischofsheim,5827,TARIF,51,Tauberbischofsheim,5827,Tauberbischofsheim
 Taufkirchen,5831,CITY,101,München Hbf,261,München
 Thesdorf,5858,CITY,101,Hamburg-Sternschanze,146,Hamburg
 Traunreut,5894,TARIF,1,Hörpolding,2914,Traunreut
+Trier Hafenstraße,5904,CITY,101,Trier Hbf,134,Trier
 Trier Hbf,134,CITY,101,Trier Hbf,134,Trier
-Trier Mäusheckerweg,5904,CITY,101,Trier Hbf,134,Trier
+Trier-Pallien,4752,CITY,101,Trier Hbf,134,Trier
 Trier Süd,5905,CITY,101,Trier Hbf,134,Trier
+Trier West,5906,CITY,101,Trier Hbf,134,Trier
 Trompet,5910,CITY,101,Duisburg Hbf,86,Duisburg
 Tübingen-Derending.,5917,CITY,101,Tübingen Hbf,141,Tübingen
 Tübingen Hbf,141,CITY,101,Tübingen Hbf,141,Tübingen
