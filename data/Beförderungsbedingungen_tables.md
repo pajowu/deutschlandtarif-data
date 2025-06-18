@@ -1,7 +1,7 @@
 # **Beförderungsbedingungen** **Deutsche Bahn AG**
 
 **Neuausgabe vom 15. Dezember 2024**
-**Aktualisierter Stand vom 15. Juni 2025**
+**Aktualisierter Stand vom 18. Juni 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -349,6 +349,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
 ||- <br>Nr. 3.3.1.4, Anlage 1 zu Nr. 2.1.1: Aufnahme, dass der Sparpreis Young und Super<br>Sparpreis Young auch im personalbedienten Verkauf ausgegeben wird<br>- <br>Nr. 3.6: Namensangabe bei Gruppenbuchungen<br>- <br>Nr. 3.6.2.1: Anpassung der Vorverkaufsfrist von Gruppenbuchungen auf 12 Monate<br>- <br>Nr. 4.2: Anpassung der Stornierungsbedingungen des Flexpreis<br>- <br>Nr. 5.2, Anlage 1 zu Nr. 2.1.1: Entfall der Familienreservierung und Anpassung des<br>Reservierungsentgelts<br>BahnCard<br>- <br>Nr. 2.3, 2.3.2, 2.6.1.1, 2.8.2, 3.2.6, 3.5, 3.5.1, 3.5.2, 3.5.3, 3.5.4, 3.5.5: Herauslösen<br>der Inhalte zur Partnerkarte<br>- <br>2.6.1.1: Zusendung der BahnCard Rechnung an hinterlegte Mailadresse<br>- <br>3.2.1, 3.2.3, 3.2.3.1, 3.2.3.2, 3.2.3.3, 3.2.5, 3.2.6, 3.3.2, 3.5, 3.6.2, 3.6.3, 3.9.2,<br>3.9.2.1, 3.11: Herauslösen der Inhalte zur BahnCard 100 im Abonnement<br>Aktionsangebote<br>- <br>E.8: Nr. 1, 3.1, 3.2, 4.3: Verlängerung des Aktionszeitraums und Reisezeitraums<br>- <br>E.19: Nr. 1: Anpassung Grundsätze<br>E.19 Nr. 2: Anpassung Aktionszeitraum ab 15. Juni 2025<br>E.19 Nr. 3: Ausgabe der Fahrkarten mit Nahverkehrsanteil und City-Ticket<br>E.19 Nr. 3.3: entfällt<br>E.19 Nr. 3.5 entfällt, Inhalte zum BahnCard Rabatt sind in Nr. 3.1 integriert<br>E.19 Nr. 4.1: Preisanpassung<br>- <br>E.27: My BahnCard 50 zum Aktionspreis<br>- <br>E.28: Aktionsrabatt auf den Flexpreis und Flexpreis Business<br>- <br>E.29: Aktionsrabatt auf Monatskarten<br>- <br>E.30: BahnCard Business 25 Klima<br>bahn.business<br>- <br>Nr. 3.7.2: Anpassung Verweis auf Satz 3 Nr. 4.2 BB Personenverkehr<br>- <br>Nr. 3.8.4.3: Herauslösen der Inhalte zur Partnerkarte<br>- <br>Nr. 3.8.4.4: Herauslösen der Inhalte zur BahnCard Kreditkarte|
+|20/2025|Aktionsangebote<br>- <br>E.1 Nr. 1.3.4: Rabattaktion für Nutzer eines DB Filters auf TikTok|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -2932,7 +2933,7 @@ nicht genutzter Plätze in das kostenfreie Reservierungskontingent nach Nr. 3.9.
 3.10.1 Für Inhaber einer BahnCard 100 gelten die Nrn. 9.1.3, 9.2 und 9.3 BB Personenverkehr
 mit der Maßgabe, dass diese bei Ausfall, Verspätung oder Anschlussversäumnis von Zügen ab 60
 Minuten eine Erstattung bzw. Entschädigung in Höhe von 10 €, Inhaber einer BahnCard 100 1.
-Klasse eine solche in Höhe von 15 € erhalten, insgesamt max. 25 % des gezahlten BahnCardPreises. Verspätungen können nicht zwecks ErCreichen der Zeitgrenze nach Satz 1 addiert werden.
+Klasse eine solche in Höhe von 15 € erhalten, insgesamt max. 25 % des gezahlten BahnCardPreises. Verspätungen können nicht zwecks Erreichen der Zeitgrenze nach Satz 1 addiert werden.
 Aufwendungen gemäß den Nummern 9.1.5 und 9.1.6 BB Personenverkehr für Weiterfahrten in
 
 anderen Verkehrsmitteln werden nur bis zu einem Betrag von insgesamt max. 25 % des gezahlten
@@ -3116,7 +3117,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 15.06.2025**
+## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 18.06.2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3149,7 +3150,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |19/2025|- <br>E.27: My BahnCard 50 zum Aktionspreis<br>|15.06. - 13.12.2025|15.06. - 13.12.2025|
 |19/2025|- <br>E.28: Aktionsrabatt auf den Flexpreis und Flexpreis Business<br>|15.06. – 31.07.2025|15.06. – 31.07.2025|
 |19/2025|- <br>E.29: Aktionsrabatt auf Monatskarten<br>|15.06. – 28.06.2025|15.06. – 28.06.2025|
-|19/2025|- <br>E.30: BahnCard Business 25 Klima|01.07. – 31.07.2025|01.07. – 31.07.2025|
+|19/2025|- <br>E.30: BahnCard Business 25 Klima<br>|01.07. – 31.07.2025|01.07. – 31.07.2025|
+|20/2025|- <br>E.1 Nr. 1.3.4: Rabattaktion für Nutzer eines DB Filters auf<br>TikTok|18.06. – 13.07.2025|18.06. – 13.07.2025|
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -3312,6 +3314,9 @@ einzulösende Aktionsgutscheine können nur im eingeloggten Bereich verwendet we
 |---|---|---|---|---|---|---|---|
 |||Klasse gemäß Nr. 3<br>BahnCard<br>Bedingungen||||||
 |25% Rabattgutschein<br>für Flexpreise der<br>1.Klasse|BahnCard 25/50<br>Inhaber|Fahrkarten zum<br>Flexpreis gemäß<br>Nr. 3.2 BB<br>Personenverkehr der<br>1. Wagenklasse<br>ab 19,99 €<br>Mindestfahrkartenwert|13.05.2025 –<br>30.06.2025|13.05.2025 -<br>30.06.2025|13.05.2025 –<br>30.06.2025|||
+|50% Rabattaktion für<br>Nutzer eines DB-<br>Filters auf TikTok|Nutzer eines DB Filters<br>auf TikTok|Fahrkarten gemäß Nr.<br>3.3 BB<br>Personenverkehr|18.06.2025<br>– <br>13.07.2025|18.06.2025 –<br>20.07.2025|Bis 13.12.2025|Weitere Infos<br>unter:<br>db-tiktok-ticket.de<br>||
+
+
 
 
 
