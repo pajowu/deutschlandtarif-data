@@ -1,7 +1,7 @@
 # **Beförderungsbedingungen** **Deutsche Bahn AG**
 
 **Neuausgabe vom 15. Dezember 2024**
-**Aktualisierter Stand vom 18. Juni 2025**
+**Aktualisierter Stand vom 30. Juni 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -217,108 +217,107 @@ E.29 Bedingungen für die Aktion „Aktionsrabatt auf Monatskarten“ ..........
 E.30 Bedingungen für das Aktionsangebot „BahnCard Business 25 Klima“ ............................. 86
 
 
-**F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 88**
+E.31 Bedingungen für die Aktionen „44-Stunden-Ticket Young“ .............................................. 86
 
 
-F.1 Geltungsbereich ................................................................................................................ 88
+**F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 89**
 
 
-F.2 Aufgabe von Reisegepäck .................................................................................................. 88
+F.1 Geltungsbereich ................................................................................................................ 89
 
 
-F.3 Verpackung........................................................................................................................ 89
+F.2 Aufgabe von Reisegepäck .................................................................................................. 89
 
 
-F.4 Entgelt für die Gepäckbeförderung ................................................................................... 89
+F.3 Verpackung........................................................................................................................ 90
 
 
-F.5 Stornierung ....................................................................................................................... 89
+F.4 Entgelt für die Gepäckbeförderung ................................................................................... 90
 
 
-F.6 Entschädigungen bei Verlust und bei verspäteter Auslieferung ........................................ 90
+F.5 Stornierung ....................................................................................................................... 90
+
+
+F.6 Entschädigungen bei Verlust und bei verspäteter Auslieferung ........................................ 91
 
 
 **G** **Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten**
-**(bahn.business) ............................................................................................................................ 92**
+**(bahn.business) ............................................................................................................................ 93**
 
 
-G.1 Anwendungsbereich .......................................................................................................... 92
+G.1 Anwendungsbereich .......................................................................................................... 93
 
 
-G.2 Teilnahmebedingungen ..................................................................................................... 92
+G.2 Teilnahmebedingungen ..................................................................................................... 93
 
 
-G.3 Gewährung von Bonusleistungen ...................................................................................... 92
+G.3 Gewährung von Bonusleistungen ...................................................................................... 93
 
 
-G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 96
+G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 97
 
 
 G.5 Gewährung von Rabatt für Reisen zu Rehabilitations-/Kuraufenthalten für
-Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 97
+Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 98
 
 
-**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ..... 102**
+**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ..... 103**
 
 
-I.1 Anwendungsbereich ........................................................................................................ 102
+I.1 Anwendungsbereich ........................................................................................................ 103
 
 
-I.2 Erwerb ............................................................................................................................. 102
+I.2 Erwerb ............................................................................................................................. 103
 
 
-I.3 Vorverkaufsfristen ........................................................................................................... 102
+I.3 Vorverkaufsfristen ........................................................................................................... 103
 
 
-I.4 Bleibt frei......................................................................................................................... 102
+I.4 Bleibt frei......................................................................................................................... 103
 
 
-I.5 BahnCard-Bestellung ...................................................................................................... 102
+I.5 BahnCard-Bestellung ...................................................................................................... 103
 
 
-I.6 Digitale Tickets ................................................................................................................ 102
+I.6 Digitale Tickets ................................................................................................................ 103
 
 
-I.7 Bleibt frei......................................................................................................................... 103
+I.7 Bleibt frei......................................................................................................................... 104
 
 
-I.8 Stornierung (Erstattung und Umtausch) ......................................................................... 104
+I.8 Stornierung (Erstattung und Umtausch) ......................................................................... 105
 
 
-I.9 Zahlarten ......................................................................................................................... 104
+I.9 Zahlarten ......................................................................................................................... 105
 
 
-I.10 Belege im Sinne des deutschen Steuerrechts .................................................................. 104
+I.10 Belege im Sinne des deutschen Steuerrechts .................................................................. 105
 
 
-I.11 Datenschutz/Datensicherheit ......................................................................................... 104
+I.11 Datenschutz/Datensicherheit ......................................................................................... 105
 
 
-I.12 Sonstiges ......................................................................................................................... 105
+I.12 Sonstiges ......................................................................................................................... 106
 
 
-I.13 Anfragen/Kontakt............................................................................................................ 105
+I.13 Anfragen/Kontakt............................................................................................................ 106
 
 
-**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 108**
+**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 109**
 
 
-K.1 Allgemeines ..................................................................................................................... 108
+K.1 Allgemeines ..................................................................................................................... 109
 
 
-K.2 Grundsätzliche Regelungen ............................................................................................. 108
+K.2 Grundsätzliche Regelungen ............................................................................................. 109
 
 
-K.3 Fahrgastrechte ................................................................................................................ 109
+K.3 Fahrgastrechte ................................................................................................................ 110
 
 
-K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 109
+K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 110
 
-
-Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen .......................... 116
-
-5
-
+Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen .......................... 117
 
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
@@ -348,8 +347,9 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
-||- <br>Nr. 3.3.1.4, Anlage 1 zu Nr. 2.1.1: Aufnahme, dass der Sparpreis Young und Super<br>Sparpreis Young auch im personalbedienten Verkauf ausgegeben wird<br>- <br>Nr. 3.6: Namensangabe bei Gruppenbuchungen<br>- <br>Nr. 3.6.2.1: Anpassung der Vorverkaufsfrist von Gruppenbuchungen auf 12 Monate<br>- <br>Nr. 4.2: Anpassung der Stornierungsbedingungen des Flexpreis<br>- <br>Nr. 5.2, Anlage 1 zu Nr. 2.1.1: Entfall der Familienreservierung und Anpassung des<br>Reservierungsentgelts<br>BahnCard<br>- <br>Nr. 2.3, 2.3.2, 2.6.1.1, 2.8.2, 3.2.6, 3.5, 3.5.1, 3.5.2, 3.5.3, 3.5.4, 3.5.5: Herauslösen<br>der Inhalte zur Partnerkarte<br>- <br>2.6.1.1: Zusendung der BahnCard Rechnung an hinterlegte Mailadresse<br>- <br>3.2.1, 3.2.3, 3.2.3.1, 3.2.3.2, 3.2.3.3, 3.2.5, 3.2.6, 3.3.2, 3.5, 3.6.2, 3.6.3, 3.9.2,<br>3.9.2.1, 3.11: Herauslösen der Inhalte zur BahnCard 100 im Abonnement<br>Aktionsangebote<br>- <br>E.8: Nr. 1, 3.1, 3.2, 4.3: Verlängerung des Aktionszeitraums und Reisezeitraums<br>- <br>E.19: Nr. 1: Anpassung Grundsätze<br>E.19 Nr. 2: Anpassung Aktionszeitraum ab 15. Juni 2025<br>E.19 Nr. 3: Ausgabe der Fahrkarten mit Nahverkehrsanteil und City-Ticket<br>E.19 Nr. 3.3: entfällt<br>E.19 Nr. 3.5 entfällt, Inhalte zum BahnCard Rabatt sind in Nr. 3.1 integriert<br>E.19 Nr. 4.1: Preisanpassung<br>- <br>E.27: My BahnCard 50 zum Aktionspreis<br>- <br>E.28: Aktionsrabatt auf den Flexpreis und Flexpreis Business<br>- <br>E.29: Aktionsrabatt auf Monatskarten<br>- <br>E.30: BahnCard Business 25 Klima<br>bahn.business<br>- <br>Nr. 3.7.2: Anpassung Verweis auf Satz 3 Nr. 4.2 BB Personenverkehr<br>- <br>Nr. 3.8.4.3: Herauslösen der Inhalte zur Partnerkarte<br>- <br>Nr. 3.8.4.4: Herauslösen der Inhalte zur BahnCard Kreditkarte|
+||- <br>Nr. 3.3.1.4, Anlage 1 zu Nr. 2.1.1: Aufnahme, dass der Sparpreis Young und Super<br>Sparpreis Young auch im personalbedienten Verkauf ausgegeben wird<br>- <br>Nr. 3.6: Namensangabe bei Gruppenbuchungen<br>- <br>Nr. 3.6.2.1: Anpassung der Vorverkaufsfrist von Gruppenbuchungen auf 12 Monate<br>- <br>Nr. 4.2: Anpassung der Stornierungsbedingungen des Flexpreis<br>- <br>Nr. 5.2, Anlage 1 zu Nr. 2.1.1: Entfall der Familienreservierung und Anpassung des<br>Reservierungsentgelts<br>BahnCard<br>- <br>Nr. 2.3, 2.3.2, 2.6.1.1, 2.8.2, 3.2.6, 3.5, 3.5.1, 3.5.2, 3.5.3, 3.5.4, 3.5.5: Herauslösen<br>der Inhalte zur Partnerkarte<br>- <br>Nr. 2.6.1.1: Zusendung der BahnCard Rechnung an hinterlegte Mailadresse<br>- <br>Nr. 3.2.1, 3.2.3, 3.2.3.1, 3.2.3.2, 3.2.3.3, 3.2.5, 3.2.6, 3.3.2, 3.5, 3.6.2, 3.6.3, 3.9.2,<br>3.9.2.1, 3.11: Herauslösen der Inhalte zur BahnCard 100 im Abonnement<br>Aktionsangebote<br>- <br>E.8: Nr. 1, 3.1, 3.2, 4.3: Verlängerung des Aktionszeitraums und Reisezeitraums<br>- <br>E.19: Nr. 1: Anpassung Grundsätze<br>E.19 Nr. 2: Anpassung Aktionszeitraum ab 15. Juni 2025<br>E.19 Nr. 3: Ausgabe der Fahrkarten mit Nahverkehrsanteil und City-Ticket<br>E.19 Nr. 3.3: entfällt<br>E.19 Nr. 3.5 entfällt, Inhalte zum BahnCard Rabatt sind in Nr. 3.1 integriert<br>E.19 Nr. 4.1: Preisanpassung<br>- <br>E.27: My BahnCard 50 zum Aktionspreis<br>- <br>E.28: Aktionsrabatt auf den Flexpreis und Flexpreis Business<br>- <br>E.29: Aktionsrabatt auf Monatskarten<br>- <br>E.30: BahnCard Business 25 Klima<br>bahn.business<br>- <br>Nr. 3.7.2: Anpassung Verweis auf Satz 3 Nr. 4.2 BB Personenverkehr<br>- <br>Nr. 3.8.4.3: Herauslösen der Inhalte zur Partnerkarte<br>- <br>Nr. 3.8.4.4: Herauslösen der Inhalte zur BahnCard Kreditkarte|
 |20/2025|Aktionsangebote<br>- <br>E.1 Nr. 1.3.4: Rabattaktion für Nutzer eines DB Filters auf TikTok|
+|21/2025|Aktionsangebote:<br>- <br>E.31: Bedingungen für die Aktionen „44-Stunden-Ticket Young“|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -3117,7 +3117,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 18.06.2025**
+## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 30.06.2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3151,7 +3151,10 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |19/2025|- <br>E.28: Aktionsrabatt auf den Flexpreis und Flexpreis Business<br>|15.06. – 31.07.2025|15.06. – 31.07.2025|
 |19/2025|- <br>E.29: Aktionsrabatt auf Monatskarten<br>|15.06. – 28.06.2025|15.06. – 28.06.2025|
 |19/2025|- <br>E.30: BahnCard Business 25 Klima<br>|01.07. – 31.07.2025|01.07. – 31.07.2025|
-|20/2025|- <br>E.1 Nr. 1.3.4: Rabattaktion für Nutzer eines DB Filters auf<br>TikTok|18.06. – 13.07.2025|18.06. – 13.07.2025|
+|20/2025|- <br>E.1 Nr. 1.3.4: Rabattaktion für Nutzer eines DB Filters auf<br>TikTok<br>|18.06. – 13.07.2025|18.06. – 13.07.2025|
+|21/2025|- <br>E.31: Bedingungen für die Aktionen „44-Stunden-Ticket<br>Young“|30.06 – 27.07.2025|30.06 – 27.07.2025|
+
+
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -4706,6 +4709,74 @@ Abweichend von Nr. 3.8.4.2 und Nr. 3.8.4.3 der bahn.business Bedingungen und Nr.
 BahnCard Bedingungen ist der Umtausch jeglicher bestehender BahnCards in die BahnCard
 Business 25 Klima ausgeschlossen.
 
+
+**E.31** **Bedingungen für die Aktionen „44-Stunden-Ticket Young“**
+
+
+**1. Grundsatz**
+
+Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
+AG (BB Personenverkehr), sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und
+BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
+
+
+**2. Angebot**
+Im Zeitraum vom 30. Juni bis zum 27. Juli 2025 (Verkaufszeitraum) wird das Angebot
+„44- Stunden-Ticket Young“ für die Wochenenden 4. – 6. Juli 2025, 11. – 13. Juli 2025, 18. – 20.
+Juli 2025 und 25. – 27. Juli 2025 jeweils von Freitag, 18 Uhr, bis Sonntag, 14 Uhr (jeweiliger
+Reisezeitraum) angeboten.
+
+
+**3. Fahrkarten**
+
+3.1 Der Erwerb von Fahrkarten „44-Stunden-Ticket Young“ ist über den digitalen Verkauf als
+digitales Ticket für Personen bis einschließlich 26 Jahre möglich.
+
+
+3.2 Die Fahrkarten werden ausschließlich für die 2. Wagenklasse zum Festpreis von 44 Euro
+ausgegeben. Ein BahnCard Rabatt wird nicht gewährt. Das Angebot ist kontingentiert und wird im
+Rahmen der Verfügbarkeit ausgegeben. Soweit das bereitgestellte Kontingent aufgebraucht ist, ist
+ein Erwerb nicht mehr möglich.
+
+
+3.3 Ein Rabatt für Kinder gemäß Nr. 3.7.4 BB Personenverkehr wird nicht gewährt. Abweichend
+von Nummer 3.7.2 und 3.7.3 BB Personenverkehr wird keine kostenfreie Kindermitnahme
+
+angeboten.
+
+
+3.4 Die Fahrkarten „44-Stunden-Ticket Young“ werden ohne City-Ticket nach Nr. 3.5 BB
+Personenverkehr ausgegeben.
+
+
+3.5 Das „44-Stunden-Ticket Young“ berechtigt im jeweiligen Reisezeitraum nach Nr. 2 zu
+unbegrenzten Fahrten in den Zügen der Produktklasse ICE und IC/EC. Die Fahrt muss bis zum
+Ende des Reisezeitraums am jeweiligen Sonntag, 14 Uhr, beendet sein. Eine Nutzung von Zügen
+der Produktklasse C ist auch im Parallelverkehr nicht erlaubt.
+
+
+3.6 Ein Übergang in die 1. Wagenklasse ist nicht erlaubt.
+
+
+3.7 Umtausch und Erstattung der Fahrkarten „44-Stunden-Ticket Young“ sind ausgeschlossen.
+
+
+**4. Haftung für Ausfall, Verspätung und Anschlussversäumnis**
+4.1 Abweichend von Nr. 9.1.1 BB Personenverkehr können Fahrkarten „44-Stunden-Ticket Young“
+im Fall von Zugausfall und Verspätung nicht in Zügen der Produktklasse C genutzt werden. In
+diesen Fällen muss zunächst eine Fahrkarte der Produktklasse C erworben werden. Für die
+
+Erstattung gilt Nr. 9.3 BB Personenverkehr.
+
+
+4.2 Für Inhaber eines „44-Stunden-Tickets Young“ gelten die Nummern 9.1.1 bis 9.1.4 und 9.2.1
+und 9.3 BB Personenverkehr mit der Maßgabe, dass diese bei Ausfall, Verspätung oder
+Anschlussversäumnis ab 60 Minuten innerhalb der Geltungsdauer der Fahrkarte eine Erstattung
+bzw. Entschädigung in Höhe von 5 € erhalten. Verspätungen ab 20 Minuten können im Rahmen
+der Entschädigung zwecks Erreichens der Zeitgrenze nach Satz 1 addiert und gesammelt
+eingereicht werden. Insgesamt werden je „44-Stunden-Ticket Young“ maximal 25% des Preises der
+Fahrkarte ausgezahlt.
+
 **TfV 600 F**
 
 # **Beförderungsbedingungen für** **Reisegepäck** **(Reisegepäck)**
@@ -5509,7 +5580,7 @@ Erwerb und die Nutzung von BahnCards (BahnCard)
 6.1 Erwerb von digitalen Tickets und Reservierungen als Online-Ticket
 
 
-6.1.1 Unter [www.bahn.de sowie in der Buchungs-App DB Navigator können Inhaber, eines](http://www.bahn.de/)
+6.1.1 Unter [www.bahn.de](http://www.bahn.de/) sowie in der Buchungs-App DB Navigator können Inhaber, eines
 gültigen EU-Personalausweises oder Personalausweises aus Norwegen bzw. der Schweiz, eines
 deutschen oder internationalen Reisepasses, eines von einer deutschen Behörde ausgestellten
 elektronischen Aufenthaltstitels, einer von einer deutschen Behörde ausgestellten Bescheinigung
@@ -5605,7 +5676,7 @@ bei der Bestellung angegebene Konto.
 **I.9** **Zahlarten**
 
 
-9.1 [Buchungen auf www.bahn.de](http://www.bahn.de/) und über die Buchungs-App können mit Kreditkarte, per
+9.1 [Buchungen auf www.bahn.de und über die Buchungs-App können mit Kreditkarte, per](http://www.bahn.de/)
 PayPal, giropay, SEPA-Lastschriftverfahren oder Apple Pay bezahlt werden.
 
 
