@@ -1,1 +1,30 @@
-[{"name": "Tarifpunktverzeichnis", "date": "Fri, 13 Jun 2025 10:07:05 GMT"}, {"name": "Regionen", "date": "Fri, 13 Jun 2025 10:07:06 GMT"}, {"name": "Streckenentfernungen", "date": "Fri, 13 Jun 2025 10:07:06 GMT"}, {"name": "Grundentfernungen", "date": "Fri, 13 Jun 2025 10:07:07 GMT"}, {"name": "Leitpunktk\u00fcrzel", "date": "Fri, 13 Jun 2025 10:07:07 GMT"}, {"name": "Gleichstellungen", "date": "Fri, 13 Jun 2025 10:07:07 GMT"}, {"name": "Grenzbahnh\u00f6fe", "date": "Fri, 13 Jun 2025 10:07:07 GMT"}]
+[
+	{
+		"name": "Tarifpunktverzeichnis",
+		"date": "Fri, 13 Jun 2025 10:07:05 GMT"
+	},
+	{
+		"name": "Regionen",
+		"date": "Fri, 13 Jun 2025 10:07:06 GMT"
+	},
+	{
+		"name": "Streckenentfernungen",
+		"date": "Fri, 13 Jun 2025 10:07:06 GMT"
+	},
+	{
+		"name": "Grundentfernungen",
+		"date": "Fri, 13 Jun 2025 10:07:07 GMT"
+	},
+	{
+		"name": "Leitpunktk\u00fcrzel",
+		"date": "Fri, 13 Jun 2025 10:07:07 GMT"
+	},
+	{
+		"name": "Gleichstellungen",
+		"date": "Fri, 13 Jun 2025 10:07:07 GMT"
+	},
+	{
+		"name": "Grenzbahnh\u00f6fe",
+		"date": "Fri, 13 Jun 2025 10:07:07 GMT"
+	}
+]

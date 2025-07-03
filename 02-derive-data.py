@@ -16,4 +16,4 @@ if __name__ == "__main__":
         output_file = args.output / file.with_suffix(".json").name
         with open(file) as input_file, open(output_file, "w") as output_file:
             reader = csv.DictReader(input_file)
-            json.dump(list(reader), output_file)
+            json.dump(list(reader), output_file, indent="\t")
