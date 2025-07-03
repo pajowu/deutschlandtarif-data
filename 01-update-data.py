@@ -8,6 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 from tqdm.contrib.concurrent import process_map
 import itertools
+import time
 
 HEADER_REPLACEMENTS = {"Regio n": "Region"}
 
@@ -58,8 +59,7 @@ def extract_pdf_table(file, output_file):
 
 
 def extract_pdf_links():
-    req = requests.get("https://bahn.de/agb")
-    req.raise_for_status()
+    req = get_checked("https://bahn.de/agb")
     soup = BeautifulSoup(req.text)
     deutschlandtarif_heading = soup.find(
         "h2", string="Entfernungswerk des Deutschlandtarifs"
@@ -71,13 +71,22 @@ def extract_pdf_links():
         yield link.attrs["href"], link.span.text.split()[0]
 
 
+def get_checked(*args, **kwargs):
+    req = requests.get(*args, **kwargs)
+    while req.status_code == 429:
+        time.sleep(5)
+        req = requests.get(*args, **kwargs)
+
+    req.raise_for_status()
+    return req
+
+
 def download_if_modified(url, if_modified_since=None):
     headers = {}
     if if_modified_since is not None:
         headers["If-Modified-Since"] = last_modified_data[name]
 
-    req = requests.get(url, stream=True, headers=headers)
-    req.raise_for_status()
+    req = get_checked(url, stream=True, headers=headers)
     if req.status_code == 304:
         return None, None
 
