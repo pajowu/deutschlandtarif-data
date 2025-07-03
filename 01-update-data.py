@@ -1,5 +1,4 @@
 from typing import final
-import fitz
 import argparse
 import csv
 import pathlib
@@ -9,6 +8,9 @@ from bs4 import BeautifulSoup
 from tqdm.contrib.concurrent import process_map
 import itertools
 import time
+import pymupdf
+import pymupdf4llm
+import pycmarkgfm
 
 HEADER_REPLACEMENTS = {"Regio n": "Region"}
 
@@ -22,7 +24,7 @@ def combine_tables(tables):
 
 
 def extract_page_table(file_content, page):
-    doc = fitz.Document(stream=file_content)
+    doc = pymupdf.Document(stream=file_content)
     return [table.extract() for table in doc[page].find_tables().tables]
 
 
@@ -37,7 +39,7 @@ def cleanup_headers(table):
 
 
 def extract_table(file_content):
-    doc = fitz.Document(stream=file_content)
+    doc = pymupdf.Document(stream=file_content)
     num_pages = doc.page_count
 
     tables = process_map(
@@ -52,21 +54,19 @@ def extract_table(file_content):
     return final_table
 
 
-def extract_pdf_table(file, output_file):
+def extract_pdf_table(file, output_dir, name):
     table = extract_table(file)
-    with open(output_file, "w") as f:
+    with open(output_dir / f"{name}.csv", "w") as f:
         csv.writer(f).writerows(table)
 
 
-def extract_pdf_links():
+def extract_pdf_links(heading, skip):
     req = get_checked("https://bahn.de/agb")
     soup = BeautifulSoup(req.text)
-    deutschlandtarif_heading = soup.find(
-        "h2", string="Entfernungswerk des Deutschlandtarifs"
-    )
+    deutschlandtarif_heading = soup.find("h2", string=heading)
     assert deutschlandtarif_heading is not None
     assert deutschlandtarif_heading.parent is not None
-    for link in deutschlandtarif_heading.parent.find_all("a")[1:]:
+    for link in deutschlandtarif_heading.parent.find_all("a")[skip:]:
         assert link.span
         yield link.attrs["href"], link.span.text.split()[0]
 
@@ -104,6 +104,32 @@ def download_if_modified(url, if_modified_since=None):
     return res, req.headers["last-modified"]
 
 
+def parse_bb(content, output_dir, _name):
+    doc = pymupdf.Document(stream=content)
+    with open(output_dir / "Beförderungsbedingungen_raw.html", "w") as f:
+        for page in doc:
+            f.write(page.get_text("xhtml"))
+
+    chunks = pymupdf4llm.to_markdown(
+        doc, table_strategy="lines_strict", show_progress=True, page_chunks=True
+    )
+    md_text = ""
+    for i, chunk in enumerate(chunks, 1):
+        md_text += (
+            chunk["text"].replace(f"\n\n{i}\n\n", "").replace(f"\n\n[{i}]\n\n", "")
+        )
+    with open(output_dir / "Beförderungsbedingungen_tables.md", "w") as f:
+        f.write(md_text)
+
+    with open(output_dir / "Beförderungsbedingungen_tables.html", "w") as f:
+        f.write(
+            pycmarkgfm.gfm_to_html(
+                md_text,
+                options=pycmarkgfm.options.hardbreaks | pycmarkgfm.options.unsafe,
+            )
+        )
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("output", type=pathlib.Path)
@@ -120,8 +146,18 @@ if __name__ == "__main__":
             for row in reader:
                 last_modified_data[row["name"]] = row["date"]
 
-    links = list(extract_pdf_links())
-    for url, name in links:
+    links = list(
+        zip(
+            extract_pdf_links("Entfernungswerk des Deutschlandtarifs", 1),
+            itertools.repeat(extract_pdf_table),
+        )
+    ) + [
+        (
+            next(extract_pdf_links("Beförderungsbedingungen Personenverkehr", 0)),
+            parse_bb,
+        )
+    ]
+    for (url, name), func in links:
         print("Downloading", name)
         last_mod = last_modified_data.get(name) if not args.force else None
         content, last_modified = download_if_modified(url, if_modified_since=last_mod)
@@ -129,7 +165,8 @@ if __name__ == "__main__":
             print(name, "was not modified, skipping")
             continue
         print("Extracting data from", name)
-        extract_pdf_table(content, args.output / f"{name}.csv")
+        # extract_pdf_table(content, args.output / f"{name}.csv")
+        func(content, args.output, name)
 
         last_modified_data[name] = last_modified
 
