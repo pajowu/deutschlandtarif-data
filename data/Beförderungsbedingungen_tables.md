@@ -1,7 +1,7 @@
 # **Beförderungsbedingungen** **Deutsche Bahn AG**
 
 **Neuausgabe vom 15. Dezember 2024**
-**Aktualisierter Stand vom 04. August 2025**
+**Aktualisierter Stand vom 05. August 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -352,6 +352,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |21/2025|Aktionsangebote:<br>- <br>E.31: Bedingungen für die Aktionen „44-Stunden-Ticket Young“|
 |22/2025|Aktionsangebote<br>- <br>E.1 Nr. 1.3.4: Aktionsgutscheine für bahn.business Kunden|
 |23/2025|BB Personenverkehr<br>- <br>Nr. 3.3.2 Anpassung der Preise des Super Sparpreis und Sparpreis in der 1. Klasse<br>Aktionsangebote<br>- <br>E.6 Beendigung des Aktionsangebots<br>- <br>E. 24, Nr. 4.1 Anpassung des Preis Super Sparpreis Event in der 1. Klasse|
+|24/2025|Preisliste<br>- <br>Druckfehlerkorrektur der Preise für das City-Ticket|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -5635,7 +5636,7 @@ Erwerb und die Nutzung von BahnCards (BahnCard)
 6.1 Erwerb von digitalen Tickets und Reservierungen als Online-Ticket
 
 
-6.1.1 Unter [www.bahn.de](http://www.bahn.de/) sowie in der Buchungs-App DB Navigator können Inhaber, eines
+6.1.1 Unter [www.bahn.de sowie in der Buchungs-App DB Navigator können Inhaber, eines](http://www.bahn.de/)
 gültigen EU-Personalausweises oder Personalausweises aus Norwegen bzw. der Schweiz, eines
 deutschen oder internationalen Reisepasses, eines von einer deutschen Behörde ausgestellten
 elektronischen Aufenthaltstitels, einer von einer deutschen Behörde ausgestellten Bescheinigung
@@ -5731,7 +5732,7 @@ bei der Bestellung angegebene Konto.
 **I.9** **Zahlarten**
 
 
-9.1 [Buchungen auf www.bahn.de und über die Buchungs-App können mit Kreditkarte, per](http://www.bahn.de/)
+9.1 [Buchungen auf www.bahn.de](http://www.bahn.de/) und über die Buchungs-App können mit Kreditkarte, per
 PayPal, giropay, SEPA-Lastschriftverfahren oder Apple Pay bezahlt werden.
 
 
