@@ -130,6 +130,31 @@ def parse_bb(content, output_dir, _name):
         )
 
 
+def extract_pdf_text(content, output_dir, name):
+    doc = pymupdf.Document(stream=content)
+    with open(output_dir / f"{name}_raw.html", "w") as f:
+        for page in doc:
+            f.write(
+                page.get_text(
+                    "xhtml",
+                    flags=pymupdf.TEXTFLAGS_XHTML & ~pymupdf.TEXT_PRESERVE_IMAGES,
+                )
+            )
+    md_text = pymupdf4llm.to_markdown(doc, ignore_images=True)
+    md_text = md_text.replace("DB Intern / DB internal", "")
+
+    with open(output_dir / f"{name}_tables.md", "w") as f:
+        f.write(md_text)
+
+    with open(output_dir / f"{name}_tables.html", "w") as f:
+        f.write(
+            pycmarkgfm.gfm_to_html(
+                md_text,
+                options=pycmarkgfm.options.hardbreaks | pycmarkgfm.options.unsafe,
+            )
+        )
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("output", type=pathlib.Path)
@@ -146,17 +171,29 @@ if __name__ == "__main__":
             for row in reader:
                 last_modified_data[row["name"]] = row["date"]
 
-    links = list(
-        zip(
-            extract_pdf_links("Entfernungswerk des Deutschlandtarifs", 1),
-            itertools.repeat(extract_pdf_table),
+    links = (
+        list(
+            zip(
+                extract_pdf_links("Entfernungswerk des Deutschlandtarifs", 1),
+                itertools.repeat(extract_pdf_table),
+            )
         )
-    ) + [
-        (
-            next(extract_pdf_links("Beförderungsbedingungen Personenverkehr", 0)),
-            parse_bb,
-        )
-    ]
+        + [
+            (
+                next(extract_pdf_links("Beförderungsbedingungen Personenverkehr", 0)),
+                parse_bb,
+            )
+        ]
+        + [
+            (
+                (
+                    "https://www.bahn.de/service/zug/db-lounge/speisen-getraenke",
+                    "Speisen Getränke Premium Lounge",
+                ),
+                extract_pdf_text,
+            )
+        ]
+    )
     for (url, name), func in links:
         print("Downloading", name)
         last_mod = last_modified_data.get(name) if not args.force else None
