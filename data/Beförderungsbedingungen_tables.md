@@ -1,7 +1,7 @@
 # **Beförderungsbedingungen** **Deutsche Bahn AG**
 
 **Neuausgabe vom 15. Dezember 2024**
-**Aktualisierter Stand vom 01. September 2025**
+**Aktualisierter Stand vom 02. September 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -230,6 +230,9 @@ E.34 Bedingungen für die Aktion „Probe BahnCard 100 zum Aktionspreis für Ges
 90
 
 
+E.35 Bedingungen für die Aktion „Probe BahnCard 25 und 50 zum Aktionspreis“ .................. 90
+
+
 **F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 92**
 
 
@@ -315,8 +318,8 @@ I.13 Anfragen/Kontakt...........................................................
 
 **K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 112**
 
-
 K.1 Allgemeines ..................................................................................................................... 112
+
 
 K.2 Grundsätzliche Regelungen ............................................................................................. 112
 
@@ -366,6 +369,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |25/2025|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für bahn.business Neukunden|
 |26/2025|Aktionsangebote<br>- <br>E.32: Bedingungen für die Aktion „Treueaktion“<br>- <br>E.33: Bedingungen für die Aktion „Aktionsrabatt für Super Sparpreise und Sparpreise“|
 |27/2025|Aktionsangebote<br>- <br>E.1.3.4: Gutscheinaktion in „hohes C“ Produkten<br>- <br>E.1.3.4: Gutscheine für bahn.business Teilnehmer, die an einer Umfrage teilnehmen<br>- <br>E.24: Nr. 5.1: Preisanpassung<br>- <br>E.24 Nr. 6.3, 6.4: Druckfehlerkorrektur<br>- <br>E.34: Probe BahnCard 100 zum Aktionspreis für Geschäftskunden|
+|28/2025|Aktionsangebote<br>- <br>E.35: Probe BahnCard 25 und 50 zum Aktionspreis|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -3131,7 +3135,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 01.09.2025**
+## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 02.09.2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3175,9 +3179,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |---|---|---|---|
 |25/2025|- <br>E.1.3.4: Gutscheine für bahn.business Neukunden<br>|15.08. – 31.10.2025|15.08. – 31.10.2025|
 |26/2025|- <br>E.32: Aktion „Treuekarte“<br> <br>- <br>E.33: Aktionsrabatt für Super Sparpreise und Sparpreise|20.08. – 20.10.2025<br>20.08. – 04.11.2025<br>21.08. – 23.08.2025|20.08. – 20.10.2025<br>20.08. – 04.11.2025<br>21.08. – 23.08.2025|
-|27/2025|- <br>E.1.3.4: Gutscheinaktion in „hohes C“ Produkten<br>- <br>E.1.3.4: Gutscheine für bahn.business Teilnehmer, die an einer<br>Umfrage teilnehmen<br>- <br>E.24: Nr. 5.1: Preisanpassung<br>- <br>E.24 Nr. 6.3, 6.4: Druckfehlerkorrektur<br>- <br>E.34: „Probe BahnCard 100 zum Aktionspreis für<br>Geschäftskunden“|01.09. – 15.12.2025<br>Bis auf Weiteres<br> <br> <br> <br>01.09. – 30.09.2025|01.09. – 15.12.2025<br>Bis auf Weiteres<br> <br> <br> <br>01.09. – 30.09.2025|
-
-
+|27/2025|- <br>E.1.3.4: Gutscheinaktion in „hohes C“ Produkten<br>- <br>E.1.3.4: Gutscheine für bahn.business Teilnehmer, die an einer<br>Umfrage teilnehmen<br>- <br>E.24: Nr. 5.1: Preisanpassung<br>- <br>E.24 Nr. 6.3, 6.4: Druckfehlerkorrektur<br>- <br>E.34: „Probe BahnCard 100 zum Aktionspreis für<br>Geschäftskunden“<br>|01.09. – 15.12.2025<br>Bis auf Weiteres<br> <br> <br> <br>01.09. – 30.09.2025|01.09. – 15.12.2025<br>Bis auf Weiteres<br> <br> <br> <br>01.09. – 30.09.2025|
+|28/2025|- <br>E.35: Probe BahnCard 25 und 50 zum Aktionspreis|02.09. – 30.09.2025|02.09. – 30.09.2025|
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
 **(Aktionsangebote)**
@@ -4872,6 +4875,43 @@ Zeitraum vom 01. September 2025 bis 30. September 2025 (Aktionszeitraum) angebot
 Bedingungen zum Aktionspreis von 999 € für die Probe BahnCard 2. Klasse und 1.799€ für die
 Probe BahnCard 1. Klasse für Teilnehmer des bahn.business Programms unter Angabe einer
 Geschäftskunden-Nummer (BMIS-Nummer) angeboten.
+
+
+**E.35** **Bedingungen für die Aktion „Probe BahnCard 25 und 50 zum Aktionspreis“**
+
+
+**1.Grundsatz**
+
+Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
+AG (BB Personenverkehr) sowie die Bedingungen für den Erwerb und die Nutzung von BahnCards
+(BahnCard) soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
+
+
+**2. Aktionsbeschreibung**
+2.1 Im Zeitraum vom 01. September bis zum 30. September 2025 werden die Probe BahnCard 25
+und Probe BahnCard 50 nach Nr. 2. der BahnCard Bedingungen zum Aktionspreis ausgegeben:
+
+|Col1|2. Klasse|1. Klasse|
+|---|---|---|
+|Probe BahnCard 25|9,99 €|19,99 €|
+|Probe BahnCard 50|39,90 €|79,99 €|
+
+
+
+2.2 Die Probe BahnCard 25 und Probe BahnCard 50 zum Aktionspreis können im Aktionszeitraum
+nach Nr. 2 mit einem letztmöglichen 1. Geltungstag 30. September 2025 erworben werden.
+
+
+2.3 Die Probe BahnCard 25 und Probe BahnCard 50 zum Aktionspreis haben eine Gültigkeit von
+jeweils drei Monaten. Sie werden am Ende ihrer Gültigkeit automatisch in ein reguläres BahnCard
+25-Abonnement bzw. BahnCard 50-Abonnement überführt, wenn sie nicht 4 Wochen vor
+Gültigkeitsende in Textform gegenüber der DB Fernverkehr AG (z.B. beim Kundenservice)
+gekündigt werden. Rechtzeitig vor Ablauf der Geltungsdauer wird die neue BahnCard 25 bzw.
+BahnCard 50 ausgegeben.
+
+
+**3. Stornierung (Erstattung, Umtausch)**
+Es gelten die Regelungen nach Nr. 2.8 der BahnCard Bedingungen.
 
 **TfV 600 F**
 
