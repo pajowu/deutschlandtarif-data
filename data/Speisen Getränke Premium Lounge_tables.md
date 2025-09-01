@@ -1,15 +1,10 @@
+## Speisen und Getränke Premium Bereich
+
+Stand: September 2025
 
 
-## **Speisen** **und Getränke** Premium Bereich
-
-
-Aufgrund der aktuellen Situation kommt es bei einigen unserer Speisen
-zu Lieferengpässen. Um weiterhin eine Vielfalt an Speisen anbieten zu
-können, greifen wir zeitweise auf Alternativprodukte zurück. – Sprechen
-Sie uns hierzu gerne an.
-
-
-
+Änderungen der Speisekarte vorbehalten. Gerne stellen wir Ihnen
+Alternativen zur Verfügung.
 
 
 Willkommen in der DB Lounge!
@@ -23,9 +18,9 @@ Nüsse oder Brezeln finden Sie an
 der Selbstbedienungstheke.
 
 
-Sollten Sie Fragen zu Allergenen
-oder Inhaltsstoffen haben,
-sprechen Sie uns bitte an.
+Bei Fragen zu Allergenen oder
+Inhaltsstoffen stehen wir Ihnen gerne zur
+Verfügung.
 
 
 vegetarisch
@@ -33,16 +28,15 @@ vegetarisch
 vegan
 
 
+### Speisen
 
-
-### **Speisen**
-
-
-**Frühstück**
+Frühstück
 
 
 Croissant
+
 wahlweise mit Butter, Bionella,
+
 Honig oder Konfitüre
 
 
@@ -50,26 +44,24 @@ Naturjoghurt
 wahlweise mit Müsli und Honig
 
 
-**Warme Speisen**
+Warme Speisen
 
 ab 11 Uhr
 
 
-Flatbread Jalapeño Hack
+Flatbread Pulled Pork
+Pineapple*
 
 
-(nicht verfügbar in Köln)
+Kürbissuppe
 
 
-Rote Kokos Curry Suppe
+- Nicht verfügbar in Köln.
 
 
+### Speisen
 
-
-### **Speisen**
-
-
-**Sandwiches**
+Sandwiches
 
 
 Sandwich
@@ -80,7 +72,7 @@ Vegane Focaccia
 mit Grillgemüse
 
 
-**Snacks**
+Snacks
 
 
 Hummus
@@ -91,95 +83,61 @@ mit Brot nach Wahl
 Lisa’s Kesselchips
 
 
+### Speisen
 
-
-### **Speisen**
-
-
-**Kuchen**
+Kuchen
 
 
 Apfel-Streuselkuchen
 
 
-Brownie
-
-
 Mini Berry Bites
 
 
+### Getränke
 
-
-### **Getränke**
-
-
-**Heißgetränke***
+Heißgetränke
 
 
 Americano
 
-
 Café Crema
-
-
 Café entkoffeiniert
-
 Café Latte
-
 Cappuccino
 Espresso
-
-
 Flat White
-
 
 Latte Macchiato
 
-
 Heiße Schokolade
-Tee nach Angebot
+
+Tee
 
 
-*Wir halten Milchalternativen für Sie bereit – sprechen Sie uns gerne an.
+Wir halten Milchalternativen für Sie bereit .
+Unsere Heißgetränke sind Fairtrade-zertifiziert.
 
 
-Unsere Heißgetränke sind
-Fairtrade-zertifiziert.
+### Getränke
 
-
-
-
-### **Getränke**
-
-
-**Alkoholfreie Getränke**
+Alkoholfreie Getränke
 
 
 Wasser
 
 Classic oder Naturell
 
-
+Orangensaft
 Apfelschorle
-
-
 Coca-Cola
-
 
 Coca-Cola Zero
 
-
 Fanta
 
-
 Sprite
-
-
-Orangensaft
-
-
 Bio-Limonade
-
 
 FuzeTea Zitrone
 
@@ -187,43 +145,34 @@ FuzeTea Zitrone
 Auf Wunsch bieten wir Ihnen auch gerne Mischgetränke an.
 
 
+### Getränke
 
-
-### **Getränke**
-
-
-**Bier, Wein & Sekt**
+Bier, Wein & Sekt
 
 
 Erdinger Helles
 
-
 alkoholfrei
 
-
 Erdinger Weißbier
+
+
 hell oder alkoholfrei
+Bitburger Premium Pils [**]
 
-
-Bitburger Premium Pils*
-
-
-König Pilsener**
-
+König Pilsener [***]
 
 Weiß- und Rotwein
 
 trocken
 
-
 Rotkäppchen Sekt
+
 trocken
 
 
-   - Nicht verfügbar in Köln und München.
-** Nur verfügbar in Köln und München.
-
-
+**Nicht verfügbar in Köln und München.
+***Nur verfügbar in Köln und München.
 
 
 # Guten Appetit!
