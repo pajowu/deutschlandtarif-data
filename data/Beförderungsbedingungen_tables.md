@@ -1,7 +1,7 @@
 # **Beförderungsbedingungen** **Deutsche Bahn AG**
 
 **Neuausgabe vom 15. Dezember 2024**
-**Aktualisierter Stand vom 02. September 2025**
+**Aktualisierter Stand vom 09. September 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -370,6 +370,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |26/2025|Aktionsangebote<br>- <br>E.32: Bedingungen für die Aktion „Treueaktion“<br>- <br>E.33: Bedingungen für die Aktion „Aktionsrabatt für Super Sparpreise und Sparpreise“|
 |27/2025|Aktionsangebote<br>- <br>E.1.3.4: Gutscheinaktion in „hohes C“ Produkten<br>- <br>E.1.3.4: Gutscheine für bahn.business Teilnehmer, die an einer Umfrage teilnehmen<br>- <br>E.24: Nr. 5.1: Preisanpassung<br>- <br>E.24 Nr. 6.3, 6.4: Druckfehlerkorrektur<br>- <br>E.34: Probe BahnCard 100 zum Aktionspreis für Geschäftskunden|
 |28/2025|Aktionsangebote<br>- <br>E.35: Probe BahnCard 25 und 50 zum Aktionspreis|
+|29/2025|Aktionsangebote<br>- <br>E.1.3.4: Aktionsgutscheine für BahnCard Inhaber<br>- <br>E.35: Nr. 2.1: Fehlerkorrektur, Nr. 2.2 entfällt|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -3135,7 +3136,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 02.09.2025**
+## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 09.09.2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3180,7 +3181,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |25/2025|- <br>E.1.3.4: Gutscheine für bahn.business Neukunden<br>|15.08. – 31.10.2025|15.08. – 31.10.2025|
 |26/2025|- <br>E.32: Aktion „Treuekarte“<br> <br>- <br>E.33: Aktionsrabatt für Super Sparpreise und Sparpreise|20.08. – 20.10.2025<br>20.08. – 04.11.2025<br>21.08. – 23.08.2025|20.08. – 20.10.2025<br>20.08. – 04.11.2025<br>21.08. – 23.08.2025|
 |27/2025|- <br>E.1.3.4: Gutscheinaktion in „hohes C“ Produkten<br>- <br>E.1.3.4: Gutscheine für bahn.business Teilnehmer, die an einer<br>Umfrage teilnehmen<br>- <br>E.24: Nr. 5.1: Preisanpassung<br>- <br>E.24 Nr. 6.3, 6.4: Druckfehlerkorrektur<br>- <br>E.34: „Probe BahnCard 100 zum Aktionspreis für<br>Geschäftskunden“<br>|01.09. – 15.12.2025<br>Bis auf Weiteres<br> <br> <br> <br>01.09. – 30.09.2025|01.09. – 15.12.2025<br>Bis auf Weiteres<br> <br> <br> <br>01.09. – 30.09.2025|
-|28/2025|- <br>E.35: Probe BahnCard 25 und 50 zum Aktionspreis|02.09. – 30.09.2025|02.09. – 30.09.2025|
+|28/2025|- <br>E.35: Probe BahnCard 25 und 50 zum Aktionspreis<br>|02.09. – 30.09.2025|02.09. – 30.09.2025|
+|29/2025|- <br>E.1.3.4: Aktionsgutscheine für BahnCard Inhaber<br>- <br>E.35: Nr. 2.1: Fehlerkorrektur, Nr. 2.2 entfällt|09.09. – 03.11.2025<br>01.09. – 30.09.2025|09.09. – 03.11.2025<br>01.09. – 30.09.2025|
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
 **(Aktionsangebote)**
@@ -3365,6 +3367,11 @@ einzulösende Aktionsgutscheine können nur im eingeloggten Bereich verwendet we
 |Aktionsgutschein<br>Wert / Titel|Zielgruppe|DB-Leistung|Aktionszeitraum|Einlösezeitraum<br>des Aktionsgutscheins|Nutzungszeitraum der<br>DB-Leistung|Hinweise|Col8|
 |---|---|---|---|---|---|---|---|
 |25€ Aktionsgutschein<br>für bahn.business<br>Kunden|bahn.business Kunden,<br>die an einer Umfrage<br>teilnehmen.|Fahrkarten zum<br>Flexpreis Business<br>gemäß Nr. 3.6<br>bahn.business und<br>Sparpreis Business<br>gemäß E.16<br>Aktionsangebote ab<br>49,99 € Mindestwert|Bis auf weiteres|Gemäß Angabe auf<br>dem Gutschein|Gemäß Angabe auf<br>dem Gutschein|||
+|Aktionsgutschein 1.<br>Klasse-Ticketbuchung<br>für BahnCard-Inhaber|Inhaber einer<br>BahnCard 25/50|Fahrkarten für die 1.<br>Klasse gemäß Nr. 3.2<br>und 3.3 BB<br>Personenverkehr ab<br>einem<br>Mindestfahrkarten von<br>49,99 €|09.09.25 -<br>03.11.25|09.09.25 –<br> 03.11.25|09.09.25 –<br>03.11.25|||
+
+
+
+
 
 
 
@@ -4387,17 +4394,6 @@ ausgeschlossen.
 
 **5. Sparpreis Event**
 5.1 Fahrkarten zum Sparpreis Event werden zur An- und /oder Abreise zu einer Veranstaltung
-gemäß Nr. 2 angeboten. Sie werden zu Festpreisen ab 25,19 € in der 2. Klasse und ab 36,89€ in
-der 1. Klasse angeboten und berechtigen zur Fahrt an den Tagen und in den Zügen, die auf der
-Fahrkarte bezeichnet sind (Zugbindung). Sie gelten in Zügen der Produktklasse C im Vor- und
-Nachlauf zu den in der Fahrkarte eingetragenen Zügen am jeweils eingetragenen Geltungstag
-sowie bis 10:00 Uhr des Folgetages.
-
-
-**Neuer Wortlaut Nr. 5.1 mit Wirkung ab 08. September 2025**
-
-
-5.1 Fahrkarten zum Sparpreis Event werden zur An- und /oder Abreise zu einer Veranstaltung
 gemäß Nr. 2 angeboten. Sie werden zu Festpreisen ab 26,99 € in der 2. Klasse und ab 40,49€ in
 der 1. Klasse angeboten und berechtigen zur Fahrt an den Tagen und in den Zügen, die auf der
 Fahrkarte bezeichnet sind (Zugbindung). Sie gelten in Zügen der Produktklasse C im Vor- und
@@ -4422,13 +4418,13 @@ Personenverkehr. Abweichend von Nr. 4.3.1 BB Personenverkehr wird anstelle eines
 Stornogutscheins der Preis der Fahrkarte abzüglich des Stornierungsentgelts auf das ursprüngliche
 Zahlungsmittel gezahlt.
 
+
 **6. Bedingungen Flexpreis Event**
 6.1 Fahrkarten zum Flexpreis Event werden zur An- und/oder Abreise zu einer Veranstaltung
 gemäß Nr. 2 angeboten. Das Entgelt berechnet sich nach der Verbindung, der gewählten
 Produktklasse im Fernverkehr, der Wagenklasse sowie dem Buchungs- und Reisetag. Sie gelten am
 jeweils für die Hin- bzw. Rückfahrt eingetragenen Geltungstag, sowie bis 03:00 Uhr des zweiten,
 auf den eingetragenen Geltungstag folgenden Tages.
-
 
 6.2 Fahrkarten zum Flexpreis Event werden mit einem CityTicket gemäß Nr. 3.5.1 BB
 Personenverkehr ausgegeben.
@@ -4494,7 +4490,6 @@ Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der D
 AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von BahnCards
 (BahnCard), die Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten
 (bahn.business) sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards
-
 (Internet), soweit sich aus den nachfolgenden Bestimmungen nichts anderes ergibt. Es gelten im
 Übrigen die Regelungen des auf Grundlage dieser Aktion jeweils gebuchten tariflichen Angebotes.
 
@@ -4503,6 +4498,7 @@ AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von Bah
 
 Das Angebot wird im Zeitraum 01. Mai – 30. September 2025 (Aktionszeitraum) für den
 Reisezeitraum 01. Mai – 30. September 2025 (Reisezeitraum) für Inhaber einer BahnCard 50, My
+
 BahnCard 50, Senioren BahnCard 50, Probe BahnCard 50 sowie BahnCard Business 50 (im
 Folgenden „BahnCard 50“) angeboten.
 
@@ -4565,6 +4561,7 @@ ebenfalls einmalig zum Aktionspreis von 49,99€ ausgestellt.
 3.2 Es gelten die Bedingungen der My BahnCard 50 2. Klasse nach Nr. 2 der BahnCard
 Bedingungen.
 
+
 3.3 Für Neukunden ist ab dem zweiten Geltungsjahr der Preis nach Nr. 2.3 der BahnCard
 Bedingungen zu zahlen. Kunden mit einem bestehenden My BahnCard 50 2. Klasse Abonnement
 zahlen im Folgejahr wieder den Preis nach Nr. 2.3 der BahnCard Bedingungen.
@@ -4572,6 +4569,7 @@ zahlen im Folgejahr wieder den Preis nach Nr. 2.3 der BahnCard Bedingungen.
 
 **4. Stornierung (Erstattung, Umtausch)**
 Die Erstattung der My BahnCard 50 2. Klasse zum Aktionspreis ist ausgeschlossen.
+
 Abweichend von Nr. 2.8.2 der BahnCard Bedingungen ist der Umtausch jeglicher BahnCard in die
 My BahnCard 50 2. Klasse zum Aktionspreis ausgeschlossen.
 
@@ -4633,7 +4631,6 @@ Abonnement ausgegeben werden.
 
 Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
 AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von Bahn-Cards
-
 (BahnCard), die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet)
 sowie die Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten
 (bahn.business), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
@@ -4708,10 +4705,12 @@ der Produktklasse C ist auch im Parallelverkehr nicht erlaubt.
 
 3.6 Ein Übergang in die 1. Wagenklasse ist nicht erlaubt.
 
+
 3.7 Umtausch und Erstattung der Fahrkarten „44-Stunden-Ticket Young“ sind ausgeschlossen.
 
 
 **4. Haftung für Ausfall, Verspätung und Anschlussversäumnis**
+
 4.1 Abweichend von Nr. 9.1.1 BB Personenverkehr können Fahrkarten „44-Stunden-Ticket Young“
 im Fall von Zugausfall und Verspätung nicht in Zügen der Produktklasse C genutzt werden. In
 diesen Fällen muss zunächst eine Fahrkarte der Produktklasse C erworben werden. Für die
@@ -4779,7 +4778,6 @@ haben.
 
 4.1 Der ausgegebene Gutschein nach Nr. 3.3 ist für eine einfache Fahrt für eine Person für den
 Buchungs- und Reisezeitraum bis 13.12.2025 gültig.
-
 
 4.2 Der Gutschein kann ausschließlich über bahn.de oder die App DB Navigator innerhalb des
 Kundenkontos eingelöst werden.
@@ -4850,9 +4848,9 @@ bei der jeweiligen Buchung anzugeben.
 Aktionsrabatt von 20% gewährt. Das Entgelt für das City-Ticket gemäß Nr. 3.5.2 BB
 Personenverkehr wird nicht rabattiert.
 
+
 4.2 Das Angebot ist kontingentiert. Soweit das durch die DB Fernverkehr bereitgestellte
 Kontingent aufgebraucht ist, ist ein Erwerb von Fahrkarten mit Aktionsrabatt nicht mehr möglich.
-
 
 **E.34** **Bedingungen für die Aktion „Probe BahnCard 100 zum Aktionspreis für**
 **Geschäftskunden“**
@@ -4894,12 +4892,11 @@ und Probe BahnCard 50 nach Nr. 2. der BahnCard Bedingungen zum Aktionspreis ausg
 |Col1|2. Klasse|1. Klasse|
 |---|---|---|
 |Probe BahnCard 25|9,99 €|19,99 €|
-|Probe BahnCard 50|39,90 €|79,99 €|
+|Probe BahnCard 50|39,99 €|79,99 €|
 
 
 
-2.2 Die Probe BahnCard 25 und Probe BahnCard 50 zum Aktionspreis können im Aktionszeitraum
-nach Nr. 2 mit einem letztmöglichen 1. Geltungstag 30. September 2025 erworben werden.
+2.2 Bleibt frei
 
 
 2.3 Die Probe BahnCard 25 und Probe BahnCard 50 zum Aktionspreis haben eine Gültigkeit von
