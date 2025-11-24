@@ -1,7 +1,7 @@
 # **Beförderungsbedingungen** **Deutsche Bahn AG**
 
 **Neuausgabe vom 15. Dezember 2024**
-**Aktualisierter Stand vom 31. Oktober 2025**
+**Aktualisierter Stand vom 25. November 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -115,10 +115,10 @@ D.2 Menschen mit Behinderungen, schwerbehinderte und schwerkriegsbeschädigte Me
 58
 
 
-D.3 bleibt frei ........................................................................................................................... 59
+D.3 bleibt frei ........................................................................................................................... 60
 
 
-D.4 Sonstige besondere Personengruppen .............................................................................. 59
+D.4 Sonstige besondere Personengruppen .............................................................................. 60
 
 
 **E** **Beförderungsbedingungen** **für** **Aktionsangebote** **der** **DB** **Fernverkehr** **AG**
@@ -344,7 +344,7 @@ K.2 Grundsätzliche Regelungen .................................................
 K.3 Fahrgastrechte ................................................................................................................ 120
 
 
-K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 120
+K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 121
 
 
 Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen .......................... 127
@@ -397,11 +397,12 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |33/2025|Aktionsangebote<br>- <br>E.1.3.4: Gutscheinaktion für ehemalige BahnCard 100 Kunden|
 |34/2025|Aktionsangebote:<br>- <br>E.7 Nr. 2, Nr. 3.1: Einstellung des Angebots|
 |35/2025|Aktionsangebote<br>- <br>E.16 Nr.2: Verlängerung des Angebots<br>- <br>E.38: Aktionsrabatt für Super Sparpreise und Sparpreise<br>- <br>E.1.3.4: Gutscheine für Buchende einer Gruppenfahrkarte über DB Klassenfahrten<br>Entgeltbedingungen<br>- <br>Nr. 6: Anpassung der entgeltpflichtigen Leistungen<br>Preisliste<br>- <br>Nr. 2.9 entfällt zum 14.12.2025|
-|36/2025|BB Personenverkehr<br>- <br>Nr. 9.4.1: Entfall der Voraussetzung der Buchung im eingeloggten Bereich zur online<br>Geltendmachung von Fahrgastrechten<br>Aktionsangebote<br>− <br>E.1.3.4: Rabatt Gutschein für ehemalige BahnCard Inhaber<br>− <br>E.1.3.4: Mitfahrergutschein für BahnCard 100 Kunden<br>− <br>E.1.3.4: Rabattgutschein für 1.Klasse Fahrkarte<br>− <br>E.39: Mitfahrerrabatt für bis zu 4 Mitfahrer für BahnCard Kunden“<br>− <br>E.40: Aktionsrabatt Sparpreis Business|
+|36/2025|Druckfehlerkorrektur Nummerierung und Veröﬀentlichung der Tarifbekantmachung<br>BB Personenverkehr<br>- <br>Nr. 9.4.1: Entfall der Voraussetzung der Buchung im eingeloggten Bereich zur online<br>Geltendmachung von Fahrgastrechten<br>Aktionsangebote<br>- <br>E.1.3.4: Rabatt Gutschein für ehemalige BahnCard Inhaber<br>- <br>E.1.3.4: Mitfahrergutschein für BahnCard 100 Kunden<br>- <br>Rabattgutschein für 1.Klasse Fahrkarte<br>- <br>E.39 Mitfahrerrabatt für bis zu 4 Mitfahrer für BahnCard Kunden“<br>- <br>E.40: Aktionsrabatt Sparpreis Business|
+|37/2025|Besondere Personengruppen<br>- <br>Nr. 2.1.1: Verdeutlichung, dass Hunde in Begleitung einer Schwerbehinderten Person<br>ohne Fahrkarte befördert werden<br>- <br>Nr. 2.1.2: Erweiterung der Vertriebskanäle zur Ausstellung der kostenfreien<br>Sitzplatzreservierung<br>- <br>Nr. 2.1.3: Aufnahme weiterer Merkzeichen, Schärfung zu Voraussetzungen der<br>Mitnahme orthopädischer Hilfsmittel, Aufnahme Vertriebskanal zur Ausstellung der<br>kostenfreien Stellplatzreservierung<br>- <br>Nr. 2.2: Verdeutlichung, dass Assistenzhunde ohne Fahrkarte befördert werden<br>- <br>Nr.2.3: Schärfung und Umstrukturierung der Zugangsregeln für orthopädische<br>Hilfsmittel<br>- <br>Nr. 2.4.2: Einhaltung der Mindestumstiegszeiten unabhängig vom Vertriebskanal<br>Prämienfahrkarten<br>- <br>Nr. 2.11: Aufnahme der Ausgabe der kostenfreien Reservierung für Menschen mit SBA<br>ausschließlich im personalbedienten Verkauf|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 31.10.2025**
+## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 20.10.2025**
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
 Bezug über: [aktuelle Ausgaben: www.db-fernverkehr.com, www.dbregio.de, www.bahn.de](http://www.db-fernverkehr.com/)
@@ -3025,7 +3026,7 @@ nach dem Tarif für das Deutschland-Ticket.
 
 # **Beförderungsbedingungen für besondere** **Personengruppen** **(Besondere Personengruppen)**
 
-## **Gültig ab 15. Dezember 2024**
+## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 25.11.2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3057,40 +3058,70 @@ sich aus den nachfolgenden Bestimmungen nichts anderes ergibt.
 
 2.1.1 Die unentgeltliche Beförderung schwerbehinderter Menschen, ihrer Begleitperson bzw.
 eines Hundes erfolgt nach Maßgabe des Sozialgesetzbuchs – Neuntes Buch – (SGB IX), 3. Teil,
-Kapitel 13. Für die Mitnahme solcher Hunde gilt Nr. 7.4 BB Personenverkehr.
+Kapitel 13. Für die Mitnahme solcher Hunde gilt Nr. 7.4 BB Personenverkehr. Abweichend von Nr.
+7.4 BB Personenverkehr werden diese Hunde ohne Fahrkarte befördert. Abweichend von Nr. 7.4
+
+BB Personenverkehr werden diese Hunde ohne Fahrkarte befördert.
 
 
-2.1.2 Ist im Schwerbehindertenausweis des Reisenden die Berechtigung zur Mitnahme einer
-Begleitperson eingetragen, können im personalbedienten Verkauf bis zu zwei Sitzplätze- für den
-Reisenden und die Begleitperson - nach Nr. 5.2 BB Personenverkehr kostenfrei reserviert werden.
+2.1.2 Ist im Schwerbehindertenausweis (SBA) des Reisenden das Merkzeichen B als
+Berechtigung zur Mitnahme einer Begleitperson eingetragen, können bis zu zwei Sitzplätze- für
+den Reisenden und die Begleitperson - nach Nr. 5.2 BB Personenverkehr kostenfrei reserviert
+werden.
+
+Im digitalen Verkauf wird die kostenfreie Reservierung ausschließlich zusammen mit dem Kauf
+einer Fahrkarte für Einzelreisen ausgegeben, wenn die zu begleitende Person mindestens 6 Jahre
+
+ist.
 
 
-2.1.3 Schwerbehinderte Menschen mit dem Merkzeichen „G“ oder „aG“ im
-Schwerbehindertenausweis können als Hilfsmittel wahlweise ein (i) Dreirad, (ii) Liegedreirad, (iii)
-langes Laufrad (> 1200 mm) oder (iv) einen nicht trennbaren Fahrradrollstuhl (Handbike)
-abweichend von Nr. 8 BB Personenverkehr in den Zügen gegen Vorlage des
-Schwerbehindertenausweises unentgeltlich mitführen, sofern in den Zügen ausreichend Platz
-vorhanden ist. Die Bestimmungen nach Nr. 8.4.2 BB Personenverkehr bleiben davon unberührt.
+2.1.3 Schwerbehinderte Menschen mit dem Merkzeichen „G“, „aG“, „H“ oder „GI“ im
+Schwerbehindertenausweis können als orthopädisches Hilfsmittel im Fahrradstellplatzbereich
+wahlweise ein (i) Dreirad, (ii) Liegedreirad, (iii) langes Laufrad (> 1200 mm) oder (iv) einen nicht
+trennbaren Fahrradrollstuhl (Handbike) abweichend von Nr. 8 BB Personenverkehr in den Zügen
+gegen Vorlage des Schwerbehindertenausweises unentgeltlich mitnehmen, sofern dort
+ausreichend Platz vorhanden ist. Die Bestimmungen nach Nr. 8.2 BB Personenverkehr bleiben
+davon unberührt. Die kostenfreie Stellplatzreservierung wird im personalbedienten Verkauf
+ausgegeben.
 
 
 2.2 Menschen mit Behinderungen
 Die unentgeltliche Beförderung eines gekennzeichneten Assistenzhundes erfolgt nach Maßgabe
 des §12e Behindertengleichstellungsgesetz. Für die Mitnahme solcher Assistenzhunde gilt Nr. 7.4
-BB Personenverkehr.
+BB Personenverkehr. Abweichend von Nr. 7.4 BB Personenverkehr werden diese Hunde ohne
+
+Fahrkarte befördert.
 
 
-2.3 Zugangsregeln nach TSI PRM (Verordnung (EU) 1300/2014), Anhang M)
-Orthopädische Hilfsmittel werden in den Zügen unter Berücksichtigung der technischen
-Voraussetzungen der TSI PRM Anhang M befördert. Rollstühle müssen dem internationalen
-Standard ISO 7193 und folgenden Höchstmaßen entsprechen: - Länge: 1.200 mm + 50 mm für die
-Füße, Breite: 700 mm + min. 100 mm für die Hände am Rad entsprechen. Gesamtgewicht
-(inklusive des Reisenden): Handrollstuhl: 250kg, Elektrorollstuhl: 300 kg. Die eingebauten Akkus
-eines Elektrorollstuhls oder eines anderen orthopädischen Hilfsmittels mit Elektroantrieb dürfen
-im Zug weder entnommen, geladen noch anderweitig (z.B. als Powerbank) genutzt werden. Als
-Ersatz für fahrzeuggebundene Einstiegshilfen dienen mobile Einstiegshilfen am Bahnsteig als
-Interimslösung. An den Bahnhöfen, an denen Hilfeleistung möglich ist, stehen Rollstuhlhubgeräte
-mit einer Traglast von 250 kg (auf Anfrage bis 350 kg) und einer Plattformgröße 1200mm x 800
-mm zur Verfügung.
+2.3 Zugangsregeln
+Orthopädische Hilfsmittel werden in den Zügen im rollstuhlgerechten Wagen unter
+Berücksichtigung der technischen Voraussetzungen der TSI PRM Anhang M befördert.
+Für die Beförderung sind die folgenden Maße einzuhalten:
+
+
+Länge: 1.200 mm + 50 mm für die Füße
+
+- Breite: 700 mm + 100 mm für die Hände am Rad
+
+Gesamtgewicht (inklusive des Reisenden)
+
+Manueller Rollstuhl: 200 kg
+Elektrorollstuhl: 350 kg
+
+
+Die eingebauten Akkus eines Elektrorollstuhls oder eines anderen orthopädischen Hilfsmittels mit
+Elektroantrieb dürfen im Zug weder entnommen, geladen noch anderweitig (z.B. als Powerbank)
+genutzt werden.
+Als Ersatz für fahrzeuggebundene Einstiegshilfen stehen an allen Bahnhöfen, an denen
+Hilfeleistungen angeboten werden, für Reisende im Rollstuhl mit den Abmessungen:
+
+
+Länge: 1.200 mm + 50 mm für die Füße
+
+- Breite: 700 mm + 100 mm für die Hände am Rad
+
+Hublifte mit einer Traglast von 250 kg (auf Anfrage bis 350 kg) zur Bedienung durch eingewiesenes
+Personal am Bahnsteig zur Verfügung.
 
 
 2.4 Anmeldung von Hilfeleistung
@@ -3098,7 +3129,6 @@ mm zur Verfügung.
 
 2.4.1 Die Anmeldung von Hilfeleistungen durch den Reisenden kann über die MobilitätsserviceZentrale (Mo – Fr von 6.00 Uhr bis 22:00 Uhr; Sa, So und bundeseinheitliche Feiertage von 8:00
 [bis 20:00 Uhr), über das Online-Formular bahn.de/barrierefrei bzw. msz-bahn.de sowie die DB](http://www.bahn.de/barrierefrei)
-
 Reisezentren und DB Agenturen erfolgen. Der Hilfebedarf ist bei Reisen innerhalb Deutschlands
 spätestens 24 Stunden vor dem Zeitpunkt, zu dem die Hilfeleistung benötigt wird, anzumelden.
 Der Reisende oder sein Vertreter haben alle zumutbaren Bemühungen zu unternehmen, um im
@@ -3136,6 +3166,7 @@ können eine Fahrkarte in den Zügen des Fernverkehrs gegen Vorlage eines amtlic
 der Behinderung zum Flexpreis unter Berücksichtigung etwaiger Ermäßigungen (z. B. BahnCard
 Rabatt) auf Rechnung erwerben. Kann kein amtlicher Nachweis der Behinderung vorgelegt
 werden, wird im Zug zunächst eine Fahrpreisnacherhebung ausgegeben. Diese kann bei Vorlage
+
 eines zum Zeitpunkt der Reise gültigen Nachweises der Behinderung ohne Berechnung eines
 Bearbeitungsentgelts auf den Flexpreis unter Berücksichtigung etwaiger Ermäßigungen (z.B.
 BahnCard Rabatt) reduziert werden.
@@ -3156,7 +3187,6 @@ Das Eisenbahnverkehrsunternehmen kann Fahrvergünstigungen einräumen:
 - Beschäftigten anderer öffentlicher Verkehrsunternehmen oder Einrichtungen im In- und
 Ausland, sofern diese Unternehmen oder Einrichtungen und das die Fahrvergünstigungen
 einräumende Eisenbahnverkehrsunternehmen mit gemeinsamen Angeboten am Markt
-
 auftreten oder Aufgaben im Interesse des Eisenbahnverkehrsunternehmens wahrnehmen;
 gleiches gilt für Personen aufgrund vertraglicher Vereinbarung oder zur Besitzstandswahrung;
 
@@ -3240,7 +3270,7 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |33/2025|- <br>E.1.3.4: Gutscheinaktion für ehemalige BahnCard 100 Kunden<br>|06.10 – 17.11.2025|06.10 – 17.11.2025|
 |34/2025|- <br>E.7 Nr.2, 3.1: Einstellung des Angebots|bis 15.10.2025|bis 15.10.2025|
 |35/2025|- <br>E.16 Nr. 2: Verlängerung des Angebots<br>- <br>E.38: Aktionsrabatt für Super Sparpreise und Sparpreise<br>- <br>E.1.3.4: Gutscheine für Buchende einer Gruppenfahrkarte über<br>DB Klassenfahrten|Bis auf Weiteres<br>17.10. – 21.10.2025<br>15.10. – 15.12.2025|Bis auf Weiteres<br>17.10. – 21.10.2025<br>15.10. – 15.12.2025|
-|36/2025|- <br>E.1.3.4: Rabatt Gutschein für ehemalige BahnCard Inhaber<br>- <br>E.1.3.4: Mitfahrergutschein für BahnCard 100 Kunden<br>- <br>E.1.3.4: Rabattgutschein für 1.Klasse Fahrkarte<br>- <br>E.39 Mitfahrerrabatt für bis zu 4 Mitfahrer für BahnCard<br>Kunden“<br>- <br>E.40: Aktionsrabatt Sparpreis Business|Bis 12.12.2025<br>31.10. – 30.11.2025<br>Bis auf Weiteres<br>01.11. – 30.11.2025<br> <br>03.11. – 23.11.2025|Bis 12.12.2025<br>31.10. – 30.11.2025<br>Bis auf Weiteres<br>01.11. – 30.11.2025<br> <br>03.11. – 23.11.2025|
+|37/2025|- <br>E.1.3.4: Rabatt Gutschein für ehemalige BahnCard Inhaber<br>- <br>E.1.3.4: Mitfahrergutschein für BahnCard 100 Kunden<br>- <br>Rabattgutschein für 1.Klasse Fahrkarte<br>- <br>E.39 Mitfahrerrabatt für bis zu 4 Mitfahrer für BahnCard<br>Kunden“<br>- <br>E.40: Aktionsrabatt Sparpreis Business|Bis 12.12.2025<br>31.10. – 30.11.2025<br>Bis auf Weiteres<br>01.11. – 30.11.2025<br> <br>03.11. – 23.11.2025|Bis 12.12.2025<br>31.10. – 30.11.2025<br>Bis auf Weiteres<br>01.11. – 30.11.2025<br> <br>03.11. – 23.11.2025|
 
 
 
@@ -3451,7 +3481,7 @@ einzulösende Aktionsgutscheine können nur im eingeloggten Bereich verwendet we
 |---|---|---|---|---|---|---|---|
 |Gutschein für eine<br>Jugend BahnCard für<br>Buchende einer<br>Gruppenfahrkarte<br>über DB<br>Klassenfahrten|Buchende einer<br>Gruppenfahrkarte<br>über DB<br>Klassenfahrten|Jugend Bahn-Card<br>gemäß Nr. 2 BahnCard<br>Bedingungen|15.10. 2025<br>–<br>15.12.2025|Bis 15.07.2026|Gemäß Nr. 2 der<br>BahnCard<br>Bedingungen|Einlösung der<br>Gutscheine<br>ausschließlich<br>online||
 |25% - 80%<br>Rabattgutscheine für<br>ehemalige BahnCard<br>Inhaber|ehemalige BahnCard<br>Inhaber|BahnCard gemäß Nr. 2<br>BahnCard Bedingungen<br>und gemäß Angabe auf<br>dem Gutschein|bis<br>12.12.2025|bis 12.12.2025|Gemäß Nr. 2 der<br>BahnCard<br>Bedingungen|Einlösung der<br>Gutscheine<br>ausschließlich<br>online||
-|Mitfahrergutschein für<br>BahnCard 100 Kunden|Inhaber einer<br>BahnCard 100|Mitfahrergutschein<br>gemäß Nr. 2.2<br>Aktionsangebote|31.10.2025<br>–<br>30.11.2025<br>|Bis 30.11.2025|01.11.2025 –<br>30.11.2025|BahnCard 100 1.<br>Klasse Inhaber<br>erhalten einen<br>Mitfahrergutschein<br>für die 1. Klasse.<br>BahnCard 100 2.<br>Klasse Inhaber<br>erhalten einen<br>Gutschein für die 2.<br>Klasse||
+|Mitfahrergutschein für<br>BahnCard 100 Kunden|Inhaber einer<br>BahnCard 100|Mitfahrergutschein<br>gemäß Nr. 2.2<br>Aktionsangebote|31.10.2025<br>–<br>30.11.2025<br>|Bis 30.11.2025|01.11.2025 –<br>30.11.2025|BahnCard 100 1.<br>Klasse<br>Inhaber<br>erhalten<br>einen<br>Mitfahrergutschein<br>für die 1. Klasse.<br>BahnCard 100 2.<br>Klasse Inhaber<br>erhalten einen<br>Gutschein für die 2.<br>Klasse||
 |25% Aktionsgutschein<br>für Bahn Kunden|Zufällig ausgewählte<br>Bahn Kunden|Fahrkarten 1. Klasse<br>gemäß Nr. 3 BB<br>Personenverkehr ab<br>19,99 €<br>Mindestfahrkartenwert.|Bis auf Weiteres|Bis auf Weiteres|Bis auf Weiteres|||
 
 
@@ -5148,7 +5178,6 @@ Folgenden „BahnCard 25“) sowie BahnCard 50, My BahnCard 50, Senioren BahnCar
 BahnCard 50 sowie BahnCard Business 50 (im Folgenden „BahnCard 50“) angeboten.
 
 **3.** **Aktionsbeschreibung**
-
 3.1 Im Aktionszeitraum gemäß Nr. 2 können Inhaber einer BahnCard 25 oder BahnCard 50 bis
 zu vier Mitreisende zum BahnCard 25 bzw. BahnCard 50 Rabatt auf ihrer Fahrkarte mitnehmen.
 Es wird für die mitreisenden Personen ein BahnCard Rabatt gemäß Nr. 2.1 der BahnCard
@@ -6019,7 +6048,7 @@ Erwerb und die Nutzung von BahnCards (BahnCard)
 6.1 Erwerb von digitalen Tickets und Reservierungen als Online-Ticket
 
 
-6.1.1 Unter [www.bahn.de sowie in der Buchungs-App DB Navigator können Inhaber, eines](http://www.bahn.de/)
+6.1.1 Unter [www.bahn.de](http://www.bahn.de/) sowie in der Buchungs-App DB Navigator können Inhaber, eines
 gültigen EU-Personalausweises oder Personalausweises aus Norwegen bzw. der Schweiz, eines
 deutschen oder internationalen Reisepasses, eines von einer deutschen Behörde ausgestellten
 elektronischen Aufenthaltstitels, einer von einer deutschen Behörde ausgestellten Bescheinigung
@@ -6115,7 +6144,7 @@ bei der Bestellung angegebene Konto.
 **I.9** **Zahlarten**
 
 
-9.1 [Buchungen auf www.bahn.de](http://www.bahn.de/) und über die Buchungs-App können mit Kreditkarte, per
+9.1 [Buchungen auf www.bahn.de und über die Buchungs-App können mit Kreditkarte, per](http://www.bahn.de/)
 PayPal, giropay, SEPA-Lastschriftverfahren oder Apple Pay bezahlt werden.
 
 
@@ -6257,7 +6286,7 @@ in sog. Brieftaschen-Apps zur Speicherung virtueller Objekte (z.B. Apple Wallet)
 
 # **Bedingungen für BahnBonus** **Prämienfahrkarten** **(Prämienfahrkarten)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 20.10.2025**
+## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 25.11.2025**
 ### **K Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten)**
 
 **K.1** **Allgemeines**
@@ -6379,6 +6408,12 @@ den jeweiligen Bedingungen der BahnBonus Prämienfahrkarten unter Nr. 4 ausdrüc
 ist ausgeschlossen.
 
 
+2.11 Menschen mit einem Schwerbehindertenausweis mit Merkzeichen B, die eine
+Prämienfahrkarte gemäß K.4 über den digitalen Verkauf buchen, erhalten abweichend von Nr.
+2.1.2 der Bedingungen für besondere Personengruppen eine kostenfreie Reservierung für ihre
+Begleitperson ausschließlich im personalbedienten Verkauf.
+
+
 **K.3** **Fahrgastrechte**
 
 
@@ -6393,7 +6428,6 @@ Prämienfahrkarte angerechneten BahnBonus Prämienpunkte erstattet.
 werden die für die Fahrkarte genutzten BahnBonus Prämienpunkte dem Konto wieder
 gutgeschrieben.
 
-
 **K.4** **Konditionen der BahnBonus Prämienfahrkarten**
 
 
@@ -6403,7 +6437,6 @@ gutgeschrieben.
 4.1.1 Die BahnBonus Prämienfahrkarte „BahnBonus Freifahrt" gibt es entsprechend der
 erforderlichen BahnBonus Prämienpunkte sowohl für eine einfache bzw. Hin- und Rückfahrt als
 auch für die 1. bzw. die 2. Wagenklasse.
-
 Die BahnBonus Prämienfahrkarte „BahnBonus Freifahrt" als ICE/IC/EC-Online-Ticket nach Nr.
 2.2.1 gebucht werden.
 
@@ -6462,13 +6495,13 @@ Prämie bestellt hat.
 
 4.3 BahnBonus Prämienfahrkarte: „1. Klasse Upgrade“
 
-
 4.3.1 Die BahnBonus Prämienfahrkarte „1. Klasse Upgrade“ gibt es als Online-Ticket nach Nr.
 2.2.1 für eine einfache Fahrt oder Hin- und Rückfahrt, als Aktionsgutschein nach Nr. 2.2.2 für eine
 einfache Fahrt oder als Fahrkartenvordruck nach Nr. 2.2.3 für eine einfache Fahrt. Sie berechtigt
 zur Reise in der 1. Klasse, wenn sie in Verbindung mit einer Fahrkarte 2. Klasse zum Flexpreis,
 Sparpreis oder Super Sparpreis (jeweils mit oder ohne BahnCard-Rabatt) für eine innerdeutsche
 Fahrt bei der Fahrkartenkontrolle mit vorgelegt wird.
+
 
 4.3.2 Zusammen mit der Buchung eines Online-Tickets 2. Klasse kann die BahnBonus
 Prämienfahrkarte „1. Klasse Upgrade“ nach Nr. 2.2.1 gebucht werden und erscheint dann direkt
@@ -6527,7 +6560,6 @@ erforderlichen BahnBonus Prämienpunkte für die 1. oder 2. Wagenklasse als Onli
 
 Nr. 2.2.1.
 
-
 4.5.2 Die BahnBonus Prämienfahrkarte „DB Tageskarte“ gilt für beliebig viele Fahrten
 innerhalb Deutschlands am aufgedruckten Geltungstag bis 10:00 Uhr des auf den Geltungstag
 folgenden Tages.
@@ -6537,6 +6569,7 @@ IC/EC zurückgelegt wird.
 
 4.5.3 Abweichend zu Nr. 2.6 beinhaltet die BahnBonus Prämienfahrkarte „DB Tageskarte“ kein
 City-Ticket.
+
 
 4.5.4 (bleibt frei)
 
@@ -6600,12 +6633,12 @@ BahnBonus international“ kein City-Ticket.
 
 4.7.5 (bleibt frei)
 
-
 4.8 BahnBonus Prämienfahrkarte „Länder-Ticket"
 4.9.1 Die BahnBonus Prämienfahrkarte „Länder-Ticket“ gibt es entsprechend der
 erforderlichen BahnBonus Prämienpunkte als Online-Ticket nach Nr. 2.2.1 in den Varianten
 „Bayern-Ticket“, „Mecklenburg-Vorpommern-Ticket“, „Rheinland-Pfalz und Saarland-Ticket“,
 „Sachsen, Sachsen-Anhalt und Thüringen-Ticket“, und als „Schleswig-Holstein-Ticket“.
+
 
 4.8.1 Die BahnBonus Prämienfahrkarte "Länder-Ticket" gilt in der 2. Wagenklasse für beliebig
 viele Fahrten in Zügen der Produktklasse C gemäß Nr. 1.4 BB Personenverkehr im Geltungsbereich
@@ -6669,7 +6702,6 @@ und „DB Tageskarte“ genutzt werden.
 
 (nicht zu verwechseln mit der „BahnBonus Mitfahr-Freifahrt“ nach Nr. 4.4)
 
-
 4.11.1 Beim Erreichen des BahnBonus Statuslevels Platin erhält der BahnBonus Teilnehmer
 
 einmalig zwei Aktionsgutscheine für je eine Fahrkarte „ BahnBonus Status Mitfahr-Freifahrt“ nach
@@ -6678,6 +6710,7 @@ Nr. 2.2.2.
 
 Jeder Aktionsgutschein kann zur Onlinebuchung für eine Hin- und Rückfahrt in der 1. Klasse
 genutzt werden.
+
 
 Die Aktionsgutscheine können auch zur Buchung einer Fahrkarte 2. Klasse genutzt werden.
 
