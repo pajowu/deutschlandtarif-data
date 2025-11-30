@@ -1,6 +1,6 @@
 ## Speisen und Getränke Premium Bereich
 
-Stand: September 2025
+Stand: Dezember 2025
 
 
 Änderungen der Speisekarte vorbehalten. Gerne stellen wir Ihnen
@@ -49,11 +49,11 @@ Warme Speisen
 ab 11 Uhr
 
 
-Flatbread Pulled Pork
-Pineapple*
+           Pinsa Kartoffel Spinat
 
 
-Kürbissuppe
+Kartoffeleintopf mit
+Fleischeinlage
 
 
 - Nicht verfügbar in Köln.
@@ -66,16 +66,20 @@ Sandwiches
 
 Sandwich
 
-mit Gouda und Karotte
+mit Farmerschinken Mozzarella
 
-Vegane Focaccia
-mit Grillgemüse
+Wrap Curry Couscous
 
 
 Snacks
 
 
 Hummus
+
+mit Brot nach Wahl
+
+
+Tomatencreme
 
 mit Brot nach Wahl
 
@@ -91,7 +95,7 @@ Kuchen
 Apfel-Streuselkuchen
 
 
-Mini Berry Bites
+Choc-O-Lot Bites
 
 
 ### Getränke
@@ -150,7 +154,7 @@ Auf Wunsch bieten wir Ihnen auch gerne Mischgetränke an.
 Bier, Wein & Sekt
 
 
-Erdinger Helles
+Jever Fun
 
 alkoholfrei
 
