@@ -133,7 +133,7 @@ DOKI,Doberlug-Kirchhain,10079,VBB
 DON,Donauwörth,78,AVV
 DOWH,Dortmund Signal Idu.,1522,VRR
 DOWW,Dortmund-Wickede W,3936,VRR
-DS,Donaueschingen,77,VSB
+DS,Donaueschingen,77,MOV
 DU,Duisburg Hbf,86,VRR
 DUED,Dürrröhrsdorf,10091,VVO
 DUEL,Dülmen,83,VGM
@@ -200,7 +200,7 @@ FW,Fürstenwalde(Spree),10120,VBB
 G,Gera Hbf,10125,VMT
 GAI,Gaimersheim,2171,
 GAM,Gammertingen,2178,NAL
-GAP,Garmisch-Partenk.,2187,
+GAP,Garmisch-Partenk.,2187,MVV
 GC,Glauchau(Sachs),10129,VMS
 GE,Gelsenkirchen Hbf,118,VRR
 GEES,Geestgottberg,10121,
@@ -313,7 +313,7 @@ HY,Hoyerswerda,10177,VVO
 HZ,Herzberg(Harz),166,VSN
 IBB,Ibbenbüren,3036,VGM
 IGGR,Igel(Gr),303,
-IMM,Immendingen,182,TUT
+IMM,Immendingen,182,MOV
 IN,Ingolstadt Hbf,183,
 IS,Iserlohn,186,VRL
 IZ,Itzehoe,3102,HVV
@@ -361,7 +361,7 @@ KTW,Kettwig,198,VRR
 KUF,Kufstein,3475,MVV
 KW,Königs Wusterhausen,10193,VBB
 L,Leipzig Hbf,10205,MDV
-LA,Landshut(Bay)Hbf,217,
+LA,Landshut(Bay)Hbf,217,MVV
 LAA,Laage(Meckl),12143,VVW
 LAGE,Lage(Lippe),215,OWL
 LAUD,Lauda,221,VRN
@@ -376,7 +376,7 @@ LEES,Leese-Stolzenau,335,
 LEHR,Lehrte,226,GVH
 LEIF,Leinefelde,10203,
 LER,Leer(Ostfriesl),225,
-LETM,Letmathe,227,VRL
+LETM,Iserlohn-Letmathe,227,VRL
 LEUT,Leutkirch,336,BOD
 LEVM,Leverkusen Mitte,6713,VRS
 LG,Lüneburg,238,HVV
@@ -427,7 +427,7 @@ MPAS,München-Pasing,4158,MVV
 MR,Marburg(Lahn),337,RMV
 MS,Münster(Westf)Hbf,263,VGM
 MT,Montabaur,667,
-MUE,Mühldorf(Oberbay),258,
+MUE,Mühldorf(Oberbay),258,MVV
 MZ,Mainz Hbf,240,RMV
 MZBI,Mainz-Bischofsheim,241,RMV
 N,Nürnberg Hbf,284,VGN
@@ -441,7 +441,7 @@ NEA,Neustadt(Aisch)Bahnh,4323,VGN
 NECK,Mosbach-Neckarelz,264,VRN
 NENN,Bad Nenndorf,22,GVH
 NEUD,Neustadt(Dosse),10248,VBB
-NEUF,Neufahrn(Niederbay),688,
+NEUF,Neufahrn(Niederbay),688,MVV
 NEUK,Neukieritzsch,10243,MDV
 NEUS,Neustadt(Sachs),10249,VVO
 NEUZ,Neuzelle,12479,VBB
@@ -459,7 +459,7 @@ NMB,Naumburg(Saale)Hbf,10240,MDV
 NMK,Neumark(Sachs),10244,VVV
 NMO,Neumarkt(Oberpf),4305,VGN
 NMS,Neumünster,271,SHT
-NMV,Neumarkt-St Veit,720,
+NMV,Neumarkt-St Veit,720,MVV
 NMW,Neuenmarkt-Wirsberg,267,VGN
 NOE,Nördlingen,280,OAM
 NOM,Northeim(Han),283,VSN
@@ -541,7 +541,7 @@ RSL,Roßlau(Elbe),10302,MDV
 RT,Reutlingen Hbf,314,NAL
 RU,Rudolstadt(Thür),10306,VMT
 RUHL,Ruhland,10308,VBB
-RW,Rottweil,322,VVR
+RW,Rottweil,322,MOV
 RY,Rheydt Hbf,318,VRR
 S,Stuttgart Hbf,96,VVS
 SAD,Schwandorf,27,VLC
@@ -587,7 +587,7 @@ SO,Soest,76,VRL
 SOEM,Sömmerda,10328,VMT
 SOL,Soltau(Han),88,HVV
 SON,Sonneberg(Thür)Hbf,13008,VGN
-SPAI,Spaichingen,5616,TUT
+SPAI,Spaichingen,5616,MOV
 SR,Straubing,95,
 STD,Stade,89,HVV
 STEI,Steinach(b Rothenb),91,VGN
@@ -615,7 +615,7 @@ TS,Traunstein,116,
 TUE,Tübingen Hbf,141,NAL
 TUEH,Türkheim(Bay)Bf,144,
 TUEM,Türkismühle,154,SVV
-TUT,Tuttlingen,163,TUT
+TUT,Tuttlingen,163,MOV
 UCKR,Luckau-Uckro,10353,VBB
 UE,Uelzen,168,
 UL,Ulm Hbf,170,DIN
@@ -625,13 +625,13 @@ VER,Verden(Aller),6076,VBN
 VIE,Viersen,174,VRR
 VIEN,Vienenburg,364,VRB
 VK,Völklingen,175,SVV
-VS,Villingen(Schwarzw),366,VSB
+VS,Villingen(Schwarzw),366,MOV
 W,Wuppertal Hbf,266,VRR
 WAB,Wabern(Bz Kassel),368,NVV
 WAF,Warendorf,6206,VGM
 WAL,Wallau(Lahn),187,RMV
 WALK,Walkenried,6172,VSN
-WAN,Wanne-Eickel Hbf,192,VRR
+WAN,He.-Wanne-Eickel Hbf,192,VRR
 WAR,Warburg(Westf),196,HST
 WB,Luth. Wittenberg Hbf,10222,MDV
 WBE,Wittenberge,10382,VBB
@@ -646,7 +646,7 @@ WEID,Weida,10365,VMT
 WEIL,Weil der Stadt,6271,VVS
 WEIN,Weinheim(Bergstr)Hbf,377,VRN
 WEL,Weilburg,218,RMV
-WEN,Weiden(Oberpf),204,
+WEN,Weiden(Oberpf),204,VGN
 WERH,Werder(Havel),10373,VBB
 WERL,Werl,6342,VRL
 WERN,Werneuchen,13285,VBB
@@ -673,7 +673,7 @@ WSF,Weißenfels,10368,MDV
 WTH,Wilthen,10380,VON
 WTL,Wittlich Hbf,379,VRT
 WUE,Würzburg Hbf,260,NVM
-WUED,Wünschendorf,10387,
+WUED,Wünschendorf(Elst.),10387,
 WUM,Wustermark,10389,VBB
 WUN,Wunsiedel-Holenbrunn,173,VGN
 WUNS,Wunstorf,268,GVH

@@ -77,6 +77,27 @@
 		"\u00fcber Leitpunkt(e)": ""
 	},
 	{
+		"Grenzbahnhof/ Grenzpunkt": "Horka(Gr)",
+		"IBNR": "10073",
+		"n\u00e4chster Haupt-/ Ansto\u00dfbahnhof": "Cottbus Hbf",
+		"Tarifkilometer": "82",
+		"\u00fcber Leitpunkt(e)": ""
+	},
+	{
+		"Grenzbahnhof/ Grenzpunkt": "Horka(Gr)",
+		"IBNR": "10131",
+		"n\u00e4chster Haupt-/ Ansto\u00dfbahnhof": "G\u00f6rlitz",
+		"Tarifkilometer": "36",
+		"\u00fcber Leitpunkt(e)": ""
+	},
+	{
+		"Grenzbahnhof/ Grenzpunkt": "Horka(Gr)",
+		"IBNR": "10171",
+		"n\u00e4chster Haupt-/ Ansto\u00dfbahnhof": "Hosena",
+		"Tarifkilometer": "77",
+		"\u00fcber Leitpunkt(e)": ""
+	},
+	{
 		"Grenzbahnhof/ Grenzpunkt": "Konstanz",
 		"IBNR": "73",
 		"n\u00e4chster Haupt-/ Ansto\u00dfbahnhof": "Singen(Hohentwiel)",

@@ -172,7 +172,7 @@
 		"IBNR": "431",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -331,7 +331,7 @@
 		"Tarifpunkt": "Aich(Niederbay)",
 		"IBNR": "451",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "93",
 		"Gleichstellung zu beachten": ""
 	},
@@ -356,7 +356,7 @@
 		"IBNR": "455",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VLP",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -371,7 +371,7 @@
 		"Tarifpunkt": "Aistaig",
 		"IBNR": "460",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "204",
 		"Gleichstellung zu beachten": ""
 	},
@@ -483,7 +483,7 @@
 		"Tarifpunkt": "Aldingen(b Spaich)",
 		"IBNR": "481",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -707,7 +707,7 @@
 		"Tarifpunkt": "Altenau(Bay)",
 		"IBNR": "515",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -843,7 +843,7 @@
 		"Tarifpunkt": "Altenstadt(Waldnaab)",
 		"IBNR": "540",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "196",
 		"Gleichstellung zu beachten": ""
 	},
@@ -964,7 +964,7 @@
 		"IBNR": "549",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -1123,7 +1123,7 @@
 		"Tarifpunkt": "Ampfing",
 		"IBNR": "576",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "264",
 		"Gleichstellung zu beachten": ""
 	},
@@ -1384,8 +1384,24 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Arns.-Neheim-H\u00fcsten",
+		"IBNR": "4228",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "260",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Arnsberg(Westf)",
 		"IBNR": "605",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "260",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Arnsberg-Oeventrop",
+		"IBNR": "4642",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRL",
 		"Regionen": "260",
@@ -1612,7 +1628,7 @@
 		"IBNR": "12",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VRS",
-		"Regionen": "257,270,271",
+		"Regionen": "272,257,270",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -1764,7 +1780,7 @@
 		"IBNR": "664",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBN",
-		"Regionen": "281",
+		"Regionen": "516",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -1772,7 +1788,7 @@
 		"IBNR": "643",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -1916,7 +1932,7 @@
 		"IBNR": "16",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VVS",
-		"Regionen": "554,239,543",
+		"Regionen": "466,554,543",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -1996,7 +2012,7 @@
 		"IBNR": "691",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -2171,7 +2187,7 @@
 		"Tarifpunkt": "Bad D\u00fcrrheim",
 		"IBNR": "699",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -2212,7 +2228,7 @@
 		"IBNR": "774",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "KVV",
-		"Regionen": "208,681",
+		"Regionen": "681,74",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -2220,7 +2236,7 @@
 		"IBNR": "771",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "208",
+		"Regionen": "74",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -2268,7 +2284,7 @@
 		"IBNR": "704",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -2276,7 +2292,7 @@
 		"IBNR": "17",
 		"Bahnhofstatus": "AST",
 		"Verbund": "HNV",
-		"Regionen": "131,243,277,278",
+		"Regionen": "131,435,277,278",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -2412,14 +2428,14 @@
 		"IBNR": "10018",
 		"Bahnhofstatus": "AST",
 		"Verbund": "",
-		"Regionen": "1002,1212,1213,1342",
+		"Regionen": "521,1002,1212,1213",
 		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Bad Kohlgrub",
 		"IBNR": "716",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -2427,7 +2443,7 @@
 		"Tarifpunkt": "Bad Kohlgrub Kurhaus",
 		"IBNR": "717",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -2548,7 +2564,7 @@
 		"IBNR": "721",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGC",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -2740,7 +2756,7 @@
 		"IBNR": "5183",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -2748,7 +2764,7 @@
 		"IBNR": "5186",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -2756,7 +2772,7 @@
 		"IBNR": "5187",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -2764,7 +2780,7 @@
 		"IBNR": "11079",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
-		"Regionen": "1065",
+		"Regionen": "5",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -2772,7 +2788,7 @@
 		"IBNR": "10028",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
-		"Regionen": "1065",
+		"Regionen": "5",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -2780,7 +2796,7 @@
 		"IBNR": "11080",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
-		"Regionen": "1065",
+		"Regionen": "5",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -3076,7 +3092,7 @@
 		"IBNR": "6431",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGC",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -3084,7 +3100,7 @@
 		"IBNR": "6435",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGC",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -3092,7 +3108,7 @@
 		"IBNR": "6434",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGC",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -3100,7 +3116,7 @@
 		"IBNR": "6439",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGC",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -3172,7 +3188,7 @@
 		"IBNR": "770",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBN",
-		"Regionen": "281",
+		"Regionen": "516",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -3228,7 +3244,7 @@
 		"IBNR": "782",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -3236,7 +3252,7 @@
 		"IBNR": "789",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -3283,7 +3299,7 @@
 		"Tarifpunkt": "Balgheim",
 		"IBNR": "787",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -3336,6 +3352,30 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Balve-Garbeck",
+		"IBNR": "2180",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "232",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Balve-Sanssouci",
+		"IBNR": "5289",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "232",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Balve-Volkringhausen",
+		"IBNR": "6109",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "232",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Bamberg",
 		"IBNR": "25",
 		"Bahnhofstatus": "HAST",
@@ -3372,7 +3412,7 @@
 		"IBNR": "802",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -3788,7 +3828,7 @@
 		"IBNR": "857",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -3836,7 +3876,7 @@
 		"IBNR": "863",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -3844,7 +3884,7 @@
 		"IBNR": "861",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -3900,7 +3940,7 @@
 		"IBNR": "873",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -3924,7 +3964,7 @@
 		"IBNR": "31",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VRN",
-		"Regionen": "340,74,445",
+		"Regionen": "243,340,445",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -3972,7 +4012,7 @@
 		"IBNR": "890",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "36",
+		"Regionen": "208",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -4024,15 +4064,7 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Berghausen(Baden)",
-		"IBNR": "893",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "KVV",
-		"Regionen": "100",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Berghausen(b Wittg)",
+		"Tarifpunkt": "Berghausen",
 		"IBNR": "892",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGW",
@@ -4040,11 +4072,19 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Berghausen(Baden)",
+		"IBNR": "893",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Berghausen(Pfalz)",
 		"IBNR": "894",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -4052,7 +4092,7 @@
 		"IBNR": "900",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -4062,6 +4102,22 @@
 		"Verbund": "VRS",
 		"Regionen": "220",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Berghsn Am Stadion",
+		"IBNR": "20000",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Berghsn Pfinzbr\u00fccke",
+		"IBNR": "20001",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Bergisch Gladbach",
@@ -5316,7 +5372,7 @@
 		"IBNR": "925",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "245",
+		"Regionen": "349",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -5492,7 +5548,7 @@
 		"IBNR": "11183",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -5676,7 +5732,7 @@
 		"IBNR": "963",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "276",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -5684,7 +5740,7 @@
 		"IBNR": "38",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VVS",
-		"Regionen": "162,245,541",
+		"Regionen": "162,349,541",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -5716,7 +5772,7 @@
 		"IBNR": "968",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -5812,7 +5868,7 @@
 		"IBNR": "984",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -5828,7 +5884,7 @@
 		"IBNR": "986",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -5916,7 +5972,7 @@
 		"IBNR": "998",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -5964,7 +6020,7 @@
 		"IBNR": "1005",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -6040,12 +6096,52 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Blankenl. M\u00fchlenw.",
+		"IBNR": "20003",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Blankenl. Tolna-Pl.",
+		"IBNR": "20006",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Blankenloch",
 		"IBNR": "1009",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "349",
-		"Gleichstellung zu beachten": ""
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Blankenloch Kirche",
+		"IBNR": "20002",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Blankenloch Nord",
+		"IBNR": "20004",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Blankenloch S\u00fcd",
+		"IBNR": "20005",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Blankensee(Meckl)",
@@ -6171,7 +6267,7 @@
 		"Tarifpunkt": "Blumberg-Ried\u00f6schin",
 		"IBNR": "1029",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "199",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -6179,7 +6275,7 @@
 		"Tarifpunkt": "Blumberg-Zollhaus",
 		"IBNR": "6669",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "199",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -6197,6 +6293,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
 		"Regionen": "1206",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Blumenthal(Mark)",
+		"IBNR": "11214",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -6236,7 +6340,7 @@
 		"IBNR": "1055",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -6326,6 +6430,22 @@
 		"Verbund": "VRN",
 		"Regionen": "421",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "B\u00f6ckingen Sonnenbr.",
+		"IBNR": "20007",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "131",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "B\u00f6ckingen West",
+		"IBNR": "20008",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "131",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Bodelsberg",
@@ -6472,11 +6592,19 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "B\u00f6lzke",
+		"IBNR": "11216",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Bondorf(b Herrenb)",
 		"IBNR": "1080",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -6600,11 +6728,27 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Boppard-Buchholz",
+		"IBNR": "1235",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRM",
+		"Regionen": "512",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Boppard-Fleckertsh.",
+		"IBNR": "2004",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRM",
+		"Regionen": "512",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Boppard Hbf",
 		"IBNR": "45",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VRM",
-		"Regionen": "311,315",
+		"Regionen": "512,513,311,315",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -6613,6 +6757,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
 		"Regionen": "315",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Boppard S\u00fcd",
+		"IBNR": "324",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRM",
+		"Regionen": "513",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -6796,7 +6948,7 @@
 		"IBNR": "1112",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
-		"Regionen": "272",
+		"Regionen": "271",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -6923,7 +7075,7 @@
 		"Tarifpunkt": "Br\u00e4unlingen Bahnhof",
 		"IBNR": "1119",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "21",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -6931,7 +7083,7 @@
 		"Tarifpunkt": "Br\u00e4unlingen Industr",
 		"IBNR": "1127",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "21",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -6981,14 +7133,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
 		"Regionen": "1229",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Bredelar",
-		"IBNR": "1137",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "153",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -7300,7 +7444,15 @@
 		"IBNR": "53",
 		"Bahnhofstatus": "AST",
 		"Verbund": "KVV",
-		"Regionen": "131,435,100,190",
+		"Regionen": "131,347,190,255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Bretten Kupferh\u00e4lde",
+		"IBNR": "20009",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "131",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -7308,7 +7460,7 @@
 		"IBNR": "1138",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -7316,7 +7468,7 @@
 		"IBNR": "1131",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -7330,6 +7482,14 @@
 	{
 		"Tarifpunkt": "Bretten Stadtmitte",
 		"IBNR": "1152",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "131",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Bretten Wannenweg",
+		"IBNR": "20010",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "131",
@@ -7356,7 +7516,7 @@
 		"IBNR": "1178",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -7387,7 +7547,7 @@
 		"Tarifpunkt": "Brigachtal Kirchdorf",
 		"IBNR": "3339",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -7395,9 +7555,17 @@
 		"Tarifpunkt": "Brigachtal Klengen",
 		"IBNR": "3336",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Brilon-Hoppecke",
+		"IBNR": "2992",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "153",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Brilon Stadt",
@@ -7456,11 +7624,27 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Br\u00f6tz. Wohnlichstr.",
+		"IBNR": "20012",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VPE",
+		"Regionen": "510",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Br\u00f6tzingen Mitte",
 		"IBNR": "4799",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "524",
+		"Regionen": "510",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Br\u00f6tzingen Sandweg",
+		"IBNR": "20011",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VPE",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -7476,7 +7660,7 @@
 		"IBNR": "1198",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "347",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -7508,7 +7692,7 @@
 		"IBNR": "55",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "KVV",
-		"Regionen": "466,435,100,108,428",
+		"Regionen": "36,108,428,190,255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -7516,23 +7700,15 @@
 		"IBNR": "1214",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "466",
-		"Gleichstellung zu beachten": "*"
-	},
-	{
-		"Tarifpunkt": "Bruchsal AVG",
-		"IBNR": "1195",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "KVV",
-		"Regionen": "108",
-		"Gleichstellung zu beachten": "*"
+		"Regionen": "36",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Bruchsal Bildungsz",
 		"IBNR": "1197",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -7540,7 +7716,15 @@
 		"IBNR": "1216",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "435",
+		"Regionen": "190",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Bruchsal Schlossg.",
+		"IBNR": "1195",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "108",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -7548,7 +7732,15 @@
 		"IBNR": "1212",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "466",
+		"Regionen": "36",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Bruchsal Stegwiesen",
+		"IBNR": "20013",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "108",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -7556,7 +7748,7 @@
 		"IBNR": "1219",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "435",
+		"Regionen": "190",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -7579,7 +7771,7 @@
 		"Tarifpunkt": "Bruckberg",
 		"IBNR": "1203",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "264",
 		"Gleichstellung zu beachten": ""
 	},
@@ -7600,11 +7792,11 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Br\u00fcgge(Westf)",
-		"IBNR": "1213",
+		"Tarifpunkt": "Br\u00fcgge(Prign)",
+		"IBNR": "11272",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "90",
+		"Verbund": "",
+		"Regionen": "1075",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -7888,6 +8080,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Bunde",
+		"IBNR": "1269",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "517",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "B\u00fcnde(Westf)",
 		"IBNR": "59",
 		"Bahnhofstatus": "AST",
@@ -7941,14 +8141,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "MAR",
 		"Regionen": "94",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Burgalben",
-		"IBNR": "1275",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRN",
-		"Regionen": "253",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -8092,7 +8284,7 @@
 		"IBNR": "1296",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -8364,7 +8556,15 @@
 		"IBNR": "1320",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGC",
-		"Regionen": "524",
+		"Regionen": "510",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Calmbach S\u00fcd",
+		"IBNR": "20014",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VGC",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -8372,7 +8572,7 @@
 		"IBNR": "63",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VGC",
-		"Regionen": "3,266,524",
+		"Regionen": "3,266,510",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -8896,6 +9096,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Crivitz",
+		"IBNR": "11326",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Cronheim",
 		"IBNR": "1350",
 		"Bahnhofstatus": "NAST",
@@ -8973,6 +9181,22 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VMT",
 		"Regionen": "358",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Dageb\u00fcll Kirche",
+		"IBNR": "1363",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "SHT",
+		"Regionen": "667",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Dageb\u00fcll Mole",
+		"IBNR": "1364",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "SHT",
+		"Regionen": "667",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -9240,6 +9464,14 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "Deezb\u00fcll",
+		"IBNR": "1395",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "SHT",
+		"Regionen": "667",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Deggendorf Hbf",
 		"IBNR": "1397",
 		"Bahnhofstatus": "NAST",
@@ -9275,7 +9507,7 @@
 		"Tarifpunkt": "Dei\u00dflingen Mitte",
 		"IBNR": "1405",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -9540,7 +9772,7 @@
 		"IBNR": "1437",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "435",
+		"Regionen": "190",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -9608,14 +9840,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Dietfurt(Altm\u00fchl)",
-		"IBNR": "1452",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGN",
-		"Regionen": "314",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Dietmannsried",
 		"IBNR": "1454",
 		"Bahnhofstatus": "NAST",
@@ -9660,7 +9884,7 @@
 		"IBNR": "11378",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -9859,7 +10083,7 @@
 		"Tarifpunkt": "D\u00f6ggingen",
 		"IBNR": "1480",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "21",
 		"Gleichstellung zu beachten": ""
 	},
@@ -9936,10 +10160,18 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Doms\u00fchl",
+		"IBNR": "11403",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Donauesch.Allmendsh.",
 		"IBNR": "1479",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "21",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -9947,7 +10179,7 @@
 		"Tarifpunkt": "Donauesch.Gr\u00fcningen",
 		"IBNR": "1483",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -9955,7 +10187,7 @@
 		"Tarifpunkt": "Donauesch.Mitte/Sied",
 		"IBNR": "1485",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -9963,7 +10195,7 @@
 		"Tarifpunkt": "Donaueschingen",
 		"IBNR": "77",
 		"Bahnhofstatus": "AST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "21,199,206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -9971,7 +10203,7 @@
 		"Tarifpunkt": "Donaueschingen Aufen",
 		"IBNR": "1482",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -10768,14 +11000,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Drosendorf",
-		"IBNR": "1564",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGN",
-		"Regionen": "491",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Drossenfeld",
 		"IBNR": "1565",
 		"Bahnhofstatus": "NAST",
@@ -10964,7 +11188,15 @@
 		"IBNR": "1616",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "276",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Durmersheim Nord",
+		"IBNR": "20015",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VGC",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -10972,7 +11204,7 @@
 		"IBNR": "1576",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -11200,6 +11432,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "D\u00fctschow",
+		"IBNR": "11442",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Ebelsbach-Eltmann",
 		"IBNR": "1619",
 		"Bahnhofstatus": "NAST",
@@ -11388,7 +11628,7 @@
 		"IBNR": "1650",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -11560,6 +11800,22 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Egg. Schweriner Str.",
+		"IBNR": "20016",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Egg. Sp\u00f6cker Weg",
+		"IBNR": "20017",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Eggenfelden",
 		"IBNR": "1677",
 		"Bahnhofstatus": "NAST",
@@ -11581,7 +11837,15 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "255",
-		"Gleichstellung zu beachten": ""
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Eggenstein S\u00fcd",
+		"IBNR": "20018",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Eggersdorf",
@@ -11603,7 +11867,7 @@
 		"Tarifpunkt": "Egglkofen",
 		"IBNR": "1678",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "93",
 		"Gleichstellung zu beachten": ""
 	},
@@ -11611,7 +11875,7 @@
 		"Tarifpunkt": "Eggm\u00fchl",
 		"IBNR": "1679",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "61",
 		"Gleichstellung zu beachten": ""
 	},
@@ -11668,7 +11932,15 @@
 		"IBNR": "1689",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Ehr",
+		"IBNR": "1690",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRM",
+		"Regionen": "512",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -11685,14 +11957,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NVV",
 		"Regionen": "476",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Ehringhausen(Lippst)",
-		"IBNR": "1692",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "160",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -11725,14 +11989,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VON",
 		"Regionen": "298",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Eichen(Siegen)",
-		"IBNR": "1700",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGW",
-		"Regionen": "250",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12012,7 +12268,7 @@
 		"IBNR": "1729",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGW",
-		"Regionen": "272",
+		"Regionen": "271",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -12100,7 +12356,7 @@
 		"IBNR": "1747",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -12292,7 +12548,7 @@
 		"IBNR": "1767",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "210",
+		"Regionen": "281",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12300,7 +12556,15 @@
 		"IBNR": "1768",
 		"Bahnhofstatus": "AST",
 		"Verbund": "",
-		"Regionen": "210,431",
+		"Regionen": "515,281,431",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Emmelshausen",
+		"IBNR": "1770",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRM",
+		"Regionen": "512",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12400,14 +12664,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Engelmannsreuth",
-		"IBNR": "1788",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGN",
-		"Regionen": "314",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Engelskirchen",
 		"IBNR": "1789",
 		"Bahnhofstatus": "NAST",
@@ -12500,7 +12756,7 @@
 		"IBNR": "1802",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12508,7 +12764,7 @@
 		"IBNR": "1803",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12516,7 +12772,7 @@
 		"IBNR": "1806",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "BOD",
-		"Regionen": "279",
+		"Regionen": "71",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12554,6 +12810,14 @@
 	{
 		"Tarifpunkt": "Eppingen",
 		"IBNR": "373",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "131",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Eppingen West",
+		"IBNR": "20019",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "131",
@@ -12644,7 +12908,7 @@
 		"IBNR": "1827",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12716,7 +12980,7 @@
 		"IBNR": "1833",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12732,7 +12996,7 @@
 		"IBNR": "1838",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "BOD",
-		"Regionen": "279",
+		"Regionen": "71",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12876,7 +13140,7 @@
 		"IBNR": "1861",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12884,7 +13148,7 @@
 		"IBNR": "1862",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12940,7 +13204,7 @@
 		"IBNR": "1874",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -12963,7 +13227,7 @@
 		"Tarifpunkt": "Eschenbach(Oberpf)",
 		"IBNR": "1878",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "314",
 		"Gleichstellung zu beachten": ""
 	},
@@ -12971,7 +13235,7 @@
 		"Tarifpunkt": "Eschenlohe",
 		"IBNR": "1880",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -13059,8 +13323,8 @@
 		"Tarifpunkt": "Eslarn",
 		"IBNR": "1891",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
+		"Verbund": "VGN",
+		"Regionen": "11",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -13360,19 +13624,59 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Ettlingen",
-		"IBNR": "1923",
+		"Tarifpunkt": "Ettl. Neuwiesenreben",
+		"IBNR": "20022",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Ettlingen Albgaubad",
+		"IBNR": "20020",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Ettlingen Erbprinz",
+		"IBNR": "20021",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Ettlingen Spinnerei",
+		"IBNR": "20023",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Ettlingen Stadt",
+		"IBNR": "1923",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Ettlingen Wasen",
+		"IBNR": "20024",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Ettlingen West",
 		"IBNR": "1926",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "347",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -13388,7 +13692,7 @@
 		"IBNR": "1928",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
-		"Regionen": "271",
+		"Regionen": "272",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -13500,7 +13804,7 @@
 		"IBNR": "1942",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -13508,7 +13812,7 @@
 		"IBNR": "101",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VGF",
-		"Regionen": "470,266",
+		"Regionen": "408,266",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -13600,6 +13904,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Falkenhagen Gewerbe.",
+		"IBNR": "11532",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Falkensee",
 		"IBNR": "13479",
 		"Bahnhofstatus": "NAST",
@@ -13635,7 +13947,7 @@
 		"Tarifpunkt": "Farchant",
 		"IBNR": "1961",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -13668,7 +13980,7 @@
 		"IBNR": "1967",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -13884,7 +14196,7 @@
 		"IBNR": "1984",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -13988,7 +14300,7 @@
 		"IBNR": "2001",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NVM",
-		"Regionen": "408",
+		"Regionen": "279",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -14088,19 +14400,11 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Flo\u00df",
-		"IBNR": "2015",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Flossenb\u00fcrg",
 		"IBNR": "2016",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
+		"Verbund": "VGN",
+		"Regionen": "11",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -14148,7 +14452,7 @@
 		"IBNR": "2022",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -14160,11 +14464,27 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Forchh. Lstr./Messe",
+		"IBNR": "20027",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Forchh. Oberfeldstr.",
+		"IBNR": "20028",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Forchheim(Karlsruhe)",
 		"IBNR": "2023",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "276",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -14174,6 +14494,22 @@
 		"Verbund": "VGN",
 		"Regionen": "679",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Forchheim Hallenbad",
+		"IBNR": "20025",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Forchheim Hauptstr.",
+		"IBNR": "20026",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Forchheim Nord",
@@ -14684,7 +15020,7 @@
 		"IBNR": "2065",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -14766,14 +15102,6 @@
 		"Verbund": "RVF",
 		"Regionen": "29",
 		"Gleichstellung zu beachten": "*"
-	},
-	{
-		"Tarifpunkt": "Freienohl",
-		"IBNR": "2073",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "260",
-		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Freienorla",
@@ -14940,7 +15268,7 @@
 		"IBNR": "110",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VGF",
-		"Regionen": "266,188,206",
+		"Regionen": "198,266,206",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -14948,15 +15276,15 @@
 		"IBNR": "2087",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
-		"Gleichstellung zu beachten": ""
+		"Regionen": "198",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Freudenstadt Schulen",
 		"IBNR": "2090",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -14964,7 +15292,7 @@
 		"IBNR": "2091",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -14972,7 +15300,7 @@
 		"IBNR": "2092",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
-		"Regionen": "272",
+		"Regionen": "271",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -14996,7 +15324,7 @@
 		"IBNR": "2094",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "261",
+		"Regionen": "95",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15011,7 +15339,7 @@
 		"Tarifpunkt": "Fridingen(b Tuttl)",
 		"IBNR": "2096",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "399",
 		"Gleichstellung zu beachten": ""
 	},
@@ -15172,7 +15500,7 @@
 		"IBNR": "2030",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "BOD",
-		"Regionen": "279",
+		"Regionen": "71",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -15180,8 +15508,16 @@
 		"IBNR": "112",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "BOD",
-		"Regionen": "80,609,485,279",
+		"Regionen": "80,609,485,71",
 		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Friedrichsruhe(Mec.)",
+		"IBNR": "11582",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Friedrichssegen",
@@ -15204,16 +15540,32 @@
 		"IBNR": "2116",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "349",
-		"Gleichstellung zu beachten": ""
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Friedrichstal b FDS",
 		"IBNR": "2126",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Friedrichstal Mitte",
+		"IBNR": "20029",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Friedrichstal Nord",
+		"IBNR": "20030",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Friedrichsthal(Bayr)",
@@ -15260,7 +15612,7 @@
 		"IBNR": "11585",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
-		"Regionen": "1351",
+		"Regionen": "328",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15404,7 +15756,7 @@
 		"IBNR": "10120",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VBB",
-		"Regionen": "1364,1065,1034",
+		"Regionen": "1364,5,1034",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15412,7 +15764,7 @@
 		"IBNR": "11591",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
-		"Regionen": "1065",
+		"Regionen": "5",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15444,7 +15796,7 @@
 		"IBNR": "2150",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15507,7 +15859,7 @@
 		"Tarifpunkt": "Furtwangen",
 		"IBNR": "2160",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -15536,6 +15888,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Gadebusch",
+		"IBNR": "11592",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "367",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "G\u00e4dheim",
 		"IBNR": "2163",
 		"Bahnhofstatus": "NAST",
@@ -15548,7 +15908,7 @@
 		"IBNR": "2167",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15556,7 +15916,7 @@
 		"IBNR": "6733",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15632,14 +15992,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Garbeck",
-		"IBNR": "2180",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "232",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Garbenteich",
 		"IBNR": "2182",
 		"Bahnhofstatus": "NAST",
@@ -15675,7 +16027,7 @@
 		"Tarifpunkt": "Garmisch-P.Hausberg",
 		"IBNR": "2188",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "79",
 		"Gleichstellung zu beachten": ""
 	},
@@ -15683,7 +16035,7 @@
 		"Tarifpunkt": "Garmisch-Partenk.",
 		"IBNR": "2187",
 		"Bahnhofstatus": "HAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "120,125,79",
 		"Gleichstellung zu beachten": ""
 	},
@@ -15691,7 +16043,7 @@
 		"Tarifpunkt": "Gars(Inn)",
 		"IBNR": "2189",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "264",
 		"Gleichstellung zu beachten": ""
 	},
@@ -15700,7 +16052,7 @@
 		"IBNR": "2165",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15740,7 +16092,7 @@
 		"IBNR": "2166",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15748,7 +16100,7 @@
 		"IBNR": "2197",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -15851,7 +16203,7 @@
 		"Tarifpunkt": "Geisenhausen",
 		"IBNR": "2211",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "93",
 		"Gleichstellung zu beachten": ""
 	},
@@ -15875,7 +16227,7 @@
 		"Tarifpunkt": "Geisingen",
 		"IBNR": "2214",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "199",
 		"Gleichstellung zu beachten": ""
 	},
@@ -15883,7 +16235,7 @@
 		"Tarifpunkt": "Geisingen-Aulfingen",
 		"IBNR": "2200",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "199",
 		"Gleichstellung zu beachten": ""
 	},
@@ -15891,7 +16243,7 @@
 		"Tarifpunkt": "Geisingen-Hausen",
 		"IBNR": "2204",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "199",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -15899,7 +16251,7 @@
 		"Tarifpunkt": "Geisingen-Kirchen",
 		"IBNR": "2213",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "199",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -15907,7 +16259,7 @@
 		"Tarifpunkt": "Geisingen-Leipferdin",
 		"IBNR": "2215",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "199",
 		"Gleichstellung zu beachten": ""
 	},
@@ -16188,7 +16540,7 @@
 		"IBNR": "376",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -16196,7 +16548,7 @@
 		"IBNR": "2239",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -16204,7 +16556,7 @@
 		"IBNR": "2241",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -16228,7 +16580,7 @@
 		"IBNR": "2248",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -16236,7 +16588,7 @@
 		"IBNR": "2250",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -16322,6 +16674,14 @@
 	{
 		"Tarifpunkt": "Geseke",
 		"IBNR": "2262",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "160",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Geseke-Ehringhausen",
+		"IBNR": "1692",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRL",
 		"Regionen": "160",
@@ -16484,7 +16844,7 @@
 		"IBNR": "2279",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -16708,7 +17068,7 @@
 		"IBNR": "5201",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -16768,6 +17128,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "G\u00f6lshausen Ind.",
+		"IBNR": "20031",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "131",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Gol\u00dfen(Nl)",
 		"IBNR": "11668",
 		"Bahnhofstatus": "NAST",
@@ -16812,7 +17180,7 @@
 		"IBNR": "2326",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "435",
+		"Regionen": "190",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -16820,7 +17188,7 @@
 		"IBNR": "2366",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "435",
+		"Regionen": "190",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -16893,14 +17261,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGN",
 		"Regionen": "425",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "G\u00f6rzig",
-		"IBNR": "11658",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VBB",
-		"Regionen": "1065",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -17052,7 +17412,7 @@
 		"IBNR": "131",
 		"Bahnhofstatus": "AST",
 		"Verbund": "KVV",
-		"Regionen": "466,262,74,349",
+		"Regionen": "243,36,239,255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -17060,7 +17420,7 @@
 		"IBNR": "2345",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -17068,7 +17428,7 @@
 		"IBNR": "11681",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "1224",
+		"Regionen": "518",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -17083,7 +17443,7 @@
 		"Tarifpunkt": "Grafenaschau",
 		"IBNR": "2343",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -17147,7 +17507,7 @@
 		"Tarifpunkt": "Grafenw\u00f6hr",
 		"IBNR": "6697",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "314",
 		"Gleichstellung zu beachten": ""
 	},
@@ -17212,7 +17572,7 @@
 		"IBNR": "6731",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -17240,6 +17600,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Greifsw. Museumshaf.",
+		"IBNR": "11693",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1003",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Greifswald",
 		"IBNR": "10139",
 		"Bahnhofstatus": "NAST",
@@ -17254,14 +17622,6 @@
 		"Verbund": "",
 		"Regionen": "1003",
 		"Gleichstellung zu beachten": "*"
-	},
-	{
-		"Tarifpunkt": "Grei\u00dfelbach",
-		"IBNR": "2363",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGN",
-		"Regionen": "314",
-		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Greiz",
@@ -17363,7 +17723,7 @@
 		"Tarifpunkt": "Griesen(Oberbay)",
 		"IBNR": "2371",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "79",
 		"Gleichstellung zu beachten": ""
 	},
@@ -17380,7 +17740,7 @@
 		"IBNR": "2375",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "261",
+		"Regionen": "95",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -17404,7 +17764,7 @@
 		"IBNR": "10142",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -17516,7 +17876,15 @@
 		"IBNR": "2401",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Gro\u00df Br\u00fctz",
+		"IBNR": "11718",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "367",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -17541,14 +17909,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
 		"Regionen": "211",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Gro\u00dfelfingen",
-		"IBNR": "2408",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "2",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -17744,6 +18104,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Gro\u00df Laasch",
+		"IBNR": "11726",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Gro\u00dflehna",
 		"IBNR": "11753",
 		"Bahnhofstatus": "NAST",
@@ -17784,19 +18152,19 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Gro\u00df Quassow",
+		"IBNR": "11731",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "511",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Gro\u00dfr\u00e4schen",
 		"IBNR": "11756",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
 		"Regionen": "448",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Gro\u00df Rietz",
-		"IBNR": "11733",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VBB",
-		"Regionen": "1065",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -17896,11 +18264,27 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Gr\u00f6tz. Krappm.weg",
+		"IBNR": "20032",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Gr\u00f6tz. Oberausstr.",
+		"IBNR": "20033",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Gr\u00f6tzingen",
 		"IBNR": "381",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -18052,7 +18436,7 @@
 		"IBNR": "2455",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -18155,7 +18539,7 @@
 		"Tarifpunkt": "G\u00fcndlkofen",
 		"IBNR": "2457",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "264",
 		"Gleichstellung zu beachten": ""
 	},
@@ -18396,7 +18780,7 @@
 		"IBNR": "2515",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "36",
+		"Regionen": "208",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -18440,6 +18824,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Hagenow Stadt",
+		"IBNR": "11798",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1345",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Hagen-Vorhalle",
 		"IBNR": "977",
 		"Bahnhofstatus": "NAST",
@@ -18469,6 +18861,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRR",
 		"Regionen": "203",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Hagsfeld S\u00fcd",
+		"IBNR": "20034",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -18508,7 +18908,7 @@
 		"IBNR": "422",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "261",
+		"Regionen": "95",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -19736,14 +20136,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Hasenheide",
-		"IBNR": "2620",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGN",
-		"Regionen": "314",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Haslach",
 		"IBNR": "2621",
 		"Bahnhofstatus": "NAST",
@@ -20004,7 +20396,7 @@
 		"IBNR": "2668",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VLP",
-		"Regionen": "95",
+		"Regionen": "473",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20014,6 +20406,14 @@
 		"Verbund": "VGM",
 		"Regionen": "105",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "He.-Wanne-Eickel Hbf",
+		"IBNR": "192",
+		"Bahnhofstatus": "HAST",
+		"Verbund": "VRR",
+		"Regionen": "182,173,351",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Hebertsfelden",
@@ -20060,7 +20460,7 @@
 		"IBNR": "2430",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20132,7 +20532,7 @@
 		"IBNR": "2687",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20164,7 +20564,7 @@
 		"IBNR": "156",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VRN",
-		"Regionen": "451,74,428",
+		"Regionen": "243,451,428",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20172,7 +20572,7 @@
 		"IBNR": "2688",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "435",
+		"Regionen": "190",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20180,7 +20580,7 @@
 		"IBNR": "2679",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "435",
+		"Regionen": "190",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20276,7 +20676,7 @@
 		"IBNR": "2714",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20284,7 +20684,7 @@
 		"IBNR": "2701",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20292,7 +20692,7 @@
 		"IBNR": "2723",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20300,7 +20700,7 @@
 		"IBNR": "2713",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20308,7 +20708,7 @@
 		"IBNR": "2722",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20324,7 +20724,7 @@
 		"IBNR": "157",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "HNV",
-		"Regionen": "131,243,245,239",
+		"Regionen": "466,131,435,349",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20332,7 +20732,23 @@
 		"IBNR": "2726",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Heilbronn Pf\u00fchlpark",
+		"IBNR": "20039",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "435",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Heilbronn Rathaus",
+		"IBNR": "20040",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20340,7 +20756,7 @@
 		"IBNR": "2699",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20348,7 +20764,7 @@
 		"IBNR": "2700",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -20372,7 +20788,7 @@
 		"IBNR": "2704",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20413,14 +20829,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
 		"Regionen": "32",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Heimertingen",
-		"IBNR": "2712",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "409",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20572,7 +20980,7 @@
 		"IBNR": "2734",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "435",
+		"Regionen": "190",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20628,7 +21036,7 @@
 		"IBNR": "2748",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20684,7 +21092,7 @@
 		"IBNR": "2757",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20788,14 +21196,6 @@
 		"IBNR": "387",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "BOD",
-		"Regionen": "412",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Hergensweiler",
-		"IBNR": "2772",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
 		"Regionen": "412",
 		"Gleichstellung zu beachten": ""
 	},
@@ -20908,7 +21308,7 @@
 		"IBNR": "2785",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -20916,7 +21316,7 @@
 		"IBNR": "2786",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -21108,7 +21508,7 @@
 		"IBNR": "2808",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -21316,7 +21716,7 @@
 		"IBNR": "2837",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -21412,7 +21812,7 @@
 		"IBNR": "2852",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGC",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -21470,6 +21870,46 @@
 		"Verbund": "HVV",
 		"Regionen": "392",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "HN Hans-Rie\u00dfer-Str.",
+		"IBNR": "20035",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "435",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "HN Harmonie",
+		"IBNR": "20036",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "435",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "HN Harmonie/Hafenm.",
+		"IBNR": "20037",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "435",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "HN Harmonie/Kunsth.",
+		"IBNR": "20038",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "435",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "HN Techn. Schulz.",
+		"IBNR": "20041",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "435",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Hochdahl",
@@ -21544,6 +21984,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Hochst. Grenzstr.",
+		"IBNR": "20043",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "H\u00f6chst(Odenw)",
 		"IBNR": "172",
 		"Bahnhofstatus": "NAST",
@@ -21589,7 +22037,7 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "255",
-		"Gleichstellung zu beachten": ""
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Hochstetten(Nahe)",
@@ -21598,6 +22046,14 @@
 		"Verbund": "RNN",
 		"Regionen": "437",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Hochstetten Altenh.",
+		"IBNR": "20042",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "H\u00f6chst Hetschbach",
@@ -21628,7 +22084,7 @@
 		"IBNR": "2883",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -21676,7 +22132,15 @@
 		"IBNR": "2891",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGC",
-		"Regionen": "524",
+		"Regionen": "510",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "H\u00f6fen(Enz) Nord",
+		"IBNR": "20044",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VGC",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -21960,6 +22424,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Holdorf(Meckl)",
+		"IBNR": "11908",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "367",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Holdorf(Oldb)",
 		"IBNR": "2962",
 		"Bahnhofstatus": "NAST",
@@ -22012,7 +22484,7 @@
 		"IBNR": "10173",
 		"Bahnhofstatus": "AST",
 		"Verbund": "",
-		"Regionen": "1217,1345,1033",
+		"Regionen": "1345,470,519",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -22128,14 +22600,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Hoppecke",
-		"IBNR": "2992",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "153",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Hoppegarten(Mark)",
 		"IBNR": "11546",
 		"Bahnhofstatus": "NAST",
@@ -22180,7 +22644,7 @@
 		"IBNR": "2910",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -22451,7 +22915,7 @@
 		"Tarifpunkt": "H\u00fcfingen Mitte",
 		"IBNR": "3014",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "21",
 		"Gleichstellung zu beachten": ""
 	},
@@ -22484,7 +22948,7 @@
 		"IBNR": "3022",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -22572,7 +23036,7 @@
 		"IBNR": "3033",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -22588,7 +23052,7 @@
 		"IBNR": "3034",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -22696,6 +23160,14 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "Ihrhove",
+		"IBNR": "3051",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "334",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Ihringen",
 		"IBNR": "3052",
 		"Bahnhofstatus": "NAST",
@@ -22740,7 +23212,7 @@
 		"IBNR": "3060",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -22795,7 +23267,7 @@
 		"Tarifpunkt": "Immendingen",
 		"IBNR": "182",
 		"Bahnhofstatus": "AST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "199,200,201",
 		"Gleichstellung zu beachten": ""
 	},
@@ -22803,7 +23275,7 @@
 		"Tarifpunkt": "Immendingen Mitte",
 		"IBNR": "3061",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "201",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -22811,7 +23283,7 @@
 		"Tarifpunkt": "Immendingen Zimmern",
 		"IBNR": "3066",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "199",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -22904,11 +23376,19 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "Inselstadt Malchow",
+		"IBNR": "12296",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "210",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Insheim",
 		"IBNR": "3080",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -22968,6 +23448,14 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "Iserlohn-Letmathe",
+		"IBNR": "227",
+		"Bahnhofstatus": "AST",
+		"Verbund": "VRL",
+		"Regionen": "164,230,231",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Isernhagen",
 		"IBNR": "3091",
 		"Bahnhofstatus": "NAST",
@@ -22988,7 +23476,7 @@
 		"IBNR": "3094",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -22996,7 +23484,7 @@
 		"IBNR": "3085",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -23072,6 +23560,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Jabel(Meckl)",
+		"IBNR": "11939",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "210",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Jacobsdorf(Mark)",
 		"IBNR": "11940",
 		"Bahnhofstatus": "NAST",
@@ -23133,6 +23629,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "SHT",
 		"Regionen": "22",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Jasnitz",
+		"IBNR": "11951",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1345",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -23243,7 +23747,7 @@
 		"Tarifpunkt": "Jettenbach",
 		"IBNR": "3122",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "264",
 		"Gleichstellung zu beachten": ""
 	},
@@ -23292,7 +23796,7 @@
 		"IBNR": "3125",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -23308,7 +23812,15 @@
 		"IBNR": "3127",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "J\u00f6hlingen West",
+		"IBNR": "20045",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -23440,6 +23952,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "KA Arbeitsagentur",
+		"IBNR": "20046",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Kaarster Bahnhof",
 		"IBNR": "3141",
 		"Bahnhofstatus": "NAST",
@@ -23472,12 +23992,204 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "KA Augartenstr.",
+		"IBNR": "20048",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA August-Bebel-Str.",
+		"IBNR": "20049",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Barbarossaplatz",
+		"IBNR": "20050",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Kablow",
 		"IBNR": "11981",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
 		"Regionen": "1065",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "KA Dammerstock",
+		"IBNR": "20051",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Dornr\u00f6schenweg",
+		"IBNR": "20052",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Duale Hochschule",
+		"IBNR": "20053",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Durl. Schlosspl.",
+		"IBNR": "20119",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Durlacher Tor",
+		"IBNR": "20055",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Durlach Turmberg",
+		"IBNR": "20054",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Ebertstra\u00dfe",
+		"IBNR": "20056",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Eckenerstra\u00dfe",
+		"IBNR": "20057",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Eggensteiner Str.",
+		"IBNR": "20058",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Essenweinstr.",
+		"IBNR": "20060",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Ettlinger Tor",
+		"IBNR": "20061",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Europahalle",
+		"IBNR": "20062",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Europaplatz",
+		"IBNR": "20063",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Friedrichschule",
+		"IBNR": "20064",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Gerolds\u00e4cker",
+		"IBNR": "20065",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Gottesauer Platz",
+		"IBNR": "20066",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA H\u00e4ndelstra\u00dfe",
+		"IBNR": "20067",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Hauptfriedhof",
+		"IBNR": "20068",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Haus Bethlehem",
+		"IBNR": "20069",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Herweghstra\u00dfe",
+		"IBNR": "20071",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Hirtenweg",
+		"IBNR": "20072",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Kahl(Main)",
@@ -23501,6 +24213,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VAB",
 		"Regionen": "455",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA H\u00fcbschstra\u00dfe",
+		"IBNR": "20073",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -23544,6 +24264,94 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "KA Jenaer Stra\u00dfe",
+		"IBNR": "20075",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Karl-Delisle-Str.",
+		"IBNR": "20076",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Karlstor/BGH",
+		"IBNR": "20077",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Karl-Weysser-Str.",
+		"IBNR": "20078",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Knielinger Allee",
+		"IBNR": "20079",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Konzerthaus",
+		"IBNR": "20082",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Kronenplatz",
+		"IBNR": "20083",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA K\u00fchler Krug",
+		"IBNR": "20084",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Kunstakademie/HS",
+		"IBNR": "20085",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Kurt-Schum.-Str.",
+		"IBNR": "20086",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Landesbauspar.",
+		"IBNR": "20088",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "K\u00e4lberau",
 		"IBNR": "3139",
 		"Bahnhofstatus": "NAST",
@@ -23566,6 +24374,22 @@
 		"Verbund": "VRR",
 		"Regionen": "244,694",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "KA Lessingstr.",
+		"IBNR": "20089",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Lilienthalstra\u00dfe",
+		"IBNR": "20090",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Kall",
@@ -23597,6 +24421,22 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRL",
 		"Regionen": "233",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Marktpl. Kais. U",
+		"IBNR": "20091",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Marktpl. Pyr. U",
+		"IBNR": "20092",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -23648,12 +24488,44 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "KA M\u00fchlburger Feld",
+		"IBNR": "20096",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA M\u00fchlburger Tor",
+		"IBNR": "20097",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA M\u00fchlburg West",
+		"IBNR": "20095",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Kandel",
 		"IBNR": "3172",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "KA Neureuth Heide",
+		"IBNR": "20152",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Kanzem",
@@ -23664,11 +24536,19 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "KA Otto-Sachs-Str.",
+		"IBNR": "20104",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Kapellen-Drusweiler",
 		"IBNR": "3175",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -23678,6 +24558,22 @@
 		"Verbund": "VRR",
 		"Regionen": "225",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "KA Philipp-Reis-Str.",
+		"IBNR": "20105",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Philippstra\u00dfe",
+		"IBNR": "20106",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Kappel Gutachbr\u00fccke",
@@ -23700,20 +24596,52 @@
 		"IBNR": "3177",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "KA Reitschulschlag",
+		"IBNR": "20108",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Rheinbergstra\u00dfe",
+		"IBNR": "20109",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Rheinhafenstra\u00dfe",
+		"IBNR": "20111",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Karlsdorf",
 		"IBNR": "3181",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "466",
+		"Regionen": "36",
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Karlsruhe Albtal. S1",
+		"Tarifpunkt": "Karlsruhe Albtalbhf.",
 		"IBNR": "3180",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Auer Str.",
+		"IBNR": "20047",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "255",
@@ -23724,7 +24652,15 @@
 		"IBNR": "3184",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Entenfang",
+		"IBNR": "20059",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -23732,7 +24668,7 @@
 		"IBNR": "3185",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "349",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -23740,12 +24676,68 @@
 		"IBNR": "191",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "KVV",
-		"Regionen": "100,276,347,349,255",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Heidehof",
+		"IBNR": "20070",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Hubstra\u00dfe",
+		"IBNR": "20074",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Karlsruhe-Knielingen",
 		"IBNR": "3186",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Kolpingpl.",
+		"IBNR": "20080",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Kongressz.",
+		"IBNR": "20081",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Lameyplatz",
+		"IBNR": "20087",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Mathystr.",
+		"IBNR": "20093",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Moltkestr.",
+		"IBNR": "20094",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "255",
@@ -23760,8 +24752,112 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "Karlsruhe Nussbaumw.",
+		"IBNR": "20102",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Ostendstr.",
+		"IBNR": "20103",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Poststr.",
+		"IBNR": "20107",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Rheinhafen",
+		"IBNR": "20110",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Siemens",
+		"IBNR": "20120",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Synagoge",
+		"IBNR": "20124",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Tivoli",
+		"IBNR": "20126",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Tullastr.",
+		"IBNR": "20127",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Weinweg",
+		"IBNR": "20130",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Welfenstr.",
+		"IBNR": "20131",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Werderstr.",
+		"IBNR": "20132",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Karlsruhe West",
 		"IBNR": "3183",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe Yorckstr.",
+		"IBNR": "20134",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Karlsruhe ZKM",
+		"IBNR": "20135",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "255",
@@ -23796,7 +24892,7 @@
 		"IBNR": "11994",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
-		"Regionen": "1224",
+		"Regionen": "518",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -23808,12 +24904,60 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "KA R\u00fcppurrer Tor",
+		"IBNR": "20115",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Schillerstra\u00dfe",
+		"IBNR": "20116",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Schlo\u00df Gottesaue",
+		"IBNR": "20117",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Schloss R\u00fcppurr",
+		"IBNR": "20118",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Kasendorf",
 		"IBNR": "3194",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGN",
 		"Regionen": "145",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "KA Sinsheimer Str.",
+		"IBNR": "20121",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Sophienstra\u00dfe",
+		"IBNR": "20122",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Kassel-Harleshausen",
@@ -23864,6 +25008,14 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "KA Starckstra\u00dfe",
+		"IBNR": "20123",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Kastl(Oberbay)",
 		"IBNR": "3205",
 		"Bahnhofstatus": "NAST",
@@ -23878,6 +25030,14 @@
 		"Verbund": "SHT",
 		"Regionen": "1",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "KA Thomas-Mann-Str.",
+		"IBNR": "20125",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Kating",
@@ -23984,12 +25144,36 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "KA Unterm\u00fchlstr.",
+		"IBNR": "20128",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Kavelstorf",
 		"IBNR": "12002",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVW",
 		"Regionen": "395",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "KA Weinbrennerplatz",
+		"IBNR": "20129",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "KA Wolfartsw. Str.",
+		"IBNR": "20133",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Kehl",
@@ -24060,7 +25244,7 @@
 		"IBNR": "3226",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VLP",
-		"Regionen": "95",
+		"Regionen": "473",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -24324,7 +25508,7 @@
 		"IBNR": "3266",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -24348,7 +25532,7 @@
 		"IBNR": "427",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
-		"Regionen": "272",
+		"Regionen": "271",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -24380,14 +25564,14 @@
 		"IBNR": "3272",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "547",
+		"Regionen": "444",
 		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Kirchenthumbach",
 		"IBNR": "3273",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "314",
 		"Gleichstellung zu beachten": ""
 	},
@@ -24420,7 +25604,7 @@
 		"IBNR": "3278",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "245",
+		"Regionen": "349",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -24580,7 +25764,7 @@
 		"IBNR": "3289",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -24605,7 +25789,7 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "255",
-		"Gleichstellung zu beachten": ""
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Kitzingen",
@@ -24643,7 +25827,7 @@
 		"Tarifpunkt": "Klais",
 		"IBNR": "3302",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "120",
 		"Gleichstellung zu beachten": ""
 	},
@@ -24708,7 +25892,7 @@
 		"IBNR": "3319",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -24820,7 +26004,7 @@
 		"IBNR": "3331",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -24980,7 +26164,7 @@
 		"IBNR": "3343",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -25004,7 +26188,7 @@
 		"IBNR": "3332",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -25388,7 +26572,7 @@
 		"IBNR": "3376",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -25704,6 +26888,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "K\u00f6venig",
+		"IBNR": "3394",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRM",
+		"Regionen": "186",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Kraftsdorf",
 		"IBNR": "12088",
 		"Bahnhofstatus": "NAST",
@@ -25740,7 +26932,7 @@
 		"IBNR": "12093",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "367",
+		"Regionen": "267",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -25852,7 +27044,7 @@
 		"IBNR": "3432",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "279",
+		"Regionen": "71",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -25902,6 +27094,14 @@
 		"Verbund": "VGW",
 		"Regionen": "273,218,250",
 		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Kreuztal-Eichen",
+		"IBNR": "1700",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VGW",
+		"Regionen": "250",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Kreuztal-Littfeld",
@@ -26128,6 +27328,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Kummerow(Stralsund)",
+		"IBNR": "12127",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "8",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Kummersdorf(Storkow)",
 		"IBNR": "12129",
 		"Bahnhofstatus": "NAST",
@@ -26152,19 +27360,11 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "K\u00fcntrop",
-		"IBNR": "3470",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "232",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "K\u00fcnzelsau",
 		"IBNR": "3471",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -26180,7 +27380,7 @@
 		"IBNR": "3480",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -26264,6 +27464,22 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Kyritz",
+		"IBNR": "12142",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Kyritz Am B\u00fcrgerp.",
+		"IBNR": "12144",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Laaber",
 		"IBNR": "3485",
 		"Bahnhofstatus": "NAST",
@@ -26292,7 +27508,7 @@
 		"IBNR": "3489",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -26428,7 +27644,7 @@
 		"IBNR": "216",
 		"Bahnhofstatus": "AST",
 		"Verbund": "KVV",
-		"Regionen": "198,504,253",
+		"Regionen": "245,504,253",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -26483,7 +27699,7 @@
 		"Tarifpunkt": "Landshut(Bay)Hbf",
 		"IBNR": "217",
 		"Bahnhofstatus": "HAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "264,265,61,93",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -26491,7 +27707,7 @@
 		"Tarifpunkt": "Landshut(Bay)S\u00fcd",
 		"IBNR": "3514",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "93",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -26548,7 +27764,7 @@
 		"IBNR": "3524",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "BOD",
-		"Regionen": "279",
+		"Regionen": "71",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -26572,7 +27788,7 @@
 		"IBNR": "3532",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -26589,14 +27805,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "MDV",
 		"Regionen": "1071",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Langenfeld(Mittelfr)",
-		"IBNR": "3538",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGN",
-		"Regionen": "57",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -26668,7 +27876,7 @@
 		"IBNR": "3546",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -26916,7 +28124,7 @@
 		"IBNR": "3571",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -27028,7 +28236,7 @@
 		"IBNR": "3588",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "245",
+		"Regionen": "349",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -27140,7 +28348,7 @@
 		"IBNR": "3597",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "36",
+		"Regionen": "208",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -27172,7 +28380,7 @@
 		"IBNR": "225",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "",
-		"Regionen": "689,281,334",
+		"Regionen": "515,516,517,334",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -27292,7 +28500,7 @@
 		"IBNR": "3622",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -27310,6 +28518,14 @@
 		"Verbund": "HNV",
 		"Regionen": "131",
 		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Leingarten Ost",
+		"IBNR": "20136",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "131",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Leingarten West",
@@ -27808,6 +29024,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Leo. Frankf. Str.",
+		"IBNR": "20137",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Leonberg",
 		"IBNR": "3652",
 		"Bahnhofstatus": "NAST",
@@ -27816,12 +29040,20 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Leopolds.Viermorgen",
+		"IBNR": "20138",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Leopoldshafen",
 		"IBNR": "3662",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "255",
-		"Gleichstellung zu beachten": ""
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Leopoldstal",
@@ -27846,14 +29078,6 @@
 		"Verbund": "",
 		"Regionen": "334",
 		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Letmathe",
-		"IBNR": "227",
-		"Bahnhofstatus": "AST",
-		"Verbund": "VRL",
-		"Regionen": "164,230,231",
-		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Letmathe Dechenh.",
@@ -28228,7 +29452,7 @@
 		"IBNR": "3692",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "BOD",
-		"Regionen": "279",
+		"Regionen": "71",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -28236,7 +29460,7 @@
 		"IBNR": "230",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "BOD",
-		"Regionen": "279,412",
+		"Regionen": "71,412",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -28244,7 +29468,7 @@
 		"IBNR": "3693",
 		"Bahnhofstatus": "AST",
 		"Verbund": "BOD",
-		"Regionen": "279,412",
+		"Regionen": "71,412",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -28316,16 +29540,40 @@
 		"IBNR": "3702",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Linkenheim",
+		"Tarifpunkt": "Link. Friedrichstr.",
+		"IBNR": "20139",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Link. Schulzentrum",
+		"IBNR": "20140",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Linkenheim Rathaus",
 		"IBNR": "3704",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "255",
-		"Gleichstellung zu beachten": ""
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Linkenheim S\u00fcd",
+		"IBNR": "20141",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Linnich Bhf",
@@ -28528,14 +29776,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Loiching",
-		"IBNR": "3745",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "265",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Loitsch-Hohenleuben",
 		"IBNR": "12252",
 		"Bahnhofstatus": "NAST",
@@ -28668,7 +29908,7 @@
 		"IBNR": "3731",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -28860,7 +30100,15 @@
 		"IBNR": "12262",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "1217",
+		"Regionen": "519",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Lubmin Personenbahn.",
+		"IBNR": "12256",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1003",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -28884,7 +30132,7 @@
 		"IBNR": "12264",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "1342",
+		"Regionen": "521",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -28964,7 +30212,7 @@
 		"IBNR": "235",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VVS",
-		"Regionen": "137,540,541,239",
+		"Regionen": "466,137,540,541",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -29060,7 +30308,7 @@
 		"IBNR": "10216",
 		"Bahnhofstatus": "AST",
 		"Verbund": "",
-		"Regionen": "1217,1224",
+		"Regionen": "1345,470,518,519",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -29080,6 +30328,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Luedenscheid-Bruegge",
+		"IBNR": "1213",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "90",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "L\u00fcgde",
 		"IBNR": "3784",
 		"Bahnhofstatus": "NAST",
@@ -29091,7 +30347,7 @@
 		"Tarifpunkt": "Luhe",
 		"IBNR": "3794",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "193",
 		"Gleichstellung zu beachten": ""
 	},
@@ -29099,7 +30355,7 @@
 		"Tarifpunkt": "Luhe-Wildenau",
 		"IBNR": "3795",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "193",
 		"Gleichstellung zu beachten": ""
 	},
@@ -29109,14 +30365,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "SVV",
 		"Regionen": "388",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Luitpoldh\u00fctte",
-		"IBNR": "3797",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGN",
-		"Regionen": "193",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -29248,6 +30496,22 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "L\u00fctzow",
+		"IBNR": "12274",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "367",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Maasb\u00fcll",
+		"IBNR": "3806",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "SHT",
+		"Regionen": "667",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Machern(Sachs)",
 		"IBNR": "12284",
 		"Bahnhofstatus": "NAST",
@@ -29356,7 +30620,7 @@
 		"IBNR": "3807",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -29380,7 +30644,7 @@
 		"IBNR": "3808",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -29388,7 +30652,7 @@
 		"IBNR": "3834",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -29580,7 +30844,7 @@
 		"IBNR": "3832",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "347",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -29588,7 +30852,7 @@
 		"IBNR": "3833",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "347",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -29644,7 +30908,7 @@
 		"IBNR": "3841",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -29652,7 +30916,7 @@
 		"IBNR": "3842",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -29668,7 +30932,7 @@
 		"IBNR": "244",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VRN",
-		"Regionen": "340,487,74",
+		"Regionen": "243,340,487",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -29692,7 +30956,7 @@
 		"IBNR": "3844",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -29708,7 +30972,7 @@
 		"IBNR": "3845",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -29716,7 +30980,7 @@
 		"IBNR": "3847",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -29740,7 +31004,7 @@
 		"IBNR": "3853",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -29755,7 +31019,7 @@
 		"Tarifpunkt": "Marbach Ost(VS)",
 		"IBNR": "3857",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -29763,7 +31027,7 @@
 		"Tarifpunkt": "Marbach West(VS)",
 		"IBNR": "3854",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -29992,6 +31256,14 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "Marktoberdorf Nord",
+		"IBNR": "3889",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "59",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Marktoberdorf Schule",
 		"IBNR": "3877",
 		"Bahnhofstatus": "NAST",
@@ -30090,6 +31362,14 @@
 	{
 		"Tarifpunkt": "Marsberg",
 		"IBNR": "3896",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "153",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Marsberg-Bredelar",
+		"IBNR": "1137",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRL",
 		"Regionen": "153",
@@ -30228,7 +31508,7 @@
 		"IBNR": "3918",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -30236,7 +31516,7 @@
 		"IBNR": "3914",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -30292,7 +31572,7 @@
 		"IBNR": "3911",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "36",
+		"Regionen": "208",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -30484,7 +31764,7 @@
 		"IBNR": "10230",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -30604,7 +31884,7 @@
 		"IBNR": "3959",
 		"Bahnhofstatus": "AST",
 		"Verbund": "NVM",
-		"Regionen": "5,343,408",
+		"Regionen": "279,343,332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -30872,6 +32152,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Meschede-Freienohl",
+		"IBNR": "2073",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "260",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Mesch Neue M\u00fchle",
 		"IBNR": "3450",
 		"Bahnhofstatus": "NAST",
@@ -30965,6 +32253,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VMT",
 		"Regionen": "1052",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Meyenburg",
+		"IBNR": "12348",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -31136,6 +32432,14 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "Mirow",
+		"IBNR": "12361",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "511",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Mirskofen",
 		"IBNR": "4034",
 		"Bahnhofstatus": "NAST",
@@ -31227,7 +32531,7 @@
 		"Tarifpunkt": "Mittenwald",
 		"IBNR": "4043",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "120",
 		"Gleichstellung zu beachten": ""
 	},
@@ -31323,7 +32627,7 @@
 		"Tarifpunkt": "M\u00f6hringen Bahnhof",
 		"IBNR": "4068",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "201",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -31331,7 +32635,7 @@
 		"Tarifpunkt": "M\u00f6hringen Rathaus",
 		"IBNR": "4067",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "201",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -31372,7 +32676,7 @@
 		"IBNR": "4077",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -31459,8 +32763,8 @@
 		"Tarifpunkt": "Moosbach",
 		"IBNR": "399",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
+		"Verbund": "VGN",
+		"Regionen": "11",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -31492,7 +32796,7 @@
 		"IBNR": "4066",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -31502,6 +32806,62 @@
 		"Verbund": "NVM",
 		"Regionen": "343",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "M\u00f6rsch Am Hang",
+		"IBNR": "20142",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "M\u00f6rsch Bach-West",
+		"IBNR": "20143",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "M\u00f6rsch Merkurstr.",
+		"IBNR": "20144",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "M\u00f6rsch Narzissens.",
+		"IBNR": "20145",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "M\u00f6rsch Rheinaustr.",
+		"IBNR": "20146",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "M\u00f6rsch R\u00f6merstr.",
+		"IBNR": "20147",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "M\u00f6rsch R\u00f6sselsbr.",
+		"IBNR": "20148",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Morsum",
@@ -31620,7 +32980,7 @@
 		"IBNR": "4099",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
-		"Regionen": "272",
+		"Regionen": "271",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -31628,7 +32988,7 @@
 		"IBNR": "4178",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "347",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -31636,7 +32996,7 @@
 		"IBNR": "4192",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "347",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -31644,7 +33004,7 @@
 		"IBNR": "339",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -31652,7 +33012,7 @@
 		"IBNR": "4103",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -31675,7 +33035,7 @@
 		"Tarifpunkt": "M\u00fchldorf(Oberbay)",
 		"IBNR": "258",
 		"Bahnhofstatus": "AST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "49,309,264,93",
 		"Gleichstellung zu beachten": ""
 	},
@@ -31731,7 +33091,7 @@
 		"Tarifpunkt": "M\u00fchlheim(b Tuttl)",
 		"IBNR": "4111",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "399",
 		"Gleichstellung zu beachten": ""
 	},
@@ -31789,14 +33149,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAD",
 		"Regionen": "399",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Mukran West",
-		"IBNR": "12406",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "1091",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -32432,6 +33784,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "M\u00fcnzesheim Ost",
+		"IBNR": "20149",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "108",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Murg(Baden)",
 		"IBNR": "4184",
 		"Bahnhofstatus": "NAST",
@@ -32451,7 +33811,7 @@
 		"Tarifpunkt": "Murnau",
 		"IBNR": "4185",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -32459,7 +33819,7 @@
 		"Tarifpunkt": "Murnau Ort",
 		"IBNR": "4186",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -32468,7 +33828,7 @@
 		"IBNR": "4187",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -32644,7 +34004,7 @@
 		"IBNR": "10239",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VBB",
-		"Regionen": "227,1351",
+		"Regionen": "227,328",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -32780,7 +34140,7 @@
 		"IBNR": "4220",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -32788,7 +34148,7 @@
 		"IBNR": "4232",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -32796,7 +34156,7 @@
 		"IBNR": "4238",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -32804,7 +34164,7 @@
 		"IBNR": "4226",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -32824,6 +34184,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Neermoor",
+		"IBNR": "4224",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "515",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Neetzendorf",
 		"IBNR": "4227",
 		"Bahnhofstatus": "NAST",
@@ -32837,14 +34205,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
 		"Regionen": "1206",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Neheim-H\u00fcsten",
-		"IBNR": "4228",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "260",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -32907,7 +34267,7 @@
 		"Tarifpunkt": "Nendingen(b Tuttl)",
 		"IBNR": "4235",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "399",
 		"Gleichstellung zu beachten": ""
 	},
@@ -33052,7 +34412,7 @@
 		"IBNR": "4257",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "36",
+		"Regionen": "208",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -33076,7 +34436,7 @@
 		"IBNR": "631",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -33100,16 +34460,32 @@
 		"IBNR": "4265",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "524",
-		"Gleichstellung zu beachten": "*"
+		"Regionen": "510",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Neuenb\u00fcrg(Enz) S\u00fcd",
 		"IBNR": "4264",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "524",
-		"Gleichstellung zu beachten": "*"
+		"Regionen": "510",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Neuenb\u00fcrg Eyachbr.",
+		"IBNR": "20150",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VPE",
+		"Regionen": "510",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Neuenb\u00fcrg Freibad",
+		"IBNR": "20151",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VPE",
+		"Regionen": "510",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Neuendettelsau",
@@ -33168,6 +34544,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Neuenrade-K\u00fcntrop",
+		"IBNR": "3470",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "232",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Neuenreuth(b Creu\u00df)",
 		"IBNR": "4275",
 		"Bahnhofstatus": "NAST",
@@ -33180,7 +34564,7 @@
 		"IBNR": "4276",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -33203,7 +34587,7 @@
 		"Tarifpunkt": "Neufahrn(Niederbay)",
 		"IBNR": "688",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "61",
 		"Gleichstellung zu beachten": ""
 	},
@@ -33364,7 +34748,7 @@
 		"IBNR": "4304",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -33387,7 +34771,7 @@
 		"Tarifpunkt": "Neumarkt-St Veit",
 		"IBNR": "720",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "93",
 		"Gleichstellung zu beachten": ""
 	},
@@ -33510,6 +34894,38 @@
 		"Verbund": "VBB",
 		"Regionen": "448",
 		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Neur. Welschn. Str.",
+		"IBNR": "20100",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Neureut A.-Ehrm.-Bad",
+		"IBNR": "20098",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Neureut B\u00e4renweg",
+		"IBNR": "20099",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Neureut Kirchfeld",
+		"IBNR": "20101",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Neuruppin Rheinsb T",
@@ -33652,7 +35068,7 @@
 		"IBNR": "10248",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VBB",
-		"Regionen": "1351,1229",
+		"Regionen": "1075,328,1229",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -33699,7 +35115,7 @@
 		"Tarifpunkt": "Neustadt(Waldnaab)",
 		"IBNR": "4332",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "196",
 		"Gleichstellung zu beachten": ""
 	},
@@ -33736,6 +35152,14 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "Neustadt-Glewe",
+		"IBNR": "12474",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Neustadt-Hohenacker",
 		"IBNR": "4333",
 		"Bahnhofstatus": "NAST",
@@ -33756,7 +35180,7 @@
 		"IBNR": "10250",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "",
-		"Regionen": "1014,367",
+		"Regionen": "1014,267,511",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -34004,7 +35428,7 @@
 		"IBNR": "4381",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
-		"Regionen": "271",
+		"Regionen": "272",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -34180,7 +35604,7 @@
 		"IBNR": "4406",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
-		"Regionen": "272",
+		"Regionen": "271",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -34188,7 +35612,7 @@
 		"IBNR": "4407",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGW",
-		"Regionen": "272",
+		"Regionen": "271",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -34364,7 +35788,7 @@
 		"IBNR": "4425",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -34516,7 +35940,7 @@
 		"IBNR": "4446",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "BOD",
-		"Regionen": "279",
+		"Regionen": "71",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -34596,7 +36020,7 @@
 		"IBNR": "4458",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "245",
+		"Regionen": "349",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -34604,7 +36028,7 @@
 		"IBNR": "4457",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NVM",
-		"Regionen": "408",
+		"Regionen": "279",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -34720,6 +36144,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Nossentin",
+		"IBNR": "12517",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "210",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Nottuln-Appelh\u00fclsen",
 		"IBNR": "595",
 		"Bahnhofstatus": "NAST",
@@ -34732,7 +36164,7 @@
 		"IBNR": "4490",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -34924,14 +36356,14 @@
 		"IBNR": "4496",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Oberammergau",
 		"IBNR": "4503",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -34947,7 +36379,7 @@
 		"Tarifpunkt": "Oberau",
 		"IBNR": "4506",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -35275,7 +36707,7 @@
 		"Tarifpunkt": "Oberndorf(Neckar)",
 		"IBNR": "4563",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "204",
 		"Gleichstellung zu beachten": ""
 	},
@@ -35309,14 +36741,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGN",
 		"Regionen": "423",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Obernzell",
-		"IBNR": "4570",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VLP",
-		"Regionen": "96",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -35460,15 +36884,7 @@
 		"IBNR": "4586",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Oberstreu",
-		"IBNR": "4588",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "NVM",
-		"Regionen": "343",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -35500,7 +36916,7 @@
 		"IBNR": "4594",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -35656,6 +37072,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Odenheim West",
+		"IBNR": "20153",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "108",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Oderin",
 		"IBNR": "12549",
 		"Bahnhofstatus": "NAST",
@@ -35776,14 +37200,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Oeventrop",
-		"IBNR": "4642",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "260",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Offenau",
 		"IBNR": "4643",
 		"Bahnhofstatus": "NAST",
@@ -35900,7 +37316,7 @@
 		"IBNR": "4658",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -35915,7 +37331,7 @@
 		"Tarifpunkt": "Ohlstadt",
 		"IBNR": "4662",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -35924,7 +37340,7 @@
 		"IBNR": "4620",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -35932,7 +37348,7 @@
 		"IBNR": "4623",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -35940,7 +37356,7 @@
 		"IBNR": "4624",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -35996,7 +37412,7 @@
 		"IBNR": "4632",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -36020,7 +37436,7 @@
 		"IBNR": "291",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VBN",
-		"Regionen": "416,326,281,58",
+		"Regionen": "416,516,326,58",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -36028,7 +37444,7 @@
 		"IBNR": "4670",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBN",
-		"Regionen": "281",
+		"Regionen": "516",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -36148,7 +37564,7 @@
 		"IBNR": "4687",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VLP",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -36244,7 +37660,7 @@
 		"IBNR": "4700",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -36332,7 +37748,7 @@
 		"IBNR": "4711",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NVM",
-		"Regionen": "408",
+		"Regionen": "279",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -36372,7 +37788,7 @@
 		"IBNR": "4636",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "276",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -36380,7 +37796,7 @@
 		"IBNR": "4637",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "190",
+		"Regionen": "347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -36388,7 +37804,7 @@
 		"IBNR": "4722",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -36584,14 +38000,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Paar",
-		"IBNR": "4743",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "AVV",
-		"Regionen": "310",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Paderb.-Schl.Neuhaus",
 		"IBNR": "5370",
 		"Bahnhofstatus": "NAST",
@@ -36704,6 +38112,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Parchim",
+		"IBNR": "10267",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Parkentin",
 		"IBNR": "12609",
 		"Bahnhofstatus": "NAST",
@@ -36772,7 +38188,7 @@
 		"IBNR": "12614",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
-		"Regionen": "1351",
+		"Regionen": "328",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -36987,16 +38403,8 @@
 		"Tarifpunkt": "Peterzell-K\u00f6nigsf.",
 		"IBNR": "4776",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Pfaffendorf(Mark)",
-		"IBNR": "12632",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VBB",
-		"Regionen": "1065",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -37028,7 +38436,7 @@
 		"IBNR": "4778",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -37072,19 +38480,11 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Pforzheim Durl. Str.",
-		"IBNR": "4800",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VPE",
-		"Regionen": "524",
-		"Gleichstellung zu beachten": "*"
-	},
-	{
 		"Tarifpunkt": "Pforzheim Hbf",
 		"IBNR": "299",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VPE",
-		"Regionen": "100,524,190",
+		"Regionen": "347,510,255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -37092,7 +38492,7 @@
 		"IBNR": "4804",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -37100,7 +38500,7 @@
 		"IBNR": "4801",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -37109,14 +38509,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
 		"Regionen": "193",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Pfronten-Kappel",
-		"IBNR": "4805",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "79",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -37164,7 +38556,7 @@
 		"IBNR": "4813",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -37320,11 +38712,19 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Plate(Meckl)",
+		"IBNR": "12643",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Plattling",
 		"IBNR": "301",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "",
-		"Regionen": "259,265,473,107",
+		"Regionen": "259,117,265,107",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -37380,7 +38780,7 @@
 		"IBNR": "4836",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -37411,8 +38811,8 @@
 		"Tarifpunkt": "Pleystein",
 		"IBNR": "4839",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
+		"Verbund": "VGN",
+		"Regionen": "11",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -37787,7 +39187,7 @@
 		"Tarifpunkt": "Pressath",
 		"IBNR": "4880",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "314",
 		"Gleichstellung zu beachten": ""
 	},
@@ -37884,6 +39284,22 @@
 		"IBNR": "10287",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
+		"Regionen": "1075",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Pritzwalk-Hainholz",
+		"IBNR": "10289",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Pritzwalk West",
+		"IBNR": "10286",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
 		"Regionen": "1075",
 		"Gleichstellung zu beachten": ""
 	},
@@ -38396,7 +39812,7 @@
 		"IBNR": "306",
 		"Bahnhofstatus": "AST",
 		"Verbund": "KVV",
-		"Regionen": "208,276,347,188",
+		"Regionen": "198,74,255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -38404,7 +39820,7 @@
 		"IBNR": "4944",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -38420,7 +39836,7 @@
 		"IBNR": "12716",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "1217",
+		"Regionen": "519",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -38508,7 +39924,7 @@
 		"IBNR": "4961",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -38720,6 +40136,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Rehna",
+		"IBNR": "12737",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "367",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Rehweiler",
 		"IBNR": "4993",
 		"Bahnhofstatus": "NAST",
@@ -38816,14 +40240,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Reichertshofen(Schw)",
-		"IBNR": "5010",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "AVV",
-		"Regionen": "413",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Reicholzheim",
 		"IBNR": "5011",
 		"Bahnhofstatus": "NAST",
@@ -38845,6 +40261,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
 		"Regionen": "131",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Reil",
+		"IBNR": "5014",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRM",
+		"Regionen": "186",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -38924,7 +40348,7 @@
 		"IBNR": "5026",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -39020,7 +40444,7 @@
 		"IBNR": "313",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VVS",
-		"Regionen": "3,470,137",
+		"Regionen": "3,408,137",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -39028,7 +40452,7 @@
 		"IBNR": "5001",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -39060,7 +40484,7 @@
 		"IBNR": "12750",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -39132,7 +40556,7 @@
 		"IBNR": "5053",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "547",
+		"Regionen": "444",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -39140,7 +40564,7 @@
 		"IBNR": "314",
 		"Bahnhofstatus": "AST",
 		"Verbund": "NAL",
-		"Regionen": "547,282,399",
+		"Regionen": "282,444,399",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -39156,7 +40580,7 @@
 		"IBNR": "5052",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "547",
+		"Regionen": "444",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -39276,7 +40700,7 @@
 		"IBNR": "5067",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -39292,7 +40716,7 @@
 		"IBNR": "5069",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -39300,7 +40724,7 @@
 		"IBNR": "5071",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -39308,7 +40732,7 @@
 		"IBNR": "5072",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -39515,7 +40939,7 @@
 		"Tarifpunkt": "Rietheim(W\u00fcrtt)",
 		"IBNR": "5097",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -39532,7 +40956,7 @@
 		"IBNR": "5098",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -39540,7 +40964,7 @@
 		"IBNR": "5100",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -39584,6 +41008,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Rinklingen",
+		"IBNR": "20154",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Rinnthal",
 		"IBNR": "5103",
 		"Bahnhofstatus": "NAST",
@@ -39612,7 +41044,7 @@
 		"IBNR": "12770",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -39804,7 +41236,7 @@
 		"IBNR": "12787",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -39819,7 +41251,7 @@
 		"Tarifpunkt": "Rohrbach(Oberbay)",
 		"IBNR": "5145",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "93",
 		"Gleichstellung zu beachten": ""
 	},
@@ -39828,7 +41260,7 @@
 		"IBNR": "5146",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -40032,6 +41464,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Rosenwinkel",
+		"IBNR": "12792",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "R\u00f6slau",
 		"IBNR": "5133",
 		"Bahnhofstatus": "NAST",
@@ -40064,14 +41504,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Ro\u00dfberg",
-		"IBNR": "5174",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "BOD",
-		"Regionen": "430",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Ro\u00dfla",
 		"IBNR": "12796",
 		"Bahnhofstatus": "NAST",
@@ -40085,14 +41517,6 @@
 		"Bahnhofstatus": "HAST",
 		"Verbund": "MDV",
 		"Regionen": "123,1119",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Rossow(Fretzdorf)",
-		"IBNR": "12798",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VBB",
-		"Regionen": "1075",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -40204,7 +41628,7 @@
 		"IBNR": "5135",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -40229,6 +41653,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "RVF",
 		"Regionen": "21",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Rotenbach(Enz)",
+		"IBNR": "20155",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VPE",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -40283,7 +41715,7 @@
 		"Tarifpunkt": "R\u00f6thenbach(Oberpf)",
 		"IBNR": "5139",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "181",
 		"Gleichstellung zu beachten": ""
 	},
@@ -40395,7 +41827,7 @@
 		"Tarifpunkt": "Rottweil",
 		"IBNR": "322",
 		"Bahnhofstatus": "AST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "204,206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -40403,7 +41835,7 @@
 		"Tarifpunkt": "Rottweil G\u00f6llsdorf",
 		"IBNR": "5200",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -40411,7 +41843,7 @@
 		"Tarifpunkt": "Rottweil Neufra",
 		"IBNR": "4280",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -40419,7 +41851,7 @@
 		"Tarifpunkt": "Rottweil Saline",
 		"IBNR": "5202",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -40580,7 +42012,7 @@
 		"IBNR": "5217",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -40588,7 +42020,7 @@
 		"IBNR": "5214",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -40656,6 +42088,30 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "R\u00fcppurr Battstra\u00dfe",
+		"IBNR": "20112",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "R\u00fcppurr Ostendorfp.",
+		"IBNR": "20113",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "R\u00fcppurr Tuplenstr.",
+		"IBNR": "20114",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Ruschwedel",
 		"IBNR": "5233",
 		"Bahnhofstatus": "NAST",
@@ -40693,6 +42149,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
 		"Regionen": "137",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Ruthenbeck",
+		"IBNR": "12824",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -41004,7 +42468,7 @@
 		"IBNR": "5280",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VLP",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -41080,11 +42544,11 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Sanssouci",
-		"IBNR": "5289",
+		"Tarifpunkt": "Sarnow",
+		"IBNR": "12842",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "232",
+		"Verbund": "",
+		"Regionen": "1075",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -41171,7 +42635,7 @@
 		"Tarifpunkt": "Saulgrub",
 		"IBNR": "5302",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -41220,7 +42684,7 @@
 		"IBNR": "5309",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -41236,7 +42700,7 @@
 		"IBNR": "5313",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VLP",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -41404,7 +42868,7 @@
 		"IBNR": "5329",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -41428,7 +42892,7 @@
 		"IBNR": "5338",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
-		"Regionen": "271",
+		"Regionen": "272",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -41476,7 +42940,7 @@
 		"IBNR": "326",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VRN",
-		"Regionen": "133,262,422",
+		"Regionen": "133,422,239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -41484,7 +42948,7 @@
 		"IBNR": "5345",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -41499,7 +42963,7 @@
 		"Tarifpunkt": "Schiltach",
 		"IBNR": "5350",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -41507,7 +42971,7 @@
 		"Tarifpunkt": "Schiltach Mitte",
 		"IBNR": "5347",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -41843,7 +43307,7 @@
 		"Tarifpunkt": "Schonach",
 		"IBNR": "6740",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -41876,7 +43340,7 @@
 		"IBNR": "417",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "117",
+		"Regionen": "261",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -42040,11 +43504,19 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Sch\u00f6nkirchen",
+		"IBNR": "5410",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "AVV",
+		"Regionen": "18",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Sch\u00f6nm\u00fcnzach",
 		"IBNR": "5409",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -42107,7 +43579,7 @@
 		"Tarifpunkt": "Sch\u00f6nwald i Schw",
 		"IBNR": "6739",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -42195,7 +43667,7 @@
 		"Tarifpunkt": "Schramberg",
 		"IBNR": "5429",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -42260,7 +43732,7 @@
 		"IBNR": "330",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VSH",
-		"Regionen": "243,404,543",
+		"Regionen": "435,404,543",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -42300,7 +43772,7 @@
 		"IBNR": "5449",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VSH",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -42344,6 +43816,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Schwaigern Ost",
+		"IBNR": "20156",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "HNV",
+		"Regionen": "131",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Schwaigern West",
 		"IBNR": "5450",
 		"Bahnhofstatus": "NAST",
@@ -42380,7 +43860,7 @@
 		"IBNR": "12929",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -42443,7 +43923,7 @@
 		"Tarifpunkt": "Schwarzenbach(b Pre)",
 		"IBNR": "5465",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "314",
 		"Gleichstellung zu beachten": ""
 	},
@@ -42476,7 +43956,7 @@
 		"IBNR": "6715",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGF",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -42572,7 +44052,7 @@
 		"IBNR": "5387",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -42624,14 +44104,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Schwelbel",
-		"IBNR": "5486",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRM",
-		"Regionen": "272",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Schwelm",
 		"IBNR": "33",
 		"Bahnhofstatus": "AST",
@@ -42667,16 +44139,24 @@
 		"Tarifpunkt": "Schwenningen(Neckar)",
 		"IBNR": "5490",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Schwenzin",
+		"IBNR": "12949",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "210",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Schwerin-G\u00f6rries",
 		"IBNR": "10325",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "1033",
+		"Regionen": "470",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -42684,15 +44164,39 @@
 		"IBNR": "10324",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "",
-		"Regionen": "1033,1342",
+		"Regionen": "470,521,367",
 		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Schwerin Industrie.)",
+		"IBNR": "13355",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Schwerin-Lankow",
+		"IBNR": "12953",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "367",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Schwerin-Margareten.",
+		"IBNR": "12960",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "367",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Schwerin Mitte",
 		"IBNR": "12940",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "1033",
+		"Regionen": "470",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -42700,8 +44204,24 @@
 		"IBNR": "12951",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "1033",
+		"Regionen": "470",
 		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "Schwerin-Warnitz",
+		"IBNR": "12954",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "367",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Schwerin-W\u00fcstmark",
+		"IBNR": "13354",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
+		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Schwerte(Ruhr)",
@@ -42724,7 +44244,7 @@
 		"IBNR": "5494",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -42732,7 +44252,7 @@
 		"IBNR": "5493",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -42740,14 +44260,14 @@
 		"IBNR": "5492",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Schwindegg",
 		"IBNR": "5495",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "264",
 		"Gleichstellung zu beachten": ""
 	},
@@ -42824,6 +44344,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Seebad Lubmin",
+		"IBNR": "12964",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1003",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Seebergen",
 		"IBNR": "12965",
 		"Bahnhofstatus": "NAST",
@@ -42891,7 +44419,7 @@
 		"Tarifpunkt": "Seeleiten-Berggeist",
 		"IBNR": "5506",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -42948,7 +44476,7 @@
 		"IBNR": "5509",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VLP",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -43236,7 +44764,7 @@
 		"IBNR": "46",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VGW",
-		"Regionen": "272,273,274",
+		"Regionen": "273,274,271",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -43304,14 +44832,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Silbach",
-		"IBNR": "5569",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "260",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Silberhausen",
 		"IBNR": "12993",
 		"Bahnhofstatus": "NAST",
@@ -43323,8 +44843,8 @@
 		"Tarifpunkt": "Silberh\u00fctte",
 		"IBNR": "5570",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
+		"Verbund": "VGN",
+		"Regionen": "11",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -43364,7 +44884,7 @@
 		"IBNR": "5574",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -43552,12 +45072,28 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
+		"Tarifpunkt": "S\u00f6ll. Kapellenstr.",
+		"IBNR": "20157",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "S\u00f6llingen(b Karlsr)",
 		"IBNR": "5585",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
-		"Gleichstellung zu beachten": ""
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
+		"Tarifpunkt": "S\u00f6llingen Reetzstr.",
+		"IBNR": "20158",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
 	},
 	{
 		"Tarifpunkt": "Sollstedt",
@@ -43644,7 +45180,7 @@
 		"IBNR": "5602",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -43747,7 +45283,7 @@
 		"Tarifpunkt": "Spaichingen",
 		"IBNR": "5616",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -43755,7 +45291,7 @@
 		"Tarifpunkt": "Spaichingen Mitte",
 		"IBNR": "5617",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -43804,7 +45340,7 @@
 		"IBNR": "5628",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -43812,7 +45348,7 @@
 		"IBNR": "5626",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -43840,11 +45376,35 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Sp\u00f6ck Hochhaus",
+		"IBNR": "20159",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Sp\u00f6ck R.-H.-Schule",
+		"IBNR": "20160",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Sponholz",
 		"IBNR": "13017",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
 		"Regionen": "1206",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Spornitz",
+		"IBNR": "13018",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -44212,7 +45772,7 @@
 		"IBNR": "5710",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -44292,7 +45852,7 @@
 		"IBNR": "5707",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "239",
+		"Regionen": "466",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -44348,7 +45908,7 @@
 		"IBNR": "5713",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -44459,7 +46019,7 @@
 		"Tarifpunkt": "Stetten(Donau)",
 		"IBNR": "5723",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "399",
 		"Gleichstellung zu beachten": ""
 	},
@@ -44520,18 +46080,10 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "St Felix",
-		"IBNR": "5643",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "St Georgen(Schwarzw)",
 		"IBNR": "5644",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -44652,7 +46204,7 @@
 		"IBNR": "5738",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NVM",
-		"Regionen": "408",
+		"Regionen": "279",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -44749,14 +46301,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBB",
 		"Regionen": "1065",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "St\u00f6rnstein",
-		"IBNR": "5742",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -44904,6 +46448,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Strohkirchen",
+		"IBNR": "13069",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1345",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Str\u00f6tzbach",
 		"IBNR": "5759",
 		"Bahnhofstatus": "NAST",
@@ -44968,6 +46520,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Stutensee B\u00fcchig",
+		"IBNR": "20161",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": "*"
+	},
+	{
 		"Tarifpunkt": "Stuttgart-Bad Cannst",
 		"IBNR": "5769",
 		"Bahnhofstatus": "NAST",
@@ -44996,7 +46556,7 @@
 		"IBNR": "6699",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45004,7 +46564,7 @@
 		"IBNR": "5768",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -45012,7 +46572,7 @@
 		"IBNR": "96",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VVS",
-		"Regionen": "470,137",
+		"Regionen": "408,137",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45032,7 +46592,7 @@
 		"Gleichstellung zu beachten": "*"
 	},
 	{
-		"Tarifpunkt": "Stuttgart Nord",
+		"Tarifpunkt": "Stuttgart Nordbahnh.",
 		"IBNR": "5767",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
@@ -45060,7 +46620,7 @@
 		"IBNR": "5779",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45068,7 +46628,7 @@
 		"IBNR": "5773",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45076,7 +46636,7 @@
 		"IBNR": "6698",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45092,7 +46652,7 @@
 		"IBNR": "6700",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45100,7 +46660,7 @@
 		"IBNR": "6513",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45116,7 +46676,7 @@
 		"IBNR": "5776",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45212,7 +46772,7 @@
 		"IBNR": "10345",
 		"Bahnhofstatus": "AST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -45220,7 +46780,15 @@
 		"IBNR": "13077",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Sukow(b.Schwerin)",
+		"IBNR": "13079",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "470",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -45228,14 +46796,14 @@
 		"IBNR": "13073",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "1217",
+		"Regionen": "519",
 		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Sulz(Neckar)",
 		"IBNR": "5791",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "204",
 		"Gleichstellung zu beachten": ""
 	},
@@ -45244,7 +46812,7 @@
 		"IBNR": "5786",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45316,7 +46884,7 @@
 		"IBNR": "5792",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -45427,7 +46995,7 @@
 		"Tarifpunkt": "Talhausen-Herrenz.",
 		"IBNR": "5817",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "204",
 		"Gleichstellung zu beachten": ""
 	},
@@ -45852,7 +47420,7 @@
 		"IBNR": "10350",
 		"Bahnhofstatus": "AST",
 		"Verbund": "",
-		"Regionen": "1312,5",
+		"Regionen": "1312,332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -45972,7 +47540,7 @@
 		"IBNR": "5877",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VLP",
-		"Regionen": "117",
+		"Regionen": "261",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -46056,10 +47624,18 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Traben-Trarbach",
+		"IBNR": "5889",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRM",
+		"Regionen": "186",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Trabitz",
 		"IBNR": "5890",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "314",
 		"Gleichstellung zu beachten": ""
 	},
@@ -46211,7 +47787,7 @@
 		"Tarifpunkt": "Triberg",
 		"IBNR": "5902",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -46347,7 +47923,7 @@
 		"Tarifpunkt": "Trossingen Bahnhof",
 		"IBNR": "5911",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VVR",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -46355,7 +47931,7 @@
 		"Tarifpunkt": "Trossingen Stadt",
 		"IBNR": "5913",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -46396,15 +47972,7 @@
 		"IBNR": "141",
 		"Bahnhofstatus": "AST",
 		"Verbund": "NAL",
-		"Regionen": "547,470,399",
-		"Gleichstellung zu beachten": "*"
-	},
-	{
-		"Tarifpunkt": "T\u00fcbingen-Lustnau",
-		"IBNR": "5918",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "NAL",
-		"Regionen": "547",
+		"Regionen": "408,444,399",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -46412,7 +47980,7 @@
 		"IBNR": "5916",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -46467,7 +48035,7 @@
 		"Tarifpunkt": "Tuttlingen",
 		"IBNR": "163",
 		"Bahnhofstatus": "HAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "200,201,206,399",
 		"Gleichstellung zu beachten": ""
 	},
@@ -46475,7 +48043,7 @@
 		"Tarifpunkt": "Tuttlingen G\u00e4ns\u00e4ck",
 		"IBNR": "5946",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "201",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -46483,7 +48051,7 @@
 		"Tarifpunkt": "Tuttlingen Nord",
 		"IBNR": "5926",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "399",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -46491,7 +48059,7 @@
 		"Tarifpunkt": "Tuttlingen Schulen",
 		"IBNR": "5925",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -46499,7 +48067,7 @@
 		"Tarifpunkt": "Tuttlingen Zentrum",
 		"IBNR": "5936",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "399",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -46576,8 +48144,24 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Ubstadt",
+		"Tarifpunkt": "Ubstadt Ort",
 		"IBNR": "5938",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "108",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Ubstadt Salzbrunnen.",
+		"IBNR": "20162",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "108",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Ubstadt Uhlandstr.",
+		"IBNR": "20163",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
 		"Regionen": "108",
@@ -46659,7 +48243,7 @@
 		"Tarifpunkt": "Uffing a Staffelsee",
 		"IBNR": "5948",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -46859,7 +48443,7 @@
 		"Tarifpunkt": "Unterammergau",
 		"IBNR": "5975",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "125",
 		"Gleichstellung zu beachten": ""
 	},
@@ -46907,7 +48491,7 @@
 		"Tarifpunkt": "Untergrainau",
 		"IBNR": "5987",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "79",
 		"Gleichstellung zu beachten": ""
 	},
@@ -46932,7 +48516,7 @@
 		"IBNR": "5990",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -46972,7 +48556,7 @@
 		"IBNR": "6002",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -46980,7 +48564,7 @@
 		"IBNR": "6003",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "470",
+		"Regionen": "408",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -47036,7 +48620,7 @@
 		"IBNR": "13172",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47045,6 +48629,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
 		"Regionen": "65",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Unter\u00f6wish. M-L-S.",
+		"IBNR": "20164",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "108",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47068,7 +48660,7 @@
 		"IBNR": "6008",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VPE",
-		"Regionen": "524",
+		"Regionen": "510",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47276,7 +48868,7 @@
 		"IBNR": "13179",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47300,7 +48892,7 @@
 		"IBNR": "6053",
 		"Bahnhofstatus": "AST",
 		"Verbund": "VVS",
-		"Regionen": "162,190",
+		"Regionen": "162,347",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47603,7 +49195,7 @@
 		"Tarifpunkt": "Villingen(Schwarzw)",
 		"IBNR": "366",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -47611,7 +49203,7 @@
 		"Tarifpunkt": "Villingen-SchwennEis",
 		"IBNR": "356",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -47619,7 +49211,7 @@
 		"Tarifpunkt": "Villingen-SchwennHam",
 		"IBNR": "393",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -47643,7 +49235,7 @@
 		"Tarifpunkt": "Vilsbiburg",
 		"IBNR": "6084",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "93",
 		"Gleichstellung zu beachten": ""
 	},
@@ -47660,7 +49252,7 @@
 		"IBNR": "6086",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VLP",
-		"Regionen": "473",
+		"Regionen": "117",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47723,8 +49315,8 @@
 		"Tarifpunkt": "Vohenstrau\u00df",
 		"IBNR": "6102",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
+		"Verbund": "VGN",
+		"Regionen": "11",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47805,14 +49397,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NVV",
 		"Regionen": "476",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Volkringhausen",
-		"IBNR": "6109",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VRL",
-		"Regionen": "232",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47900,7 +49484,7 @@
 		"IBNR": "6135",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VSH",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47924,7 +49508,7 @@
 		"IBNR": "6137",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -47948,7 +49532,7 @@
 		"IBNR": "6140",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48003,8 +49587,8 @@
 		"Tarifpunkt": "Waidhaus",
 		"IBNR": "6146",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
+		"Verbund": "VGN",
+		"Regionen": "11",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48036,7 +49620,7 @@
 		"IBNR": "6154",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48100,14 +49684,14 @@
 		"IBNR": "6160",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "261",
+		"Regionen": "95",
 		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Waldkraiburg-Kraib",
 		"IBNR": "6164",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "264",
 		"Gleichstellung zu beachten": ""
 	},
@@ -48116,7 +49700,7 @@
 		"IBNR": "6162",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48147,8 +49731,8 @@
 		"Tarifpunkt": "Waldthurn",
 		"IBNR": "6169",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "196",
+		"Verbund": "VGN",
+		"Regionen": "11",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48164,7 +49748,7 @@
 		"IBNR": "6171",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VVS",
-		"Regionen": "245",
+		"Regionen": "349",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48204,7 +49788,7 @@
 		"IBNR": "13215",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48384,19 +49968,11 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Wanne-Eickel Hbf",
-		"IBNR": "192",
-		"Bahnhofstatus": "HAST",
-		"Verbund": "VRR",
-		"Regionen": "182,173,351",
-		"Gleichstellung zu beachten": "*"
-	},
-	{
 		"Tarifpunkt": "Wannweil",
 		"IBNR": "6203",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NAL",
-		"Regionen": "547",
+		"Regionen": "444",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48420,7 +49996,7 @@
 		"IBNR": "10361",
 		"Bahnhofstatus": "AST",
 		"Verbund": "",
-		"Regionen": "395,367",
+		"Regionen": "210,267,395",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48437,6 +50013,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGM",
 		"Regionen": "463",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Warenshof",
+		"IBNR": "13232",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "210",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48508,7 +50092,7 @@
 		"IBNR": "6218",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "BOD",
-		"Regionen": "279",
+		"Regionen": "71",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48572,7 +50156,7 @@
 		"IBNR": "13245",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48636,7 +50220,7 @@
 		"IBNR": "6237",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "689",
+		"Regionen": "517",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48644,7 +50228,7 @@
 		"IBNR": "153",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "689",
+		"Regionen": "517",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -48819,15 +50403,15 @@
 		"Tarifpunkt": "Weiden(Oberpf)",
 		"IBNR": "204",
 		"Bahnhofstatus": "AST",
-		"Verbund": "",
-		"Regionen": "193,196,181,314",
+		"Verbund": "VGN",
+		"Regionen": "193,196,181,314,11",
 		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Weidenbach",
 		"IBNR": "6258",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "264",
 		"Gleichstellung zu beachten": ""
 	},
@@ -48859,7 +50443,7 @@
 		"Tarifpunkt": "Weiherhammer",
 		"IBNR": "6266",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "181",
 		"Gleichstellung zu beachten": ""
 	},
@@ -48987,7 +50571,7 @@
 		"Tarifpunkt": "Weilheim(W\u00fcrtt)",
 		"IBNR": "6281",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": ""
 	},
@@ -49036,7 +50620,7 @@
 		"IBNR": "6287",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49052,7 +50636,7 @@
 		"IBNR": "377",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49060,7 +50644,7 @@
 		"IBNR": "3792",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49068,7 +50652,7 @@
 		"IBNR": "6283",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49076,7 +50660,7 @@
 		"IBNR": "6289",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -49084,7 +50668,7 @@
 		"IBNR": "6290",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -49092,7 +50676,7 @@
 		"IBNR": "6294",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -49116,7 +50700,7 @@
 		"IBNR": "6291",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "188",
+		"Regionen": "198",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49213,6 +50797,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
 		"Regionen": "222",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Wei\u00dfer See",
+		"IBNR": "13273",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "511",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49500,7 +51092,7 @@
 		"IBNR": "10375",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "",
-		"Regionen": "5,45,1085",
+		"Regionen": "332,45,1085",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49557,6 +51149,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRR",
 		"Regionen": "354",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Wesenberg",
+		"IBNR": "13293",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "511",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49652,7 +51252,7 @@
 		"IBNR": "4610",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VBN",
-		"Regionen": "281",
+		"Regionen": "516",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49908,7 +51508,7 @@
 		"IBNR": "6417",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49924,7 +51524,7 @@
 		"IBNR": "6416",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -49949,14 +51549,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "NVM",
 		"Regionen": "118",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Wilburgstetten",
-		"IBNR": "6429",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGN",
-		"Regionen": "2",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -50036,7 +51628,7 @@
 		"IBNR": "6440",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -50156,7 +51748,7 @@
 		"IBNR": "6456",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "HNV",
-		"Regionen": "243",
+		"Regionen": "435",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -50228,14 +51820,14 @@
 		"IBNR": "6468",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
 		"Tarifpunkt": "Windischeschenbach",
 		"IBNR": "6472",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "VGN",
 		"Regionen": "196",
 		"Gleichstellung zu beachten": ""
 	},
@@ -50245,14 +51837,6 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VGN",
 		"Regionen": "102",
-		"Gleichstellung zu beachten": ""
-	},
-	{
-		"Tarifpunkt": "Windsfeld-Dittenheim",
-		"IBNR": "6474",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "VGN",
-		"Regionen": "6",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -50336,6 +51920,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Winterberg-Silbach",
+		"IBNR": "5569",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "VRL",
+		"Regionen": "260",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Winterhausen",
 		"IBNR": "6488",
 		"Bahnhofstatus": "NAST",
@@ -50388,7 +51980,7 @@
 		"IBNR": "6504",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -50396,7 +51988,7 @@
 		"IBNR": "6501",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRM",
-		"Regionen": "271",
+		"Regionen": "272",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -50428,7 +52020,7 @@
 		"IBNR": "10382",
 		"Bahnhofstatus": "HAST",
 		"Verbund": "VBB",
-		"Regionen": "1075,1224,1229",
+		"Regionen": "1075,518,1229",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -50596,7 +52188,7 @@
 		"IBNR": "13329",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
-		"Regionen": "5",
+		"Regionen": "332",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -50696,14 +52288,6 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "Wolnzach Markt",
-		"IBNR": "6557",
-		"Bahnhofstatus": "NAST",
-		"Verbund": "",
-		"Regionen": "264",
-		"Gleichstellung zu beachten": ""
-	},
-	{
 		"Tarifpunkt": "Wolterdingen(Han)",
 		"IBNR": "6559",
 		"Bahnhofstatus": "NAST",
@@ -50779,7 +52363,7 @@
 		"Tarifpunkt": "W\u00f6rth(Isar)",
 		"IBNR": "6537",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "",
+		"Verbund": "MVV",
 		"Regionen": "265",
 		"Gleichstellung zu beachten": ""
 	},
@@ -50796,7 +52380,7 @@
 		"IBNR": "6531",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "262",
+		"Regionen": "239",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -50804,7 +52388,7 @@
 		"IBNR": "254",
 		"Bahnhofstatus": "AST",
 		"Verbund": "KVV",
-		"Regionen": "36,198,262,255",
+		"Regionen": "208,245,239,255",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -50812,7 +52396,7 @@
 		"IBNR": "6530",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -50820,7 +52404,7 @@
 		"IBNR": "6521",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -50828,7 +52412,7 @@
 		"IBNR": "6526",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -50836,7 +52420,7 @@
 		"IBNR": "6522",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -50844,7 +52428,7 @@
 		"IBNR": "6523",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -50852,7 +52436,7 @@
 		"IBNR": "6536",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -50860,7 +52444,7 @@
 		"IBNR": "6525",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "198",
+		"Regionen": "245",
 		"Gleichstellung zu beachten": "*"
 	},
 	{
@@ -50868,7 +52452,15 @@
 		"IBNR": "6539",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "KVV",
-		"Regionen": "100",
+		"Regionen": "255",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "W\u00f6ssingen Ost",
+		"IBNR": "20165",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "255",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -50944,16 +52536,16 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "W\u00fcnschendorf",
-		"IBNR": "10387",
+		"Tarifpunkt": "W\u00fcnschendorf(E)Nord",
+		"IBNR": "13349",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
 		"Regionen": "268",
 		"Gleichstellung zu beachten": ""
 	},
 	{
-		"Tarifpunkt": "W\u00fcnschendorf Nord",
-		"IBNR": "13349",
+		"Tarifpunkt": "W\u00fcnschendorf(Elst.)",
+		"IBNR": "10387",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "",
 		"Regionen": "268",
@@ -51107,7 +52699,7 @@
 		"Tarifpunkt": "Wurmlingen Mitte",
 		"IBNR": "6625",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -51115,7 +52707,7 @@
 		"Tarifpunkt": "Wurmlingen Nord",
 		"IBNR": "6626",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "TUT",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -51208,6 +52800,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Wusterhausen(Dosse)",
+		"IBNR": "13363",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Wustermark",
 		"IBNR": "10389",
 		"Bahnhofstatus": "AST",
@@ -51253,6 +52853,14 @@
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VMT",
 		"Regionen": "327",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Wutike",
+		"IBNR": "13367",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "1075",
 		"Gleichstellung zu beachten": ""
 	},
 	{
@@ -51520,6 +53128,22 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Zeutern Ost",
+		"IBNR": "20166",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "108",
+		"Gleichstellung zu beachten": ""
+	},
+	{
+		"Tarifpunkt": "Zeutern Sportplatz",
+		"IBNR": "20167",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "KVV",
+		"Regionen": "108",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Zeuthen",
 		"IBNR": "11590",
 		"Bahnhofstatus": "NAST",
@@ -51640,6 +53264,14 @@
 		"Gleichstellung zu beachten": ""
 	},
 	{
+		"Tarifpunkt": "Zirtow-Leussow",
+		"IBNR": "13409",
+		"Bahnhofstatus": "NAST",
+		"Verbund": "",
+		"Regionen": "511",
+		"Gleichstellung zu beachten": ""
+	},
+	{
 		"Tarifpunkt": "Zittau",
 		"IBNR": "10393",
 		"Bahnhofstatus": "AST",
@@ -51675,7 +53307,7 @@
 		"Tarifpunkt": "Zollhaus(VS)",
 		"IBNR": "6667",
 		"Bahnhofstatus": "NAST",
-		"Verbund": "VSB",
+		"Verbund": "MOV",
 		"Regionen": "206",
 		"Gleichstellung zu beachten": "*"
 	},
@@ -51716,7 +53348,7 @@
 		"IBNR": "6672",
 		"Bahnhofstatus": "NAST",
 		"Verbund": "VRN",
-		"Regionen": "74",
+		"Regionen": "243",
 		"Gleichstellung zu beachten": ""
 	},
 	{

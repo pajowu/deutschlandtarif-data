@@ -807,7 +807,7 @@
 		"Leitpunktk\u00fcrzel": "DS",
 		"Tarifpunkt": "Donaueschingen",
 		"IBNR": "77",
-		"Verbund": "VSB"
+		"Verbund": "MOV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "DU",
@@ -1209,7 +1209,7 @@
 		"Leitpunktk\u00fcrzel": "GAP",
 		"Tarifpunkt": "Garmisch-Partenk.",
 		"IBNR": "2187",
-		"Verbund": ""
+		"Verbund": "MVV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "GC",
@@ -1887,7 +1887,7 @@
 		"Leitpunktk\u00fcrzel": "IMM",
 		"Tarifpunkt": "Immendingen",
 		"IBNR": "182",
-		"Verbund": "TUT"
+		"Verbund": "MOV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "IN",
@@ -2175,7 +2175,7 @@
 		"Leitpunktk\u00fcrzel": "LA",
 		"Tarifpunkt": "Landshut(Bay)Hbf",
 		"IBNR": "217",
-		"Verbund": ""
+		"Verbund": "MVV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "LAA",
@@ -2263,7 +2263,7 @@
 	},
 	{
 		"Leitpunktk\u00fcrzel": "LETM",
-		"Tarifpunkt": "Letmathe",
+		"Tarifpunkt": "Iserlohn-Letmathe",
 		"IBNR": "227",
 		"Verbund": "VRL"
 	},
@@ -2571,7 +2571,7 @@
 		"Leitpunktk\u00fcrzel": "MUE",
 		"Tarifpunkt": "M\u00fchldorf(Oberbay)",
 		"IBNR": "258",
-		"Verbund": ""
+		"Verbund": "MVV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "MZ",
@@ -2655,7 +2655,7 @@
 		"Leitpunktk\u00fcrzel": "NEUF",
 		"Tarifpunkt": "Neufahrn(Niederbay)",
 		"IBNR": "688",
-		"Verbund": ""
+		"Verbund": "MVV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "NEUK",
@@ -2763,7 +2763,7 @@
 		"Leitpunktk\u00fcrzel": "NMV",
 		"Tarifpunkt": "Neumarkt-St Veit",
 		"IBNR": "720",
-		"Verbund": ""
+		"Verbund": "MVV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "NMW",
@@ -3255,7 +3255,7 @@
 		"Leitpunktk\u00fcrzel": "RW",
 		"Tarifpunkt": "Rottweil",
 		"IBNR": "322",
-		"Verbund": "VVR"
+		"Verbund": "MOV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "RY",
@@ -3531,7 +3531,7 @@
 		"Leitpunktk\u00fcrzel": "SPAI",
 		"Tarifpunkt": "Spaichingen",
 		"IBNR": "5616",
-		"Verbund": "TUT"
+		"Verbund": "MOV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "SR",
@@ -3699,7 +3699,7 @@
 		"Leitpunktk\u00fcrzel": "TUT",
 		"Tarifpunkt": "Tuttlingen",
 		"IBNR": "163",
-		"Verbund": "TUT"
+		"Verbund": "MOV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "UCKR",
@@ -3759,7 +3759,7 @@
 		"Leitpunktk\u00fcrzel": "VS",
 		"Tarifpunkt": "Villingen(Schwarzw)",
 		"IBNR": "366",
-		"Verbund": "VSB"
+		"Verbund": "MOV"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "W",
@@ -3793,7 +3793,7 @@
 	},
 	{
 		"Leitpunktk\u00fcrzel": "WAN",
-		"Tarifpunkt": "Wanne-Eickel Hbf",
+		"Tarifpunkt": "He.-Wanne-Eickel Hbf",
 		"IBNR": "192",
 		"Verbund": "VRR"
 	},
@@ -3885,7 +3885,7 @@
 		"Leitpunktk\u00fcrzel": "WEN",
 		"Tarifpunkt": "Weiden(Oberpf)",
 		"IBNR": "204",
-		"Verbund": ""
+		"Verbund": "VGN"
 	},
 	{
 		"Leitpunktk\u00fcrzel": "WERH",
@@ -4045,7 +4045,7 @@
 	},
 	{
 		"Leitpunktk\u00fcrzel": "WUED",
-		"Tarifpunkt": "W\u00fcnschendorf",
+		"Tarifpunkt": "W\u00fcnschendorf(Elst.)",
 		"IBNR": "10387",
 		"Verbund": ""
 	},
