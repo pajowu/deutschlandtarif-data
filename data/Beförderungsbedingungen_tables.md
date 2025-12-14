@@ -1,8 +1,6 @@
 # **Beförderungsbedingungen** **Deutsche Bahn AG**
 
-**Neuausgabe vom 15. Dezember 2024**
-**Aktualisierter Stand vom 25. November 2025**
-
+### **Neuausgabe vom 14. Dezember 2025**
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
 Bezug über: [aktuelle Ausgaben: www.db-fernverkehr.com, www.dbregio.de, www.bahn.de](http://www.db-fernverkehr.com/)
@@ -12,397 +10,267 @@ Europa-Allee 78-84, 60486 Frankfurt am Main,
 E-Mail: tarif.fernverkehr@deutschebahn.com
 
 **A** **Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn AG**
-**(BB Personenverkehr) ................................................................................................................. 11**
+**(BB Personenverkehr) ................................................................................................................... 7**
 
 
-A.1 Grundsätze ........................................................................................................................ 11
+A.1 Grundsätze .......................................................................................................................... 7
 
 
-A.2 Fahrkarten ......................................................................................................................... 12
+A.2 Fahrkarten ........................................................................................................................... 8
 
 
-A.3 Fahrpreise ......................................................................................................................... 17
+A.3 Fahrpreise ......................................................................................................................... 13
 
 
-A.4 Stornierung (Erstattung, Umtausch) ................................................................................. 22
+A.4 Stornierung (Erstattung, Umtausch) ................................................................................. 18
 
 
-A.5 Sitzplätze und Reservierungen .......................................................................................... 24
+A.5 Sitzplätze und Reservierungen .......................................................................................... 20
 
-A.6 Verhaltenspflichten der Reisenden ................................................................................... 24
-
-
-A.7 Mitnahme von Handgepäck, Elektrokleinstfahrzeugen, Traglasten und Tieren ................ 25
+A.6 Verhaltenspflichten der Reisenden ................................................................................... 20
 
 
-A.8 Mitnahme von Fahrrädern und Pedelecs .......................................................................... 26
+A.7 Mitnahme von Handgepäck, Elektrokleinstfahrzeugen, Traglasten und Tieren ................ 21
 
 
-A.9 Fahrgastrechte .................................................................................................................. 28
+A.8 Mitnahme von Fahrrädern und Pedelecs .......................................................................... 22
 
 
-A.10 Haftung ............................................................................................................................. 32
+A.9 Fahrgastrechte .................................................................................................................. 24
 
 
-A.11 Aufrechnung ...................................................................................................................... 32
+A.10 Haftung ............................................................................................................................. 28
 
 
-A.12 Sonstiges ........................................................................................................................... 32
+A.11 Aufrechnung ...................................................................................................................... 28
 
 
-**B** **Bedingungen für den Erwerb und die Nutzung von Zeitkarten (Zeitkarten) .................. 38**
+A.12 Sonstiges ........................................................................................................................... 28
 
 
-B.1 Zeitkarten .......................................................................................................................... 38
+**B** **Bedingungen für den Erwerb und die Nutzung von Zeitkarten (Zeitkarten) .................. 34**
 
 
-B.2 Geltungsumfang ................................................................................................................ 38
+B.1 Zeitkarten .......................................................................................................................... 34
 
 
-B.3 Erwerb und Geltungszeitraum .......................................................................................... 38
+B.2 Geltungsumfang ................................................................................................................ 34
 
 
-B.4 Bleibt frei........................................................................................................................... 40
+B.3 Erwerb und Geltungszeitraum .......................................................................................... 34
 
 
-B.5 Preise................................................................................................................................. 40
+B.4 Bleibt frei........................................................................................................................... 36
 
 
-B.6 Geltungsdauer ................................................................................................................... 40
+B.5 Preise................................................................................................................................. 36
 
 
-B.7 Übergang, Umwege ........................................................................................................... 40
+B.6 Geltungsdauer ................................................................................................................... 36
 
 
-B.8 Erstattung, Umtausch, Kündigung..................................................................................... 41
+B.7 Übergang, Umwege ........................................................................................................... 36
 
 
-B.9 Verlust ............................................................................................................................... 42
+B.8 Erstattung, Umtausch, Kündigung..................................................................................... 37
 
 
-B.10 Zahlungsverzug ................................................................................................................. 42
+B.9 Verlust ............................................................................................................................... 38
 
 
-B.11 Reservierung ..................................................................................................................... 43
+B.10 Zahlungsverzug ................................................................................................................. 38
 
 
-B.12 IC/EC-Aufpreise zu Zeitkarten von Verkehrsverbünden/Tarifgemeinschaften ................. 43
+B.11 Reservierung ..................................................................................................................... 39
 
 
-B.13 Haftung für Ausfall, Verspätung und Anschlussversäumnis .............................................. 45
+B.12 IC/EC-Aufpreise zu Zeitkarten von Verkehrsverbünden/Tarifgemeinschaften ................. 39
 
 
-**C** **Bedingungen für den Erwerb und die Nutzung von BahnCards (BahnCard) ................... 49**
+B.13 Haftung für Ausfall, Verspätung und Anschlussversäumnis .............................................. 41
 
 
-C.1 Geltungsbereich ................................................................................................................ 49
+**C** **Bedingungen für den Erwerb und die Nutzung von BahnCards (BahnCard) ................... 45**
 
 
-C.2 BahnCard 25, BahnCard 50............................................................................................... 49
+C.1 Geltungsbereich ................................................................................................................ 45
 
 
-C.3 BahnCard 100 ................................................................................................................... 53
+C.2 BahnCard 25, BahnCard 50............................................................................................... 45
+
+
+C.3 BahnCard 100 ................................................................................................................... 49
 
 
 **D** **Beförderungsbedingungen** **für** **besondere** **Personengruppen** **(Besondere**
-**Personengruppen) ....................................................................................................................... 58**
+**Personengruppen) ....................................................................................................................... 54**
 
 
-D.1 Anwendungsbereich .......................................................................................................... 58
+D.1 Anwendungsbereich .......................................................................................................... 54
 
 D.2 Menschen mit Behinderungen, schwerbehinderte und schwerkriegsbeschädigte Menschen
-
-58
-
-
-D.3 bleibt frei ........................................................................................................................... 60
+54
 
 
-D.4 Sonstige besondere Personengruppen .............................................................................. 60
+D.3 bleibt frei ........................................................................................................................... 56
+
+
+D.4 Sonstige besondere Personengruppen .............................................................................. 56
 
 
 **E** **Beförderungsbedingungen** **für** **Aktionsangebote** **der** **DB** **Fernverkehr** **AG**
-**(Aktionsangebote) ....................................................................................................................... 64**
+**(Aktionsangebote) ....................................................................................................................... 59**
 
 
-E.1 Bedingungen für Gutscheine und Aktionsangebote .......................................................... 64
+E.1 Bedingungen für Gutscheine und Aktionsangebote .......................................................... 59
 
 
-E.2 Gutscheinangebote ........................................................................................................... 72
+E.2 Gutscheinangebote ........................................................................................................... 64
 
 
-E.3 Bedingungen für das Angebot „Jugend BahnCard 25“ ...................................................... 73
+E.3 Bedingungen für das Angebot „Jugend BahnCard 25“ ...................................................... 65
 
 
-E.4 Bedingungen für das Online-Aktionsangebot „Übergang 1. Klasse“ ................................. 74
+E.4 Bedingungen für das Online-Aktionsangebot „Übergang 1. Klasse“ ................................. 66
 
 
-E.5 Bleibt frei........................................................................................................................... 75
+E.5 Bedingungen für das Aktionsangebot „10-Fahrten-Ticket/20-Fahrten-Ticket“ ................ 67
 
 
-E.6 Bleibt frei........................................................................................................................... 75
+E.6 Bedingungen für die Aktion „Schnupper BahnCard – Upgrade BahnCard 1. Klasse“ ....... 69
 
 
-E.7 Aktionsangebot „Fan-Gruppenreise“ ................................................................................ 75
+E.7 Bedingungen für die Aktion „BahnCard 100 für Personen im Alter von 6 bis einschließlich
+26 Jahren (My BahnCard 100)“ ..................................................................................................... 69
 
 
-E.8 Bedingungen für das Aktionsangebot „10-Fahrten-Ticket/20-Fahrten-Ticket“ ................ 76
+E.8 Bedingungen für das Aktionsangebot „Sparpreis Business“ ............................................. 70
 
 
-E.9 Bedingungen für die Aktion „Schnupper BahnCard – Upgrade BahnCard 1. Klasse“ ....... 78
+E.9 Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“ ...................................... 71
 
 
-E.10 Bleibt frei........................................................................................................................... 79
+E.10 Bedingungen für das Aktionsangebot „BahnCard zum Aktionspreis“ ............................... 71
 
 
-E.11 Bedingungen für die Aktion „BahnCard 100 für Personen im Alter von 6 bis einschließlich
-26 Jahren (My BahnCard 100)“ ..................................................................................................... 79
+E.11 Bedingungen für den Erwerb und die Nutzung von Event Fahrkarten.............................. 72
 
 
-E.12 Bedingungen für das Angebot „Fan BahnCard 25” (Probe Bahn Card 25) ....................... 79
+E.12 Bedingungen für das Aktionsangebot „My BahnCard 50 zum Aktionspreis“ .................... 74
 
 
-E.13 Bedingungen für das Aktionsangebot „BahnCard 50 zum Aktionspreis“ ......................... 80
+E.13 Bedingungen für die Aktion „Probe BahnCard 25 und 50 zum Aktionspreis“ .................. 74
 
 
-E.14 Bedingungen für das Aktionsangebot „BahnCard Business 50 zum Aktionspreis“ ........... 81
+E.14 Bedingungen für die Aktion „Super Sparpreis Gruppe Aktion“ ......................................... 75
 
 
-E.15 Bleibt frei........................................................................................................................... 81
+**F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 78**
 
 
-E.16 Bedingungen für das Aktionsangebot „Sparpreis Business“ ............................................. 81
+F.1 Geltungsbereich ................................................................................................................ 78
 
 
-E.17 Bleibt frei........................................................................................................................... 82
+F.2 Aufgabe von Reisegepäck .................................................................................................. 78
 
 
-E.18 Bleibt frei........................................................................................................................... 82
+F.3 Verpackung........................................................................................................................ 79
 
 
-E.19 Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“ ...................................... 82
+F.4 Entgelt für die Gepäckbeförderung ................................................................................... 79
 
 
-E.20 Bedingungen für das Aktionsangebot „BahnCard zum Aktionspreis“ ............................... 82
+F.5 Stornierung ....................................................................................................................... 79
 
 
-E.21 Bedingungen für das Aktionsangebot „BahnCard Business zum Aktionspreis“ ................ 83
-
-
-E.22 Bedingungen für die Aktionen „Aktionsrabatt auf den Flexpreis“ und „Aktionsrabatt auf
-den Flexpreis Business“ ................................................................................................................ 84
-
-
-E.23 Bedingungen für das Aktionsangebot „BahnCard 50 Schnupper Aktion“ ......................... 84
-
-
-E.24 Bedingungen für den Erwerb und die Nutzung von Event Fahrkarten.............................. 85
-
-
-E.25 Bedingungen für die Aktion „Aktionsrabatt auf Super Sparpreise und Sparpreise“ ......... 87
-
-
-E.26 Bedingungen für das Aktionsangebot „Mitfahrerrabatt für BahnCard 50 Kunden“ ......... 87
-
-
-E.27 Bedingungen für das Aktionsangebot „My BahnCard 50 zum Aktionspreis“ .................... 88
-
-
-E.28 Bedingungen für die Aktionen „Aktionsrabatt auf den Flexpreis“ und Aktionsrabatt auf den
-Flexpreis Business“ ....................................................................................................................... 89
-
-
-E.29 Bedingungen für die Aktion „Aktionsrabatt auf Monatskarten“ ....................................... 89
-
-E.30 Bedingungen für das Aktionsangebot „BahnCard Business 25 Klima“ ............................. 89
-
-
-E.31 Bedingungen für die Aktionen „44-Stunden-Ticket Young“ .............................................. 90
-
-
-E.32 Bedingungen für die Aktionen „Treueaktion“ .................................................................... 91
-
-
-E.33 Bedingungen für die Aktionen „Aktionsrabatt für Super Sparpreise und Sparpreise“ ..... 92
-
-
-E.34 Bedingungen für die Aktion „Probe BahnCard 100 zum Aktionspreis für Geschäftskunden“
-
-92
-
-
-E.35 Bedingungen für die Aktion „Probe BahnCard 25 und 50 zum Aktionspreis“ .................. 93
-
-
-E.36 Bedingungen für die Aktion „Flexpreis Young“ ................................................................. 93
-
-
-E.37 Bedingungen für die Aktion „Super Sparpreis Gruppe Aktion“ ......................................... 94
-
-
-E.38 Bedingungen für die Aktion „Aktionsrabatt für Super Sparpreise und Sparpreise“ ......... 95
-
-
-E.39 Bedingungen für das Aktionsangebot „Mitfahrerrabatt für bis zu 4 Mitfahrer für BahnCard
-Kunden“ ........................................................................................................................................ 95
-
-
-E.40 Bedingungen für die Aktion „ „Aktionsrabatt Sparpreis Business“ .................................... 96
-
-
-**F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 99**
-
-
-F.1 Geltungsbereich ................................................................................................................ 99
-
-
-F.2 Aufgabe von Reisegepäck .................................................................................................. 99
-
-
-F.3 Verpackung...................................................................................................................... 100
-
-
-F.4 Entgelt für die Gepäckbeförderung ................................................................................. 100
-
-
-F.5 Stornierung ..................................................................................................................... 100
-
-
-F.6 Entschädigungen bei Verlust und bei verspäteter Auslieferung ...................................... 101
+F.6 Entschädigungen bei Verlust und bei verspäteter Auslieferung ........................................ 80
 
 
 **G** **Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten**
-**(bahn.business) .......................................................................................................................... 103**
+**(bahn.business) ............................................................................................................................ 82**
 
 
-G.1 Anwendungsbereich ........................................................................................................ 103
+G.1 Anwendungsbereich .......................................................................................................... 82
 
 
-G.2 Teilnahmebedingungen ................................................................................................... 103
+G.2 Teilnahmebedingungen ..................................................................................................... 82
 
 
-G.3 Gewährung von Bonusleistungen .................................................................................... 103
+G.3 Gewährung von Bonusleistungen ...................................................................................... 82
 
 
-G.4 Geschäftskundenportal (bahn.business-online) .............................................................. 107
+G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 86
 
 
 G.5 Gewährung von Rabatt für Reisen zu Rehabilitations-/Kuraufenthalten für
-Leistungsempfänger der Versicherungsträger (Reha-Reisen) ..................................................... 108
+Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 87
 
 
-**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ..... 113**
+**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ....... 92**
 
 
-I.1 Anwendungsbereich ........................................................................................................ 113
+I.1 Anwendungsbereich .......................................................................................................... 92
+
+I.2 Erwerb ............................................................................................................................... 92
 
 
-I.2 Erwerb ............................................................................................................................. 113
+I.3 Vorverkaufsfristen ............................................................................................................. 92
 
 
-I.3 Vorverkaufsfristen ........................................................................................................... 113
+I.4 Bleibt frei........................................................................................................................... 92
 
 
-I.4 Bleibt frei......................................................................................................................... 113
+I.5 BahnCard-Bestellung ........................................................................................................ 92
 
 
-I.5 BahnCard-Bestellung ...................................................................................................... 113
+I.6 Digitale Tickets .................................................................................................................. 92
 
 
-I.6 Digitale Tickets ................................................................................................................ 113
+I.7 Bleibt frei........................................................................................................................... 93
 
 
-I.7 Bleibt frei......................................................................................................................... 114
+I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 94
 
 
-I.8 Stornierung (Erstattung und Umtausch) ......................................................................... 115
+I.9 Zahlarten ........................................................................................................................... 94
 
 
-I.9 Zahlarten ......................................................................................................................... 115
-
-I.10 Belege im Sinne des deutschen Steuerrechts .................................................................. 115
+I.10 Belege im Sinne des deutschen Steuerrechts .................................................................... 94
 
 
-I.11 Datenschutz/Datensicherheit ......................................................................................... 115
+I.11 Datenschutz/Datensicherheit ........................................................................................... 94
 
 
-I.12 Sonstiges ......................................................................................................................... 116
+I.12 Sonstiges ........................................................................................................................... 95
 
 
-I.13 Anfragen/Kontakt............................................................................................................ 116
+I.13 Anfragen/Kontakt.............................................................................................................. 95
 
 
-**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 119**
+**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) .......................... 98**
 
 
-K.1 Allgemeines ..................................................................................................................... 119
+K.1 Allgemeines ....................................................................................................................... 98
 
 
-K.2 Grundsätzliche Regelungen ............................................................................................. 119
+K.2 Grundsätzliche Regelungen ............................................................................................... 98
 
 
-K.3 Fahrgastrechte ................................................................................................................ 120
+K.3 Fahrgastrechte .................................................................................................................. 99
 
 
-K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 121
+K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 100
 
 
-Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen .......................... 127
-
-|Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
-|---|---|
-|1/2025|Neuausgabe mit redaktionellen Anpassungen sowie folgenden Änderungen zur<br>Vorgängerversion:<br>BB Personenverkehr<br>- <br>Nr. 2.6.2 Korrektur des Verweises auf Nr. 2.1.2 BB Personenverkehr<br>- <br>Nr. 3.2.4.1 Korrektur des Verweises auf Nr. 2.1 der BahnCard Bedingungen<br>- <br>Nr. 4.2 Anpassung des Bearbeitungsentgelts bei Stornierung des Flexpreises<br>- <br>Nr. 8.4.1, Nr. 8.4.3: Anpassung der Preise zur Fahrradmitnahme<br>- <br>Anlage 1 zu Nr. 2.1.1: Streichung des Angebots Insel Spezial<br>Zeitkarten<br>- <br>Nr. 12.2 Korrektur des Verweises auf die Preisliste<br>BahnCard<br>- <br>Nr. 2.4 Entfall Fahrkarte vergessene BahnCard<br>- <br>Nr. 3.3.1, Nr. 3.3.3 Anpassung der Preise für die BahnCard 100<br>- <br>Nr.4 Streichung der RAILPLUS-Ermäßigung<br>Aktionsangebote<br>- <br>Löschung der bereits ausgelaufenen Aktionen und dadurch neue Nummerierungen<br>- <br>E.11 Anpassung der Preise für die My BahnCard 100<br>- <br>E. 4: Beendigung des Angebots Insel Spezial<br>- <br>E.6 Anpassung der Preise für das Veranstaltungsticket<br>- <br>E.16 Bedingungen für das Aktionsangebot „Sparpreis Business“<br>Gepäckbedingungen<br>- <br>Nr. 4.2 – 4.4 Anpassung der Preise zur Gepäckmitnahme<br>Bahn.business<br>- <br>Nr. 3.7.2 Anpassung der Höhe des Bearbeitungsentgelts bei Stornierung des Flexpreises<br>- <br>Nr. 3.8.5 Entfall Fahrkarte „Aufzahlung“<br>Aktualisierung der Preisliste|
-|2/2025|BB Personenverkehr<br>- <br>Nr. 2.1.1 Informationen zur Ausgabe der Fahrkartenart<br>- <br>Nr.2.2 Regelungen zur Nutzung von digitalen Tickets<br>- <br>Nr. 2.4.1, 2.4.2, 2.8, Nr. 4.4.1 Hinzufügen der Regelungen zu digitalen Tickets aus den<br>Internetbedingungen<br>- <br>Nr. 3.3.1.4 Streichung der Inhalte zum digitalen Ticket<br>- <br>Nr. 3.8.1 Streichung von m.bahn.de<br>Internetbedingungen<br>- <br>Nr. 1 Streichung von m.bahn.de und Streichung der allgemeinen Inhalte zu digitalen<br>Tickets, diese wurden in die BB Personenverkehr gezogen<br>- <br>Nr. 2.1.1, 2.2, 2.3, 2.4 Streichung der allgemeinen Inhalte zu digitalen Tickets, diese<br>wurden in die BB Personenverkehr gezogen<br>- <br>Nr.4 bleibt frei<br>- <br>Nr. 6, Nr.6.1 Umbenennung in digitale Tickets, Streichung der allgemeinen Inhalte zu<br>digitalen Tickets, diese wurden in die BB Personenverkehr gezogen<br>- <br>Nr. 6.1.4: Komfort Check-In, Inhalte aus Nr. 7.1.5<br>- <br>Nr. 6.2 Bleibt frei<br>- <br>Nr. 6.3 bleibt frei<br>- <br>Nr. 7 bleibt frei, da Zusammenfassung unter I.6 (digitale Tickets)<br>- <br>Nr. 8.1, 8.2, 8.3 Streichung der allgemeinen Inhalte zu digitalen Tickets, diese wurden<br>in die BB Personenverkehr gezogen<br>- <br>I.9, I.11, I.12 Streichung von m.bahn.de|
-|3/2025|Aktionsangebote:<br>- <br>- E.17 Bedingungen für die Aktion “Aktionsrabatt für Super Sparpreise und Sparpreise“|
-|4/2025|BB Personenverkehr<br>- <br>Nr. 4.3 – 4.4: Korrektur Nummerierung<br>- <br>Nr. 9.3.4 Anpassung Bearbeitung Fahrgastrechtsanträge in DB Reisezentren und DB<br>Agenturen|
-|5/2025|BB Personenverkehr<br>- <br>Nr. 6.1: Anpassung zur Freigabe von BahnBonus Statusplätzen|
-|06/2025|Aktionsangebote<br>- <br>E.18 Bedingungen für das Aktionsangebot „Mitfahrerrabatt für BahnCard 50 Kunden“|
-|07/2025|Aktionsangebote<br>- <br>E.1.3.4: Gutscheinaktion für BahnCard 100 Inhaber|
-|08/2025|Aktionsangebote|
+Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen .......................... 106
 
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
-||- <br>E.19: Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“|
-|09/2025|BB Personenverkehr<br>- <br>Nr. 3.3.3 Druckfehlerkorrektur des Verweises auf die BahnCard Bedingungen<br>Aktionsangebote<br>- <br>E.20, E.21: Bedingungen für BahnCard/BahnCard Business zum Aktionspreis|
-|10/2025|Aktionsangebote<br>- <br>E.20 Nr. 3.2: Verdeutlichung, dass die BahnCard 25 zum Aktionspreis ohne<br>Altersbeschränkung erworben werden kann.|
-|11/2025|BB Personenverkehr:<br>- <br>Anlage 1 zu Nr.2.1.1: Einordnung Super Sparpreis Senioren, Sparpreis Senioren in das<br>Regelangebot anstelle Einordnung in Aktionsangebote<br>Aktionsangebote<br>- <br>E.22: Aktionsrabatt auf den Flexpreis und Flexpreis Business|
-|12/2025|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für ehemalige BahnCard 100 Inhaber<br>- <br>E.11 Nr. 2, 3: Anpassung des Aktions- und Erwerbszeitraums<br>Nr. 3.3: Streichung Einschränkung der ausschließlich digitalen Buchung<br>- <br>E.23 Aktionsangebot „BahnCard 50 Schnupper Aktion“|
-|13/2025|Aktionsangebote<br>- <br>E.24: Bedingungen für den Erwerb und die Nutzung von Event-Fahrkarten|
-|14/2025|Aktionsangebote<br>- <br>E.25 Aktionsrabatt für Super Sparpreise und Sparpreise<br>Prämienfahrkarten<br>- <br>Nr. 4.6, 4.6.1 – 4.6.5, 4.10.3, 4.11.3: Entfall der DB 4-Tageskarte<br>- <br>Nr. 4.9.1: Entfall der Prämie „Schöner Tag Ticket NRW“|
-|15/2025|Aktionsangebote<br>- <br>E.5, E.10, E.15, E.17, E.18: Entfall, da Aktionszeitraum abgelaufen<br>- <br>E.26: Aktionsangebot „Mitfahrerrabatt für BahnCard 50 Kunden“|
-|16/2025|BB Personenverkehr<br>- <br>Nr. 4.3.1: Verweis auf E.1 Aktionsangebote zu Regelungen zur Einlösung von<br>Stornogutscheinen<br>- <br>Nr. 4.4.1: Anpassung, dass Zahlungen im Falle von Stornierungen auf das ursprüngliche<br>Zahlungsmittel erfolgen.<br>- <br>Nr. 9.1.3, 9.2.1: Schärfung, dass Aktionsgutscheine bei fahrgastrechtlichen<br>Erstattungen und Entschädigungen nicht in Ansatz gebracht werden.<br>Aktionsgutscheine<br>- <br>E.1 1.2.2, 1.2.3, 1.2.4: Anpassung der Laufzeit von Gutscheinen bei Restwerten und<br>Fahrgastrechtsgutscheinen, Erhöhung der einlösbaren Gutscheine auf zehn|
-|17/2025|Aktionsgutscheine<br>- <br>E.1.3.4: Aktionsgutscheine für Flexpreise der 1. Klasse|
-|18/2025|Zeitkarten<br>- <br>Nr. 3.2.1: Änderung der Bankverbindung und Namen in Textform anstelle der<br>Schriftform<br>- <br>Nr. 8.4: Antrag auf Unterbrechung des Abos in Textform anstelle der Schriftform<br>- <br>Nr. 9: Kein Ersatz bei Verlust von Zeitkarten in Papierform<br>BahnCard<br>- <br>Nr. 3.2.1: Änderungen der Bezugsberechtigung für eine erm. BahnCard in Textform<br>anstelle der Schriftform<br>- <br>Nr. 2.6.3, 3.2.4: Änderungen der Mailadresse, Bankverbindung, Anschrift über das<br>Kundenkonto oder in Textform anstelle der Schriftform<br>- <br>Nr. 3.6.5: Beantragung einer Ersatzkarte in Textform anstelle der Schriftform,<br>Streichung der Inhalte zu BahnCard 100 im Abo<br>Aktionsangebote<br>- <br>E. 3 Nr. 9, 10: Kündigung in Textform anstelle der Schriftform<br>Bahn.business<br>- <br>Nr.2.2, 2.3: Kündigung in Textform anstelle der Schriftform<br>Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen<br>- <br>Nr.5: Entgelt für Tarifauskünfte|
-|19/2025|BB Personenverkehr<br>- <br>Nr. 1.5. Herauslösung der Regelungen zur BahnCard Kreditkarte|
-
-|Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
-|---|---|
-||- <br>Nr. 3.3.1.4, Anlage 1 zu Nr. 2.1.1: Aufnahme, dass der Sparpreis Young und Super<br>Sparpreis Young auch im personalbedienten Verkauf ausgegeben wird<br>- <br>Nr. 3.6: Namensangabe bei Gruppenbuchungen<br>- <br>Nr. 3.6.2.1: Anpassung der Vorverkaufsfrist von Gruppenbuchungen auf 12 Monate<br>- <br>Nr. 4.2: Anpassung der Stornierungsbedingungen des Flexpreis<br>- <br>Nr. 5.2, Anlage 1 zu Nr. 2.1.1: Entfall der Familienreservierung und Anpassung des<br>Reservierungsentgelts<br>BahnCard<br>- <br>Nr. 2.3, 2.3.2, 2.6.1.1, 2.8.2, 3.2.6, 3.5, 3.5.1, 3.5.2, 3.5.3, 3.5.4, 3.5.5: Herauslösen<br>der Inhalte zur Partnerkarte<br>- <br>Nr. 2.6.1.1: Zusendung der BahnCard Rechnung an hinterlegte Mailadresse<br>- <br>Nr. 3.2.1, 3.2.3, 3.2.3.1, 3.2.3.2, 3.2.3.3, 3.2.5, 3.2.6, 3.3.2, 3.5, 3.6.2, 3.6.3, 3.9.2,<br>3.9.2.1, 3.11: Herauslösen der Inhalte zur BahnCard 100 im Abonnement<br>Aktionsangebote<br>- <br>E.8: Nr. 1, 3.1, 3.2, 4.3: Verlängerung des Aktionszeitraums und Reisezeitraums<br>- <br>E.19: Nr. 1: Anpassung Grundsätze<br>E.19 Nr. 2: Anpassung Aktionszeitraum ab 15. Juni 2025<br>E.19 Nr. 3: Ausgabe der Fahrkarten mit Nahverkehrsanteil und City-Ticket<br>E.19 Nr. 3.3: entfällt<br>E.19 Nr. 3.5 entfällt, Inhalte zum BahnCard Rabatt sind in Nr. 3.1 integriert<br>E.19 Nr. 4.1: Preisanpassung<br>- <br>E.27: My BahnCard 50 zum Aktionspreis<br>- <br>E.28: Aktionsrabatt auf den Flexpreis und Flexpreis Business<br>- <br>E.29: Aktionsrabatt auf Monatskarten<br>- <br>E.30: BahnCard Business 25 Klima<br>bahn.business<br>- <br>Nr. 3.7.2: Anpassung Verweis auf Satz 3 Nr. 4.2 BB Personenverkehr<br>- <br>Nr. 3.8.4.3: Herauslösen der Inhalte zur Partnerkarte<br>- <br>Nr. 3.8.4.4: Herauslösen der Inhalte zur BahnCard Kreditkarte|
-|20/2025|Aktionsangebote<br>- <br>E.1 Nr. 1.3.4: Rabattaktion für Nutzer eines DB Filters auf TikTok|
-|21/2025|Aktionsangebote:<br>- <br>E.31: Bedingungen für die Aktionen „44-Stunden-Ticket Young“|
-|22/2025|Aktionsangebote<br>- <br>E.1 Nr. 1.3.4: Aktionsgutscheine für bahn.business Kunden|
-|23/2025|BB Personenverkehr<br>- <br>Nr. 3.3.2 Anpassung der Preise des Super Sparpreis und Sparpreis in der 1. Klasse<br>Aktionsangebote<br>- <br>E.6 Beendigung des Aktionsangebots<br>- <br>E. 24, Nr. 4.1 Anpassung des Preis Super Sparpreis Event in der 1. Klasse|
-|24/2025|Preisliste<br>- <br>Druckfehlerkorrektur der Preise für das City-Ticket|
-|25/2025|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für bahn.business Neukunden|
-|26/2025|Aktionsangebote<br>- <br>E.32: Bedingungen für die Aktion „Treueaktion“<br>- <br>E.33: Bedingungen für die Aktion „Aktionsrabatt für Super Sparpreise und Sparpreise“|
-|27/2025|Aktionsangebote<br>- <br>E.1.3.4: Gutscheinaktion in „hohes C“ Produkten<br>- <br>E.1.3.4: Gutscheine für bahn.business Teilnehmer, die an einer Umfrage teilnehmen<br>- <br>E.24: Nr. 5.1: Preisanpassung<br>- <br>E.24 Nr. 6.3, 6.4: Druckfehlerkorrektur<br>- <br>E.34: Probe BahnCard 100 zum Aktionspreis für Geschäftskunden|
-|28/2025|Aktionsangebote<br>- <br>E.35: Probe BahnCard 25 und 50 zum Aktionspreis|
-|29/2025|Aktionsangebote<br>- <br>E.1.3.4: Aktionsgutscheine für BahnCard Inhaber<br>- <br>E.35: Nr. 2.1: Fehlerkorrektur, Nr. 2.2 entfällt|
-|30/2025|Aktionsangebote<br>- <br>E.1.3.4: Aktionsgutscheine für Nutzer des Portal UNiDAYS<br>- <br>E.36: Bedingungen für die Aktion: „Flexpreis Young“|
-
-|Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
-|---|---|
-|31/2025|Zeitkarten<br>- <br>Nr. 12.4, 12.5: Einstellung der IC/EC Aufpreise<br>Reisegepäck<br>- <br>Nr. 2.1.1, 2.1.2: Änderung der Anmeldezeit für Reisegepäck auf 90 Tage vor Abreise|
-|32/2025|Aktionsangebote<br>- <br>E.37: Bedingungen „Super Sparpreis Gruppe Aktion“|
-|33/2025|Aktionsangebote<br>- <br>E.1.3.4: Gutscheinaktion für ehemalige BahnCard 100 Kunden|
-|34/2025|Aktionsangebote:<br>- <br>E.7 Nr. 2, Nr. 3.1: Einstellung des Angebots|
-|35/2025|Aktionsangebote<br>- <br>E.16 Nr.2: Verlängerung des Angebots<br>- <br>E.38: Aktionsrabatt für Super Sparpreise und Sparpreise<br>- <br>E.1.3.4: Gutscheine für Buchende einer Gruppenfahrkarte über DB Klassenfahrten<br>Entgeltbedingungen<br>- <br>Nr. 6: Anpassung der entgeltpflichtigen Leistungen<br>Preisliste<br>- <br>Nr. 2.9 entfällt zum 14.12.2025|
-|36/2025|Druckfehlerkorrektur Nummerierung und Veröﬀentlichung der Tarifbekantmachung<br>BB Personenverkehr<br>- <br>Nr. 9.4.1: Entfall der Voraussetzung der Buchung im eingeloggten Bereich zur online<br>Geltendmachung von Fahrgastrechten<br>Aktionsangebote<br>- <br>E.1.3.4: Rabatt Gutschein für ehemalige BahnCard Inhaber<br>- <br>E.1.3.4: Mitfahrergutschein für BahnCard 100 Kunden<br>- <br>Rabattgutschein für 1.Klasse Fahrkarte<br>- <br>E.39 Mitfahrerrabatt für bis zu 4 Mitfahrer für BahnCard Kunden“<br>- <br>E.40: Aktionsrabatt Sparpreis Business|
-|37/2025|Besondere Personengruppen<br>- <br>Nr. 2.1.1: Verdeutlichung, dass Hunde in Begleitung einer Schwerbehinderten Person<br>ohne Fahrkarte befördert werden<br>- <br>Nr. 2.1.2: Erweiterung der Vertriebskanäle zur Ausstellung der kostenfreien<br>Sitzplatzreservierung<br>- <br>Nr. 2.1.3: Aufnahme weiterer Merkzeichen, Schärfung zu Voraussetzungen der<br>Mitnahme orthopädischer Hilfsmittel, Aufnahme Vertriebskanal zur Ausstellung der<br>kostenfreien Stellplatzreservierung<br>- <br>Nr. 2.2: Verdeutlichung, dass Assistenzhunde ohne Fahrkarte befördert werden<br>- <br>Nr.2.3: Schärfung und Umstrukturierung der Zugangsregeln für orthopädische<br>Hilfsmittel<br>- <br>Nr. 2.4.2: Einhaltung der Mindestumstiegszeiten unabhängig vom Vertriebskanal<br>Prämienfahrkarten<br>- <br>Nr. 2.11: Aufnahme der Ausgabe der kostenfreien Reservierung für Menschen mit SBA<br>ausschließlich im personalbedienten Verkauf|
+|1/2026|Neuausgabe mit redaktionellen Anpassungen sowie folgenden Änderungen zur<br>Vorgängerversion:<br>BB Personenverkehr<br>- <br>Nr. 3.6: Aufnahme des Angebots Umpersonalisierung einer ICE, IC/EC<br>Gruppenfahrkarte<br>- <br>Anlage 1 zu Nr. 2.1.1: Aufnahme der Umpersonalisierung einer ICE, IC/EC<br>Gruppenfahrkarte<br>- <br>Nr. 8.4.1, 8.4.3: Anpassung des Entgelts für Fahrradkarten<br>- <br>Nr. 8.2: Entfall der Tandem-Mitnahme<br>BahnCard<br>- <br>Nr. 3.2.2 Einschränkung des Vorverkaufs der BahnCard 100<br>Besondere Personengruppen<br>- <br>Nr. 2.1.3: Einschränkungen der Mitnahme von orthopädischen Hilfsmitteln im<br>Fahrradstellplatzbereich<br>Aktionsangebote<br>- <br>Löschung der bereits ausgelaufenen Aktionen und dadurch neue Nummerierungen<br>- <br>E.7: Nr. 2, 3 Verlängerung der Aktion „My BahnCard 100“<br>Aktualisierung der Preisliste<br>- <br>Nr. 3, Nr. 4: Aktualisierung der City-Bahnhöfe mit Geltungsbereichen und Preisen<br>sowie der zugehörigen Bahnhöfe|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 20.10.2025**
+## **Gültig ab 14. Dezember 2025**
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
 Bezug über: [aktuelle Ausgaben: www.db-fernverkehr.com, www.dbregio.de, www.bahn.de](http://www.db-fernverkehr.com/)
@@ -943,7 +811,11 @@ Gruppenfahrkarten werden nur als persönliche Fahrkarte ausgegeben. Der Hauptrei
 digitalen Tickets direkt bei Buchung anzugeben.
 Im personalbedienten Verkauf ausgegebene Papierfahrkarten müssen vor Fahrantritt auf dem
 dafür vorgesehenen Feld auf der Fahrkarte unauslöschlich mit dem Namen des Hauptreisenden
-versehen werden.
+versehen werden. Die Änderung des Hauptreisenden ist durch den Erwerb eines Belegs
+„Umpersonalisierung einer ICE oder IC/EC Gruppenfahrkarte“ unter Angabe der Auftragsnummer
+der zu ändernden Gruppenfahrkarte möglich. Das Entgelt beträgt 15€ je Richtung. Der Beleg
+„Umpersonalisierung einer ICE oder IC/EC Gruppenfahrkarte“ ist zusammen mit der zugehörigen
+Gruppenfahrkarte im Zug vorzulegen.
 
 
 3.6.1 Sparpreis Gruppe
@@ -975,10 +847,10 @@ an dem auf der Fahrkarte angegebenen Geltungstag bis 10 Uhr des Folgetages.
 3.6.1.4 Bei Erwerb von Fahrkarten zum „Sparpreis Gruppe“ ist in personalbedienten
 Verkaufsstellen eine Anzahlung in Höhe von 6 € pro Person zu leisten, wenn die Reise nicht sofort
 vollständig bezahlt wird. Der Restpreis ist spätestens 14 Tage vor dem ersten Geltungstag zu
+
 zahlen. Die Ausgabe der Fahrkarten erfolgt erst nach vollständiger Bezahlung. Im Falle nicht
 fristgerechter Zahlung erlischt der Anspruch auf die Fahrkarte. Die geleistete Anzahlung wird
 gegen Vorlage des Anzahlungsbelegs unter Abzug eines Bearbeitungsentgelts in Höhe von 5 € pro
-
 Person erstattet. Für online gebuchte Fahrkarten entfällt die Anzahlungsmöglichkeit, der volle
 Fahrpreis ist sofort zu bezahlen.
 
@@ -1039,10 +911,10 @@ maximale Anzahl von 5 Personen gem. Nr. 2.1.2 pro Fahrkarte darf nicht überschr
 Beim Erwerb einer Fahrkarte Sparpreis, Super Sparpreis, Sparpreis Young, Super Sparpreis Young,
 Sparpreis Senior oder Super Sparpreis Senior muss für die mitreisenden Kinder ebenfalls ein
 Kontingent in der gleichen Preisstufe verfügbar sein.
+
 3.7.3 Kinder im Alter von 6 bis einschließlich 14 Jahren werden bei Überschreitung der
 maximalen Anzahl von 5 Personen pro Fahrkarte gem. Nr. 2.1.2 auch dann kostenfrei befördert,
 wenn sie in Begleitung mindestens eines eigenen Eltern- oder Großelternteils oder ihres
-
 Vormundes reisen und für sie bei der Fahrkartenkontrolle eine DB-Familienkarte vorgelegt wird.
 Bei Nutzung der DB Familienkarte können keine weiteren Kinder nach Nr. 3.7.2 auf der Fahrkarte
 eingetragen werden und unentgeltlich mitgenommen werden.
@@ -1102,10 +974,10 @@ werden.
 
 Abweichend von Nr. 3.8.1 (i) ist der Erwerb einer Fahrkarte als digitales Ticket gemäß Nr. 2.2 der
 Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) in einem Zug der
+
 Produktklasse ICE bzw. IC/EC bis 10 Minuten nach der tatsächlichen Abfahrtzeit des Zuges am
 Einstiegsbahnhof über die Internetseite www.bahn.de sowie die Buchungs-App DB Navigator
 zulässig. Diese Möglichkeit besteht nicht bei Fahrten, für die zwischen dem Einstiegsbahnhof und
-
 dem nächsten Haltebahnhof eine fahrplanmäßige Fahrtzeit von weniger als 10 Minuten
 vorgesehen ist.
 Konnte vor Antritt der Fahrt keine Fahrkarte gelöst werden, weil ein Fahrkartenschalter oder
@@ -1150,7 +1022,6 @@ ausgeschlossen werden.
 4.1.1 Der Begriff „Stornierung“ bezeichnet sowohl die Erstattung als auch den Umtausch einer
 Fahrkarte.
 
-
 4.1.2 Der Begriff „Erstattung“ bezeichnet die Rückgabe einer ungenutzten Fahrkarte gegen
 Rückzahlung des Beförderungsentgelts gemäß den für die jeweiligen Angebote festgelegten
 Bedingungen.
@@ -1169,9 +1040,9 @@ eine teilweise Erstattung und ein teilweiser Umtausch ausgeschlossen.
 Eine Fahrkarte Flexpreis kann vor dem ersten Geltungstag ohne Abzug eines Bearbeitungsentgelts
 erstattet oder umgetauscht werden.
 Ab dem ersten Geltungstag der Fahrkarte Flexpreis beträgt das Entgelt 30 € je Fahrkarte.
+
 Wenn die Fahrkarte teilweise zur Fahrt benutzt wurde, wird der Unterschiedsbetrag zwischen dem
 gezahlten Preis und dem Flexpreis für die in der jeweils benutzten Produkt- und Wagenklasse
-
 zurückgelegte Strecke unter Abzug des Bearbeitungsentgeltes erstattet bzw. beim Umtausch
 angerechnet.
 
@@ -1231,12 +1102,12 @@ zur Zahlung verwendete Zahlungsmittel vorzunehmen.
 Fahrkarte und Vorlage eines an den Fahrkartenschaltern erhältlichen ausgefüllten
 Antragsformulars. In dem Antragsformular ist die Nichtbenutzung oder nur teilweise Benutzung
 der Fahrkarte durch geeignete Nachweise glaubhaft zu machen. Zur Glaubhaftmachung ist eine
+
 entsprechende Bescheinigung des Verkehrsunternehmens erforderlich, wenn die Erstattung auf
 einem Verzicht auf die Weiterfahrt wegen Zugverspätung nach Nr. 9.1.3 beruht.
 
 
 4.5 Härtefallregelung
-
 Das Verkehrsunternehmen kann in besonderen Härtefällen aus Gründen der Billigkeit Umtausch
 oder Erstattung auch dann zulassen, wenn die vorstehenden Voraussetzungen nicht gegeben sind.
 
@@ -1299,8 +1170,10 @@ die Sicherheit anderer Reisender, anderer Personen oder des Zuges betätigen. Be
 der Reisende unbeschadet sonstiger Ansprüche einen Betrag in Höhe von 200 € zu zahlen.
 Gleiches gilt für die missbräuchliche Auslösung eines Rauchmelders im Zug (insbesondere durch
 unerlaubtes Rauchen auf der Toilette), wenn es hierdurch zu einer Notbremsung oder einem
+
 außerplanmäßigen Halt des Zuges kommt. Dem Reisenden bleibt der Nachweis vorbehalten, dass
 kein oder ein geringerer Schaden entstanden ist.
+
 
 6.3 Alkoholkonsumverbot
 
@@ -1361,9 +1234,9 @@ Gefahrgutverordnung Straße, Eisenbahn und Binnenschif **f** ahrt (GGVSEB), Mope
 Gegenstände und Stoffe, deren Beförderung aufgrund sonstiger Rechtsvorschriften verboten ist.
 Nach den Freistellungsvorschriften der Ordnung über die internationale Eisenbahnbeförderung
 gefährlicher Güter (RID) sind für den persönlichen Gebrauch jedoch Zündhölzer, Feuerzeuge,
+
 Spraydosen mit ungefährlichem Inhalt sowie elektronische Aufnahme- und Abspielgeräte,
 Mobiltelefone, tragbare Computer und Drohnen, auch mit eingebautem Lithium-Akku über
-
 100 Wh Leistung zugelassen. Akkus außerhalb des zugehörigen Gerätes dürfen nur mitgenommen
 werden, sofern deren Leistungsfähigkeit 100 Wh nicht überschreitet.
 Das Mitnahmeverbot nach Satz 1 und 2 gilt nicht für gefährliche Stoffe und Gegenstände von
@@ -1423,9 +1296,7 @@ Produktklassen ICE und IC/EC, die in den Fahrplanmedien einen textlichen Hinweis
 Fahrradbeförderung haben beziehungsweise mit [oder ] gekennzeichnet sind, möglich. Die
 Beförderung kann bei Platzmangel abgelehnt werden. In Zügen der Produktklasse ICE oder IC/EC
 
-
 mit dem Symbol [ist die Mitnahme von Fahrrädern reservierungspflichtig. Vorhandene ]
-
 Halterungen und durch das Eisenbahnverkehrsunternehmen bereitgestellte weitere
 Sicherungseinrichtungen (z.B. Rollgurte) sind zu benutzen.
 
@@ -1442,20 +1313,13 @@ entsprechend.
 Jeder Reisende darf nur ein Fahrrad oder ein Pedelec mitnehmen, das er ohne Hilfe des
 Zugpersonals in den Zug ein- und ausladen können muss. Die Mitnahme ist grundsätzlich auf
 zweirädrige, einsitzige Fahrräder oder Pedelecs sowie zusammengeklappte Fahrradanhänger
-beschränkt. Ausnahmsweise können in Zügen der Produktklasse C sowie in besonderen Zügen des
-Fernverkehrs an den dort für Fahrräder und Pedelecs vorgesehenen Plätzen auch Liegeräder,
-Tandems sowie Dreiräder mitgenommen werden, sofern im Einzelfall ausreichend Platz vorhanden
-und die sichere Unterbringung gewährleistet ist. Für diese gelten dann die übrigen Vorschriften
-über Fahrräder bzw. Pedelecs entsprechend.
-
+beschränkt.
 
 In Zügen des Fernverkehrs werden Fahrräder und Pedelecs nur befördert, wenn sie in die hierfür
 vorgesehenen Halterungen eingestellt werden. Falträder oder Falt-Pedelecs können im
 ausgeklappten Zustand als Fahrrad oder Pedelec oder im zusammengeklappten Zustand als
 Traglast oder – sofern die weiteren Voraussetzungen nach Nr. 7.1.1. erfüllt sind – als Handgepäck
-mitgenommen werden.
-Lastenräder (Fahrräder oder Pedelecs mit festen Aufbauten für Lasten- und/oder zum Transport
-von Kindern) sind von der Mitnahme ausgeschlossen.
+mitgenommen werden. Lastenräder (Fahrräder oder Pedelecs mit festen Aufbauten für Lastenund/oder zum Transport von Kindern) sind von der Mitnahme ausgeschlossen.
 
 
 8.3 Unterbringung
@@ -1491,12 +1355,12 @@ zusätzlich zu erwerben.
 In Zügen der Produktklasse ICE und IC/EC ist die Fahrradmitnahme reservierungspflichtig
 (Stellplatzreservierung).
 
+
 8.4.1 Beförderungsentgelt und Stornierung Fahrradkarte
-Das Beförderungsentgelt für eine Fahrradkarte beträgt 15% des Flexpreises der 2. Klasse gemäß
+Das Beförderungsentgelt für eine Fahrradkarte beträgt 20% des Flexpreises der 2. Klasse gemäß
 Nr. 3.2.1, mindestens jedoch 7,99 € und höchstens 14,99 €.
+
 Die Fahrradkarte enthält eine unentgeltliche Stellplatzreservierung.
-
-
 Die Geltungsdauer der Fahrradkarte entspricht der Geltungsdauer einer Fahrkarte für eine
 einfache Fahrt gemäß Nr. 2.5.1.
 Fahrradkarten können bis einen Tag vor dem ersten Geltungstag kostenfrei umgetauscht oder
@@ -1513,7 +1377,7 @@ Stellplatzreservierungen können nicht storniert werden.
 8.4.3 Beförderungsentgelt Fahrradkarte beim Erwerb von Sparangeboten
 Wird die Fahrradkarte gleichzeitig mit einem Sparpreis, Super Sparpreis, Sparpreis Young,
 Super Sparpreis Young, Sparpreis Senior oder Super Sparpreis Senior gemäß Nr. 3.3 erworben,
-beträgt das Beförderungsentgelt für das Fahrrad 15% des Flexpreises der 2. Klasse gemäß Nr.
+beträgt das Beförderungsentgelt für das Fahrrad 20% des Flexpreises der 2. Klasse gemäß Nr.
 3.2.1, mindestens jedoch 7,99 € und höchstens 14,99 €.
 Die Fahrradkarte enthält eine unentgeltliche Stellplatzreservierung.
 Für die Stornierung der Fahrradkarte gelten die Stornierungsbedingungen der zugehörigen
@@ -1550,11 +1414,13 @@ Reisenden die dadurch entstandenen notwendigen, angemessenen und zumutbaren Kost
 Alternativ kann der Reisende gem. Art. 18 Abs. 3 Satz 1 VO (EU) 2021/782 das die Weiterreise
 schuldende EVU um Kostenübernahme der Nutzung eines anderen Verkehrsdienstes ersuchen.
 
+
 9.1.3 Muss vernünftigerweise davon ausgegangen werden, dass der Reisende aufgrund einer
 Verspätung, eines verpassten Anschlusses oder eines Zugausfalls am Zielbahnhof gemäß
 Beförderungsvertrag 60 Minuten oder mehr verspätet ankommen wird, kann er auch die Reise
 abbrechen oder gar nicht erst antreten. Er hat dann anstelle der Ansprüche nach Nr. 9.1.1 und Nr.
 9.1.2 Anspruch auf Erstattung des von ihm bezahlten Fahrpreises für die nicht durchgeführten
+
 Teile der Fahrt und für die bereits durchgeführten Teile, wenn die Fahrt für ihn sinnlos geworden
 ist, gegebenenfalls zusammen mit einer Rückfahrt zum ersten Ausgangspunkt bei nächster
 Gelegenheit. Bei der Bezahlung der Fahrkarte eingesetzte Aktionsgutscheine nach E.1.3 der
@@ -1605,12 +1471,12 @@ Alternativ bietet der Beförderer dem Reisenden die Weiterbeförderung mit einem
 Verkehrsmittel zum vertragsgemäßen Zielort an, sofern dies preisgünstiger ist. Bietet das EVU dem
 Reisenden weder eine kostenlose Unterbringung nach Satz 1 noch die Weiterbeförderung nach
 Satz 2 an, und ist es dem Reisenden aus vom EVU zu vertretenden Gründen nicht möglich, mit
-
 dem EVU in Kontakt zu treten, kann der Reisende daraufhin selbständig eine
 Übernachtungsmöglichkeit nutzen. In diesem Fall hat der Reisende einen Anspruch auf Ersatz der
 dafür entstandenen angemessenen Kosten.
 Der Reisende kann über Nr. 9.1.2 hinaus in solchen Fällen statt der Übernachtungsmöglichkeit
 auch ein anderes Verkehrsmittel für die Weiterfahrt zum vertragsgemäßen Zielort nutzen. Der
+
 Reisende hat im Falle der Nutzung eines anderen Verkehrsmittels aber nur einen Anspruch auf
 Ersatz der dafür erforderlichen Aufwendungen bis zu einem Höchstbetrag von 120 €.
 In Fällen von Art. 19 Abs. 10 VO (EU) 2021/782 ist die Dauer der Unterbringung oder die
@@ -1665,13 +1531,13 @@ Verantwortliche“ im Sinne des Artikel 26 der EU-Datenschutzgrundverordnung (EU
 
 9.3.2 Erstattungs-, Aufwendungsersatz- und Entschädigungsanträge sind in deutscher Sprache
 mit einem vom Reisenden ausgefüllten Fahrgastrechte-Formular einzureichen. Für Erstattungsund Aufwendungsersatzansprüche sind die begründenden Unterlagen (Fahrkarten, Belege) immer
-
 im Original beizufügen. Für Entschädigungsansprüche können grundsätzlich Kopien der Belege
 beigefügt werden.
 
 
 9.3.3 Der Reisende kann ein unbestätigtes Fahrgastrechte-Formular in einem DB
 Reisezentrum/einer DB Agentur, an der DB Information im Bahnhof oder unter www.bahn.de
+
 erhalten. Dieses sendet der Reisende unter der auf dem Fahrgastrechte-Formular angegebenen
 Adresse an das Servicecenter Fahrgastrechte.
 
@@ -1726,12 +1592,12 @@ Wenn die Belege/Bescheinigungen innerhalb von 14 Tagen nach Absenden des Online-
 Belege/Bescheinigungen bearbeitet. Ansonsten erfolgt die Bearbeitung der
 Belege/Bescheinigungen separat.
 
+
 9.5 Für die Verjährung von Ansprüchen aus dem Beförderungsvertrag gelten die
 Bestimmungen des Artikels 60 der CIV in der Fassung des Anhangs I zur Verordnung (EU)
 2021/782 des Europäischen Parlamentes und des Rates vom 29. April 2021 über die Rechte und
 Pflichten der Fahrgäste im Eisenbahnverkehr. Ansprüche nach den Nummern 9.1 bis 9.3 verjähren
 innerhalb eines Jahres nach Ablauf der Geltungsdauer der Fahrkarte.
-
 
 **A.10** **Haftung**
 
@@ -1853,6 +1719,12 @@ Es gilt ausschließlich das Recht der Bundesrepublik Deutschland.
 
 
 
+
+
+
+
+
+
 |Preisangebot|Vertriebs-<br>kanal<br>Bahn.de|Vertriebs-<br>kanal<br>DB<br>Navigator|Vertriebs-<br>kanal<br>DB Reise-<br>zentrum|Vertriebs-<br>kanal<br>DB<br>Agentur|Vertriebs-<br>kanal<br>telefon.<br>Reise-<br>service|Vertriebska<br>nal<br>DB<br>Fahrkarten<br>automat|
 |---|---|---|---|---|---|---|
 |Flexpreis|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|~~✓~~|
@@ -1863,7 +1735,8 @@ Es gilt ausschließlich das Recht der Bundesrepublik Deutschland.
 |Super<br>Sparpreis<br>Senioren|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~x ~~<br>|x|
 |Sparpreis Senioren|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~x ~~<br>|x|
 |Sparpreis Gruppe|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|
-|Super<br>Sparpreis<br>Gruppe|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~|x <br>|
+|Super<br>Sparpreis<br>Gruppe|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x <br>|
+|Umpersonalisierung<br>ICE, IC/EC<br>Gruppenfahrkarte|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~✓~~|x <br>|
 |Sitzplatzreservierung|~~✓~~|~~✓~~ <br>|~~✓~~ <br>|~~✓~~|x|~~✓~~|
 |1. Klasse Übergang|x <br>|~~✓~~ <br>|~~✓~~ <br>|x <br>|x <br>|x|
 |Fahrradkarte<br>inkl.<br>Stellplatzreser-<br>vierung|~~✓~~|~~✓~~|~~✓~~ <br>|~~✓~~ <br>|~~✓~~|x <br>|
@@ -1893,8 +1766,8 @@ Es gilt ausschließlich das Recht der Bundesrepublik Deutschland.
 
 ✓ = buchbar im jeweiligen Vertriebskanal
 
-
 X = nicht buchbar im jeweiligen Vertriebskanal
+
 
 **Anlage 1 zu Nr. 2.7.2**
 
@@ -1930,7 +1803,7 @@ aller betroffenen Halte:
 
 # **Bedingungen für den Erwerb und die** **Nutzung von Zeitkarten** **(Zeitkarten)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 23.09.2025**
+## **Gültig ab 14. Dezember 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -2326,6 +2199,7 @@ Jahreskarte am 01.10.2025 mindestens 6 Monate beträgt. Beträgt die Restlaufzei
 ausgegebenen Jahreskarte am 01.10.2025 weniger als 6 Monate, wird zum Ende ihrer
 Geltungsdauer einmalig eine neue Jahreskarte zum jeweils aktuellen Preis ausgegeben, sofern das
 Abonnement nicht durch den Inhaber ordentlich gekündigt worden ist.
+
 Die IC/EC-Aufpreise werden mit flexiblem Geltungsbeginn als Wochen-, Monats- oder Jahreskarten
 ausgegeben.
 
@@ -2537,7 +2411,7 @@ Servicecenter Fahrgastrechte eingereicht werden.
 
 # **Bedingungen für den Erwerb und die** **Nutzung von BahnCards** **(BahnCard)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 15.06.2025**
+## **Gültig ab 14. Dezember 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -2845,25 +2719,23 @@ BahnCard 100 beträgt 3 Monate.
 
 
 3.2.2 Die Bestellung der BahnCard 100 erfolgt auf der Grundlage des hierfür vorgesehenen,
-inklusive der E-Mailadresse vollständig ausgefüllten Bestellformulars. Die Bestellung muss
-mindestens 12 Tage vor dem gewünschten Geltungsbeginn der BahnCard 100 beim Kundenservice
-eingegangen sein. Bei einer personalbedienten Verkaufsstelle kann die Bestellung noch am
-Reisetag erfolgen. In diesem Fall wird bei sofortiger vollständiger Bezahlung zunächst eine
-vorläufige BahnCard 100 ausgestellt.
+inklusive der E-Mailadresse vollständig ausgefüllten Bestellformulars.
+Die BahnCard 100 kann frühestens 180 Tage vor dem gewünschten ersten Geltungstag bestellt
+werden.
+
+Spätestens 12 Tage vor dem gewünschten ersten Geltungstag der BahnCard 100 muss die
+Bestellung beim Kundenservice eingegangen sein.
+Unabhängig hiervon ist aus technischen Gründen bis auf Weiteres der spätestmögliche erste
+Geltungstag für die BahnCard 100 der 30. Juni 2026.
+
+Bei einer personalbedienten Verkaufsstelle kann die Bestellung noch am Reisetag erfolgen. In
+diesem Fall wird bei sofortiger vollständiger Bezahlung zunächst eine vorläufige BahnCard 100
+ausgestellt.
 Nach Bonitätsprüfung wird die vorläufige BahnCard 100 schnellstmöglich zugestellt. Die Zahlung
-des Fahrpreises ist sofort fällig. Die BahnCard 100 wird frühestens sechs Monate vor ihrem ersten
-Geltungstag ausgegeben
+des Fahrpreises ist sofort fällig.
 
 
 3.2.3 Bleibt frei
-
-3.2.3.1 Bleibt frei
-
-
-3.2.3.2 Bleibt frei
-
-
-3.2.3.3 Bleibt frei
 
 
 3.2.4 Änderungen von Anschrift sowie Bankverbindung sind dem Kundenservice unverzüglich
@@ -2928,6 +2800,7 @@ max. jedoch 60 Tage pro Geltungsjahr, berücksichtigt. Für jeden Tag der Reiseu
 1/360 (Gesamtbetrag) des gezahlten Entgelts erstattet.
 Die Reiseunfähigkeitsbescheinigung muss spätestens 14 Tage nach Wegfall des
 Erstattungsgrundes beim Kundenservice vorliegen; anderenfalls ist eine Erstattung
+
 ausgeschlossen (Ausschlussfrist). Im Übrigen kann die Erstattung von der Hinterlegung der
 Fahrkarte abhängig gemacht werden.
 
@@ -3005,9 +2878,9 @@ nicht genutzter Plätze in das kostenfreie Reservierungskontingent nach Nr. 3.9.
 3.10.1 Für Inhaber einer BahnCard 100 gelten die Nrn. 9.1.3, 9.2 und 9.3 BB Personenverkehr
 mit der Maßgabe, dass diese bei Ausfall, Verspätung oder Anschlussversäumnis von Zügen ab 60
 Minuten eine Erstattung bzw. Entschädigung in Höhe von 10 €, Inhaber einer BahnCard 100 1.
-Klasse eine solche in Höhe von 15 € erhalten, insgesamt max. 25 % des gezahlten BahnCardPreises. Verspätungen können nicht zwecks Erreichen der Zeitgrenze nach Satz 1 addiert werden.
+Klasse eine solche in Höhe von 15 € erhalten, insgesamt max. 25 % des gezahlten BahnCard
+Preises. Verspätungen können nicht zwecks Erreichen der Zeitgrenze nach Satz 1 addiert werden.
 Aufwendungen gemäß den Nummern 9.1.5 und 9.1.6 BB Personenverkehr für Weiterfahrten in
-
 anderen Verkehrsmitteln werden nur bis zu einem Betrag von insgesamt max. 25 % des gezahlten
 BahnCard-Preises erstattet; dieser Höchstbetrag gilt nicht in den Fällen des Artikel 20 Abs. 2 Lit.
 c) und Abs. 3 der VO (EU) Nr. 2021/782.
@@ -3026,7 +2899,7 @@ nach dem Tarif für das Deutschland-Ticket.
 
 # **Beförderungsbedingungen für besondere** **Personengruppen** **(Besondere Personengruppen)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 25.11.2025**
+## **Gültig ab 14. Dezember 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3076,13 +2949,11 @@ ist.
 
 
 2.1.3 Schwerbehinderte Menschen mit dem Merkzeichen „G“, „aG“, „H“ oder „GI“ im
-Schwerbehindertenausweis können als orthopädisches Hilfsmittel im Fahrradstellplatzbereich
-wahlweise ein (i) Dreirad, (ii) Liegedreirad, (iii) langes Laufrad (> 1200 mm) oder (iv) einen nicht
-trennbaren Fahrradrollstuhl (Handbike) abweichend von Nr. 8 BB Personenverkehr in den Zügen
-gegen Vorlage des Schwerbehindertenausweises unentgeltlich mitnehmen, sofern dort
-ausreichend Platz vorhanden ist. Die Bestimmungen nach Nr. 8.2 BB Personenverkehr bleiben
-davon unberührt. Die kostenfreie Stellplatzreservierung wird im personalbedienten Verkauf
-ausgegeben.
+Schwerbehindertenausweis können als orthopädisches Hilfsmittel im Fahrradstellplatzbereich ein
+langes Laufrad (> 1200 mm) abweichend von Nr. 8 BB Personenverkehr in den Zügen gegen
+Vorlage des Schwerbehindertenausweises unentgeltlich mitnehmen, sofern dort ausreichend Platz
+vorhanden ist. Die Bestimmungen nach Nr. 8.2 BB Personenverkehr bleiben davon unberührt. Die
+kostenfreie Stellplatzreservierung wird im personalbedienten Verkauf ausgegeben.
 
 
 2.2 Menschen mit Behinderungen
@@ -3104,10 +2975,8 @@ Länge: 1.200 mm + 50 mm für die Füße
 - Breite: 700 mm + 100 mm für die Hände am Rad
 
 Gesamtgewicht (inklusive des Reisenden)
-
 Manueller Rollstuhl: 200 kg
 Elektrorollstuhl: 350 kg
-
 
 Die eingebauten Akkus eines Elektrorollstuhls oder eines anderen orthopädischen Hilfsmittels mit
 Elektroantrieb dürfen im Zug weder entnommen, geladen noch anderweitig (z.B. als Powerbank)
@@ -3166,8 +3035,8 @@ können eine Fahrkarte in den Zügen des Fernverkehrs gegen Vorlage eines amtlic
 der Behinderung zum Flexpreis unter Berücksichtigung etwaiger Ermäßigungen (z. B. BahnCard
 Rabatt) auf Rechnung erwerben. Kann kein amtlicher Nachweis der Behinderung vorgelegt
 werden, wird im Zug zunächst eine Fahrpreisnacherhebung ausgegeben. Diese kann bei Vorlage
-
 eines zum Zeitpunkt der Reise gültigen Nachweises der Behinderung ohne Berechnung eines
+
 Bearbeitungsentgelts auf den Flexpreis unter Berücksichtigung etwaiger Ermäßigungen (z.B.
 BahnCard Rabatt) reduziert werden.
 
@@ -3218,7 +3087,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 31.10.2025**
+## **Gültig ab 14. Dezember 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3230,47 +3099,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 
 |Tarifbekannt-<br>machungen<br>lfd. Nr.|Angebot|Angebotszeitraum|Col4|
 |---|---|---|---|
-|01/2025|- <br>Löschung der bereist ausgelaufenen Aktionen und dadurch<br>neue Nummerierungen<br>- <br>E.11 Anpassung der Preise für die My BahnCard 100<br>- <br>E. 4: Beendigung des Angebots Insel Spezial<br>- <br>E.6 Anpassung der Preise für das Veranstaltungsticket<br>- <br>E.16 Bedingungen für das Aktionsangebot „Sparpreis<br>Business“<br>|<br> <br> <br> <br> <br>bis 31.12.2025|<br> <br> <br> <br> <br>bis 31.12.2025|
-|03/2025|- <br>E.17 Bedingungen für die Aktion “Aktionsrabatt für Super<br>Sparpreise und Sparpreise“<br>|14.01.25 – 28.01.25|14.01.25 – 28.01.25|
-|06/2025|- <br>E.18 Bedingungen für das Aktionsangebot „Mitfahrerrabatt für<br>BahnCard 50 Kunden“<br>|01.02.25 – 28.02.25|01.02.25 – 28.02.25|
-|07/2025|- <br>E.1.3.4: Gutscheinaktion für BahnCard 100 Inhaber|05.02.25 – 05.03.25|05.02.25 – 05.03.25|
-|08/2025|- <br>E.19: Bedingungen für das Aktionsangebot „Super Sparpreis<br>Aktion“<br>|Bis auf weiteres|Bis auf weiteres|
-|09/2025|- <br>E.20 Bedingungen für das Aktionsangebot „BahnCard zum<br>Aktionspreis“<br>- <br>E.21 Bedingungen für das Aktionsangebot „BahnCard Business<br>zum Aktionspreis“<br>|01.03. – 31.03. 2025<br> <br>01.03. – 31.03.2025|01.03. – 31.03. 2025<br> <br>01.03. – 31.03.2025|
-|10/2025|- <br>E.20 Nr. 3.2: Verdeutlichung, dass die BahnCard 25 zum<br>Aktionspreis ohne Altersbeschränkung erworben werden kann.<br>|||
-|11/2025|- <br>E.22: Aktionsrabatt auf den Flexpreis und Flexpreis Business<br>|25.03. – 28.03.2025|25.03. – 28.03.2025|
-|12/2025|- <br>E.23 Aktionsangebot „BahnCard 50 Schnupper Aktion“<br>|01.04. – 30.04.2025|01.04. – 30.04.2025|
-|12/2025|- <br>E1 Nr. 1.3.4: Gutscheine für ehemalige BahnCard 100 Inhaber<br>- <br>E.11 Nr. 2, 3: Anpassung des Aktions- und Erwerbszeitraums<br>- <br>E.11 Nr. 3.3: Streichung Einschränkung der ausschließlich<br>digitalen Buchung<br>|bis 14.05.2025<br>bis 13.12.2025|bis 14.05.2025<br>bis 13.12.2025|
-|13/2025|- <br>E.24 Bedingungen für den Erwerb und die Nutzung von Event<br>Fahrkarten<br>|Ab 15.04.2025|Ab 15.04.2025|
-|14/2025|- <br>E.25 Aktionsrabatt für Super Sparpreise und Sparpreise<br>|22.04. – 24.04.2025|22.04. – 24.04.2025|
-|15/2025|- <br>E.26 Aktionsangebot „Mitfahrerrabatt für BahnCard 50<br>Kunden“|01.05. – 30.09.2025|01.05. – 30.09.2025|
-|16/2025|- <br>E.1 1.2.2, 1.2.3, 1.2.4: Anpassung der Laufzeit von<br>Gutscheinen bei Restwerten und Fahrgastrechtsgutscheinen,<br>Erhöhung der einlösbaren Gutscheine auf zehn|||
-|17/2025|- <br>E.1.3.4: Aktionsgutscheine für Flexpreise der 1. Klasse<br>|13.05. – 30.06.2025|13.05. – 30.06.2025|
-|18/2025|- <br>E. 3 Nr. 9,10: Kündigung in Textform anstelle der Schriftform<br>|||
-|19/2025|- <br>E.8: Nr. 1, 3.1, 3.2, 4.3: Verlängerung des Aktionszeitraums<br>und Reisezeitraums<br>|bis 14.06.2026|bis 14.06.2026|
-|19/2025|- <br>E.19: Nr. 1: Anpassung Grundsätze<br>E.19 Nr. 2: Anpassung Aktionszeitraum ab 15. Juni 2025<br>E.19 Nr. 3: Ausgabe der Fahrkarten mit Nahverkehrsanteil und<br>City-Ticket<br>E.19 Nr. 3.3: entfällt<br>E.19 Nr. 3.5 entfällt, Inhalte zum BahnCard Rabatt sind in Nr.<br>3.1 integriert.<br>E.19 Nr. 4.1: Preisanpassung<br>|Ab 15.06.2025<br>|Ab 15.06.2025<br>|
-|19/2025|- <br>E.27: My BahnCard 50 zum Aktionspreis<br>|15.06. - 13.12.2025|15.06. - 13.12.2025|
-|19/2025|- <br>E.28: Aktionsrabatt auf den Flexpreis und Flexpreis Business<br>|15.06. – 31.07.2025|15.06. – 31.07.2025|
-|19/2025|- <br>E.29: Aktionsrabatt auf Monatskarten<br>|15.06. – 28.06.2025|15.06. – 28.06.2025|
-|19/2025|- <br>E.30: BahnCard Business 25 Klima<br>|01.07. – 31.07.2025|01.07. – 31.07.2025|
-|20/2025|- <br>E.1 Nr. 1.3.4: Rabattaktion für Nutzer eines DB Filters auf<br>TikTok<br>|18.06. – 13.07.2025|18.06. – 13.07.2025|
-|21/2025|- <br>E.31: Bedingungen für die Aktionen „44-Stunden-Ticket<br>Young“<br>|30.06 – 27.07.2025|30.06 – 27.07.2025|
-|22/2025|- <br>E.1 Nr. 1.3.4: Aktionsgutscheine für bahn.business Kunden<br>|01.07. – 31.12.2025|01.07. – 31.12.2025|
-|23/2025|- <br>E.6 Beendigung des Aktionsangebots<br>- <br>E. 24, Nr. 4.1 Anpassung des Preis Super Sparpreis Event in<br>der 1. Klasse|bis 11.08.2025|bis 11.08.2025|
+|01/2026|- <br>Löschung der bereist ausgelaufenen Aktionen und dadurch<br>neue Nummerierungen<br>- <br>E.7: Verlängerung der Aktion „My BahnCard 100“|<br> <br>Bis 31.03.2026|<br> <br>Bis 31.03.2026|
 
-
-|Tarifbekannt-<br>machungen<br>lfd. Nr.|Angebot|Angebotszeitraum|Col4|
-|---|---|---|---|
-|25/2025|- <br>E.1.3.4: Gutscheine für bahn.business Neukunden<br>|15.08. – 31.10.2025|15.08. – 31.10.2025|
-|26/2025|- <br>E.32: Aktion „Treuekarte“<br> <br>- <br>E.33: Aktionsrabatt für Super Sparpreise und Sparpreise|20.08. – 20.10.2025<br>20.08. – 04.11.2025<br>21.08. – 23.08.2025|20.08. – 20.10.2025<br>20.08. – 04.11.2025<br>21.08. – 23.08.2025|
-|27/2025|- <br>E.1.3.4: Gutscheinaktion in „hohes C“ Produkten<br>- <br>E.1.3.4: Gutscheine für bahn.business Teilnehmer, die an einer<br>Umfrage teilnehmen<br>- <br>E.24: Nr. 5.1: Preisanpassung<br>- <br>E.24 Nr. 6.3, 6.4: Druckfehlerkorrektur<br>- <br>E.34: „Probe BahnCard 100 zum Aktionspreis für<br>Geschäftskunden“<br>|01.09. – 15.12.2025<br>Bis auf Weiteres<br> <br> <br> <br>01.09. – 30.09.2025|01.09. – 15.12.2025<br>Bis auf Weiteres<br> <br> <br> <br>01.09. – 30.09.2025|
-|28/2025|- <br>E.35: Probe BahnCard 25 und 50 zum Aktionspreis<br>|02.09. – 30.09.2025|02.09. – 30.09.2025|
-|29/2025|- <br>E.1.3.4: Aktionsgutscheine für BahnCard Inhaber<br>- <br>E.35: Nr. 2.1: Fehlerkorrektur, Nr. 2.2 entfällt<br>|09.09. – 03.11.2025<br>01.09. – 30.09.2025|09.09. – 03.11.2025<br>01.09. – 30.09.2025|
-|30/2025|- <br>E.1.3.4: Aktionsgutscheine für Nutzer des Portal UNiDAYS<br>- <br>E.36: Bedingungen für die Aktion: „Flexpreis Young“|15.09. – 30.11.2025<br>15.09. – 14.10.2025|15.09. – 30.11.2025<br>15.09. – 14.10.2025|
-|32/2025|- <br>E.37: Bedingungen „Super Sparpreis Gruppe Aktion“<br>|01.10.25 – 30.09.26|01.10.25 – 30.09.26|
-|33/2025|- <br>E.1.3.4: Gutscheinaktion für ehemalige BahnCard 100 Kunden<br>|06.10 – 17.11.2025|06.10 – 17.11.2025|
-|34/2025|- <br>E.7 Nr.2, 3.1: Einstellung des Angebots|bis 15.10.2025|bis 15.10.2025|
-|35/2025|- <br>E.16 Nr. 2: Verlängerung des Angebots<br>- <br>E.38: Aktionsrabatt für Super Sparpreise und Sparpreise<br>- <br>E.1.3.4: Gutscheine für Buchende einer Gruppenfahrkarte über<br>DB Klassenfahrten|Bis auf Weiteres<br>17.10. – 21.10.2025<br>15.10. – 15.12.2025|Bis auf Weiteres<br>17.10. – 21.10.2025<br>15.10. – 15.12.2025|
-|37/2025|- <br>E.1.3.4: Rabatt Gutschein für ehemalige BahnCard Inhaber<br>- <br>E.1.3.4: Mitfahrergutschein für BahnCard 100 Kunden<br>- <br>Rabattgutschein für 1.Klasse Fahrkarte<br>- <br>E.39 Mitfahrerrabatt für bis zu 4 Mitfahrer für BahnCard<br>Kunden“<br>- <br>E.40: Aktionsrabatt Sparpreis Business|Bis 12.12.2025<br>31.10. – 30.11.2025<br>Bis auf Weiteres<br>01.11. – 30.11.2025<br> <br>03.11. – 23.11.2025|Bis 12.12.2025<br>31.10. – 30.11.2025<br>Bis auf Weiteres<br>01.11. – 30.11.2025<br> <br>03.11. – 23.11.2025|
 
 
 
@@ -3415,74 +3245,32 @@ einzulösende Aktionsgutscheine können nur im eingeloggten Bereich verwendet we
 |Aktionsgutschein<br>Wert / Titel|Zielgruppe|DB-Leistung|Aktionszeitraum|Einlösezeitraum<br>des Aktionsgutscheins|Nutzungszeitraum der<br>DB-Leistung|Hinweise|Col8|
 |---|---|---|---|---|---|---|---|
 |350€ und 600€<br>Gutscheine für<br>ehemalige BahnCard<br>100 Kunden|ehemalige BahnCard<br>100 Abo-Kunden|BahnCard 100 1. Klasse<br>(600€ Gutschein),<br>BahnCard 100 2. Klasse<br>(350€ Gutschein)<br>gemäß Nr. 3 der<br>BahnCard<br>Bedingungen,<br>ausgenommen Probe<br>BahnCard 100 und<br>Aktions BahnCards 100|ab 02.04.2024|gemäß Angabe auf<br>dem Gutschein|gemäß Angabe auf<br>dem Gutschein|Die Gutscheine<br>können<br>ausschließlich über<br>bahn.de/bahncard<br>eingelöst werden||
-|25 € Aktionsgutschein<br>für bahn.business<br>Neukunden|Zufällig ausgewählte<br>Neukunden, die sich<br>zwischen dem<br>01.01.24 und<br>31.12.2024 im<br>bahn.business Portal<br>anmelden und in den<br>ersten 6 Monaten<br>einen Umsatz von<br>2500 € erreichen|BahnCard Business<br>25/50 1. Klasse gemäß<br>Nr. 3.8 bahn.business|Bis 31.12.2024|einlösbar innerhalb<br>von 3 Monaten ab<br>Erhalt<br> <br>|gemäß Nr. 3.8.3<br>bahn.business<br>|||
-|25% Rabatt-<br>gutscheine für<br>ehemalige BahnCard<br>Business Inhaber|ehemalige Inhaber<br>einer BahnCard<br>Business|BahnCard Business<br>25/50 gemäß Nr. 3.8<br>der bahn.business<br>Bedingungen|bis 20.12.2024|Bis 20.12.2024|gemäß Nr. 3.8.3 der<br>bahn.business<br>Bedingungen|Die Gutscheine<br>können<br>ausschließlich<br>digital eingelöst<br>werden||
 |10€ Aktionsgutschein<br>für bahn.business<br>Kunden|Zufällig ausgewählte,<br>bei bahn.business<br>registrierte Kunden,<br>die 3 Monate keine<br>bahn.business<br>Leistungen gebucht<br>haben|Fahrkarten gemäß Nr.<br>3.6 bahn.business ab<br>49€ Mindestwert|Ab 08.11.2024<br>bis auf Weiteres<br>|3 Monate ab Erhalt|gemäß Nr. 2.1.2<br>Vorverkaufsfrist BB<br>Personenverkehr|||
-
-
-
-
-
-
-
-
-
-|Aktionsgutschein<br>Wert / Titel|Zielgruppe|DB-Leistung|Aktionszeitraum|Einlösezeitraum<br>des Aktionsgutscheins|Nutzungszeitraum der<br>DB-Leistung|Hinweise|Col8|
-|---|---|---|---|---|---|---|---|
-|100% Rabattgutschein<br>für einen Mitfahrer<br>eines BahnCard 100<br>Inhabers|BahnCard 100 Kunden|Fahrkarten gemäß Nr. 3<br>BB Personen-verkehr<br>für eine einfache Fahrt<br>in der Klasse des<br>BahnCard 100<br>Inhabers|05.02.2025 –<br>05.03.2025|05.02.2025 –<br>05.03.2025<br>|bis 05.03.2025|Der Gutschein kann<br>nur in digitalen<br>Vertriebskanälen<br>eingelöst werden.<br>Die Fahrt muss<br>zusammen mit dem<br>BahnCard 100<br>Inhaber erfolgen.||
-|50€ und 100€<br>Gutscheine für<br>ehemalige BahnCard<br>100 Inhaber|ehemalige BahnCard<br>100 Inhaber|50€ Gutschein:<br>BahnCard 50 2. Klasse<br>gemäß Nr. 2 BahnCard<br>Bedingungen<br>100€ Gutschein:<br>BahnCard 50 1. Klasse<br>gemäß Nr. 2 BahnCard<br>Bedingungen|bis 14.05.2024|bis 14.05.2025|Gemäß Nr. 2 der<br>BahnCard<br>Bedingungen|Einlösung der<br>Gutscheine<br>ausschließlich<br>online||
-|900€ - 1.500€<br>Gutscheine für<br>ehemalige BahnCard<br>100 Inhaber|ehemalige BahnCard<br>100 Inhaber|900€ Gutschein:<br>BahnCard 100 2. Klasse<br>gemäß Nr. 3 BahnCard<br>Bedingungen<br>1.500€ Gutschein:<br>BahnCard 100 1. Klasse<br>gemäß Nr. 3 BahnCard<br>Bedingungen|bis 14.05.2024|bis 14.05.2025|gemäß Nr. 3 der<br>BahnCard<br>Bedingungen|Einlösung der<br>Gutscheine<br>ausschließlich<br>online||
-|25% Rabattgutschein<br>für Flexpreise der<br>1.Klasse|BahnCard 25/50<br>Inhaber|Fahrkarten zum<br>Flexpreis gemäß<br>Nr. 3.2 BB<br>Personenverkehr der<br>1. Wagenklasse|13.05.2025 –<br>30.06.2025|13.05.2025 -<br>30.06.2025|13.05.2025 –<br>30.06.2025|||
-
-
-
-
-
-
-
-
-
-|Aktionsgutschein<br>Wert / Titel|Zielgruppe|DB-Leistung|Aktionszeitraum|Einlösezeitraum<br>des Aktionsgutscheins|Nutzungszeitraum der<br>DB-Leistung|Hinweise|Col8|
-|---|---|---|---|---|---|---|---|
-|||ab 19,99 €<br>Mindestfahrkartenwert||||||
-|50% Rabattaktion für<br>Nutzer eines DB-<br>Filters auf TikTok|Nutzer eines DB Filters<br>auf TikTok|Fahrkarten gemäß Nr.<br>3.3 BB<br>Personenverkehr|18.06.2025<br>– <br>13.07.2025|18.06.2025 –<br>20.07.2025|Bis 13.12.2025|Weitere Infos<br>unter:<br>db-tiktok-ticket.de||
 |10€ Aktionsgutschein<br>für bahn.business<br>Kunden|bahn.business Kunden,<br>die 3 Monate keine<br>Buchung im<br>bahn.business Portal<br>getätigt haben|Fahrkarten gemäß Nr.<br>3.6 bahn.business und<br>E.16 Aktionsangebote<br>ab 49€ Mindestwert|01.07.25 –<br>31.12.25|3 Monate ab Erhalt<br>des Aktions-<br>gutscheins|gemäß Nr. 2.1.2<br>Vorverkaufsfrist BB<br>Personenverkehr|||
 |25€ Aktionsgutschein<br>für bahn.business<br>Neukunden|Neukunden, die sich<br>zwischen dem<br>18.08.25 und<br>31.10.25 zum<br>bahn.business<br>Programm anmelden|Fahrkarten zum<br>Flexpreis Business<br>gemäß Nr. 3.6<br>bahn.business und<br>Sparpreis Business<br>gemäß E.16<br>Aktionsangebote ab<br>49,99 € Mindestwert|18.08.25 bis<br>31.10.25|18.08.25 bis<br>31.01.26|18.08.2025 bis<br>30.06.2026|||
+
+
+
+
+
+
+
+
+
+
+
+|Aktionsgutschein<br>Wert / Titel|Zielgruppe|DB-Leistung|Aktionszeitraum|Einlösezeitraum<br>des Aktionsgutscheins|Nutzungszeitraum der<br>DB-Leistung|Hinweise|Col8|
+|---|---|---|---|---|---|---|---|
 |10€ Aktionsgutschein<br>in Flaschendeckeln<br>von hohes C<br>Produkten|Käufer von hohes C<br>Produkten|Fahrkarten gemäß Nr.<br>3.2 und 3.3 BB<br>Personenverkehr ab<br>einem<br>Mindestfahrkartenwert<br>von 29,99 €|01.09.25 –<br>15.12.25|01.09.25 -<br>15.12.25|Gemäß Nr. 2.1.2 BB<br>Personenverkehr|Weitere<br>Informationen<br>unter: hohesc.de<br>/bahn||
-|25€ Aktionsgutschein<br>für bahn.business<br>Kunden|bahn.business Kunden,<br>die an einer Umfrage<br>teilnehmen.|Fahrkarten zum<br>Flexpreis Business<br>gemäß Nr. 3.6<br>bahn.business und<br>Sparpreis Business<br>gemäß E.16|Bis auf weiteres|Gemäß Angabe auf<br>dem Gutschein|Gemäß Angabe auf<br>dem Gutschein|||
-
-
-
-
-
-
-
-
-
-
-
-
-
-|Aktionsgutschein<br>Wert / Titel|Zielgruppe|DB-Leistung|Aktionszeitraum|Einlösezeitraum<br>des Aktionsgutscheins|Nutzungszeitraum der<br>DB-Leistung|Hinweise|Col8|
-|---|---|---|---|---|---|---|---|
-|||Aktionsangebote ab<br>49,99 € Mindestwert||||||
-|Aktionsgutschein 1.<br>Klasse-Ticketbuchung<br>für BahnCard-Inhaber|Inhaber einer<br>BahnCard 25/50|Fahrkarten für die 1.<br>Klasse gemäß Nr. 3.2<br>und 3.3 BB<br>Personenverkehr ab<br>einem<br>Mindestfahrkarten von<br>49,99 €|09.09.25 -<br>03.11.25|09.09.25 –<br> 03.11.25|09.09.25 –<br>03.11.25|||
-|10 € und 5 €<br>Aktionsgutscheine für<br>Nutzer des Portals<br>UNiDAYS|Registrierte Nutzer des<br>Portals UNiDAYS|My BahnCard gemäß<br>Nr. 2 BahnCard Be-<br>dingungen|15.09.25 -<br>30.11.25|15.09.25 -<br>30.11.25|Gemäß Nr. 2 der<br>BahnCard<br>Bedingungen|||
-|194 € und 393 €<br>Gutscheine für<br>ehemalige BahnCard<br>100 Inhaber|ehemalige BahnCard<br>100 Inhaber|194 € Gutschein:<br>BahnCard 50 2. Klasse<br>gemäß Nr. 2 BahnCard<br>Bedingungen<br>393 € Gutschein:<br>BahnCard 50 1. Klasse<br>gemäß Nr. 2 BahnCard<br>Bedingungen|bis<br>17.11.2025|bis 17.11.2025|Gemäß Nr. 2 der<br>BahnCard<br>Bedingungen|Einlösung der<br>Gutscheine<br>ausschließlich<br>online||
-|900€ - 1.500€<br>Gutscheine für<br>ehemalige BahnCard<br>100 Inhaber|ehemalige BahnCard<br>100 Inhaber|900€<br>Gutschein:<br>BahnCard 100 2. Klasse<br>gemäß Nr. 3 BahnCard<br>Bedingungen<br>1.500€ Gutschein:<br>BahnCard 100 1. Klasse<br>gemäß Nr. 3 BahnCard<br>Bedingungen|bis<br>17.11.2025|bis 17.11.2025|gemäß Nr. 3 der<br>BahnCard<br>Bedingungen|Einlösung der<br>Gutscheine<br>ausschließlich<br>online||
-
-
-
-
-
-
-
-|Aktionsgutschein<br>Wert / Titel|Zielgruppe|DB-Leistung|Aktionszeitraum|Einlösezeitraum<br>des Aktionsgutscheins|Nutzungszeitraum der<br>DB-Leistung|Hinweise|Col8|
-|---|---|---|---|---|---|---|---|
+|25€ Aktionsgutschein<br>für bahn.business<br>Kunden|bahn.business Kunden,<br>die an einer Umfrage<br>teilnehmen.|Fahrkarten zum<br>Flexpreis Business<br>gemäß Nr. 3.6<br>bahn.business und<br>Sparpreis Business<br>gemäß E.16<br>Aktionsangebote ab<br>49,99 € Mindestwert|Bis auf weiteres|Gemäß Angabe auf<br>dem Gutschein|Gemäß Angabe auf<br>dem Gutschein|||
 |Gutschein für eine<br>Jugend BahnCard für<br>Buchende einer<br>Gruppenfahrkarte<br>über DB<br>Klassenfahrten|Buchende einer<br>Gruppenfahrkarte<br>über DB<br>Klassenfahrten|Jugend Bahn-Card<br>gemäß Nr. 2 BahnCard<br>Bedingungen|15.10. 2025<br>–<br>15.12.2025|Bis 15.07.2026|Gemäß Nr. 2 der<br>BahnCard<br>Bedingungen|Einlösung der<br>Gutscheine<br>ausschließlich<br>online||
-|25% - 80%<br>Rabattgutscheine für<br>ehemalige BahnCard<br>Inhaber|ehemalige BahnCard<br>Inhaber|BahnCard gemäß Nr. 2<br>BahnCard Bedingungen<br>und gemäß Angabe auf<br>dem Gutschein|bis<br>12.12.2025|bis 12.12.2025|Gemäß Nr. 2 der<br>BahnCard<br>Bedingungen|Einlösung der<br>Gutscheine<br>ausschließlich<br>online||
-|Mitfahrergutschein für<br>BahnCard 100 Kunden|Inhaber einer<br>BahnCard 100|Mitfahrergutschein<br>gemäß Nr. 2.2<br>Aktionsangebote|31.10.2025<br>–<br>30.11.2025<br>|Bis 30.11.2025|01.11.2025 –<br>30.11.2025|BahnCard 100 1.<br>Klasse<br>Inhaber<br>erhalten<br>einen<br>Mitfahrergutschein<br>für die 1. Klasse.<br>BahnCard 100 2.<br>Klasse Inhaber<br>erhalten einen<br>Gutschein für die 2.<br>Klasse||
 |25% Aktionsgutschein<br>für Bahn Kunden|Zufällig ausgewählte<br>Bahn Kunden|Fahrkarten 1. Klasse<br>gemäß Nr. 3 BB<br>Personenverkehr ab<br>19,99 €<br>Mindestfahrkartenwert.|Bis auf Weiteres|Bis auf Weiteres|Bis auf Weiteres|||
+
+
+
+
+
+
 
 
 
@@ -3734,93 +3522,7 @@ Das Aktionsangebot wird in diesen Fällen nur für die Hin- und Rückfahrt zum G
 4.2 Eine bereits vorhandene Sitzplatzreservierung für die 2. Wagenklasse wird nicht erstattet.
 
 
-**E.5** **Bleibt frei**
-
-
-**E.6** **Bleibt frei**
-
-
-**E.7** **Aktionsangebot „Fan-Gruppenreise“**
-
-
-1. Grundsatz
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), soweit sich aus den nachfolgenden Bestimmungen nichts anderes
-ergibt.
-
-
-2. Angebot
-Für die An- bzw. Abreise zu Sportereignissen (z.B. Turniere, Wettkämpfe, Meisterschaften,
-Ligaspiele), bei denen die DB mit Sportvereinen oder Fan-Organisationen kooperiert (siehe
-Anlage), werden bis zum 15. Oktober Fahrkarten „Fan-Gruppenreise“ zu Auswärtsspielen bzw.
-Wettkämpfen angeboten.
-
-
-3. Fahrkarten
-
-3.1 Der Erwerb einer Fahrkarte „Fan-Gruppenreise“ erfolgt bis 15. Oktober über den in der
-Anlage genannten Veranstalter bzw. Organisator der Fan-Reise zum jeweiligen Sportereignis und
-ist an die Vorlage der Eintrittskarte oder einer entsprechenden Buchungsbestätigung zum
-jeweiligen Sportereignis gebunden.
-
-
-3.2 Fahrkarten „Fan-Gruppenreise“ werden für Gruppen ab 6 Personen als kontingentiertes
-Angebot für Reisen ausschließlich in der 2. Klasse ausgegeben. Sofern das verfügbare Kontingent
-aufgebraucht ist, stehen die Fahrkartenangebote gemäß Nr. 3.2 bis 3.4 und 3.6 BB
-Personenverkehr für die An- bzw. Abreise zum Sportereignis zur Verfügung. Die
-Sitzplatzreservierung wird unentgeltlich ausgegeben.
-
-
-Die Fahrkarten Fan-Gruppenreise“ werden als einfache Fahrt von einem beliebigen DB
-Abgangsbahnhof zu einem DB Zielbahnhof am Ort oder in der Nähe des Sportereignisses innerhalb
-Deutschlands ausgegeben. Zumindest eine Teilstrecke muss in Zügen der Produktklassen ICE oder
-IC/EC zurückgelegt werden.
-
-
-Die Fahrkarten „Fan-Gruppenreise“ berechtigen jeweils zur Fahrt an den Tagen und in den Zügen,
-die auf der Fahrkarte bezeichnet sind (Zugbindung).
-
-3.3 Bei der Fahrkartenkontrolle muss neben der Fahrkarte auch die jeweilige Eintrittskarte oder
-Buchungsbestätigung zum Sportereignis vorgelegt werden.
-
-
-3.4 Fahrkarten „Fan-Gruppenreise“ werden für Strecken bis 500 km zum Festpreis von 21,90 €
-pro Person, für Strecken ab 501 km zum Festpreis von 29,90 € pro Person für eine einfache Fahrt
-ausgegeben. Maßgeblich sind die Entfernungen der tatsächlich gewählten Reiseverbindung.
-
-
-3.5 Kinder im Alter von 6 bis einschließlich 14 Jahren zahlen immer den halben Festpreis nach
-Nr. 3.4. Es werden keine Fahrkarten „Fan-Gruppenreise“ ausschließlich für Kinder ausgegeben.
-
-
-3.6 Bei Erwerb von Fahrkarten „Fan- Gruppenreise“ ist eine Anzahlung in Höhe von 6 € pro
-Person zu leisten, wenn die Reise nicht sofort vollständig bezahlt wird. Der Restpreis ist in diesem
-Falle spätestens 7 Tage vor dem ersten Geltungstag zu zahlen. Die Ausgabe der Fahrkarten erfolgt
-erst nach vollständiger Bezahlung.
-
-
-Im Falle nicht fristgerechter Zahlung erlischt der Anspruch auf die Fahrkarte. Die geleistete
-Anzahlung wird dann gegen Vorlage des Anzahlungsbelegs unter Abzug eines Bearbeitungsentgelts
-in Höhe von 5 € pro Person erstattet.
-
-
-4. Stornierung (Umtausch und Erstattung)
-Für Fahrkarten „Fan-Gruppenreise“ sind sowohl der Umtausch und die Erstattung der gesamten
-Gruppenreise als auch einzelner Teilnehmer bis 7 Tage vor dem ersten Geltungstag der Fahrkarte
-unentgeltlich möglich.
-
-
-Eine geleistete Anzahlung wird in Abhängigkeit zur stornierten Personenzahl anteilig und
-unentgeltlich erstattet. Ab dem 6. Tag bis einen Tag vor dem ersten Geltungstag ist die Stornierung
-einzelner Teilnehmer bis zur minimalen Gruppengröße von 6 Personen bzw. der gesamten Gruppe,
-jeweils gegen ein Bearbeitungsentgelt von 5 € pro zu stornierender Person möglich.
-
-
-Ab dem ersten Geltungstag ist eine Stornierung ausgeschlossen.
-
-
-**E.8** **Bedingungen für das Aktionsangebot „10-Fahrten-Ticket/20-Fahrten-Ticket“**
+**E.5** **Bedingungen für das Aktionsangebot „10-Fahrten-Ticket/20-Fahrten-Ticket“**
 
 
 1. Grundsatz
@@ -3851,6 +3553,7 @@ angeboten wird.
 3.3 Für Kunden, die erstmalig die Buchung eines 10-Fahrten-Tickets bzw. 20-Fahrten-Tickets
 vornehmen wollen, ist zunächst eine Registrierung erforderlich.
 
+
 Nach erfolgter Verifizierung erhalten Kunden jeweils einen Zugang, um sowohl neue Bündel aus
 zehn bzw. zwanzig Einzelfahrten zu kaufen als auch Einzelfahrten aus dem Bündel buchen zu
 können.
@@ -3870,7 +3573,6 @@ mit welchen er die jeweiligen Einzelfahrten 10-Fahrten-Ticket bzw. 20-Fahrten-Ti
 
 3.5 Die Buchung eines 10-Fahrten-Tickets bzw. 20-Fahrten-Tickets für einen Dritten ist nicht
 möglich.
-
 
 3.6 Buchungen des 10-Fahrten-Tickets bzw. 20-Fahrten-Tickets können mit Kreditkarte, per
 PayPal oder giropay bezahlt werden.
@@ -3947,11 +3649,10 @@ Danach sind Umtausch und Erstattung ausgeschlossen.
 Die stornierte Einzelfahrt wird sodann in das Kontingent des Bündels wieder eingestellt, soweit
 dessen Geltungsdauer nach Nr. 4.3 noch nicht abgelaufen ist.
 
-
 6.3 Im Übrigen sind Erstattung und Umtausch ausgeschlossen.
 
 
-**E.9** **Bedingungen für die Aktion „Schnupper BahnCard – Upgrade BahnCard 1. Klasse“**
+**E.6** **Bedingungen für die Aktion „Schnupper BahnCard – Upgrade BahnCard 1. Klasse“**
 
 
 1. Grundsatz
@@ -3993,6 +3694,7 @@ Super Sparpreis in der 1. Wagenklasse.
 handelt und wenn bei der gewünschten Fahrt zumindest eine Teilstrecke in Zügen der
 Produktklassen ICE oder IC/EC zurückgelegt wird.
 
+
 3.4 Bei der Fahrkartenkontrolle im Zug muss neben den Fahrkarten die gültige BahnCard 25 bzw.
 50 sowie die personalisierte Legitimationskarte zusammen mit einem amtlichen Lichtbildausweis
 vorgelegt werden. Kann der Reisende bei der Fahrkartenkontrolle in Zügen mit Fahrkartenverkauf
@@ -4000,10 +3702,7 @@ seine zum Kontrollzeitpunkt gültige BahnCard 25 bzw. 50 sowie die personalisier
 Legitimationskarte nicht vorlegen, so gilt Nr. 2.4 der BahnCard-Bedingungen.
 
 
-**E.10** **Bleibt frei**
-
-
-**E.11** **Bedingungen für die Aktion „BahnCard 100 für Personen im Alter von 6 bis**
+**E.7** **Bedingungen für die Aktion „BahnCard 100 für Personen im Alter von 6 bis**
 **einschließlich 26 Jahren (My BahnCard 100)“**
 
 
@@ -4017,13 +3716,12 @@ BahnCards (Internet) und die Bedingungen für den Erwerb und die Nutzung von Bah
 
 **2.** **Geltungszeitraum**
 Das Aktionsangebot BahnCard 100 für Personen im Alter von 6 bis einschließlich 26 Jahren, (My
-BahnCard 100) gilt in der Zeit vom 10. April 2024 bis zum 13. Dezember 2025.
-
+BahnCard 100) gilt in der Zeit vom 10. April 2024 bis zum 31. März 2026.
 
 **3.** **Erwerb**
 
-3.1 Die „My BahnCard 100“ kann in der Zeit vom 10. April 2024 bis zum 13. Dezember 2025 mit
-einem letztmöglichen ersten Geltungstag 10. Juni 2026 erworben werden.
+3.1 Die „My BahnCard 100“ kann in der Zeit vom 10. April 2024 bis zum 31. März 2026 mit einem
+letztmöglichen ersten Geltungstag 30. Juni 2026 erworben werden.
 
 
 3.2 Die „My BahnCard 100“ wird ausgegeben an Personen im Alter von 6 bis einschließlich 26
@@ -4059,126 +3757,7 @@ die 1 Wagenklasse. Er ist sofort zur Zahlung fällig.
 Die „My BahnCard 100“ ist von der Stornierung (Umtausch/Erstattung) ausgeschlossen.
 
 
-**E.12** **Bedingungen für das Angebot „Fan BahnCard 25” (Probe Bahn Card 25)**
-
-
-1. Grundsatz
-
-Es gelten die Bedingungen für den Erwerb und die Nutzung von BahnCards (BahnCard) und die
-Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet), soweit sich aus
-den nachfolgenden Bestimmungen nichts anderes ergibt.
-
-
-2. Aktionszeitraum
-
-Die Fan BahnCard 25 kann vom 15. Mai 2024 bis 16. Juni 2024 mit einem letztmöglichen 1.
-Geltungstag 16. Juni 2024 erworben werden.
-
-
-3. Aktionsbeschreibung
-Im Zeitraum nach Nr. 2 wird die Fan BahnCard 25 zum Preis und zu den Bedingungen der
-regulären Probe BahnCard 25 gemäß Nr. 2 der BahnCard Bedingungen mit Zusatznutzen gemäß
-Nr. 4 ausgegeben. Es kann jeweils nur eine auf den Namen des Inhabers lautende Fan BahnCard
-erworben werden.
-
-
-4. Zusatznutzen
-
-4.1 Sollte die deutsche Fußballnationalmannschaft bei der UEFA EURO 2024 Europameister
-werden, erhält der Inhaber einer Fan BahnCard 25 die Folge BahnCard 25 gemäß Nr. 2.6.1.2 der
-BahnCard Bedingungen im ersten Jahr unentgeltlich.
-
-
-4.2 Inhaber, die ihre Fan BahnCard 25 fristgerecht nach Nr. 2.6.1.2 der BahnCard Bedingungen
-gekündigt haben, erhalten trotz der Kündigung für den Fall, dass die deutsche
-Fußballnationalmannschaft bei der UEFA EURO 2024 Europameister wird, als Zusatznutzen zur
-gekündigten Fan BahnCard eine unentgeltliche Bahn Card 25 derselben Wagenklasse mit der
-Gültigkeit von einem Jahr. Diese BahnCard hat als ersten Geltungstag den auf den letzten
-Geltungstag der Fan BahnCard folgenden Tag und verlängert sich nicht.
-
-
-**E.13** **Bedingungen für das Aktionsangebot „BahnCard 50 zum Aktionspreis“**
-
-
-1. Grundsatz
-
-Es gelten die Bedingungen für den Erwerb und die Nutzung von BahnCards (BahnCard), soweit
-sich aus den nachfolgenden Bestimmungen nichts anderes ergibt.
-
-
-2. Angebotszeitraum
-Das Aktionsangebot „BahnCar ~~d 5~~ 0 zum Aktionspreis“ gilt im Zeitraum vom 01. Oktober bis zum
-13. Oktober 2024.
-
-
-3. Aktionsbeschreibung
-3.1 Im Zeitraum vom 01. Oktober bis zum 13. Oktober 2024 wird die BahnCard 50, My BahnCard
-50, Senioren BahnCard 50 und die ermäßigte BahnCard 50 nach Nr. 2.1 der BahnCard
-Bedingungen für die 1. und 2. Wagenklasse auf bahn.de und die App DB Navigator zum
-Aktionspreis für das erste Geltungsjahr zum Aktionspreis ausgegeben:
-
-
-
-
-
-
-
-|BahnCard|2.Klasse|1. Klasse|
-|---|---|---|
-|BahnCard 50|122 €|246 €|
-|Ermäßigte BahnCard 50, Senioren<br>Bahn Card 50|99,99 €|195 € €|
-|My BahnCard 50|69,99 €|195 €|
-
-
-3.2 Die BahnCard 50 kann im Aktionszeitraum nach Nr. 2 mit einem letztmöglichen 1. Geltungstag
-13. Oktober 2024 erworben werden.
-
-
-3.3 Ab dem zweiten Geltungsjahr ist der Preis nach Nr. 2.3 der BahnCard Bedingungen zu zahlen.
-
-4. Stornierung (Erstattung, Umtausch)
-Es gelten die Regelungen nach Nr. 2.8 der BahnCard Bedingungen.
-
-
-Abweichend von Nr. 2.8.2 der BahnCard Bedingungen ist der Umtausch jeglicher bestehender
-BahnCard in die BahnCard 50 1. Klasse zum Aktionspreis ausgeschlossen.
-
-
-**E.14** **Bedingungen für das Aktionsangebot „BahnCard Business 50 zum Aktionspreis“**
-
-
-1. Grundsatz
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von Bahn-Cards
-(BahnCard), die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet)
-sowie die Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten
-(bahn.business), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-2. Angebotszeitraum
-Das Aktionsangebot „BahnCard Business 50 zum Aktionspreis “ gilt im Zeitraum vom 01. Oktober
-bis zum 13. Oktober 2024.
-
-
-3. Aktionsbeschreibung
-Im Zeitraum vom 01. Oktober bis zum 13. Oktober 2024 wird die BahnCard Business 50 2. Klasse
-
-und 1. Klasse nach Nr. 3.8 der bahn.business Bedingungen zum Aktionspreis von 156 € bzw. 313
-€ ausgegeben.
-
-
-4. Stornierung (Erstattung, Umtausch)
-Es gelten die Regelungen nach Nr. 3.8.4 der bahn.business Bedingungen.
-Abweichend von Nr. 3.8.4.2 und Nr. 3.8.4.3 der bahn.business Bedingungen und Nr. 2.8.2 der
-BahnCard Bedingungen ist der Umtausch jeglicher bestehender BahnCards in die BahnCard
-Business 50 zum Aktionspreis ausgeschlossen.
-
-
-**E.15** **Bleibt frei**
-
-
-**E.16** **Bedingungen für das Aktionsangebot „Sparpreis Business“**
+**E.8** **Bedingungen für das Aktionsangebot „Sparpreis Business“**
 
 
 **1.** **Grundsatz**
@@ -4203,7 +3782,6 @@ kontingentiert und wird im Rahmen der Verfügbarkeit ausgegeben. Soweit das bere
 Kontingent aufgebraucht ist, ist ein Erwerb nicht mehr möglich.
 Für eine BahnCard-Rabattierung gelten die Regelungen des „Sparpreises“ gemäß Nr. 3.3.3 BB
 Personenverkehr und Nr. 2.1 und 2.2 der BahnCard Bedingungen.
-
 Ein Rabatt für Kinder gemäß Nr. 3.7.4 BB Personenverkehr wird nicht gewährt.
 Es gelten die Kindermitnahmeregelungen nach Nr. 3.7.2 und 3.7.3 BB Personenverkehr.
 
@@ -4225,13 +3803,7 @@ Abweichend von Nr. 4.3.1 BB Personenverkehr wird anstelle eines Stornogutscheins
 Fahrkarte abzüglich des Stornierungsentgelts auf das ursprüngliche Zahlungsmittel gezahlt.
 
 
-**E.17** **Bleibt frei**
-
-
-**E.18** **Bleibt frei**
-
-
-**E.19** **Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“**
+**E.9** **Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“**
 
 
 **1. Grundsatz**
@@ -4265,13 +3837,14 @@ Festpreisen ab 6,99 € pro Person für die einfache Fahrt angeboten.
 Umtausch und Erstattung der Fahrkarte „Super Sparpreis Aktion“ sind ausgeschlossen.
 
 
-**E.20** **Bedingungen für das Aktionsangebot „BahnCard zum Aktionspreis“**
+**E.10** **Bedingungen für das Aktionsangebot „BahnCard zum Aktionspreis“**
 
 
 **1. Grundsatz**
 
 Es gelten die Bedingungen für den Erwerb und die Nutzung von BahnCards (BahnCard), soweit
 sich aus den nachfolgenden Bestimmungen nichts anderes ergibt.
+
 
 **2. Aktionszeitraum**
 Das Aktionsangebot „BahnCard zum Aktionspreis“ gilt im Zeitraum vom 01. März bis zum 31. März
@@ -4284,16 +3857,13 @@ Das Aktionsangebot „BahnCard zum Aktionspreis“ gilt im Zeitraum vom 01. Mär
 BahnCard Bedingungen für die 1. und 2. Wagenklasse für das erste Geltungsjahr zum folgend
 angegebenen Aktionspreis ausgegeben:
 
-
-
-
-
-
-
 |BahnCard|2.Klasse|1. Klasse|
 |---|---|---|
 |BahnCard 25|30,99 €|61,99 €|
+
+
 |BahnCard 50|199 €|399 €|
+|---|---|---|
 |Ermäßigte BahnCard 50,<br>Senioren Bahn Card 50|99,99 €|199 € €|
 |My BahnCard 50|49,99 €|199 €|
 
@@ -4315,114 +3885,7 @@ Abweichend von Nr. 2.8.2 der BahnCard Bedingungen ist der Umtausch jeglicher bes
 BahnCard in eine BahnCard zum Aktionspreis ausgeschlossen.
 
 
-**E.21** **Bedingungen für das Aktionsangebot „BahnCard Business zum Aktionspreis“**
-
-
-**1. Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von Bahn-Cards
-(BahnCard), die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet)
-sowie die Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten
-(bahn.business), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2. Aktionszeitraum**
-
-Das Aktionsangebot „BahnCard Business zum Aktionspreis “ gilt im Zeitraum vom 01. März bis
-
-zum 31. März 2025.
-
-
-**3. Aktionsbeschreibung**
-Im Zeitraum vom 01. März bis zum 31. März 2025 (letzter 1. Geltungstag) wird die BahnCard
-Business nach Nr. 3.8 der bahn.business Bedingungen zu folgenden Aktionspreisen ausgegeben.
-
-|BahnCard|2.Klasse|1. Klasse|
-|---|---|---|
-|BahnCard Business 25|35,99 €|71,99 €|
-
-
-BahnCard Business 50 249 € 499 €
-
-
-**4. Stornierung (Erstattung, Umtausch)**
-Es gelten die Regelungen nach Nr. 3.8.4 der bahn.business Bedingungen.
-Abweichend von Nr. 3.8.4.2 und Nr. 3.8.4.3 der bahn.business Bedingungen und Nr. 2.8.2 der
-BahnCard Bedingungen ist der Umtausch jeglicher bestehender BahnCards in die BahnCard
-Business zum Aktionspreis ausgeschlossen.
-
-
-**E.22** **Bedingungen für die Aktionen „Aktionsrabatt auf den Flexpreis“ und „Aktionsrabatt**
-**auf den Flexpreis Business“**
-
-
-**1.** **Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von bahn.businessAngeboten (bahn.business) und die Bedingungen für den Internet-Verkauf von Fahrkarten und
-BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2.** **Angebot**
-2.1 Die Angebote „Aktionsrabatt auf den Flexpreis“ und „Aktionsrabatt auf den Flexpreis
-Business“ werden im Zeitraum vom 25. März 2025 bis 28. März 2025 (Aktionszeitraum) für Reisen
-vom 25. März 2025 bis 30. April 2025 (Reisezeitraum) über den digitalen Verkauf angeboten.
-
-
-2.2 Bei Buchung einer Fahrkarte zum Flexpreis gemäß Nr. 3.2 BB Personenverkehr bzw. einer
-Fahrkarte zum Flexpreis Business gemäß Nr. 3.6.3 bahn.business wird jeweils ein Aktionsrabatt
-von 10% gewährt.
-
-
-2.3 Der Aktionsrabatt ist kontingentiert. Soweit das durch die DB Fernverkehr bereitgestellte
-Kontingent aufgebraucht ist, ist ein Erwerb von Fahrkarten mit Aktionsrabatt nicht mehr möglich.
-
-
-**E.23** **Bedingungen für das Aktionsangebot „BahnCard 50 Schnupper Aktion“**
-
-
-**1.** **Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von BahnCards
-(BahnCard), sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards
-(Internet), soweit sich aus den nachfolgenden Bestimmungen nichts anderes ergibt. Es gelten im
-Übrigen die Regelungen des auf Grundlage dieser Aktion jeweils gebuchten tariflichen Angebotes.
-
-
-**2. Aktionszeitraum**
-
-Das Angebot wird im Zeitraum 01. – 30. April 2025 (Aktionszeitraum) für den Reisezeitraum 01.30. April 2025 (Reisezeitraum) für Inhaber einer BahnCard 25, My BahnCard 25, Senioren
-BahnCard 25 sowie Probe BahnCard 25 (im Folgenden BahnCard 25) angeboten.
-
-
-**3. Aktionsbeschreibung**
-3.1 Im Aktionszeitraum gemäß Nr. 2 erhalten Inhaber einer BahnCard 25 einen Rabatt von 50%
-auf Fahrkarten zum Flexpreis. Eine Flexpreis Fahrkarte 1. Klasse wird nur mit einer BahnCard 25
-1. Klasse rabattiert.
-
-
-3.2 Der Rabatt wird im digitalen Verkauf über bahn.de und die App DB Navigator im
-Buchungsverlauf bei Angabe einer BahnCard 25 berücksichtigt. Im personalbedienten Verkauf
-wird auf der Fahrkarte die Ermäßigung BahnCard 50 aufgedruckt. Bei Buchung eines Flexpreises
-am Automaten muss dagegen eine BahnCard 50 angegeben werden. Abweichend hiervon muss im
-Zug eine BahnCard 25 vorgelegt werden. Nachträglich kann der Rabatt nicht gewährt werden.
-
-3.3 Der Rabatt wird nur für Fahrten innerhalb des Reisezeitraumes nach Nr. 2 gewährt. Liegt bei
-Buchung einer Hin- und Rückfahrt eine Fahrt außerhalb des Reisezeitraumes, müssen die Fahrten
-am Automaten und im personalbedienten Verkauf bei beabsichtigter Inanspruchnahme des
-Rabatts jeweils getrennt als Einzelfahrten auf separaten Fahrkarten gebucht werden. Bei Buchung
-über bahn.de und die App DB Navigator erfolgt die differenzierte Rabattierung automatisch,
-sodass eine Hin- und Rückfahrt auf einer Fahrkarte ausgestellt wird.
-
-
-**4.** **Stornierung (Umtausch und Erstattung)**
-Es gelten die Stornierungsbedingungen des gebuchten Flexpreises gemäß Nr. 4.2 BB
-Personenverkehr.
-
-
-**E.24** **Bedingungen für den Erwerb und die Nutzung von Event Fahrkarten**
+**E.11** **Bedingungen für den Erwerb und die Nutzung von Event Fahrkarten**
 
 
 **1.** **Grundsatz**
@@ -4462,6 +3925,7 @@ und keine kostenfreie Kindermitnahme angeboten.
 
 3.3 Der Erwerb und die Nutzung dieser Fahrkarten sind an die Vorlage von Eintrittskarten,
 Teilnahmebescheinigungen, Bestätigungen oder einer Einladung des Veranstalters zur jeweiligen
+
 Veranstaltung gebunden. Bei der Fahrkartenkontrolle ist neben der Fahrkarte auch die jeweilige
 Eintrittskarte oder eine Teilnahmebescheinigung, Bestätigung oder Einladung der
 Veranstaltungsorganisation zum Nachweis der Fahrtberechtigung vorzulegen.
@@ -4471,6 +3935,7 @@ Veranstaltungsorganisation zum Nachweis der Fahrtberechtigung vorzulegen.
 www.bahn.de können mit persönlicher Kreditkarte oder per PayPal bezahlt werden. Bei Erwerb
 über einen anderen Vertriebskanal / Vertriebsweg der jeweiligen Veranstaltungsorganisationen
 gelten bzgl. der Zahlungsabwicklung deren Regelungen.
+
 
 3.5 Die Anzahl der verfügbaren Angebote nach Nr. 3 bis 6 kann pro Veranstaltung begrenzt
 (kontingentiert) sein. Soweit das bereitgestellte Kontingent aufgebraucht ist, ist ein Erwerb nicht
@@ -4530,6 +3995,7 @@ Zahlungsmittel gezahlt.
 
 
 **6. Bedingungen Flexpreis Event**
+
 6.1 Fahrkarten zum Flexpreis Event werden zur An- und/oder Abreise zu einer Veranstaltung
 gemäß Nr. 2 angeboten. Das Entgelt berechnet sich nach der Verbindung, der gewählten
 Produktklasse im Fernverkehr, der Wagenklasse sowie dem Buchungs- und Reisetag. Sie gelten am
@@ -4540,6 +4006,7 @@ auf den eingetragenen Geltungstag folgenden Tages.
 6.2 Fahrkarten zum Flexpreis Event werden mit einem CityTicket gemäß Nr. 3.5.1 BB
 Personenverkehr ausgegeben.
 
+
 6.3 Inhaber einer BahnCard 25 erhalten 25% Rabatt auf den Flexpreis Event, Inhaber einer
 BahnCard 50 erhalten 50% Rabatt auf den Flexpreis Event.
 
@@ -4547,106 +4014,7 @@ BahnCard 50 erhalten 50% Rabatt auf den Flexpreis Event.
 6.4. Es gelten die Stornierungsbedingungen des Flexpreises nach Nr. 4.2 BB Personenverkehr
 
 
-**E.25** **Bedingungen für die Aktion „Aktionsrabatt auf Super Sparpreise und Sparpreise“**
-
-
-**1.** **Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), und die Bedingungen für den Internet-Verkauf von Fahrkarten und
-BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2.** **Angebotszeitraum**
-Das Aktionsangebot „Aktionsrabatt für Super Sparpreise und Sparpreise“ wird im Zeitraum vom
-22. April bis 24. April 2025 angeboten.
-
-
-**3. Fahrkarten**
-
-3.1 Das Angebot kann für Reisen ab dem 01. Mai 2025 über digitale Vertriebskanäle als digitales
-Ticket erworben werden.
-
-
-3.2 Es gelten die Bedingungen der Super Sparpreise bzw. der Sparpreise nach Nr. 3.3 BB
-Personenverkehr, des Sparpreis Aktion nach E.19 und des Sparpreis Business nach E.16 sowie Nr.
-3.5.2 und 3.5.3 BB Personenverkehr zum City-Ticket.
-
-
-3.3 Für die Mitnahme von Kindern im Alter von 6 bis einschließlich 14 Jahren gelten die
-Regelungen nach den Nummern 3.7.2 bzw. 3.7.3 BB Personenverkehr. Die Anzahl der Kinder ist
-bei der jeweiligen Buchung anzugeben.
-
-
-3.4 Es gelten die Stornierungsbedingungen des jeweils gebuchten, tariflichen Angebots.
-
-
-**4. Fahrpreise**
-4.1 Im Angebotszeitraum nach Nr. 2 wird bei Buchung einer Fahrkarte gemäß Nr. 3.1 und 3.2 ein
-Aktionsrabatt von 15% gewährt. Das Entgelt für das City-Ticket gemäß Nr. 3.5.2 BB
-Personenverkehr wird nicht rabattiert.
-
-
-4.2 Das Angebot ist kontingentiert. Soweit das durch die DB Fernverkehr bereitgestellte
-Kontingent aufgebraucht ist, ist ein Erwerb von Fahrkarten mit Aktionsrabatt nicht mehr möglich.
-
-
-**E.26** **Bedingungen für das Aktionsangebot „Mitfahrerrabatt für BahnCard 50 Kunden“**
-
-
-**1.** **Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von BahnCards
-(BahnCard), die Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten
-(bahn.business) sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards
-(Internet), soweit sich aus den nachfolgenden Bestimmungen nichts anderes ergibt. Es gelten im
-Übrigen die Regelungen des auf Grundlage dieser Aktion jeweils gebuchten tariflichen Angebotes.
-
-
-**2. Aktionszeitraum**
-
-Das Angebot wird im Zeitraum 01. Mai – 30. September 2025 (Aktionszeitraum) für den
-Reisezeitraum 01. Mai – 30. September 2025 (Reisezeitraum) für Inhaber einer BahnCard 50, My
-BahnCard 50, Senioren BahnCard 50, Probe BahnCard 50 sowie BahnCard Business 50 (im
-Folgenden „BahnCard 50“) angeboten.
-
-
-**3. Aktionsbeschreibung**
-
-3.1 Im Aktionszeitraum gemäß Nr. 2 können Inhaber einer BahnCard 50 einen Mitreisenden zum
-BahnCard 50 Rabatt auf ihrer Fahrkarte mitnehmen. Es wird für die mitreisende Person ein
-
-BahnCard Rabatt gemäß Nr. 2.1 der BahnCard Bedingungen gewährt.
-
-
-3.2 Um den Rabatt zu erhalten muss die mitreisende Person zusammen mit dem BahnCard 50
-
-Inhaber auf einer Fahrkarte gebucht werden. Bei Buchung muss für die mitreisende Person im
-Buchungsverlauf eine BahnCard 50 angegeben werden.
-Nachträglich kann der Rabatt nicht gewährt werden.
-Auf der Fahrkarte werden zwei Reisende mit BahnCard 50 aufgedruckt. Abweichend hiervon muss
-die mitfahrende Person im Zug keine BahnCard 50 vorlegen.
-Der Mitfahrerrabatt wird für eine mitreisende Person gewährt, weitere Mitreisende erhalten
-keinen Mitfahrerrabatt.
-
-Für eine rabattierte Fahrkarte der 1. Klasse muss der BahnCard 50 Inhaber eine BahnCard 50 1.
-
-Klasse vorlegen.
-
-
-3.3 Der Rabatt wird nur für Fahrten innerhalb des Reisezeitraumes nach Nr. 2 gewährt. Liegt bei
-Buchung einer Hin- und Rückfahrt eine Fahrt außerhalb des Reisezeitraumes, müssen die Fahrten
-bei beabsichtigter Inanspruchnahme des Angebotes jeweils getrennt als Einzelfahrten auf
-separaten Fahrkarten gebucht werden.
-
-
-**4.** **Stornierung (Umtausch und Erstattung)**
-Es gelten die Stornierungsbedingungen des auf Grundlage dieser Aktion jeweils gebuchten,
-tariflichen Angebotes.
-
-
-**E.27** **Bedingungen für das Aktionsangebot „My BahnCard 50 zum Aktionspreis“**
+**E.12** **Bedingungen für das Aktionsangebot „My BahnCard 50 zum Aktionspreis“**
 
 
 **1.** **Grundsatz**
@@ -4682,309 +4050,8 @@ Die Erstattung der My BahnCard 50 2. Klasse zum Aktionspreis ist ausgeschlossen.
 Abweichend von Nr. 2.8.2 der BahnCard Bedingungen ist der Umtausch jeglicher BahnCard in die
 My BahnCard 50 2. Klasse zum Aktionspreis ausgeschlossen.
 
-**E.28** **Bedingungen für die Aktionen „Aktionsrabatt auf den Flexpreis“ und Aktionsrabatt**
-**auf den Flexpreis Business“**
 
-
-**1.** **Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von bahn.businessAngeboten (bahn.business) und die Bedingungen für den Internet-Verkauf von Fahrkarten und
-BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2.** **Angebot**
-2.1 Die Angebote „Aktionsrabatt auf den Flexpreis“ und „Aktionsrabatt auf den Flexpreis
-Business“ werden im Zeitraum vom 15. Juni bis 31. Juli 2025 (Aktionszeitraum) für Reisen vom 13.
-Juli bis 13. Dezember 2025 (Reisezeitraum) für Buchungen bis 28 Tage vor dem 1. Geltungstag
-angeboten.
-
-
-2.2 Bei Buchung einer Fahrkarte zum Flexpreis gemäß Nr. 3.2 BB Personenverkehr bzw. einer
-Fahrkarte zum Flexpreis Business gemäß Nr. 3.6.3 bahn.business bis 28 Tage vor dem 1.
-Geltungstag wird jeweils ein Aktionsrabatt von 20% im Vergleich zur Buchung am Reisetag
-gewährt.
-
-
-2.3 Der Aktionsrabatt ist kontingentiert. Soweit das durch die DB Fernverkehr bereitgestellte
-Kontingent aufgebraucht ist, ist ein Erwerb von Fahrkarten mit Aktionsrabatt nicht mehr möglich.
-
-
-**E.29** **Bedingungen für die Aktion „Aktionsrabatt auf Monatskarten“**
-
-
-**1.** **Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von Zeitkarten
-(Zeitkarten) sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards
-(Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2.** **Angebot**
-2.1 Das Angebot „Aktionsrabatt auf Monatskarten“ wird im Zeitraum vom 15. Juni 2025 bis 28.
-Juni 2025 (Aktionszeitraum) angeboten.
-
-
-2.2 Bei Erwerb einer Monatskarte im Aktionszeitraum nach Nr. 2.1 mit 1. Geltungstag im Zeitraum
-15. Juni 2025 bis 14. September 2025 nach Nr. 2 und Nr. 3 der Zeitkarten Bedingungen wird ein
-Aktionsrabatt von 25% gewährt. Ausgenommen von der Aktion sind Monatskarten, die im
-Abonnement ausgegeben werden.
-
-
-**E.30** **Bedingungen für das Aktionsangebot „BahnCard Business 25 Klima“**
-
-
-**1. Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von Bahn-Cards
-(BahnCard), die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet)
-sowie die Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten
-(bahn.business), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2. Aktionszeitraum**
-
-Das Aktionsangebot „BahnCard Business 25 Klima“ gilt im Zeitraum vom 01. Juli bis zum 31. Juli
-
-2025.
-
-
-**3. Aktionsbeschreibung**
-
-Im Zeitraum vom 01. Juli bis zum 31. Juli 2025 wird die BahnCard Business 25 2. Klasse und 1.
-Klasse nach Nr. 3.8 der bahn.business Bedingungen zum Aktionspreis von 34,99 € bzw. 49,99 €
-ausgegeben. Der letzte mögliche 1. Geltungstag ist der 31.08.2025.
-
-
-**4. Stornierung (Erstattung, Umtausch)**
-Es gelten die Regelungen nach Nr. 3.8.4 der bahn.business Bedingungen.
-
-
-Abweichend von Nr. 3.8.4.2 und Nr. 3.8.4.3 der bahn.business Bedingungen und Nr. 2.8.2 der
-BahnCard Bedingungen ist der Umtausch jeglicher bestehender BahnCards in die BahnCard
-Business 25 Klima ausgeschlossen.
-
-
-**E.31** **Bedingungen für die Aktionen „44-Stunden-Ticket Young“**
-
-
-**1. Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und
-BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2. Angebot**
-Im Zeitraum vom 30. Juni bis zum 27. Juli 2025 (Verkaufszeitraum) wird das Angebot
-„44- Stunden-Ticket Young“ für die Wochenenden 4. – 6. Juli 2025, 11. – 13. Juli 2025, 18. – 20.
-Juli 2025 und 25. – 27. Juli 2025 jeweils von Freitag, 18 Uhr, bis Sonntag, 14 Uhr (jeweiliger
-Reisezeitraum) angeboten.
-
-
-**3. Fahrkarten**
-
-3.1 Der Erwerb von Fahrkarten „44-Stunden-Ticket Young“ ist über den digitalen Verkauf als
-digitales Ticket für Personen bis einschließlich 26 Jahre möglich.
-
-
-3.2 Die Fahrkarten werden ausschließlich für die 2. Wagenklasse zum Festpreis von 44 Euro
-ausgegeben. Ein BahnCard Rabatt wird nicht gewährt. Das Angebot ist kontingentiert und wird im
-Rahmen der Verfügbarkeit ausgegeben. Soweit das bereitgestellte Kontingent aufgebraucht ist, ist
-ein Erwerb nicht mehr möglich.
-
-
-3.3 Ein Rabatt für Kinder gemäß Nr. 3.7.4 BB Personenverkehr wird nicht gewährt. Abweichend
-von Nummer 3.7.2 und 3.7.3 BB Personenverkehr wird keine kostenfreie Kindermitnahme
-
-angeboten.
-
-
-3.4 Die Fahrkarten „44-Stunden-Ticket Young“ werden ohne City-Ticket nach Nr. 3.5 BB
-Personenverkehr ausgegeben.
-
-
-3.5 Das „44-Stunden-Ticket Young“ berechtigt im jeweiligen Reisezeitraum nach Nr. 2 zu
-unbegrenzten Fahrten in den Zügen der Produktklasse ICE und IC/EC. Die Fahrt muss bis zum
-Ende des Reisezeitraums am jeweiligen Sonntag, 14 Uhr, beendet sein. Eine Nutzung von Zügen
-der Produktklasse C ist auch im Parallelverkehr nicht erlaubt.
-
-
-3.6 Ein Übergang in die 1. Wagenklasse ist nicht erlaubt.
-
-
-3.7 Umtausch und Erstattung der Fahrkarten „44-Stunden-Ticket Young“ sind ausgeschlossen.
-
-
-**4. Haftung für Ausfall, Verspätung und Anschlussversäumnis**
-4.1 Abweichend von Nr. 9.1.1 BB Personenverkehr können Fahrkarten „44-Stunden-Ticket Young“
-im Fall von Zugausfall und Verspätung nicht in Zügen der Produktklasse C genutzt werden. In
-diesen Fällen muss zunächst eine Fahrkarte der Produktklasse C erworben werden. Für die
-
-Erstattung gilt Nr. 9.3 BB Personenverkehr.
-
-4.2 Für Inhaber eines „44-Stunden-Tickets Young“ gelten die Nummern 9.1.1 bis 9.1.4 und 9.2.1
-und 9.3 BB Personenverkehr mit der Maßgabe, dass diese bei Ausfall, Verspätung oder
-Anschlussversäumnis ab 60 Minuten innerhalb der Geltungsdauer der Fahrkarte eine Erstattung
-bzw. Entschädigung in Höhe von 5 € erhalten. Verspätungen ab 20 Minuten können im Rahmen
-der Entschädigung zwecks Erreichens der Zeitgrenze nach Satz 1 addiert und gesammelt
-eingereicht werden. Insgesamt werden je „44-Stunden-Ticket Young“ maximal 25% des Preises der
-Fahrkarte ausgezahlt.
-
-
-**E.32** **Bedingungen für die Aktionen „Treueaktion“**
-
-
-**1. Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutschen Bahn
-AG (BB Personenverkehr) sowie die Bedingungen für Gutscheine und Aktionsangebote (E.1,
-Aktionsangebote) soweit sich aus den nachfolgenden Bestimmungen nichts anderes ergibt.
-
-
-**2. Aktionszeitraum**
-
-Die Aktion „Treueaktion“ wird vom 20.08.2025 bis zum 20.10.2025 sowie vom 20.08.2025 bis
-zum 04.11.2025 angeboten.
-
-
-**3. Aktionsbedingungen**
-3.1 Per Zufall ausgewählte Kunden mit einem Kundenkonto, die mindestens 18 Jahre alt sind und
-keine Werbesperre erteilt haben, erhalten zu Beginn der Aktionszeiträume nach Nr. 2 die
-Information per E-Mail über die Möglichkeit, innerhalb eines der unter Nr. 2 genannten Zeiträume
-an der Aktion „Treueaktion“ teilzunehmen.
-
-
-3.2 Kunden nach Nr. 3.1 können innerhalb des ihnen mitgeteilten Aktionszeitraums nach Nr. 2
-neun Fahrkarten sammeln und erhalten im Anschluss eine zehnte Fahrkarte für eine Einzelfahrt
-
-als Freifahrt in Form eines Gutscheins. Als sammelberechtigt gelten Fahrkarten,
-
-
-  deren Buchungs- und Reisezeitraum im Aktionszeitraum nach Nr. 2 liegt und
-
-  bei denen es sich um einen Flexpreis nach Nr. 3.2 BB Personenverkehr, Super Sparpreis
-oder Sparpreis nach Nr. 3.3 BB Personenverkehr handelt mit jeweils einem Mindestfahrkartenwert von 49 € nach Abzug von etwaigen Rabatten (z.B. BahnCard-Rabatt) und
-ohne Anrechnung von Entgelten für Sitzplatzreservierungen und
-
-  die im Kundenkonto für den Kundenkontoinhaber persönlich gebucht werden; Fahrkartenbuchungen für Dritte werden nicht berücksichtigt.
-
-
-Als gesammelt gelten die vorgenannten Fahrkarten, wenn die jeweilige Fahrkarte nicht storniert
-worden ist.
-
-
-3.3 Der Gutschein für eine Freifahrt nach Nr. 4 wird bis zehn Tage nach dem jeweiligen
-Aktionsende per E-Mail an Kunden ausgegeben, die neun Fahrkarten nach Nr. 3.2 gesammelt
-haben.
-
-
-**4. Gutschein Freifahrt**
-
-4.1 Der ausgegebene Gutschein nach Nr. 3.3 ist für eine einfache Fahrt für eine Person für den
-Buchungs- und Reisezeitraum bis 13.12.2025 gültig.
-
-
-4.2 Der Gutschein kann ausschließlich über bahn.de oder die App DB Navigator innerhalb des
-Kundenkontos eingelöst werden.
-
-
-4.3 Der Gutschein ist nicht mit anderen Gutscheinen, BahnBonus Prämien oder Aktionsangeboten
-kombinierbar.
-
-4.4 Pro Buchung kann nur ein Gutschein eingelöst werden. Umtausch, Erstattung, Barauszahlung
-des Gutscheins und entgeltliche Weitergabe sind ausgeschlossen. Nicht eingelöste Gutscheine
-verfallen ersatzlos.
-
-
-4.5 Die Freifahrt berechtig zu einer Fahrt in der 2. Klasse, wenn alle Fahrkarten nach Nr. 3.2 für
-die 2. Klasse ausgestellt wurden, und zur Fahrt in der 1. Klasse, wenn mindestens eine Fahrkarte
-nach Nr. 3.2 für die 1.Klasse ausgestellt worden ist. Mindestens eine Teilstrecke muss in den Zügen
-der Produktklasse ICE oder IC/EC erfolgen.
-
-
-4.6 Es gilt die Kindermitnahmeregelung nach Nr. 3.7.2 und 3.7.3 BB Personenverkehr.
-
-
-4.7 Die Freifahrt beinhaltet kein City-Ticket gemäß Nr. 3.5 BB Personenverkehr.
-
-
-4.8 Ein Übergang von der 2. in die 1. Wagenklasse ist ausgeschlossen.
-
-
-4.9 Barauszahlung, Umtausch und Erstattung der Freifahrt sind ausgeschlossen.
-
-
-**E.33** **Bedingungen für die Aktionen „Aktionsrabatt für Super Sparpreise und Sparpreise“**
-
-
-**1.** **Grundsatz**
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), und die Bedingungen für den Internet-Verkauf von Fahrkarten und
-BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2.** **Angebotszeitraum**
-Das Aktionsangebot „Aktionsrabatt für Super Sparpreise und Sparpreise“ wird im Zeitraum vom
-21. August bis 23. August 2025 für Reisetage Dienstag und Mittwoch angeboten.
-
-
-**3. Fahrkarten**
-
-3.1 Das Angebot kann für Reisetage Dienstag und Mittwoch über digitale Vertriebskanäle als
-digitales Ticket erworben werden.
-
-
-3.2 Es gelten die Bedingungen der Super Sparpreise bzw. der Sparpreise nach Nr. 3.3 BB
-Personenverkehr sowie E.16 und E.19 Aktionsangebote, sowie Nr. 3.5.2 und 3.5.3 BB
-Personenverkehr zum City-Ticket.
-
-
-3.3 Für die Mitnahme von Kindern im Alter von 6 bis einschließlich 14 Jahren gelten die
-Regelungen nach den Nummern 3.7.2 bzw. 3.7.3 BB Personenverkehr. Die Anzahl der Kinder ist
-bei der jeweiligen Buchung anzugeben.
-
-
-3.4 Es gelten die Stornierungsbedingungen des jeweils gebuchten, tariflichen Angebots.
-
-
-**4. Fahrpreise**
-4.1 Im Angebotszeitraum nach Nr. 2 wird bei Buchung einer Fahrkarte gemäß Nr. 3.1 und 3.2 ein
-Aktionsrabatt von 20% gewährt. Das Entgelt für das City-Ticket gemäß Nr. 3.5.2 BB
-Personenverkehr wird nicht rabattiert.
-
-
-4.2 Das Angebot ist kontingentiert. Soweit das durch die DB Fernverkehr bereitgestellte
-Kontingent aufgebraucht ist, ist ein Erwerb von Fahrkarten mit Aktionsrabatt nicht mehr möglich.
-
-
-**E.34** **Bedingungen für die Aktion „Probe BahnCard 100 zum Aktionspreis für**
-**Geschäftskunden“**
-
-
-**1.** **Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von BahnCards
-
-(BahnCard) sowie die Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten
-(bahn.business) soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2.** **Angebot**
-2.1 Das Angebot „Aktionsrabatt auf die Probe BahnCard 100 für Geschäftskunden“ wird im
-Zeitraum vom 01. September 2025 bis 30. September 2025 (Aktionszeitraum) angeboten.
-
-
-2.2 Im Aktionszeitraum nach Nr. 2.1 wird die Probe BahnCard 100 gemäß Nr. 3 der BahnCard
-Bedingungen zum Aktionspreis von 999 € für die Probe BahnCard 2. Klasse und 1.799€ für die
-Probe BahnCard 1. Klasse für Teilnehmer des bahn.business Programms unter Angabe einer
-Geschäftskunden-Nummer (BMIS-Nummer) angeboten.
-
-
-**E.35** **Bedingungen für die Aktion „Probe BahnCard 25 und 50 zum Aktionspreis“**
+**E.13** **Bedingungen für die Aktion „Probe BahnCard 25 und 50 zum Aktionspreis“**
 
 
 **1.Grundsatz**
@@ -5004,7 +4071,6 @@ und Probe BahnCard 50 nach Nr. 2. der BahnCard Bedingungen zum Aktionspreis ausg
 |Probe BahnCard 50|39,99 €|79,99 €|
 
 
-
 2.2 Bleibt frei
 
 
@@ -5020,52 +4086,7 @@ BahnCard 50 ausgegeben.
 Es gelten die Regelungen nach Nr. 2.8 der BahnCard Bedingungen.
 
 
-**E.36** **Bedingungen für die Aktion „Flexpreis Young“**
-
-
-**1.** **Grundsatz**
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche
-Bahn AG (BB Personenverkehr) und die Bedingungen für den Internet-Verkauf von Fahrkarten
-und BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes
-ergibt.
-
-
-**2.** **Angebot**
-2.1 Das Angebot Flexpreis Young wird im Zeitraum vom 15. September 2025 bis 14. Oktober
-2025 (Aktionszeitraum) über den digitalen Verkauf angeboten.
-
-2.2 Das Angebot Flexpreis Young wird für Personen bis einschließlich 26 Jahre angeboten.
-Maßgeblich ist das Alter bei Fahrtantritt.
-
-
-2.3 Bei Buchung einer Fahrkarte zum Flexpreis Young wird auf den Flexpreis gemäß Nr. 3.2 BB
-Personenverkehr ein Rabatt von 20% gewährt.
-
-
-2.4 Fahrkarten zum Flexpreis Young werden ausschließlich für die 2. Wagenklasse ausgegeben.
-Ein Übergang in die 1 Klasse ist ausgeschlossen.
-
-
-2.5 Es gilt die Geltungsdauer gemäß Nr. 2.5 BB Personenverkehr.
-
-
-2.6 Fahrkarten zum Flexpreis Young werden mit einem CityTicket gemäß Nr. 3.5.1 BB
-Personenverkehr ausgegeben.
-
-
-2.7. Inhaber einer BahnCard 25 erhalten 25% Rabatt auf den Flexpreis Young, Inhaber einer
-BahnCard 50 erhalten 50% Rabatt auf den Flexpreis Young.
-
-
-2.8 Es gilt die Kindermitnahmeregelung gemäß Nr. 3.7.2 und 3.7.3 BB Personenverkehr.
-Abweichend von Nr. 3.7.4 BB Personenverkehr wird keine Kinderermäßigung angeboten.
-
-
-**3. Umtausch und Erstattung**
-Es gelten die Stornierungsbedingungen des Flexpreises nach Nr. 4.2 BB Personenverkehr.
-
-
-**E.37** **Bedingungen für die Aktion „Super Sparpreis Gruppe Aktion“**
+**E.14** **Bedingungen für die Aktion „Super Sparpreis Gruppe Aktion“**
 
 
 **1. Grundsatz**
@@ -5115,140 +4136,11 @@ verfügbaren Kontingentgruppe.
 **5. Umtausch und Erstattung**
 Umtausch und Erstattung der Fahrkarte „Super Sparpreis Gruppe Aktion“ sind ausgeschlossen.
 
-
-**E.38** **Bedingungen für die Aktion „Aktionsrabatt für Super Sparpreise und Sparpreise“**
-
-
-**1.** **Grundsatz**
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), und die Bedingungen für den Internet-Verkauf von Fahrkarten und
-BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2.** **Angebotszeitraum**
-Das Aktionsangebot „Aktionsrabatt für Super Sparpreise und Sparpreise“ wird im Zeitraum vom
-17. Oktober bis 21. Oktober 2025 angeboten.
-
-
-**3. Fahrkarten**
-
-3.1 Das Angebot kann über digitale Vertriebskanäle als digitales Ticket erworben werden.
-
-
-3.2 Es gelten die Bedingungen der Super Sparpreise bzw. der Sparpreise nach Nr. 3.3 BB
-Personenverkehr, des Sparpreis Aktion nach E.19 und des Sparpreis Business nach E.16 sowie Nr.
-3.5.2 und 3.5.3 BB Personenverkehr zum City-Ticket.
-
-
-3.3 Für die Mitnahme von Kindern im Alter von 6 bis einschließlich 14 Jahren gelten die
-Regelungen nach den Nummern 3.7.2 bzw. 3.7.3 BB Personenverkehr. Die Anzahl der Kinder ist
-bei der jeweiligen Buchung anzugeben.
-
-
-3.4 Es gelten die Stornierungsbedingungen des jeweils gebuchten, tariflichen Angebots.
-
-
-**4. Fahrpreise**
-4.1 Im Angebotszeitraum nach Nr. 2 wird bei Buchung einer Fahrkarte gemäß Nr. 3.1 und 3.2 ein
-Aktionsrabatt von 12% gewährt. Das Entgelt für das City-Ticket gemäß Nr. 3.5.2 BB
-Personenverkehr wird nicht rabattiert.
-
-
-4.2 Das Angebot ist kontingentiert. Soweit das durch die DB Fernverkehr bereitgestellte
-Kontingent aufgebraucht ist, ist ein Erwerb von Fahrkarten mit Aktionsrabatt nicht mehr möglich.
-
-
-**E.39** **Bedingungen für das Aktionsangebot** **„Mitfahrerrabatt für bis zu 4 Mitfahrer für**
-**BahnCard Kunden“**
-
-
-**1.** **Grundsatz**
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von BahnCards
-(BahnCard), die Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten
-(bahn.business) sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards
-(Internet), soweit sich aus den nachfolgenden Bestimmungen nichts anderes ergibt. Es gelten im
-Übrigen die Regelungen des auf Grundlage dieser Aktion jeweils gebuchten tariflichen Angebotes.
-
-**2.** **Aktionszeitraum**
-Das Angebot wird im Zeitraum 01. November – 30. November 2025 (Aktionszeitraum) für den
-Reisezeitraum 01. November – 30. November 2025 (Reisezeitraum) für Inhaber einer BahnCard
-25, My BahnCard 25, Senioren BahnCard 25, Probe BahnCard 25, BahnCard Business 25 (im
-Folgenden „BahnCard 25“) sowie BahnCard 50, My BahnCard 50, Senioren BahnCard 50, Probe
-BahnCard 50 sowie BahnCard Business 50 (im Folgenden „BahnCard 50“) angeboten.
-
-**3.** **Aktionsbeschreibung**
-3.1 Im Aktionszeitraum gemäß Nr. 2 können Inhaber einer BahnCard 25 oder BahnCard 50 bis
-zu vier Mitreisende zum BahnCard 25 bzw. BahnCard 50 Rabatt auf ihrer Fahrkarte mitnehmen.
-Es wird für die mitreisenden Personen ein BahnCard Rabatt gemäß Nr. 2.1 der BahnCard
-Bedingungen gewährt.
-
-3.2 Um den Rabatt zu erhalten müssen die mitreisenden Personen zusammen mit dem
-BahnCard 25 bzw. BahnCard 50 Inhaber auf einer Fahrkarte gebucht werden. Bei Buchung muss
-für die mitreisenden Personen im Buchungsverlauf eine BahnCard 25 bzw. BahnCard 50
-angegeben werden.
-Nachträglich kann der Rabatt nicht gewährt werden.
-Auf der Fahrkarte werden alle Reisenden mit BahnCard 25 bzw. BahnCard 50 aufgedruckt.
-Abweichend hiervon müssen die mitfahrenden Personen im Zug keine BahnCard vorlegen.
-Für eine rabattierte Fahrkarte der 1. Klasse muss der BahnCard 25 bzw. BahnCard 50 Inhaber eine
-BahnCard 25 bzw. BahnCard 50 der 1. Klasse vorlegen.
-
-3.3 Der Rabatt wird nur für Fahrten innerhalb des Reisezeitraumes nach Nr. 2 gewährt. Liegt bei
-Buchung einer Hin- und Rückfahrt eine Fahrt außerhalb des Reisezeitraumes, müssen die Fahrten
-bei beabsichtigter Inanspruchnahme des Angebotes jeweils getrennt als Einzelfahrten auf
-separaten Fahrkarten gebucht werden.
-
-**4.** **Stornierung (Umtausch und Erstattung)**
-Es gelten die Stornierungsbedingungen des auf Grundlage dieser Aktion jeweils gebuchten,
-tariflichen Angebotes.
-
-
-**E.40** **Bedingungen für die Aktion** **„** **„Aktionsrabatt Sparpreis Business“**
-
-
-**1.** **Grundsatz**
-
-Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
-AG (BB Personenverkehr), und die Bedingungen für den Internet-Verkauf von Fahrkarten und
-BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
-
-
-**2.** **Angebotszeitraum**
-Das Aktionsangebot „Aktionsrabatt Sparpreis Business “ wird im Zeitraum vom 03. November –
-23. November 2025 angeboten.
-
-
-**3. Fahrkarten**
-
-3.1 Das Angebot kann vom 03. November – 23. November 2025 über bahn.business als digitales
-Ticket erworben werden.
-
-
-3.2 Es gelten die Bedingungen des Sparpreis Business nach E.16 sowie Nr. 3.5.2 und 3.5.3 BB
-Personenverkehr zum City-Ticket.
-
-
-3.3 Für die Mitnahme von Kindern im Alter von 6 bis einschließlich 14 Jahren gelten die
-Regelungen nach den Nummern 3.7.2 bzw. 3.7.3 BB Personenverkehr. Die Anzahl der Kinder ist
-bei der jeweiligen Buchung anzugeben.
-
-
-3.4 Es gelten die Stornierungsbedingungen des jeweils gebuchten, tariflichen Angebots.
-
-
-**4. Fahrpreise**
-4.1 Im Angebotszeitraum nach Nr. 2 wird bei Buchung einer Fahrkarte gemäß Nr. 3.1 und 3.2 ein
-Aktionsrabatt von 10% gewährt. Das Entgelt für das City-Ticket gemäß Nr. 3.5.2 BB
-Personenverkehr wird nicht rabattiert.
-
-4.2 Das Angebot ist kontingentiert. Soweit das durch die DB Fernverkehr bereitgestellte
-Kontingent aufgebraucht ist, ist ein Erwerb von Fahrkarten mit Aktionsrabatt nicht mehr möglich.
-
 **TfV 600 F**
 
 # **Beförderungsbedingungen für** **Reisegepäck** **(Reisegepäck)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 23.09.2025**
+## **Gültig ab 14. Dezember 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -5406,7 +4298,7 @@ Sonderziehungsrecht (SZR).
 
 # **Bedingungen für den Erwerb und die** **Nutzung von bahn.business-Angeboten** **(bahn.business)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 15.06.2025**
+## **Gültig ab 14. Dezember 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -5978,7 +4870,7 @@ die kommerzielle Weiterverwendung von Daten durch den Kunden, ist nicht gestatte
 
 # **Bedingungen für den Internet-Verkauf** **von Fahrkarten und BahnCards** **(Internet)**
 
-## **Gültig ab 15. Dezember 2024**
+## **Gültig ab 14. Dezember 2025**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -6048,7 +4940,7 @@ Erwerb und die Nutzung von BahnCards (BahnCard)
 6.1 Erwerb von digitalen Tickets und Reservierungen als Online-Ticket
 
 
-6.1.1 Unter [www.bahn.de](http://www.bahn.de/) sowie in der Buchungs-App DB Navigator können Inhaber, eines
+6.1.1 Unter [www.bahn.de sowie in der Buchungs-App DB Navigator können Inhaber, eines](http://www.bahn.de/)
 gültigen EU-Personalausweises oder Personalausweises aus Norwegen bzw. der Schweiz, eines
 deutschen oder internationalen Reisepasses, eines von einer deutschen Behörde ausgestellten
 elektronischen Aufenthaltstitels, einer von einer deutschen Behörde ausgestellten Bescheinigung
@@ -6144,7 +5036,7 @@ bei der Bestellung angegebene Konto.
 **I.9** **Zahlarten**
 
 
-9.1 [Buchungen auf www.bahn.de und über die Buchungs-App können mit Kreditkarte, per](http://www.bahn.de/)
+9.1 [Buchungen auf www.bahn.de](http://www.bahn.de/) und über die Buchungs-App können mit Kreditkarte, per
 PayPal, giropay, SEPA-Lastschriftverfahren oder Apple Pay bezahlt werden.
 
 
@@ -6286,7 +5178,15 @@ in sog. Brieftaschen-Apps zur Speicherung virtueller Objekte (z.B. Apple Wallet)
 
 # **Bedingungen für BahnBonus** **Prämienfahrkarten** **(Prämienfahrkarten)**
 
-## **Gültig ab 15. Dezember 2024** **Aktualisierter Stand vom 25.11.2025**
+## **Gültig ab 14. Dezember 2025**
+
+Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
+Bezug über: [aktuelle Ausgaben: www.db-fernverkehr.com, www.dbregio.de, www.bahn.de](http://www.db-fernverkehr.com/)
+ältere Ausgaben: [https://bahn.de/agb/archiv](https://bahn.de/agb/archiv)
+oder bei: DB Fernverkehr AG, Tarifimplementierung (P.FMR 13)
+Europa-Allee 78-84, 60486 Frankfurt am Main,
+E-Mail: tarif.fernverkehr@deutschebahn.com
+
 ### **K Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten)**
 
 **K.1** **Allgemeines**
@@ -6634,18 +5534,20 @@ BahnBonus international“ kein City-Ticket.
 4.7.5 (bleibt frei)
 
 4.8 BahnBonus Prämienfahrkarte „Länder-Ticket"
-4.9.1 Die BahnBonus Prämienfahrkarte „Länder-Ticket“ gibt es entsprechend der
+
+
+4.8.1 4.9.1 Die BahnBonus Prämienfahrkarte „Länder-Ticket“ gibt es entsprechend der
 erforderlichen BahnBonus Prämienpunkte als Online-Ticket nach Nr. 2.2.1 in den Varianten
 „Bayern-Ticket“, „Mecklenburg-Vorpommern-Ticket“, „Rheinland-Pfalz und Saarland-Ticket“,
 „Sachsen, Sachsen-Anhalt und Thüringen-Ticket“, und als „Schleswig-Holstein-Ticket“.
 
 
-4.8.1 Die BahnBonus Prämienfahrkarte "Länder-Ticket" gilt in der 2. Wagenklasse für beliebig
+4.8.2 Die BahnBonus Prämienfahrkarte "Länder-Ticket" gilt in der 2. Wagenklasse für beliebig
 viele Fahrten in Zügen der Produktklasse C gemäß Nr. 1.4 BB Personenverkehr im Geltungsbereich
 des jeweiligen Ländertickets am eingetragenen Geltungstag.
 
 
-4.8.2 Die BahnBonus Prämienfahrkarte "Länder-Ticket" gilt für den BahnBonus-Teilnehmer und
+4.8.3 Die BahnBonus Prämienfahrkarte "Länder-Ticket" gilt für den BahnBonus-Teilnehmer und
 maximal vier Begleitpersonen, die auf dem Länder-Ticket eingetragen sein müssen. Zusätzlich
 können bis zu drei Kinder (6-14 Jahre) mitgenommen werden, die nicht auf der Fahrkarte
 eingetragen sein müssen.
@@ -6734,7 +5636,7 @@ Kontingent aufgebraucht ist, ist ein Erwerb nicht mehr möglich.
 
 # **Auszüge aus der Preisliste und den** **Entgeltbedingungen**
 
-## **Neuausgabe zum 15. Dezember 2024** **Aktualisierter Stand vom 15.10.2025**
+## **Gültig ab 14. Dezember 2025**
 
 Auf den Abdruck des Dokuments „Auszüge aus der Preisliste und den Entgeltbedingungen“ wird
 verzichtet.
