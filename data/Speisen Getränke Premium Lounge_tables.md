@@ -1,6 +1,6 @@
 ## Speisen und Getränke Premium Bereich
 
-Stand: Dezember 2025
+Stand: Januar 2026
 
 
 Änderungen der Speisekarte vorbehalten. Gerne stellen wir Ihnen
@@ -95,7 +95,7 @@ Kuchen
 Apfel-Streuselkuchen
 
 
-Choc-O-Lot Bites
+Mini Donuts
 
 
 ### Getränke
