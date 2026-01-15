@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 13. Januar 2026**
+**Aktualisierter Stand vom 16. Januar 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -178,104 +178,107 @@ E.16 Bedingungen für das Aktionsangebot „Bahn Business Booster 2026“ ......
 E.17 Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“ ...................................... 77
 
 
-**F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 79**
+E.18 Bedingungen für das Aktionsangebot „Probe BahnCard Gold“ ........................................ 77
 
 
-F.1 Geltungsbereich ................................................................................................................ 79
+**F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 80**
 
 
-F.2 Aufgabe von Reisegepäck .................................................................................................. 79
+F.1 Geltungsbereich ................................................................................................................ 80
 
 
-F.3 Verpackung........................................................................................................................ 80
+F.2 Aufgabe von Reisegepäck .................................................................................................. 80
 
 
-F.4 Entgelt für die Gepäckbeförderung ................................................................................... 80
+F.3 Verpackung........................................................................................................................ 81
 
 
-F.5 Stornierung ....................................................................................................................... 80
+F.4 Entgelt für die Gepäckbeförderung ................................................................................... 81
 
 
-F.6 Entschädigungen bei Verlust und bei verspäteter Auslieferung ........................................ 81
+F.5 Stornierung ....................................................................................................................... 81
+
+
+F.6 Entschädigungen bei Verlust und bei verspäteter Auslieferung ........................................ 82
 
 
 **G** **Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten**
-**(bahn.business) ............................................................................................................................ 83**
+**(bahn.business) ............................................................................................................................ 84**
 
 
-G.1 Anwendungsbereich .......................................................................................................... 83
+G.1 Anwendungsbereich .......................................................................................................... 84
 
 
-G.2 Teilnahmebedingungen ..................................................................................................... 83
+G.2 Teilnahmebedingungen ..................................................................................................... 84
 
 
-G.3 Gewährung von Bonusleistungen ...................................................................................... 83
+G.3 Gewährung von Bonusleistungen ...................................................................................... 84
 
 
-G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 87
+G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 88
 
 G.5 Gewährung von Rabatt für Reisen zu Rehabilitations-/Kuraufenthalten für
-Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 88
+Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 89
 
 
-**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ....... 93**
+**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ....... 94**
 
 
-I.1 Anwendungsbereich .......................................................................................................... 93
+I.1 Anwendungsbereich .......................................................................................................... 94
 
 
-I.2 Erwerb ............................................................................................................................... 93
+I.2 Erwerb ............................................................................................................................... 94
 
 
-I.3 Vorverkaufsfristen ............................................................................................................. 93
+I.3 Vorverkaufsfristen ............................................................................................................. 94
 
 
-I.4 Bleibt frei........................................................................................................................... 93
+I.4 Bleibt frei........................................................................................................................... 94
 
 
-I.5 BahnCard-Bestellung ........................................................................................................ 93
+I.5 BahnCard-Bestellung ........................................................................................................ 94
 
 
-I.6 Digitale Tickets .................................................................................................................. 93
+I.6 Digitale Tickets .................................................................................................................. 94
 
 
-I.7 Bleibt frei........................................................................................................................... 94
+I.7 Bleibt frei........................................................................................................................... 95
 
 
-I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 95
+I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 96
 
 
-I.9 Zahlarten ........................................................................................................................... 95
+I.9 Zahlarten ........................................................................................................................... 96
 
 
-I.10 Belege im Sinne des deutschen Steuerrechts .................................................................... 95
+I.10 Belege im Sinne des deutschen Steuerrechts .................................................................... 96
 
 
-I.11 Datenschutz/Datensicherheit ........................................................................................... 95
+I.11 Datenschutz/Datensicherheit ........................................................................................... 96
 
 
-I.12 Sonstiges ........................................................................................................................... 96
+I.12 Sonstiges ........................................................................................................................... 97
 
 
-I.13 Anfragen/Kontakt.............................................................................................................. 96
+I.13 Anfragen/Kontakt.............................................................................................................. 97
 
 
-**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) .......................... 99**
+**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 100**
 
 
-K.1 Allgemeines ....................................................................................................................... 99
+K.1 Allgemeines ..................................................................................................................... 100
 
 
-K.2 Grundsätzliche Regelungen ............................................................................................... 99
+K.2 Grundsätzliche Regelungen ............................................................................................. 100
 
 
-K.3 Fahrgastrechte ................................................................................................................ 100
+K.3 Fahrgastrechte ................................................................................................................ 101
 
 
-K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 101
+K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 102
 
 
-Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen .......................... 107
+Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen .......................... 108
 
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
@@ -284,6 +287,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |3/2026|Aktionsangebote<br>- <br>E.15: Bahn Business Welcome Rabatt<br>- <br>E.16: Bahn Business Booster 2026|
 |4/2026|BB Personenverkehr<br>- <br>Nr. 2.1.3: Streichung der Dopplungen zu E.1 Aktionsangebote<br>Aktionsangebote<br>- <br>E.1, 1.2.4: Schärfung des Werts und Hinweises zu Fahrgastrechtegutscheinen|
 |5/2026|Aktionsangebote<br>- <br>E.1 Nr. 1.3.4: Gutscheine für Bahnkunden<br>- <br>E.17: Super Sparpreis Aktion|
+|6/2026|Aktionsangebote<br>- <br>E.18: Probe BahnCard Gold|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -3066,7 +3070,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 13.01.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 16.01.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3081,9 +3085,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |01/2026|- <br>Löschung der bereist ausgelaufenen Aktionen und dadurch<br>neue Nummerierungen<br>- <br>E.7: Verlängerung der Aktion „My BahnCard 100“<br>|<br> <br>Bis 31.03.2026|<br> <br>Bis 31.03.2026|
 |03/2026|- <br>E.15: Bahn Business Welcome Rabatt<br>- <br>E.16: Bahn Business Booster 2026<br>|01.01.2026 – 30.06.2026<br>01.01.2026 – 31.05.2026|01.01.2026 – 30.06.2026<br>01.01.2026 – 31.05.2026|
 |04/2026|- <br>E.1, 1.2.4: Schärfung des Werts und Hinweises zu<br>Fahrgastrechtsgutscheinen|||
-|05/2026|- <br>E.1. Nr.1.3.4: Gutscheine für Bahnkunden<br>- <br>E.17: Super Sparpreis Aktion|bis auf Weiteres<br>13.01. 2026 – 15.01.2026|bis auf Weiteres<br>13.01. 2026 – 15.01.2026|
-
-
+|05/2026|- <br>E.1. Nr.1.3.4: Gutscheine für Bahnkunden<br>- <br>E.17: Super Sparpreis Aktion<br>|bis auf Weiteres<br>13.01.2026 – 15.01.2026|bis auf Weiteres<br>13.01.2026 – 15.01.2026|
+|06/2026|- <br>E.18: Probe BahnCard Gold|16.01.2026 – 05.02.2026|16.01.2026 – 05.02.2026|
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -4236,6 +4239,57 @@ Festpreisen ab 8,99 € pro Person für die einfache Fahrt angeboten.
 
 **5. Umtausch und Erstattung**
 Umtausch und Erstattung der Fahrkarte „Super Sparpreis Aktion“ sind ausgeschlossen.
+
+
+**E.18** **Bedingungen für das Aktionsangebot „Probe BahnCard Gold“**
+
+
+**1. Grundsatz**
+Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
+AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von BahnCards
+(BahnCard) sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und Bahn-Cards
+(Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
+
+
+**2. Aktionsbeschreibung**
+2.1 Im Zeitraum vom 16.01.2026 – 05.02.2026 wird die Probe BahnCard Gold 25/50 für die 1.
+und 2. Klasse (Probe BahnCard Gold) angeboten. Der letztmögliche erste Geltungstag der Probe
+BahnCard Gold ist der 05.02.2026.
+
+
+2.2 Für die Probe BahnCard Gold gelten die Preise und Bedingungen der regulären Probe
+BahnCard 25/50 gemäß Nr. 2 der BahnCard Bedingungen. Die Probe BahnCard Gold wird gemäß
+Nr. 2.6.1.2 der BahnCard Bedingungen in ein reguläres BahnCard 25/50 Abo überführt, sofern sie
+
+nicht 4 Wochen vor Gültigkeitsende in Textform gegenüber der DB Fernverkehr (z.B. beim
+Kundenservice) gekündigt wird.
+
+
+**3. Zusatznutzen der Probe BahnCard Gold**
+3.1 Wird an einem Tag der Winterspiele Milano Cortina vom 06.02.2026 – 22.02.2026 vom
+deutschen Team mindestens eine Goldmedaille gewonnen, können Inhaber der Probe BahnCard
+Gold am darauffolgenden Tag (00:00 Uhr – 24:00 Uhr) in Zügen der Produktklasse ICE und IC/EC
+gegen Vorlage der Probe BahnCard Gold kostenfrei fahren. Eine kostenfreie Nutzung von Zügen
+der Produktklasse C ist ausgeschlossen. Die Freifahrt erfolgt in der Klasse der Probe BahnCard
+Gold. Ein Übergang in die 1. Klasse mit einer Probe BahnCard Gold der 2. Klasse ist ausgeschlossen.
+Wird an einem Tag vom deutschen Team mehr als eine Goldmedaille gewonnen, verlängert sich der
+Zeitraum der Freifahrt nicht.
+
+
+3.2 Für die Freifahrt gilt die Kindermitnahmeregelung gemäß Nr. 3.7.2 und Nr. 3.7.3 BB
+Personenverkehr.
+
+
+3.3 Abweichend von Nr. 9.1.1 BB Personenverkehr kann die Freifahrt mit der Probe BahnCard
+
+Gold im Fall von Zugausfall oder Verspätung nicht in Zügen der Produktklasse C genutzt werden.
+In diesen Fällen muss zunächst eine Fahrkarte der Produktklasse C erworben werden. Für die
+
+Erstattung gilt Nr. 9.3 BB Personenverkehr.
+
+
+3.4 Für ggf. im Vorverkauf erworbene Fahrkarten für den Zeitraum der Freifahrt gelten für
+Umtausch und Erstattung der Fahrkarte die Bedingungen des jeweils erworbenen Angebotes.
 
 **TfV 600 F**
 
