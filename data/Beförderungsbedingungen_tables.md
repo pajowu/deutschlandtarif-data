@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 11. Februar 2026**
+**Aktualisierter Stand vom 16. Februar 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -294,6 +294,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |7/2026|Aktionsangebote<br>- <br>E.19: 44-Stunden-Ticket Young|
 |8/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für tennis.de Registrierte|
 |9/2026|Reisegepäck<br>- <br>Nr. 2.1.1, 2.1.2: Einstellung des Gepäckversands<br>Bahn.business<br>- <br>Nr. 5.2.2, Nr.6: Aufnahme von Regelungen zum Gepäckversand|
+|10/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für Deutschland-Ticket-Inhaber|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -3076,7 +3077,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 01.02.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 16.02.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3094,7 +3095,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |05/2026|- <br>E.1. Nr.1.3.4: Gutscheine für Bahnkunden<br>- <br>E.17: Super Sparpreis Aktion<br>|bis auf Weiteres<br>13.01.2026 – 15.01.2026|bis auf Weiteres<br>13.01.2026 – 15.01.2026|
 |06/2026|- <br>E.18: Probe BahnCard Gold<br>|16.01.2026 – 05.02.2026|16.01.2026 – 05.02.2026|
 |07/2026|- <br>E.19: 44-Stunden-Ticket Young<br>|01.02.2026 – 19.03.2026|01.02.2026 – 19.03.2026|
-|08/2026|- <br>E.1.3.4: Gutscheine für tennis.de Registrierte|01.02.2026 – 31.05.2026|01.02.2026 – 31.05.2026|
+|08/2026|- <br>E.1.3.4: Gutscheine für tennis.de Registrierte<br>|01.02.2026 – 31.05.2026|01.02.2026 – 31.05.2026|
+|10/2026|- <br>E.1.3.4: Gutscheine für Deutschland-Ticket-Inhaber|16.02.2026 – 16.03.2026|16.02.2026 – 16.03.2026|
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -3279,6 +3281,7 @@ einzulösende Aktionsgutscheine können nur im eingeloggten Bereich verwendet we
 |---|---|---|---|---|---|---|---|
 |10€, 15€ und 20€<br>Gutscheine|BahnCard Inhaber,<br>Teilnehmer des<br>BahnBonus<br>Programms, zufällig<br>ausgewählte Bahn<br>Kunden|Fahrkarten gemäß Nr. 3<br>BB Personenverkehr<br>ab 39€<br>Mindestfahrkarten-<br>wert (10€ Gutschein)<br>und ab 49€<br>Mindestfahrkarten-<br>wert (15€, 20€<br>Gutschein)|bis auf weiteres|gemäß Angabe auf<br>dem Gutschein|Gemäß Angabe auf<br>dem Gutschein|Die Einlösung kann<br>ausschließlich im<br>persönlichen<br>Kundenkonto des<br>Gutscheinempfängers<br>erfolgen.||
 |Gutscheine für eine<br>Jugend BahnCard für<br>tennis.de Registrierte|Tennis.de Registrierte<br>zwischen 6 bis<br>einschließlich 18 Jahre|Jugend Bahn-Card ge-<br>mäß Nr. 2 BahnCard<br>Bedingungen <br>|01.02.2026<br> –<br>31.05.2026|01.02.2026<br>- <br>31.05.2026|Gemäß Nr. 2 der<br>BahnCard Bedingun-<br>gen, der 1. Geltungs-<br>tag der Jugend Bahn-<br>Card muss im Akti-<br>onszeitraum liegen|Einlösung der Gut-<br>scheine ausschließ-<br>lich online<br>||
+|Gutschein für eine<br>Probe BahnCard 25 2.<br>Klasse|Inhaber eines<br>Deutschland-Tickets|Probe BahnCard 25 2.<br>Klasse<br>gemäß Nr. 2 der Bahn-<br>Card Bedingungen|16.02.2026<br>– <br>16.03.2026<br>|16.02.2026<br> –<br>16.03.2026<br>|Gemäß Nr. 2 der<br>BahnCard Bedingun-<br>gen|Der Gutschein ist<br>über die Internet-<br>seite<br>(https://deutsch-<br>land-ticket-ak-<br>tion.de/)<br>erhältlich.<br>Pro Deutschland-Ti-<br>cket-Inhaber kann<br>nur ein Gutschein ge-<br>neriert werden.<br>Pro Kundenkonto<br>kann nur ein Gut-<br>schein eingelöst wer-<br>den.||
 
 
 
