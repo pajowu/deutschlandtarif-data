@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 16. Februar 2026**
+**Aktualisierter Stand vom 20. Februar 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -196,7 +196,7 @@ F.2 Aufgabe von Reisegepäck ...................................................
 F.3 Verpackung........................................................................................................................ 82
 
 
-F.4 Entgelt für die Gepäckbeförderung ................................................................................... 83
+F.4 Entgelt für die Gepäckbeförderung ................................................................................... 82
 
 
 F.5 Stornierung ....................................................................................................................... 83
@@ -224,64 +224,64 @@ G.5 Gewährung von Rabatt für Reisen zu Rehabilitations-/Kuraufenthalten für
 Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 90
 
 
-**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ....... 97**
+**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ....... 96**
 
 
-I.1 Anwendungsbereich .......................................................................................................... 97
+I.1 Anwendungsbereich .......................................................................................................... 96
 
 
-I.2 Erwerb ............................................................................................................................... 97
+I.2 Erwerb ............................................................................................................................... 96
 
 
-I.3 Vorverkaufsfristen ............................................................................................................. 97
+I.3 Vorverkaufsfristen ............................................................................................................. 96
 
 
-I.4 Bleibt frei........................................................................................................................... 97
+I.4 Bleibt frei........................................................................................................................... 96
 
 
-I.5 BahnCard-Bestellung ........................................................................................................ 97
+I.5 BahnCard-Bestellung ........................................................................................................ 96
 
 
-I.6 Digitale Tickets .................................................................................................................. 97
+I.6 Digitale Tickets .................................................................................................................. 96
 
 
-I.7 Bleibt frei........................................................................................................................... 98
+I.7 Bleibt frei........................................................................................................................... 97
 
 
-I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 99
+I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 98
 
 
-I.9 Zahlarten ........................................................................................................................... 99
+I.9 Zahlarten ........................................................................................................................... 98
 
 
-I.10 Belege im Sinne des deutschen Steuerrechts .................................................................... 99
+I.10 Belege im Sinne des deutschen Steuerrechts .................................................................... 98
 
 
-I.11 Datenschutz/Datensicherheit ........................................................................................... 99
+I.11 Datenschutz/Datensicherheit ........................................................................................... 98
 
 
-I.12 Sonstiges ......................................................................................................................... 100
+I.12 Sonstiges ........................................................................................................................... 99
 
 
-I.13 Anfragen/Kontakt............................................................................................................ 100
+I.13 Anfragen/Kontakt.............................................................................................................. 99
 
 
-**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 103**
+**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 102**
 
 
-K.1 Allgemeines ..................................................................................................................... 103
+K.1 Allgemeines ..................................................................................................................... 102
 
 
-K.2 Grundsätzliche Regelungen ............................................................................................. 103
+K.2 Grundsätzliche Regelungen ............................................................................................. 102
 
 
-K.3 Fahrgastrechte ................................................................................................................ 104
+K.3 Fahrgastrechte ................................................................................................................ 103
 
 
-K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 105
+K.4 Konditionen der BahnBonus Prämienfahrkarten ............................................................ 104
 
 
-Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen .......................... 111
+Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen .......................... 110
 
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
@@ -295,10 +295,11 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |8/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für tennis.de Registrierte|
 |9/2026|Reisegepäck<br>- <br>Nr. 2.1.1, 2.1.2: Einstellung des Gepäckversands<br>Bahn.business<br>- <br>Nr. 5.2.2, Nr.6: Aufnahme von Regelungen zum Gepäckversand|
 |10/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für Deutschland-Ticket-Inhaber|
+|11/2026|BB Personenverkehr<br>- <br>Nr. 9.2.1: Änderung der Rundungsregeln<br>Aktionsangebote<br>- <br>E.5 Nr. 3.6: Entfall giropay<br>Internet<br>- <br>Nr. 9.1: Entfall giropay|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 07.01.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 20.01.2026**
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
 Bezug über: [aktuelle Ausgaben: www.db-fernverkehr.com, www.dbregio.de, www.bahn.de](http://www.db-fernverkehr.com/)
@@ -1478,13 +1479,15 @@ ersatzweise Übernahme ihrer Kosten auf höchstens drei Nächte begrenzt
 9.2.1 Der von einer Verspätung selbst betroffene Reisende hat Anspruch auf eine
 Fahrpreisentschädigung nach Maßgabe des Artikels 19 der Verordnung (EU) 2021/782 (bei einer
 Verspätung von 60 bis 119 Minuten 25 % und ab 120 Minuten 50 % des gezahlten Fahrkartenwertes
-der vorgelegten Fahrkarte). Der Betrag wird auf einen durch 5 Cent teilbaren Betrag aufgerundet.
-Der Entschädigungsanspruch kann pro Fahrkarte – bei Rückfahrkarten pro Fahrtrichtung – jeweils
-nur einmal geltend gemacht werden. Bei der Berechnung der Entschädigung werden im Rahmen
-der Bezahlung eingesetzte Aktionsgutscheine nach E.1.3 der Bedingungen für Aktionsangebote der
-DB Fernverkehr AG (Aktionsangebote) nicht in Ansatz gebracht. Entschädigungsbeträge unter 4 €
-werden nicht ausgezahlt. Die Geltendmachung von Ausschlussgründen nach Art. 19 Abs. 10 VO (EU)
-2021/782 bleibt vorbehalten.
+der vorgelegten Fahrkarte). Der Betrag wird kaufmännisch auf die zweite Nachkommastelle
+gerundet. Der Entschädigungsanspruch kann pro Fahrkarte – bei Rückfahrkarten pro Fahrtrichtung
+– jeweils nur einmal geltend gemacht werden. Bei der Berechnung der Entschädigung werden im
+Rahmen der Bezahlung eingesetzte Aktionsgutscheine nach E.1.3 der Bedingungen für
+Aktionsangebote der DB Fernverkehr AG (Aktionsangebote) nicht in Ansatz gebracht.
+Entschädigungsbeträge unter 4 € werden nicht ausgezahlt. Die Geltendmachung von
+Ausschlussgründen nach Art. 19 Abs. 10 VO (EU) 2021/782 bleibt vorbehalten.
+
+
 9.2.2 Werden Züge der Produktklassen ICE oder IC/EC, die planmäßig die 1. Wagenklasse
 führen, nur mit Wagen der 2. Wagenklasse bereitgestellt, darf die 2. Wagenklasse in diesen Zügen
 auch mit Fahrkarten Sparpreis, bzw. Super Sparpreis, nach Nr. 3.3 für die 1. Wagenklasse genutzt
@@ -3077,7 +3080,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 16.02.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 20.02.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3096,7 +3099,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |06/2026|- <br>E.18: Probe BahnCard Gold<br>|16.01.2026 – 05.02.2026|16.01.2026 – 05.02.2026|
 |07/2026|- <br>E.19: 44-Stunden-Ticket Young<br>|01.02.2026 – 19.03.2026|01.02.2026 – 19.03.2026|
 |08/2026|- <br>E.1.3.4: Gutscheine für tennis.de Registrierte<br>|01.02.2026 – 31.05.2026|01.02.2026 – 31.05.2026|
-|10/2026|- <br>E.1.3.4: Gutscheine für Deutschland-Ticket-Inhaber|16.02.2026 – 16.03.2026|16.02.2026 – 16.03.2026|
+|10/2026|- <br>E.1.3.4: Gutscheine für Deutschland-Ticket-Inhaber<br>|16.02.2026 – 16.03.2026|16.02.2026 – 16.03.2026|
+|11(2026|- <br>E.5 Nr. 3.6: Entfall giropay|||
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -3585,8 +3589,8 @@ mit welchen er die jeweiligen Einzelfahrten 10-Fahrten-Ticket bzw. 20-Fahrten-Ti
 3.5 Die Buchung eines 10-Fahrten-Tickets bzw. 20-Fahrten-Tickets für einen Dritten ist nicht
 möglich.
 
-3.6 Buchungen des 10-Fahrten-Tickets bzw. 20-Fahrten-Tickets können mit Kreditkarte, per
-PayPal oder giropay bezahlt werden.
+3.6 Buchungen des 10-Fahrten-Tickets bzw. 20-Fahrten-Tickets können mit Kreditkarte oder per
+PayPal bezahlt werden.
 
 
 3.7 Die Einlösung von elektronischen Gutscheinen (z.B. eCoupons) ist nicht möglich.
@@ -4410,23 +4414,6 @@ Eisenbahnverkehr Artikel 13 anzuwenden. Ergänzend gelten die nachfolgenden Best
 2.1 Übergabe/Vorlage von Fahrkarten
 
 
-2.1.1 Das Reisegepäck wird von einer Wunschadresse abgeholt und zu einer anderen geliefert
-(Haus-zu-Haus Beförderung). Wunschadressen sind alle Adressen mit deutschen Postleitzahlen.
-Des Weiteren ist die Zustellung und Abholung zu/von den österreichischen Gemeinden Riezlern,
-Hirschegg und Mittelberg im Kleinwalsertal sowie Jungholz/Tirol unter Angabe der deutschen
-Postleitzahlen möglich.
-Zu und von Flughäfen sowie Häfen von Kreuzfahrtschiffen findet jedoch keine Beförderung von
-Reisegepäck statt. Die Adressen von Flughäfen oder Häfen von Kreuzfahrtschiffen sowie von
-PaketShops sind keine zulässigen Wunschadressen.
-Die Anmeldung ist frühestens 90 Tage vor der beabsichtigten Gepäckabholung und spätestens bis
-18 Uhr am Tag vor der beabsichtigten Gepäckabholung möglich. Die Anmeldung kann in einer
-personalbedienten DB Verkaufsstelle (z.B. DB Reisezentrum oder DB Agentur) oder online über
-www.bahn.de erfolgen.
-
-
-**Neuer Wortlaut Nr. 2.1.1 mit Wirkung ab 18.02.2026**
-
-
 2.1.1 Das Reisegepäck wird für Buchungen bis einschließlich 17. Februar 2026 von einer
 Wunschadresse abgeholt und zu einer anderen geliefert (Haus-zu-Haus Beförderung).
 Wunschadressen sind alle Adressen mit deutschen Postleitzahlen. Des Weiteren ist die Zustellung
@@ -4440,18 +4427,6 @@ Gepäckabholung und spätestens bis 18 Uhr am Tag vor der beabsichtigten Gepäck
 möglich.
 Die Anmeldung kann bis einschließlich 17. Februar 2026 in einer personalbedienten DB
 Verkaufsstelle (z.B. DB Reisezentrum oder DB Agentur) oder online über www.bahn.de erfolgen.
-
-
-2.1.2 Das Reisegepäck –sofern es sich um Normalgepäck nach Nr. 2.2 handelt- kann alternativ
-durch den Reisenden auch in einem Hermes PaketShop (mit Reisegepäckannahme, innerhalb
-Deutschlands) abgegeben werden. Von dort aus wird das Gepäckstück zur Wunschadresse
-befördert (Hermes PaketShop-zu-Haus-Beförderung). Die Anmeldung ist frühestens 90 Tage vor
-
-der beabsichtigten Gepäckabholung und spätestens bis 18:00 Uhr am Tag vor der beabsichtigten
-Gepäckaufgabe möglich. Die Anmeldung kann ausschließlich online über www.bahn.de erfolgen.
-
-
-**Neuer Wortlaut Nr. 2.1.2 mit Wirkung ab 18.02.2026**
 
 
 2.1.2 Das Reisegepäck –sofern es sich um Normalgepäck nach Nr. 2.2 handelt- kann alternativ
@@ -4476,6 +4451,7 @@ PaketShop 25,0 kg) nicht überschreiten.
 
 2.3 Zur Beförderung als Sondergepäck bis zu einem Höchstgewicht von 31,5 kg sind ferner
 zugelassen:
+
 (i) Krankenfahrstühle (ohne Hilfsmotor) und sonstige orthopädische Hilfsmittel mit den
 Maximalmaßen 1,25 m Länge, 1,10 m Breite und 1,60 m Höhe und ausschließlich gegen Vorlage
 eines Schwerbehindertenausweises mit Merkzeichen „G“ oder „aG“ in einer personalbedienten
@@ -4510,6 +4486,7 @@ Der Reisende ist verpflichtet alle Gegenstände, so zu verpacken, dass sie währ
 gegen Verlust oder Beschädigung geschützt sind und keine Personen- oder Sachschäden
 verursachen können.
 
+
 **F.4** **Entgelt für die Gepäckbeförderung**
 
 
@@ -4535,7 +4512,6 @@ im Rahmen der vorgegebenen Zeitfenster ein Wunschtermin (Wunschzeitfenster) vere
 werden. Ausgenommen hiervon sind alle Abhol-/Zustelladressen auf den deutschen Inseln, Abhol/Zustelladressen von Hotels oder Kurkliniken.
 Der Aufpreis für ein dreistündiges Wunschzeitfenster (bei Abholung oder Zustellung) beträgt 6 €
 je gebuchtem Auf-trag, unabhängig von der Anzahl der gebuchten Gepäckstücke.
-
 
 **F.5** **Stornierung**
 
@@ -5006,13 +4982,6 @@ Fahrkartenkontrolle.
 
 
 5.2.2.4 Das Reha-Comfortticket enthält einen unentgeltlichen Versand von zwei
-Normalgepäckstücken nach Nr. 2 der Beförderungsbedingungen für Reisegepäck.
-
-
-**Neuer Wortlaut Nr. 5.2.2.4 mit Wirkung ab 18. Februar 2026**
-
-
-5.2.2.4 Das Reha-Comfortticket enthält einen unentgeltlichen Versand von zwei
 Normalgepäckstücken nach Nr. 6.
 
 
@@ -5044,9 +5013,6 @@ ist nur bei der ausgebenden Verkaufsstelle möglich.
 Personenverkehr.
 
 
-**Neuer Wortlaut Nr. 6 mit Wirkung ab 18. Februar 2026**
-
-
 6. Versand von Reisegepäck
 
 
@@ -5060,7 +5026,6 @@ Eisenbahnverkehr Artikel 13 anzuwenden. Ergänzend gelten die nachfolgenden Best
 6.2 Aufgabe von Reisegepäck
 
 6.2.1 Übergabe
-
 Das Reisegepäck wird von einer Wunschadresse abgeholt und zu einer anderen geliefert (Haus-zuHaus Beförderung). Der Bestimmungsort des Reisegepäcks muss in räumlicher Nähe des
 Zielbahnhofs liegen
 Wunschadressen sind alle Adressen mit deutschen Postleitzahlen. Des Weiteren ist die Zustellung
@@ -5069,6 +5034,7 @@ Kleinwalsertal sowie Jungholz/Tirol unter Angabe der deutschen Postleitzahlen m�
 Zu und von Flughäfen sowie Häfen von Kreuzfahrtschiffen findet jedoch keine Beförderung von
 Reisegepäck statt. Die Adressen von Flughäfen oder Häfen von Kreuzfahrtschiffen sowie von
 PaketShops sind keine zulässigen Wunschadressen.
+
 Die Anmeldung ist frühestens 90 Tage vor der beabsichtigten Gepäckabholung und spätestens bis
 18 Uhr am Tag vor der beabsichtigten Gepäckabholung möglich.
 
@@ -5120,6 +5086,7 @@ Ansprüche auf Entschädigung bei Verlust oder bei verspäteter Auslieferung wie
 Schadenersatz (i) bei nachgewiesener Schadenshöhe eine Entschädigung in dieser Höhe, jedoch
 maximal 1 200 Rechnungseinheiten je Gepäckstück und (ii) ohne Nachweis der Schadenshöhe eine
 Pauschalentschädigung von 300 Rechnungseinheiten je Gepäckstück gezahlt.
+
 
 6.6.2 Bei verspäteter Auslieferung des Reisegepäcks werden für je angefangene 24 Stunden ab
 dem Verlangen auf Auslieferung, maximal für 14 Tage, (i) bei nachgewiesenem Schaden eine
@@ -5239,7 +5206,7 @@ die kommerzielle Weiterverwendung von Daten durch den Kunden, ist nicht gestatte
 
 # **Bedingungen für den Internet-Verkauf** **von Fahrkarten und BahnCards** **(Internet)**
 
-## **Gültig ab 14. Dezember 2025**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 20.02.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -5406,7 +5373,7 @@ bei der Bestellung angegebene Konto.
 
 
 9.1 [Buchungen auf www.bahn.de](http://www.bahn.de/) und über die Buchungs-App können mit Kreditkarte, per
-PayPal, giropay, SEPA-Lastschriftverfahren oder Apple Pay bezahlt werden.
+PayPal, SEPA-Lastschriftverfahren oder Apple Pay bezahlt werden.
 
 
 9.2 Der SEPA-Lastschrifteinzug für Bestellungen ist nach erfolgter Anmeldung über
