@@ -1,6 +1,6 @@
 ## Speisen und Getränke Premium Bereich
 
-Stand: Januar 2026
+Stand: März 2026
 
 
 Änderungen der Speisekarte vorbehalten. Gerne stellen wir Ihnen
@@ -49,11 +49,10 @@ Warme Speisen
 ab 11 Uhr
 
 
-           Pinsa Kartoffel Spinat
+Mini Böreks Hähnchen*
 
 
-Kartoffeleintopf mit
-Fleischeinlage
+Erbsencremesuppe mit Minze
 
 
 - Nicht verfügbar in Köln.
@@ -95,7 +94,7 @@ Kuchen
 Apfel-Streuselkuchen
 
 
-Mini Donuts
+Mini Bueno Bites
 
 
 ### Getränke
