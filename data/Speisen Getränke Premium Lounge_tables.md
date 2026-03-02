@@ -94,7 +94,7 @@ Kuchen
 Apfel-Streuselkuchen
 
 
-Mini Bueno Bites
+Mini Buenissimo Bites
 
 
 ### Getränke
