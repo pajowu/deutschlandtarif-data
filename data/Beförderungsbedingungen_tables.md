@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 02. März 2026**
+**Aktualisierter Stand vom 06. März 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -297,6 +297,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |10/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für Deutschland-Ticket-Inhaber|
 |11/2026|BB Personenverkehr<br>- <br>Nr. 9.2.1: Änderung der Rundungsregeln<br>Aktionsangebote<br>- <br>E.5 Nr. 3.6: Entfall giropay<br>Internet<br>- <br>Nr. 9.1: Entfall giropay|
 |12/2026|BB Personenverkehr<br>- <br>Nr. 1.2.3, Nr. 7.2: Entfall Verweis auf Bedingungen für Reisegepäck<br>BahnCard:<br>- <br>Nr. 3.7: Entfall Verweis auf Bedingungen für Reisegepäck<br>Aktionsangebote<br>- <br>E.1.3.4: bahn.business Gutscheinaktion<br>Prämienfahrkarten<br>- <br>Nr. 2.3: Entfall Verweis auf Bedingungen für Reisegepäck|
+|13/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für ehemalige BahnCard Inhaber<br>- <br>E.18 Nr. 3.1: Ausweitung des Zusatznutzen auf die Para-Winterspiele|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -3081,7 +3082,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 02.03.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 06.03.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3102,7 +3103,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |08/2026|- <br>E.1.3.4: Gutscheine für tennis.de Registrierte<br>|01.02.2026 – 31.05.2026|01.02.2026 – 31.05.2026|
 |10/2026|- <br>E.1.3.4: Gutscheine für Deutschland-Ticket-Inhaber<br>|16.02.2026 – 16.03.2026|16.02.2026 – 16.03.2026|
 |11/2026|- <br>E.5 Nr. 3.6: Entfall giropay<br>|||
-|12/2026|- <br>E.1.3.4: bahn.business Gutscheinaktion|02.03.2026 – 31.12.2026|02.03.2026 – 31.12.2026|
+|12/2026|- <br>E.1.3.4: bahn.business Gutscheinaktion<br>|02.03.2026 – 31.12.2026|02.03.2026 – 31.12.2026|
+|13/2026|- <br>E.1.3.4: Gutscheine für ehemalige BahnCard Inhaber|bis auf Weiteres|bis auf Weiteres|
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -3298,6 +3300,13 @@ einzulösende Aktionsgutscheine können nur im eingeloggten Bereich verwendet we
 |Aktionsgutschein<br>Wert / Titel|Zielgruppe|DB-Leistung|Aktionszeitraum|Einlösezeitraum<br>des<br>Aktionsgutscheins|Nutzungszeitraum<br>der DB-Leistung|Hinweise|Col8|
 |---|---|---|---|---|---|---|---|
 |25€ Aktionsgutschein<br>für bahn.business<br>Kunden|Zufällig ausgewählte,<br>bei bahn.business<br>registrierte Kunden,<br>die 3 Monate keine<br>bahn.business<br>Leistungen gebucht<br>haben.|Fahrkarten zum Flex-<br>preis Business gemäß<br>Nr. 3.6 bahn.business<br>und Sparpreis Business<br>gemäß E.8<br>Aktionsangebote ab<br>49,99 € Mindestwert.|02.03.26<br> –<br>31.12.26|1 Monat ab Erhalt<br>des Aktionsgut-<br>scheins<br>|Gemäß Angabe auf<br>dem Gutschein<br>|||
+|10€ - 100€<br>Gutscheine, <br>25% Rabatt- und 80%<br>Rabattgutscheine für<br>ehemalige BahnCard<br>Inhaber|ehemalige BahnCard<br>Inhaber|BahnCard gemäß Nr. 2<br>BahnCard Bedingungen<br>und gemäß Angabe auf<br>dem Gutschein|bis auf Weiteres|Gemäß Angabe auf<br>dem Gutschein|Gemäß Angabe auf<br>dem Gutschein|||
+
+
+
+
+
+
 
 
 
@@ -4294,12 +4303,13 @@ Kundenservice) gekündigt wird.
 
 
 **3. Zusatznutzen der Probe BahnCard Gold**
-3.1 Wird an einem Tag der Winterspiele Milano Cortina vom 06.02.2026 – 22.02.2026 vom
-deutschen Team mindestens eine Goldmedaille gewonnen, können Inhaber der Probe BahnCard
-Gold am darauffolgenden Tag (00:00 Uhr – 24:00 Uhr) in Zügen der Produktklasse ICE und IC/EC
-gegen Vorlage der Probe BahnCard Gold kostenfrei fahren. Eine kostenfreie Nutzung von Zügen
-der Produktklasse C ist ausgeschlossen. Die Freifahrt erfolgt in der Klasse der Probe BahnCard
-Gold. Ein Übergang in die 1. Klasse mit einer Probe BahnCard Gold der 2. Klasse ist ausgeschlossen.
+3.1 Wird an einem Tag der Winterspiele Milano Cortina vom 06.02.2026 – 22.02.2026 sowie der
+Para-Winterspiele vom 06.03. – 15.03.2026 vom deutschen Team mindestens eine Goldmedaille
+gewonnen, können Inhaber der Probe BahnCard Gold am darauffolgenden Tag (00:00 Uhr – 24:00
+Uhr) in Zügen der Produktklasse ICE und IC/EC gegen Vorlage der Probe BahnCard Gold kostenfrei
+fahren. Eine kostenfreie Nutzung von Zügen der Produktklasse C ist ausgeschlossen. Die Freifahrt
+erfolgt in der Klasse der Probe BahnCard Gold. Ein Übergang in die 1. Klasse mit einer Probe
+BahnCard Gold der 2. Klasse ist ausgeschlossen.
 Wird an einem Tag vom deutschen Team mehr als eine Goldmedaille gewonnen, verlängert sich der
 Zeitraum der Freifahrt nicht.
 
@@ -5284,7 +5294,7 @@ Erwerb und die Nutzung von BahnCards (BahnCard)
 6.1 Erwerb von digitalen Tickets und Reservierungen als Online-Ticket
 
 
-6.1.1 Unter [www.bahn.de sowie in der Buchungs-App DB Navigator können Inhaber, eines](http://www.bahn.de/)
+6.1.1 Unter [www.bahn.de](http://www.bahn.de/) sowie in der Buchungs-App DB Navigator können Inhaber, eines
 gültigen EU-Personalausweises oder Personalausweises aus Norwegen bzw. der Schweiz, eines
 deutschen oder internationalen Reisepasses, eines von einer deutschen Behörde ausgestellten
 elektronischen Aufenthaltstitels, einer von einer deutschen Behörde ausgestellten Bescheinigung
@@ -5380,7 +5390,7 @@ bei der Bestellung angegebene Konto.
 **I.9** **Zahlarten**
 
 
-9.1 [Buchungen auf www.bahn.de](http://www.bahn.de/) und über die Buchungs-App können mit Kreditkarte, per
+9.1 [Buchungen auf www.bahn.de und über die Buchungs-App können mit Kreditkarte, per](http://www.bahn.de/)
 PayPal, SEPA-Lastschriftverfahren oder Apple Pay bezahlt werden.
 
 
