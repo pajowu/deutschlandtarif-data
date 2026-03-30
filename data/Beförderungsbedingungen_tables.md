@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 25. März 2026**
+**Aktualisierter Stand vom 31. März 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -186,6 +186,9 @@ E.19 Bedingungen für die Aktion „44-Stunden-Ticket Young“ .................
 E.20 Bedingungen für das Aktionsangebot „BahnCard 50 zum Aktionspreis“ ......................... 81
 
 
+E.21 Bedingungen für die Aktion „Flexpreis Young“ ................................................................. 82
+
+
 **F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 84**
 
 
@@ -213,8 +216,8 @@ F.6 Entschädigungen bei Verlust und bei verspäteter Auslieferung .............
 
 G.1 Anwendungsbereich .......................................................................................................... 88
 
-
 G.2 Teilnahmebedingungen ..................................................................................................... 88
+
 
 G.3 Gewährung von Bonusleistungen ...................................................................................... 88
 
@@ -304,6 +307,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
 |14/2026|Aktionsangebote<br>- <br>E.20: BahnCard 50 zum Aktionspreis<br>Preisliste<br>- <br>Nr. 2.3.1, 2.4.1: Entfall Anerkennung der Studierendenausweise der Universität<br>Marburg in freigegebenen IC-/EC Zügen<br>- <br>Nr. 3: Anpassung des Preises für das City-Ticket in Celle und Schweinfurt<br>- <br>Nr.4: Anpassung der Geltungsbereiche des City-Tickets|
+|15/2026|BahnCard<br>- <br>Nr. 2.3.1: Entfall der Übergangsregelung für Bestandskunden vor dem 31.03.2021<br>ermäßigter BahnCards, da Regelung ausgelaufen ist<br>Aktionsangebote<br>- <br>E.7 Nr. 2, 3.1: Verlängerung des Aktionszeitraums<br>- <br>E.21: Bedingungen für die Aktion „Flexpreis Young“|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -2412,7 +2416,7 @@ Servicecenter Fahrgastrechte eingereicht werden.
 
 # **Bedingungen für den Erwerb und die** **Nutzung von BahnCards** **(BahnCard)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 02.03.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 31.03.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -2503,14 +2507,6 @@ ausgegeben an Personen bis einschließlich 64 Jahren. Maßgebend ist das Lebensa
 am ersten Geltungstag der ermäßigten BahnCard 25 bzw. 50.
 
 
-Bestandskunden, die aufgrund der Ermäßigungsberechtigung „Personen ab 60 Jahren“ am 31.
-März 2021 Inhaber eines Abonnements für eine ermäßigte BahnCard 25 bzw. 50 nach Nr. 2.3.1 in
-der bis zum 31. März 2021 gültigen Fassung sind, werden nach Ablauf der zu diesem Zeitpunkt
-gültigen ermäßigten BahnCard 25 bzw. 50 automatisch in ein Abonnement der Senioren BahnCard
-25 bzw. 50 nach Nr. 2.3.4 der BahnCard-Bedingungen überführt, wenn ihr Abonnement nicht 6
-Wochen vor Gültigkeitsende gekündigt wird.
-
-
 2.3.2 Bleibt frei
 
 
@@ -2541,13 +2537,11 @@ amtlichen Lichtbildausweis gültig.
 Kann der Reisende bei der Fahrkartenkontrolle seine zum Kontrollzeitpunkt gültige BahnCard
 nicht vorlegen, so erhält er eine Fahrpreisnacherhebung nach Nr. 3.8.1 BB Personenverkehr.
 Legt der Reisende innerhalb von 14 Tagen nach der Fahrkartenkontrolle die zum Kontrollzeitpunkt
-
 gültige Fahrkarte sowie seine zum Kontrollzeitpunkt gültige BahnCard vor, wird der geforderte
 Betrag auf ein Bearbeitungsentgelt in Höhe von 7 € reduziert. Im Übrigen wird der BahnCardRabatt nicht nachträglich gewährt.
 
 
 2.5 Bestellung
-
 
 2.5.1.1 Die Bestellung der BahnCard erfolgt auf der Grundlage des einschließlich der Angabe
 einer E-Mailadresse vollständig ausgefüllten, digitalen Bestellformulars. Die BahnCard kann bis 6
@@ -2602,10 +2596,12 @@ muss innerhalb von 14 Tagen, jedoch spätestens bis zum Gültigkeitsbeginn der B
 eingegangen sein. Die neue BahnCard wird zu den jeweils gültigen BahnCard-Bedingungen
 ausgestellt.
 
+
 2.6.1.2 Die Probe BahnCard 25 bzw. Probe BahnCard 50 hat eine Gültigkeit von drei Monaten.
 Die Probe BahnCard 25 bzw. Probe BahnCard 50 wird am Ende ihrer Gültigkeit automatisch in ein
 reguläres BahnCard 25-Abonnement bzw. BahnCard 50-Abonnement überführt, wenn sie nicht 4
 Wochen vor Gültigkeitsende in Textform gegenüber DB Fernverkehr AG (z.B. beim Kundenservice)
+
 gekündigt wird. Rechtzeitig vor Ablauf der Geltungsdauer wird die neue BahnCard 25 bzw.
 BahnCard 50 ausgegeben.
 
@@ -2661,10 +2657,8 @@ bestehenden Vertrages und gleichzeitiger Bestellung der neuen Karte möglich.
 Der Restwert der zu erstattenden BahnCards muss jeweils noch mindestens 15 € betragen. Der
 Restwert errechnet sich wie folgt: BahnCard-Kaufpreis geteilt durch 12 Monate x nicht genutzte
 volle Monate. Die Erstattung erfolgt beim Kauf der neuen BahnCard, My BahnCard, Senioren
-
 BahnCard bzw. BahnCard 100. Die ursprünglich ausgestellte Karte verliert zum Kündigungstermin
 ihre Gültigkeit und wird gesperrt.
-
 
 Die Probe BahnCard 25 und Probe BahnCard 50 sowie die Jugend BahnCard sind vom Umtausch
 in eine BahnCard einer höheren Wagenklasse, einer höheren Rabattstufe bzw. einer BahnCard 100
@@ -2729,9 +2723,11 @@ Bestellung beim Kundenservice eingegangen sein.
 Unabhängig hiervon ist aus technischen Gründen bis auf Weiteres der spätestmögliche erste
 Geltungstag für die BahnCard 100 der 30. Juni 2026.
 
+
 Bei einer personalbedienten Verkaufsstelle kann die Bestellung noch am Reisetag erfolgen. In
 diesem Fall wird bei sofortiger vollständiger Bezahlung zunächst eine vorläufige BahnCard 100
 ausgestellt.
+
 Nach Bonitätsprüfung wird die vorläufige BahnCard 100 schnellstmöglich zugestellt. Die Zahlung
 des Fahrpreises ist sofort fällig.
 
@@ -2801,12 +2797,10 @@ max. jedoch 60 Tage pro Geltungsjahr, berücksichtigt. Für jeden Tag der Reiseu
 1/360 (Gesamtbetrag) des gezahlten Entgelts erstattet.
 Die Reiseunfähigkeitsbescheinigung muss spätestens 14 Tage nach Wegfall des
 Erstattungsgrundes beim Kundenservice vorliegen; anderenfalls ist eine Erstattung
-
 ausgeschlossen (Ausschlussfrist). Im Übrigen kann die Erstattung von der Hinterlegung der
 Fahrkarte abhängig gemacht werden.
 
 3.6.4 Im Übrigen sind Umtausch und Erstattung der BahnCard 100 ausgeschlossen.
-
 
 3.6.5 Für eine verlorene, abhanden gekommene oder beschädigte BahnCard 100 wird gegen
 ein Entgelt von 30 € einmalig eine Ersatzkarte für die restliche Geltungsdauer ausgestellt. Die
@@ -2879,10 +2873,10 @@ nicht genutzter Plätze in das kostenfreie Reservierungskontingent nach Nr. 3.9.
 3.10.1 Für Inhaber einer BahnCard 100 gelten die Nrn. 9.1.3, 9.2 und 9.3 BB Personenverkehr
 mit der Maßgabe, dass diese bei Ausfall, Verspätung oder Anschlussversäumnis von Zügen ab 60
 Minuten eine Erstattung bzw. Entschädigung in Höhe von 10 €, Inhaber einer BahnCard 100 1.
-Klasse eine solche in Höhe von 15 € erhalten, insgesamt max. 25 % des gezahlten BahnCard
-Preises. Verspätungen können nicht zwecks Erreichen der Zeitgrenze nach Satz 1 addiert werden.
+Klasse eine solche in Höhe von 15 € erhalten, insgesamt max. 25 % des gezahlten BahnCardPreises. Verspätungen können nicht zwecks Erreichen der Zeitgrenze nach Satz 1 addiert werden.
 Aufwendungen gemäß den Nummern 9.1.5 und 9.1.6 BB Personenverkehr für Weiterfahrten in
 anderen Verkehrsmitteln werden nur bis zu einem Betrag von insgesamt max. 25 % des gezahlten
+
 BahnCard-Preises erstattet; dieser Höchstbetrag gilt nicht in den Fällen des Artikel 20 Abs. 2 Lit.
 c) und Abs. 3 der VO (EU) Nr. 2021/782.
 
@@ -3088,7 +3082,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 25.03.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 31.03.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3100,7 +3094,7 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 
 |Tarifbekannt-<br>machungen<br>lfd. Nr.|Angebot|Angebotszeitraum|Col4|
 |---|---|---|---|
-|01/2026|- <br>Löschung der bereist ausgelaufenen Aktionen und dadurch<br>neue Nummerierungen<br>- <br>E.7: Verlängerung der Aktion „My BahnCard 100“<br>|<br> <br>Bis 31.03.2026|<br> <br>Bis 31.03.2026|
+|01/2026|- <br>Löschung der bereist ausgelaufenen Aktionen und dadurch<br>neue Nummerierungen<br>- <br>E.7: Verlängerung der Aktion „My BahnCard 100“<br>|<br> <br>bis 31.03.2026|<br> <br>bis 31.03.2026|
 |03/2026|- <br>E.15: Bahn Business Welcome Rabatt<br>- <br>E.16: Bahn Business Booster 2026<br>|01.01.2026 – 30.06.2026<br>01.01.2026 – 31.05.2026|01.01.2026 – 30.06.2026<br>01.01.2026 – 31.05.2026|
 |04/2026|- <br>E.1, 1.2.4: Schärfung des Werts und Hinweises zu<br>Fahrgastrechtsgutscheinen|||
 |05/2026|- <br>E.1. Nr.1.3.4: Gutscheine für Bahnkunden<br>- <br>E.17: Super Sparpreis Aktion<br>|bis auf Weiteres<br>13.01.2026 – 15.01.2026|bis auf Weiteres<br>13.01.2026 – 15.01.2026|
@@ -3111,7 +3105,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |11/2026|- <br>E.5 Nr. 3.6: Entfall giropay<br>|||
 |12/2026|- <br>E.1.3.4: bahn.business Gutscheinaktion<br>|02.03.2026 – 31.12.2026|02.03.2026 – 31.12.2026|
 |13/2026|- <br>E.1.3.4: Gutscheine für ehemalige BahnCard Inhaber<br>|bis auf Weiteres|bis auf Weiteres|
-|14/2026|- <br>E. 20: BahnCard 50 zum Aktionspreis|01.04.2026 – 31.07.2026|01.04.2026 – 31.07.2026|
+|14/2026|- <br>E. 20: BahnCard 50 zum Aktionspreis<br>|01.04.2026 – 31.07.2026|01.04.2026 – 31.07.2026|
+|15/2026|- <br>E.7 Nr. 2, Nr. 3.1: Verlängerung des Aktionszeitraums<br>- <br>E.21: Bedingungen für die Aktion „Flexpreis Young“|bis 13.06.2026<br>01.04.2026 – 31.07.2026|bis 13.06.2026<br>01.04.2026 – 31.07.2026|
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -3755,11 +3750,11 @@ BahnCards (Internet) und die Bedingungen für den Erwerb und die Nutzung von Bah
 
 **2.** **Geltungszeitraum**
 Das Aktionsangebot BahnCard 100 für Personen im Alter von 6 bis einschließlich 26 Jahren, (My
-BahnCard 100) gilt in der Zeit vom 10. April 2024 bis zum 31. März 2026.
+BahnCard 100) gilt in der Zeit vom 10. April 2024 bis zum 13. Juni 2026.
 
 **3.** **Erwerb**
 
-3.1 Die „My BahnCard 100“ kann in der Zeit vom 10. April 2024 bis zum 31. März 2026 mit einem
+3.1 Die „My BahnCard 100“ kann in der Zeit vom 10. April 2024 bis zum 13. Juni 2026 mit einem
 letztmöglichen ersten Geltungstag 30. Juni 2026 erworben werden.
 
 
@@ -4462,6 +4457,53 @@ Die Erstattung der BahnCard 50 zum Aktionspreis ist ausgeschlossen.
 Abweichend von Nr. 2.8.2 der BahnCard Bedingungen und 3.8.4.2 und 3.8.4.3 der bahn.business
 Bedingungen ist der Umtausch jeglicher BahnCard in eine BahnCard 50 zum Aktionspreis
 ausgeschlossen.
+
+
+**E.21** **Bedingungen für die Aktion „Flexpreis Young“**
+
+
+**1.** **Grundsatz**
+
+Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
+AG (BB Personenverkehr) und die Bedingungen für den Internet-Verkauf von Fahrkarten und
+BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
+
+
+**2.** **Angebot**
+2.1 Das Angebot Flexpreis Young wird im Zeitraum vom 01. April bis 31. Juli 2026
+(Aktionszeitraum) über den digitalen Verkauf und in DB Reisezentren als digitales Ticket
+angeboten.
+
+
+2.2 Das Angebot Flexpreis Young wird für Personen bis einschließlich 26 Jahre angeboten.
+Maßgeblich ist das Alter bei Fahrtantritt.
+
+
+2.3 Bei Buchung einer Fahrkarte zum Flexpreis Young wird auf den Flexpreis gemäß Nr. 3.2 BB
+Personenverkehr ein Rabatt von 20% gewährt.
+
+
+2.4 Fahrkarten zum Flexpreis Young werden ausschließlich für die 2. Wagenklasse ausgegeben. Ein
+Übergang in die 1 Klasse ist ausgeschlossen.
+
+
+2.5 Es gilt die Geltungsdauer gemäß Nr. 2.5 BB Personenverkehr.
+
+
+2.6 Fahrkarten zum Flexpreis Young werden mit einem CityTicket gemäß Nr. 3.5.1 BB
+Personenverkehr ausgegeben.
+
+
+2.7. Inhaber einer BahnCard 25 erhalten 25% Rabatt auf den Flexpreis Young, Inhaber einer
+BahnCard 50 erhalten 50% Rabatt auf den Flexpreis Young.
+
+
+2.8 Es gilt die Kindermitnahmeregelung gemäß Nr. 3.7.2 und 3.7.3 BB Personenverkehr.
+Abweichend von Nr. 3.7.4 BB Personenverkehr wird keine Kinderermäßigung angeboten.
+
+
+**3.** **Umtausch und Erstattung**
+Es gelten die Stornierungsbedingungen des Flexpreises nach Nr. 4.2 BB Personenverkehr.
 
 **TfV 600 F**
 
