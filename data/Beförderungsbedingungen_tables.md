@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 31. März 2026**
+**Aktualisierter Stand vom 08. April 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -308,6 +308,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |---|---|
 |14/2026|Aktionsangebote<br>- <br>E.20: BahnCard 50 zum Aktionspreis<br>Preisliste<br>- <br>Nr. 2.3.1, 2.4.1: Entfall Anerkennung der Studierendenausweise der Universität<br>Marburg in freigegebenen IC-/EC Zügen<br>- <br>Nr. 3: Anpassung des Preises für das City-Ticket in Celle und Schweinfurt<br>- <br>Nr.4: Anpassung der Geltungsbereiche des City-Tickets|
 |15/2026|BahnCard<br>- <br>Nr. 2.3.1: Entfall der Übergangsregelung für Bestandskunden vor dem 31.03.2021<br>ermäßigter BahnCards, da Regelung ausgelaufen ist<br>Aktionsangebote<br>- <br>E.7 Nr. 2, 3.1: Verlängerung des Aktionszeitraums<br>- <br>E.21: Bedingungen für die Aktion „Flexpreis Young“|
+|16/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für ehemalige BahnCard 100 Inhaber|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -3082,7 +3083,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 31.03.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 08.04.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3106,7 +3107,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |12/2026|- <br>E.1.3.4: bahn.business Gutscheinaktion<br>|02.03.2026 – 31.12.2026|02.03.2026 – 31.12.2026|
 |13/2026|- <br>E.1.3.4: Gutscheine für ehemalige BahnCard Inhaber<br>|bis auf Weiteres|bis auf Weiteres|
 |14/2026|- <br>E. 20: BahnCard 50 zum Aktionspreis<br>|01.04.2026 – 31.07.2026|01.04.2026 – 31.07.2026|
-|15/2026|- <br>E.7 Nr. 2, Nr. 3.1: Verlängerung des Aktionszeitraums<br>- <br>E.21: Bedingungen für die Aktion „Flexpreis Young“|bis 13.06.2026<br>01.04.2026 – 31.07.2026|bis 13.06.2026<br>01.04.2026 – 31.07.2026|
+|15/2026|- <br>E.7 Nr. 2, Nr. 3.1: Verlängerung des Aktionszeitraums<br>- <br>E.21: Bedingungen für die Aktion „Flexpreis Young“<br>|bis 13.06.2026<br>01.04.2026 – 31.07.2026|bis 13.06.2026<br>01.04.2026 – 31.07.2026|
+|16/2026|- <br>E.1.3.4: Gutscheine für ehemalige BahnCard 100 Inhaber|ab 08.04.2026|ab 08.04.2026|
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -3303,6 +3305,7 @@ einzulösende Aktionsgutscheine können nur im eingeloggten Bereich verwendet we
 |---|---|---|---|---|---|---|---|
 |25€ Aktionsgutschein<br>für bahn.business<br>Kunden|Zufällig ausgewählte,<br>bei bahn.business<br>registrierte Kunden,<br>die 3 Monate keine<br>bahn.business<br>Leistungen gebucht<br>haben.|Fahrkarten zum Flex-<br>preis Business gemäß<br>Nr. 3.6 bahn.business<br>und Sparpreis Business<br>gemäß E.8<br>Aktionsangebote ab<br>49,99 € Mindestwert.|02.03.26<br> –<br>31.12.26|1 Monat ab Erhalt<br>des Aktionsgut-<br>scheins<br>|Gemäß Angabe auf<br>dem Gutschein<br>|||
 |10€ - 100€<br>Gutscheine, <br>25% Rabatt- und 80%<br>Rabattgutscheine für<br>ehemalige BahnCard<br>Inhaber|ehemalige BahnCard<br>Inhaber|BahnCard gemäß Nr. 2<br>BahnCard Bedingungen<br>und gemäß Angabe auf<br>dem Gutschein|bis auf Weiteres|Gemäß Angabe auf<br>dem Gutschein|Gemäß Angabe auf<br>dem Gutschein|||
+|900 € und 1.500 €<br>Gutscheine für<br>ehemalige BahnCard<br>100 Kunden|ehemalige BahnCard<br>100 Kunden|BahnCard 100 1. Klasse<br>(1.500 € Gutschein),<br>BahnCard 100 2. Klasse<br>(900 € Gutschein) ge-<br>mäß Nr. 3 der Bahn-<br>Card Bedingungen,<br>ausgenommen Probe<br>BahnCard 100 und Ak-<br>tions BahnCards 100|ab 08.04.2026|gemäß Angabe auf<br>dem Gutschein|gemäß Angabe auf<br>dem Gutschein|||
 
 
 
@@ -5404,7 +5407,7 @@ Erwerb und die Nutzung von BahnCards (BahnCard)
 6.1 Erwerb von digitalen Tickets und Reservierungen als Online-Ticket
 
 
-6.1.1 Unter [www.bahn.de sowie in der Buchungs-App DB Navigator können Inhaber, eines](http://www.bahn.de/)
+6.1.1 Unter [www.bahn.de](http://www.bahn.de/) sowie in der Buchungs-App DB Navigator können Inhaber, eines
 gültigen EU-Personalausweises oder Personalausweises aus Norwegen bzw. der Schweiz, eines
 deutschen oder internationalen Reisepasses, eines von einer deutschen Behörde ausgestellten
 elektronischen Aufenthaltstitels, einer von einer deutschen Behörde ausgestellten Bescheinigung
@@ -5500,7 +5503,7 @@ bei der Bestellung angegebene Konto.
 **I.9** **Zahlarten**
 
 
-9.1 [Buchungen auf www.bahn.de](http://www.bahn.de/) und über die Buchungs-App können mit Kreditkarte, per
+9.1 [Buchungen auf www.bahn.de und über die Buchungs-App können mit Kreditkarte, per](http://www.bahn.de/)
 PayPal, SEPA-Lastschriftverfahren oder Apple Pay bezahlt werden.
 
 
