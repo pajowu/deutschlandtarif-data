@@ -1,6 +1,6 @@
 ## Speisen und Getränke Premium Bereich
 
-Stand: März 2026
+Stand: April 2026
 
 
 Änderungen der Speisekarte vorbehalten. Gerne stellen wir Ihnen
@@ -49,13 +49,10 @@ Warme Speisen
 ab 11 Uhr
 
 
-Mini Böreks Hähnchen*
+Mini Böreks Hähnchen
 
 
 Erbsencremesuppe mit Minze
-
-
-- Nicht verfügbar in Köln.
 
 
 ### Speisen
@@ -161,9 +158,9 @@ Erdinger Weißbier
 
 
 hell oder alkoholfrei
-Bitburger Premium Pils [**]
+Bitburger Premium Pils [*]
 
-König Pilsener [***]
+König Pilsener [**]
 
 Weiß- und Rotwein
 
@@ -174,8 +171,8 @@ Rotkäppchen Sekt
 trocken
 
 
-**Nicht verfügbar in Köln und München.
-***Nur verfügbar in Köln und München.
+*Nicht verfügbar in München.
+**Nur verfügbar in München.
 
 
 # Guten Appetit!
