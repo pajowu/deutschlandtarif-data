@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 07. Mai 2026**
+**Aktualisierter Stand vom 20. Mai 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -317,10 +317,12 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |16/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für ehemalige BahnCard 100 Inhaber|
 |17/2026|Aktionsangebote<br>- <br>E.22: Aktion BahnCard 2. Klasse = BahnCard 1. Klasse|
 |18/2026|Aktionsangebote<br>- <br>E.23: Aktion „Super Sparpreis Last Minute“|
+|19/2026|Aktualisierung der Preisliste|
+|20/2026|BB Personenverkehr<br>- <br>Anlage 1 zu Nr. 2.1.1: Streichung von Angeboten, die nicht mehr angeboten werden.<br>Aktualisierung der Buchbarkeit der Fahrradstellplatzreservierung im digitalen Verkauf|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 02.03.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 20.05.2026**
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
 Bezug über: [aktuelle Ausgaben: www.db-fernverkehr.com, www.dbregio.de, www.bahn.de](http://www.db-fernverkehr.com/)
@@ -1753,8 +1755,8 @@ Es gilt ausschließlich das Recht der Bundesrepublik Deutschland.
 |Umpersonalisierung<br>ICE, IC/EC<br>Gruppenfahrkarte|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~✓~~|x <br>|
 |Sitzplatzreservierung|~~✓~~|~~✓~~ <br>|~~✓~~ <br>|~~✓~~|x|~~✓~~|
 |1. Klasse Übergang|x <br>|~~✓~~ <br>|~~✓~~ <br>|x <br>|x <br>|x|
-|Fahrradkarte<br>inkl.<br>Stellplatzreser-<br>vierung|~~✓~~|~~✓~~|~~✓~~ <br>|~~✓~~ <br>|~~✓~~|x <br>|
-|Stellplatzreservierung|x <br>|x <br>|~~✓~~ <br>|~~✓~~ <br>|x|~~✓~~|
+|Fahrradkarte<br>inkl.<br>Stellplatzreser-<br>vierung|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~|x <br>|
+|Stellplatzreservierung|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|~~✓~~|
 |Flexpreis Business|~~✓~~|~~✓~~|~~✓~~|~~✓~~|x|x|
 |**Zeitkarten**|<br>|<br>|<br>|<br>|||
 |Jahreskarte im Abo|~~✓~~ <br>|~~✓~~ <br> <br>|~~✓~~ <br>|~~✓~~ <br>|x|x|
@@ -1764,24 +1766,20 @@ Es gilt ausschließlich das Recht der Bundesrepublik Deutschland.
 |Schülermonatskarte<br>im Abo|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|x|
 |Schülermonatskarte|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|x|
 |Schülerwochenkarte|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|x|
-|Dauer-<br>Übergangsfahrkarten|~~✓~~ <br>|~~✓~~|~~✓~~ <br>|~~✓~~ <br>|x|x|
-|IC/EC Aufpreise|~~✓~~|x|~~✓~~|~~✓~~|x|x|
+|Dauer-<br>Übergangsfahrkarten|~~✓~~|~~✓~~|~~✓~~|~~✓~~|x|x|
 |**BahnCard**|<br>|<br>|<br>|<br>|<br>||
 |BahnCard 25/50|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|
 |My BahnCard 25/50|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|
 |Senioren<br>BahnCard<br>25/50|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|
 |Probe<br>BahnCard<br>25/50|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|
-|BahnCard 100|~~✓~~|~~✓~~|~~✓~~|~~✓~~|~~✓~~|x|
-|**Aktionsangebote**|<br>|<br>|<br>|<br>|<br>||
-|Jugend BahnCard 25|~~✓~~ <br>|~~✓~~|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|
-|Veranstaltungsticket,<br>Veranstaltungsticket<br>Flex|~~✓~~|x|~~✓~~ <br>|~~✓~~ <br>|~~✓~~ <br>|x|
-|Fan-Gruppenreise<br>|x <br>|x <br>|~~✓~~|~~✓~~|~~✓~~|x|
+|Jugend BahnCard 25|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|~~✓ ~~<br>|x|
+|BahnCard 100<br>|~~✓~~ <br>|~~✓~~ <br>|~~✓~~|~~✓~~|~~✓~~|x|
 
 
 ✓ = buchbar im jeweiligen Vertriebskanal
 
-X = nicht buchbar im jeweiligen Vertriebskanal
 
+X = nicht buchbar im jeweiligen Vertriebskanal
 
 **Anlage 1 zu Nr. 2.7.2**
 
