@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 20. Mai 2026**
+**Aktualisierter Stand vom 26. Mai 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -319,6 +319,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |18/2026|Aktionsangebote<br>- <br>E.23: Aktion „Super Sparpreis Last Minute“|
 |19/2026|Aktualisierung der Preisliste|
 |20/2026|BB Personenverkehr<br>- <br>Anlage 1 zu Nr. 2.1.1: Streichung von Angeboten, die nicht mehr angeboten werden.<br>Aktualisierung der Buchbarkeit der Fahrradstellplatzreservierung im digitalen Verkauf|
+|21/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für Deutschland-Ticket Neukunden|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -3089,7 +3090,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 07.05.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 26.05.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3117,6 +3118,7 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |16/2026|- <br>E.1.3.4: Gutscheine für ehemalige BahnCard 100 Inhaber|ab 08.04.2026|ab 08.04.2026|
 |17/2026|- <br>E.22: Aktion BahnCard 2- Klasse = BahnCard 1. Klasse<br>|01. – 31. 05.2026|01. – 31. 05.2026|
 |18/2026|- <br>E.23: Aktion „Super Sparpreis Last Minute“|09.05. – 30.08.2026|09.05. – 30.08.2026|
+|21/2026|- <br>E.1.3.4: Gutscheine für Deutschland-Ticket Neukunden|01.06. – 31.07.2026|01.06. – 31.07.2026|
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -3314,6 +3316,11 @@ einzulösende Aktionsgutscheine können nur im eingeloggten Bereich verwendet we
 |25€ Aktionsgutschein<br>für bahn.business<br>Kunden|Zufällig ausgewählte,<br>bei bahn.business<br>registrierte Kunden,<br>die 3 Monate keine<br>bahn.business<br>Leistungen gebucht<br>haben.|Fahrkarten zum Flex-<br>preis Business gemäß<br>Nr. 3.6 bahn.business<br>und Sparpreis Business<br>gemäß E.8<br>Aktionsangebote ab<br>49,99 € Mindestwert.|02.03.26<br> –<br>31.12.26|1 Monat ab Erhalt<br>des Aktionsgut-<br>scheins<br>|Gemäß Angabe auf<br>dem Gutschein<br>|||
 |10€ - 100€<br>Gutscheine, <br>25% Rabatt- und 80%<br>Rabattgutscheine für<br>ehemalige BahnCard<br>Inhaber|ehemalige BahnCard<br>Inhaber|BahnCard gemäß Nr. 2<br>BahnCard Bedingungen<br>und gemäß Angabe auf<br>dem Gutschein|bis auf Weiteres|Gemäß Angabe auf<br>dem Gutschein|Gemäß Angabe auf<br>dem Gutschein|||
 |900 € und 1.500 €<br>Gutscheine für<br>ehemalige BahnCard<br>100 Kunden|ehemalige BahnCard<br>100 Kunden|BahnCard 100 1. Klasse<br>(1.500 € Gutschein),<br>BahnCard 100 2. Klasse<br>(900 € Gutschein) ge-<br>mäß Nr. 3 der Bahn-<br>Card Bedingungen,<br>ausgenommen Probe<br>BahnCard 100 und Ak-<br>tions BahnCards 100|ab 08.04.2026|gemäß Angabe auf<br>dem Gutschein|gemäß Angabe auf<br>dem Gutschein|||
+|Gutschein für eine<br>ermäßigte Probe<br>BahnCard 25 2.<br>Klasse|Neukunden, die im<br>Aktionszeitraum ein<br>neues Deutschland-<br>Ticket Abonnement<br>über bahn.de oder den<br>DB Navigator<br>abschließen|Probe BahnCard 25 2.<br>Klasse gemäß Nr. 2 der<br>BahnCard Bedingungen<br>zum ermäßigten Preis<br>von 5,99 Euro|01.06.2026<br>- <br>31.07.2026|01.06.2026<br>- <br>31.07.2026|Gemäß Nr. 2 der<br>BahnCard Bedingun-<br>gen<br>|Pro Deutschland-<br>Ticket-Neukunde<br>kann nur ein<br>Gutschein eingelöst<br>werden. Pro<br>Kundenkonto kann<br>nur ein Gutschein<br>eingelöst werden.||
+
+
+
+
 
 
 
