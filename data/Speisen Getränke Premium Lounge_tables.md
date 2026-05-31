@@ -1,6 +1,6 @@
 ## Speisen und Getränke Premium Bereich
 
-Stand: April 2026
+Stand: Juni 2026
 
 
 Änderungen der Speisekarte vorbehalten. Gerne stellen wir Ihnen
@@ -18,9 +18,12 @@ Nüsse oder Brezeln finden Sie an
 der Selbstbedienungstheke.
 
 
-Bei Fragen zu Allergenen oder
-Inhaltsstoffen stehen wir Ihnen gerne zur
-Verfügung.
+Informationen zu Allergenen und
+Zusatzstoffen unseres aktuellen
+Speisenangebotes finden Sie in unserem
+[Allergenhandbuch. Bei Fragen zu](https://www.bahn.de/service/zug/db-lounge/allergene)
+Allergenen oder Inhaltsstoffen stehen wir
+Ihnen gerne zur Verfügung.
 
 
 vegetarisch
@@ -49,10 +52,12 @@ Warme Speisen
 ab 11 Uhr
 
 
-Mini Böreks Hähnchen
+Pinsa Mini Elsässer mit Beef
+
+Bacon
 
 
-Erbsencremesuppe mit Minze
+Gelbe Kokos-Linsensuppe
 
 
 ### Speisen
@@ -88,10 +93,10 @@ Lisa’s Kesselchips
 Kuchen
 
 
-Apfel-Streuselkuchen
+Franz Style Kuchen
 
 
-Mini Buenissimo Bites
+Mini-Windbeutel
 
 
 ### Getränke
@@ -169,6 +174,9 @@ trocken
 Rotkäppchen Sekt
 
 trocken
+
+
+Auf Wunsch bieten wir Ihnen auch gerne Mischgetränke an.
 
 
 *Nicht verfügbar in München.
