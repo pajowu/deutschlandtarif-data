@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 01. Juli 2026**
+**Aktualisierter Stand vom 07. Juli 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -209,104 +209,112 @@ E.26 Bedingungen für das Aktionsangebot „Familienticket“ ..................
 E.27 Bedingungen für das Aktionsangebot „BahnCard 25 = BahnCard 50“ .............................. 89
 
 
-**F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 91**
+E.28 Bedingungen für das Aktionsangebot „Mehrfahrtenticket Plus - Mehrfahrtenticket
+Mecklenburg-Vorpommern – Hamburg für Deutschland-Ticket Inhaber“ ..................................... 89
 
 
-F.1 Geltungsbereich ................................................................................................................... 91
+E.29 Bedingungen für das Aktionsangebot „Mehrfahrtenticket Plus - Mehrfahrten Ticket Mainz
+-Bonn für Deutschland-Ticket Inhaber“ .......................................................................................... 91
+
+**F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 93**
 
 
-F.2 Aufgabe von Reisegepäck .................................................................................................... 91
+F.1 Geltungsbereich ................................................................................................................... 93
 
 
-F.3 Verpackung .......................................................................................................................... 92
-
-F.4 Entgelt für die Gepäckbeförderung ..................................................................................... 92
+F.2 Aufgabe von Reisegepäck .................................................................................................... 93
 
 
-F.5 Stornierung .......................................................................................................................... 93
+F.3 Verpackung .......................................................................................................................... 94
 
 
-F.6 Entschädigungen bei Verlust und bei verspäteter Auslieferung ......................................... 93
+F.4 Entgelt für die Gepäckbeförderung ..................................................................................... 94
+
+
+F.5 Stornierung .......................................................................................................................... 95
+
+
+F.6 Entschädigungen bei Verlust und bei verspäteter Auslieferung ......................................... 95
 
 
 **G** **Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten**
-**(bahn.business) ............................................................................................................................ 95**
+**(bahn.business) ............................................................................................................................ 97**
 
 
-G.1 Anwendungsbereich ............................................................................................................ 95
+G.1 Anwendungsbereich ............................................................................................................ 97
 
 
-G.2 Teilnahmebedingungen ........................................................................................................ 95
+G.2 Teilnahmebedingungen ........................................................................................................ 97
 
 
-G.3 Gewährung von Bonusleistungen ........................................................................................ 95
+G.3 Gewährung von Bonusleistungen ........................................................................................ 97
 
 
-G.4 Geschäftskundenportal (bahn.business-online) .................................................................. 99
+G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 101
 
 
 G.5 Gewährung von Rabatt für Reisen zu Rehabilitations-/Kuraufenthalten für
-Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 100
+Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 102
 
 
-**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ..... 106**
+**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ..... 108**
 
 
-I.1 Anwendungsbereich .......................................................................................................... 106
+I.1 Anwendungsbereich .......................................................................................................... 108
 
 
-I.2 Erwerb ................................................................................................................................ 106
+I.2 Erwerb ................................................................................................................................ 108
 
 
-I.3 Vorverkaufsfristen .............................................................................................................. 106
+I.3 Vorverkaufsfristen .............................................................................................................. 108
 
 
-I.4 Bleibt frei............................................................................................................................ 106
+I.4 Bleibt frei............................................................................................................................ 108
 
 
-I.5 BahnCard-Bestellung ......................................................................................................... 106
+I.5 BahnCard-Bestellung ......................................................................................................... 108
 
 
-I.6 Digitale Tickets ................................................................................................................... 106
+I.6 Digitale Tickets ................................................................................................................... 108
 
 
-I.7 Bleibt frei............................................................................................................................ 107
+I.7 Bleibt frei............................................................................................................................ 109
 
 
-I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 107
+I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 109
 
 
-I.9 Zahlarten ............................................................................................................................ 107
+I.9 Zahlarten ............................................................................................................................ 109
 
 
-I.10 Belege im Sinne des deutschen Steuerrechts ................................................................... 108
+I.10 Belege im Sinne des deutschen Steuerrechts ................................................................... 110
 
 
-I.11 Datenschutz/Datensicherheit ........................................................................................... 108
+I.11 Datenschutz/Datensicherheit ........................................................................................... 110
 
 
-I.12 Sonstiges ............................................................................................................................ 108
+I.12 Sonstiges ............................................................................................................................ 110
 
 
-I.13 Anfragen/Kontakt .............................................................................................................. 108
+I.13 Anfragen/Kontakt .............................................................................................................. 110
 
 
-**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 110**
+**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 112**
 
 
-K.1 Allgemeines ........................................................................................................................ 110
+K.1 Allgemeines ........................................................................................................................ 112
 
 
-K.2 Grundsätzliche Regelungen ............................................................................................... 110
+K.2 Grundsätzliche Regelungen ............................................................................................... 112
 
 
-K.3 Fahrgastrechte ................................................................................................................... 111
+K.3 Fahrgastrechte ................................................................................................................... 113
 
 
-K.4 Konditionen der BahnBonus Prämienfahrkarten .............................................................. 112
+K.4 Konditionen der BahnBonus Prämienfahrkarten .............................................................. 114
 
 
-Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ........................... 118
+Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ........................... 120
 
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
@@ -344,6 +352,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |26/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für BahnCard Neukunden<br>- <br>E.5 Nr. 3.1, 3.2: Druckfehlerkorrektur|
 |27/2026|Aktionsangebote<br>- <br>E.1.3.4: Aktion „Kunden werben Kunden“|
 |28/2026|Aktionsangebote<br>- <br>E.1.3.4: BahnCard Business zum Aktionspreis für bahn.business Neukunden<br>- <br>E.27: Aktion BahnCard 25 = BahnCard 50|
+|29/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für bahn.business Kunden<br>- <br>E.28 Mehrfahrtenticket Plus: Mecklenburg-Vorpommern – Hamburg für Deutschland-<br>Ticket Inhaber<br>- <br>E.29: Mehrfahrtenticket Plus: Mehrfahrten Ticket Mainz -Bonn für Deutschland-Ticket<br>Inhaber|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -487,15 +496,13 @@ besonders bezeichnet.
 2.1.1 Informationen im Zusammenhang mit der Reise sowie der Erwerb von Fahrkarten,
 Reservierungen und BahnCards sind über den
 
-      
-       - digitalen Verkauf (über bahn.de und die App DB Navigator),
+      digitalen Verkauf (über bahn.de und die App DB Navigator),
 
-      
-       - personalbedienten Verkauf (DB Reisezentrum, DB Agentur),
+      personalbedienten Verkauf (DB Reisezentrum, DB Agentur),
 
-      -      - DB Fahrkartenautomaten sowie
+      - DB Fahrkartenautomaten sowie
 
-      -      - über den telefonischen Reiseservice
+      - über den telefonischen Reiseservice
 
 
 möglich.
@@ -3153,7 +3160,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 01.07.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 07.07.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3187,7 +3194,10 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |25/2026|- <br>E.25: Aktion „Kostenfreie Jugend BahnCard“<br>- <br>E.26: Aktion „Familienticket“<br>|14.06. – 31.07.2026<br>14.06. – 12.09.2026|14.06. – 31.07.2026<br>14.06. – 12.09.2026|
 |26/2026|- <br>E.1.3.4: Gutscheine für BahnCard Neukunden<br>|16.06. – 19.07.2026|16.06. – 19.07.2026|
 |27/2026|- <br>E.1.3.4: Aktion „Kunden werben Kunden“<br>|23.06. – 31.07.2026|23.06. – 31.07.2026|
-|28/2027|- <br>E.1.3.4: BahnCard Business zum Aktionspreis für<br>bahn.business Neukunden<br>- <br>E.27: Aktion BahnCard 25 = BahnCard 50|01.07. – 31.08.2026<br> <br>01.07. – 31.07.2026|01.07. – 31.08.2026<br> <br>01.07. – 31.07.2026|
+|28/2026|- <br>E.1.3.4: BahnCard Business zum Aktionspreis für<br>bahn.business Neukunden<br>- <br>E.27: Aktion BahnCard 25 = BahnCard 50|01.07. – 31.08.2026<br> <br>01.07. – 31.07.2026|01.07. – 31.08.2026<br> <br>01.07. – 31.07.2026|
+|29/2026|- <br>E.1.3.4: Gutscheine für bahn.business Kunden<br>- <br>E.28 Mehrfahrtenticket Plus: Mecklenburg-Vorpommern –<br>Hamburg für Deutschland-Ticket Inhaber<br>- <br>E.29: Mehrfahrtenticket Plus: Mehrfahrten Ticket Mainz -<br>Bonn für Deutschland-Ticket Inhaber|07.07.26 – 31.10.2026<br>07.07.26 – 31.12.2026<br> <br>07.07.26 – 31.12.2026|07.07.26 – 31.10.2026<br>07.07.26 – 31.12.2026<br> <br>07.07.26 – 31.12.2026|
+
+
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -3409,6 +3419,9 @@ werden.
 |Aktionsgutschein<br>Wert / Titel|Zielgruppe|DB-Leistung|Aktionszeitraum|Einlösezeitraum<br>des<br>Aktionsgutscheins|Nutzungszeitraum<br>der DB-Leistung|Hinweise|Col8|
 |---|---|---|---|---|---|---|---|
 ||Webinar teilnehmen<br>oder bis 14 Tage nach<br>Anmeldung keine Bu-<br>chung vorgenommen<br>haben.<br>Bahn.business<br>Teilnehmer, die sich<br>von Januar – März<br>2026 zu<br>bahn.business<br>angemeldet haben<br>und keine Buchung<br>vorgenommen haben|Bedingungen zum<br>ermäßigten Preis:<br>BahnCard Business 25<br>2. Klasse zu 25,99 Euro<br>und BahnCard Business<br>25 1. Klasse zu 69,99||||||
+|15 Reisegutschein für<br>bahn.business<br>Kunden|Bahn.business Kun-<br>den, die in den letzten<br>3 Monaten 3 Buchun-<br>gen getätigt haben.|Fahrkarten gemäß Nr.<br>3 BB Personenverkehr,<br>gemäß Nr. 3.6<br>bahn.business und ge-<br>mäß E.8<br>Aktionsangebote ab<br>49,99 € Mindestwert.|07.07.2026<br>– <br>31.10.2026|07.07.2026<br>- <br>31.10.2026|Gemäß Nr. 3 BB Per-<br>sonenverkehr, gemäß<br>Nr. 3.6 bahn.business<br>und E.8 Aktionsange-<br>bote|||
+
+
 
 **E.2** **Gutscheinangebote**
 
@@ -4883,6 +4896,91 @@ jeweils getrennt als Einzelfahrten auf separaten Fahrkarten gebucht werden.
 **4.** **Stornierung (Umtausch und Erstattung)**
 Es gelten die Stornierungsbedingungen des gebuchten Flexpreises gemäß Nr. 4.2 BB
 Personenverkehr bzw. des Flexpreis Business gemäß Nr. 3.7 bahn.business.
+
+
+**E.28** **Bedingungen für das Aktionsangebot „Mehrfahrtenticket Plus - Mehrfahrtenticket**
+**Mecklenburg-Vorpommern – Hamburg für Deutschland-Ticket Inhaber“**
+
+
+**1. Grundsatz**
+
+Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
+AG (BB Personenverkehr), die Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr
+AG (Aktionsangebote) sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
+
+**2. Aktionszeitraum**
+
+Im Zeitraum vom 07. Juli – 31. Dezember 2026 (Buchungszeitraum) wird das 10-FahrtenTicket/20-Fahrten-Ticket für den Reisezeitraum vom 07. Juli 2026 bis 30. Januar 2027 für Fahrten
+innerhalb Mecklenburg-Vorpommerns sowie von bzw. nach Hamburg (ausgenommen
+Verbindungen über Lübeck) gemäß Anlage 1 vergünstigt angeboten.
+
+
+**3. Aktionsbeschreibung**
+3.1 Im Zeitraum nach Nr. 2 wird abweichend von E.5 Nr. 5.2 für Inhaber eines Deutschland
+Tickets auf das 10-Fahrten-Ticket/20-Fahrten-Ticket gemäß Aktionsangebot E.5 ein Rabatt von
+60% auf den Preis gemäß E.5 Nr. 5.1 gewährt.
+Das rabattierte 10-Fahrten-Ticket/20-Fahrten-Ticket kann nur für Fahrten zwischen den in
+Anlage 1 aufgeführten Halten gebucht werden. Das Deutschland-Ticket muss während der Fahrt
+mitgeführt werden.
+
+
+3.2. Es gelten die Bedingungen des 10-Fahrten Ticket/20-Fahrten-Ticket gemäß E.5
+Aktionsangebote.
+
+
+3.3 Abweichend von Nr. 3.1, 4.1, und 4.4 E.5 Aktionsangebote wird der Rabatt ausschließlich für
+Fahrten in Zügen der Produktklasse ICE, IC/EC gewährt. Eine Nutzung von Zügen der
+Produktklasse C ist nicht erlaubt.
+
+
+3.4 Bei der Fahrkartenkontrolle ist auf Aufforderung das Deutschland-Ticket vorzuzeigen. Kann bei
+der Fahrkartenkontrolle kein gültiges Deutschland-Ticket vorgezeigt werden, liegt eine Reise ohne
+gültigen Fahrausweis im Sinne des § 6 EVO vor.
+
+
+**Anlage 1:**
+
+**E.29** **Bedingungen für das Aktionsangebot „Mehrfahrtenticket Plus - Mehrfahrten Ticket**
+**Mainz -Bonn für Deutschland-Ticket Inhaber“**
+
+
+**1. Grundsatz**
+
+Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der Deutsche Bahn
+AG (BB Personenverkehr), die Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr
+AG (Aktionsangebote) sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
+
+
+**2. Aktionszeitraum**
+
+Im Zeitraum vom 07. Juli – 31. Dezember 2026 (Buchungszeitraum) wird das 10-FahrtenTicket/20-Fahrten-Ticket für den Reisezeitraum vom 07. Juli 2026 bis 30. Januar 2027 für Fahrten
+zwischen Mainz und Bonn gemäß Anlage 1 vergünstigt angeboten.
+
+
+**3. Aktionsbeschreibung**
+3.1 Im Zeitraum nach Nr. 2 wird abweichend von E.5 Nr. 5.2 für Inhaber eines Deutschland-Tickets
+
+auf das 10-Fahrten-Ticket/20-Fahrten-Ticket gemäß Aktionsangebot E.5 ein Rabatt von 60% auf
+den Preis gemäß E.5 Nr. 5.1 gewährt. Das rabattierte 10-Fahrten-Ticket/20-Fahrten-Ticket kann
+nur für Fahrten zwischen den in Anlage 1 aufgeführten Halten gebucht werden. Fahrten mit einem
+Umstieg außerhalb der in Anlage 1 genannten Bahnhöfe werden nicht rabattiert. Das DeutschlandTicket muss während der Fahrt mitgeführt werden.
+
+
+3.2. Es gelten die Bedingungen des 10-Fahrten Ticket/20-Fahrten-Ticket gemäß E.5
+Aktionsangebote.
+
+
+3.3 Abweichend von Nr. 3.1, 4.1, und 4.4 E.5 Aktionsangebote wird der Rabatt ausschließlich für
+Fahrten in Zügen der Produktklasse ICE, IC/EC gewährt. Eine Nutzung von Zügen der
+Produktklasse C ist nicht erlaubt.
+
+
+3.4 Bei der Fahrkartenkontrolle ist auf Aufforderung das Deutschland-Ticket vorzuzeigen. Kann bei
+der Fahrkartenkontrolle kein gültiges Deutschland-Ticket vorgezeigt werden, liegt eine Reise ohne
+gültigen Fahrausweis im Sinne des § 6 EVO vor.
+
+
+**Anlage 1:**
 
 **TfV 600 F**
 
