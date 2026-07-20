@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 07. Juli 2026**
+**Aktualisierter Stand vom 21. Juli 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -214,7 +214,7 @@ Mecklenburg-Vorpommern – Hamburg für Deutschland-Ticket Inhaber“ ..........
 
 
 E.29 Bedingungen für das Aktionsangebot „Mehrfahrtenticket Plus - Mehrfahrten Ticket Mainz
--Bonn für Deutschland-Ticket Inhaber“ .......................................................................................... 91
+-Bonn für Deutschland-Ticket Inhaber“ .......................................................................................... 90
 
 **F** **Beförderungsbedingungen für Reisegepäck (Reisegepäck) ............................................. 93**
 
@@ -353,6 +353,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |27/2026|Aktionsangebote<br>- <br>E.1.3.4: Aktion „Kunden werben Kunden“|
 |28/2026|Aktionsangebote<br>- <br>E.1.3.4: BahnCard Business zum Aktionspreis für bahn.business Neukunden<br>- <br>E.27: Aktion BahnCard 25 = BahnCard 50|
 |29/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für bahn.business Kunden<br>- <br>E.28 Mehrfahrtenticket Plus: Mecklenburg-Vorpommern – Hamburg für Deutschland-<br>Ticket Inhaber<br>- <br>E.29: Mehrfahrtenticket Plus: Mehrfahrten Ticket Mainz -Bonn für Deutschland-Ticket<br>Inhaber|
+|30/2026|Aktionsangebote<br>- <br>E.25, Nr.2, 3.2: Verlängerung des Aktionszeitraums|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -609,6 +610,7 @@ Endgerät gültig.
 
 
 2.3 bleibt frei
+
 
 2.4 Beförderung
 
@@ -876,8 +878,8 @@ Personennahverkehrs innerhalb des in der Preisliste unter Nr. 3 jeweils bezeichn
 Die Fahrkarte berechtigt alle in der Fahrkarte eingetragenen Personen nur zur einmaligen Fahrt
 von der Abfahrtadresse zum Abgangsbahnhof bzw. vom Zielbahnhof in Richtung auf die endgültige
 Zieladresse. Bei Fahrkarten für die Hin- und Rückfahrt gilt die Fahrtberechtigung am Abgangsort
-
-der Rückfahrt unter den gleichen Voraussetzungen auch am Tag des auf der Fahrkarte als „CityRückfahrt“ aufgedruckten Datums. Werden im Rahmen des Zusatzes „+City“ die Leistungen
+der Rückfahrt unter den gleichen Voraussetzungen auch am Tag des auf der Fahrkarte als „City
+Rückfahrt“ aufgedruckten Datums. Werden im Rahmen des Zusatzes „+City“ die Leistungen
 anderer Verkehrsträger (z.B. U-Bahn oder Bus) in Anspruch genommen, so kommt mit diesen ein
 jeweils eigenständiger Beförderungsvertrag nach deren Beförderungsbedingungen zustande.
 
@@ -2227,7 +2229,7 @@ Zahlung des Monatsbetrages in Verzug ist oder (ii) in einem Zeitraum, der sich �
 Termine erstreckt, mit der Zahlung des Monatsbetrages in Höhe eines Betrages in Verzug ist, der
 mindestens dem Entgelt für zwei Monate entspricht. In diesem Fall wird für den abgelaufenen
 Geltungszeitraum der Monatskartenpreis nachberechnet. Wird die Zeitkarte nicht bis spätestens
-5 Tage nach dem Kündigungstermin bei einem DB Reisezent-rum oder beim ausgebenden DB Abo
+5 Tage nach dem Kündigungstermin bei einem DB Reisezentrum oder beim ausgebenden DB Abo
 Center zurückgegeben, wird dem Besteller bis zum Zeitpunkt der tatsächlichen Rückgabe der
 Monatskartenpreis in Rechnung gestellt.
 
@@ -3160,7 +3162,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 07.07.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 21.07.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3195,9 +3197,8 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |26/2026|- <br>E.1.3.4: Gutscheine für BahnCard Neukunden<br>|16.06. – 19.07.2026|16.06. – 19.07.2026|
 |27/2026|- <br>E.1.3.4: Aktion „Kunden werben Kunden“<br>|23.06. – 31.07.2026|23.06. – 31.07.2026|
 |28/2026|- <br>E.1.3.4: BahnCard Business zum Aktionspreis für<br>bahn.business Neukunden<br>- <br>E.27: Aktion BahnCard 25 = BahnCard 50|01.07. – 31.08.2026<br> <br>01.07. – 31.07.2026|01.07. – 31.08.2026<br> <br>01.07. – 31.07.2026|
-|29/2026|- <br>E.1.3.4: Gutscheine für bahn.business Kunden<br>- <br>E.28 Mehrfahrtenticket Plus: Mecklenburg-Vorpommern –<br>Hamburg für Deutschland-Ticket Inhaber<br>- <br>E.29: Mehrfahrtenticket Plus: Mehrfahrten Ticket Mainz -<br>Bonn für Deutschland-Ticket Inhaber|07.07.26 – 31.10.2026<br>07.07.26 – 31.12.2026<br> <br>07.07.26 – 31.12.2026|07.07.26 – 31.10.2026<br>07.07.26 – 31.12.2026<br> <br>07.07.26 – 31.12.2026|
-
-
+|29/2026|- <br>E.1.3.4: Gutscheine für bahn.business Kunden<br>- <br>E.28 Mehrfahrtenticket Plus: Mecklenburg-Vorpommern –<br>Hamburg für Deutschland-Ticket Inhaber<br>- <br>E.29: Mehrfahrtenticket Plus: Mehrfahrten Ticket Mainz -<br>Bonn für Deutschland-Ticket Inhaber<br>|07.07.26 – 31.10.2026<br>07.07.26 – 31.12.2026<br> <br>07.07.26 – 31.12.2026|07.07.26 – 31.10.2026<br>07.07.26 – 31.12.2026<br> <br>07.07.26 – 31.12.2026|
+|30/2026|- <br>E.25 Nr.2, 3.2: Anpassung des Aktionszeitraums|Bis 30. 09.2026|Bis 30. 09.2026|
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -4772,14 +4773,15 @@ sich aus den nachfolgenden Bestimmungen nichts anderes ergibt.
 
 **2. Aktionszeitraum**
 
-Das Aktionsangebot „Kostenfreie Jugend BahnCard“ gilt im Zeitraum vom 14. Juni - 31. Juli 2026.
+Das Aktionsangebot „Kostenfreie Jugend BahnCard“ gilt im Zeitraum vom 14. Juni – 30. September
+2026.
 
 
 **3. Aktionsbeschreibung**
 3.1 Im Zeitraum nach Nr. 2 wird die Jugend BahnCard gemäß Nr. 2 der BahnCard Bedingungen
 kostenfrei ausgegeben.
 
-3.2 Die kostenfreie Jugend BahnCard wird mit letztmöglichem 1. Geltungstag 31. Juli 2026
+3.2 Die kostenfreie Jugend BahnCard wird mit letztmöglichem 1. Geltungstag 31. Oktober 2026
 ausgegebenen.
 
 
@@ -4845,9 +4847,9 @@ bezeichnet sind (Zugbindung). Sie gelten in Zügen der Produktklasse C im Vor- u
 den in der Fahrkarte eingetragenen Zügen am jeweils eingetragenen Geltungstag sowie bis 10:00
 Uhr des Folgetages.
 
+
 3.7 Soweit das durch die DB Fernverkehr AG bereitgestellte Kontingent aufgebraucht ist, ist ein
 Erwerb von Fahrkarten zum Familienangebot nicht mehr möglich.
-
 
 **4.** **Stornierung (Umtausch und Erstattung)**
 Die Erstattung und der Umtausch von Fahrkarten „Familienticket“ sind nur vor deren 1.
@@ -4908,9 +4910,11 @@ Es gelten die Beförderungsbedingungen für Personen durch die Unternehmen der D
 AG (BB Personenverkehr), die Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr
 AG (Aktionsangebote) sowie die Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet), soweit sich aus den nachfolgenden Bedingungen nichts anderes ergibt.
 
+
 **2. Aktionszeitraum**
 
 Im Zeitraum vom 07. Juli – 31. Dezember 2026 (Buchungszeitraum) wird das 10-FahrtenTicket/20-Fahrten-Ticket für den Reisezeitraum vom 07. Juli 2026 bis 30. Januar 2027 für Fahrten
+
 innerhalb Mecklenburg-Vorpommerns sowie von bzw. nach Hamburg (ausgenommen
 Verbindungen über Lübeck) gemäß Anlage 1 vergünstigt angeboten.
 
@@ -4939,6 +4943,7 @@ gültigen Fahrausweis im Sinne des § 6 EVO vor.
 
 
 **Anlage 1:**
+
 
 **E.29** **Bedingungen für das Aktionsangebot „Mehrfahrtenticket Plus - Mehrfahrten Ticket**
 **Mainz -Bonn für Deutschland-Ticket Inhaber“**
