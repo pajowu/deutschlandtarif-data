@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 26. August 2026**
+**Aktualisierter Stand vom 28. August 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -250,71 +250,71 @@ G.2 Teilnahmebedingungen .......................................................
 G.3 Gewährung von Bonusleistungen ...................................................................................... 100
 
 
-G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 104
+G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 105
 
 
 G.5 Gewährung von Rabatt für Reisen zu Rehabilitations-/Kuraufenthalten für
-Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 105
+Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 106
 
 
-**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ..... 111**
+**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ..... 112**
 
 
-I.1 Anwendungsbereich .......................................................................................................... 111
+I.1 Anwendungsbereich .......................................................................................................... 112
 
 
-I.2 Erwerb ................................................................................................................................ 111
+I.2 Erwerb ................................................................................................................................ 112
 
 
-I.3 Vorverkaufsfristen .............................................................................................................. 111
+I.3 Vorverkaufsfristen .............................................................................................................. 112
 
 
-I.4 Bleibt frei............................................................................................................................ 111
+I.4 Bleibt frei............................................................................................................................ 112
 
 
-I.5 BahnCard-Bestellung ......................................................................................................... 111
+I.5 BahnCard-Bestellung ......................................................................................................... 112
 
 
-I.6 Digitale Tickets ................................................................................................................... 111
+I.6 Digitale Tickets ................................................................................................................... 112
 
 
-I.7 Bleibt frei............................................................................................................................ 112
+I.7 Bleibt frei............................................................................................................................ 113
 
 
-I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 112
+I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 113
 
 
-I.9 Zahlarten ............................................................................................................................ 112
+I.9 Zahlarten ............................................................................................................................ 113
 
 
-I.10 Belege im Sinne des deutschen Steuerrechts ................................................................... 113
+I.10 Belege im Sinne des deutschen Steuerrechts ................................................................... 114
 
 
-I.11 Datenschutz/Datensicherheit ........................................................................................... 113
+I.11 Datenschutz/Datensicherheit ........................................................................................... 114
 
 
-I.12 Sonstiges ............................................................................................................................ 113
+I.12 Sonstiges ............................................................................................................................ 114
 
 
-I.13 Anfragen/Kontakt .............................................................................................................. 113
+I.13 Anfragen/Kontakt .............................................................................................................. 114
 
 
-**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 115**
+**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 116**
 
 
-K.1 Allgemeines ........................................................................................................................ 115
+K.1 Allgemeines ........................................................................................................................ 116
 
 
-K.2 Grundsätzliche Regelungen ............................................................................................... 115
+K.2 Grundsätzliche Regelungen ............................................................................................... 116
 
 
-K.3 Fahrgastrechte ................................................................................................................... 116
+K.3 Fahrgastrechte ................................................................................................................... 117
 
 
-K.4 Konditionen der BahnBonus Prämienfahrkarten .............................................................. 117
+K.4 Konditionen der BahnBonus Prämienfahrkarten .............................................................. 118
 
 
-Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ........................... 123
+Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ........................... 124
 
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
@@ -356,11 +356,12 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |30/2026|Aktionsangebote<br>- <br>E.25, Nr.2, 3.2: Verlängerung des Aktionszeitraums|
 |31/2026|BB Personenverkehr<br>- <br>Nr. 3.3.2: Änderung der Einstiegspreise im Sparpreis und Super Sparpreis der 1. Klasse<br>Aktionsangebote<br>- <br>E.1.3.4: Gutscheine in Storck Produkten|
 |32/2026|Aktionsangebote<br>- <br>E.1.3.4: Gutscheine für BahnCard 25 Inhaber|
-|33/2026|BahnCard<br>- <br>Nr. 3.7.1: Änderungen Fahrradmitnahme für BC 100 Inhaber<br>- <br>Nr. 3.9.2, 3.9.2.1: Ausweitung der kostenfreien Reservierungskontingente auf die<br>BahnCard 100 2 Klasse,Probe BahnCard, Erhöhung des Kontingents für BahnCard 100<br>1.Klasse Inhaber<br>- <br>Nr. 3.9.2.2: Nutzung des Reservierungskontingents für Fahrradstellplätze, Einlösung<br>des Kontingents ausschließlich digital|
+|33/2026|BahnCard<br>- <br>Nr. 3.7.1: Änderungen Fahrradmitnahme für BC 100 Inhaber<br>- <br>Nr. 3.9.2, 3.9.2.1: Ausweitung der kostenfreien Reservierungskontingente auf die<br>BahnCard 100 2 Klasse, Probe BahnCard, Erhöhung des Kontingents für BahnCard 100<br>1.Klasse Inhaber<br>- <br>Nr. 3.9.2.2: Nutzung des Reservierungskontingents für Fahrradstellplätze, Einlösung<br>des Kontingents ausschließlich digital|
 
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
 ||- <br>Nr. 3.9.2.3, 3.9.3.1: Anpassung Begrifflichkeit Reservierungen anstelle<br>Sitzplatzreservierungen|
+|34/2026|Aktionsangebote<br>- <br>E.23 Nr. 2: Verlängerung des Aktionszeitraums<br>Bahn.business<br>- <br>Nr. 3.1, 3.2: Änderung des Bonusleistungen<br>- <br>Nr.3.5.2: Herausnahme der automatischen Löschung der Kundenummer|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -3228,7 +3229,7 @@ Unternehmensinteresse liegt.
 
 # **Beförderungsbedingungen für** **Aktionsangebote der DB Fernverkehr AG** **(Aktionsangebote)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 11.08.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 28.08.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -3267,6 +3268,7 @@ E-Mail: tarif.fernverkehr@deutschebahn.com
 |30/2026|- <br>E.25 Nr.2, 3.2: Anpassung des Aktionszeitraums<br>|Bis 30. 09.2026|Bis 30. 09.2026|
 |31/2026|- <br>E.1.3.4: Gutscheine in Storck Produkten<br>|01.08. – 01.12.2026|01.08. – 01.12.2026|
 |32/2026|- <br>E.1.3.4: Gutscheine für BahnCard 25 Inhaber|11.08. – 07.09.2026|11.08. – 07.09.2026|
+|34/2026|- <br>E.23 Nr. 2: Verlängerung des Aktionszeitraums|bis 13.12.2026|bis 13.12.2026|
 
 
 **E** **Beförderungsbedingungen für Aktionsangebote der DB Fernverkehr AG**
@@ -4740,7 +4742,7 @@ AG (BB Personenverkehr), die Bedingungen für den Erwerb und die Nutzung von Bah
 
 **2.** **Aktionszeitraum**
 
-Das Angebot gilt ab dem 09. Mai 2026 bis 30. August 2026.
+Das Angebot gilt ab dem 09. Mai 2026 bis 13. Dezember 2026.
 
 
 **3.** **Fahrkarten**
@@ -5233,7 +5235,7 @@ Sonderziehungsrecht (SZR).
 
 # **Bedingungen für den Erwerb und die** **Nutzung von bahn.business-Angeboten** **(bahn.business)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 05.06.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 28.08.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -5296,10 +5298,19 @@ dienstlich veranlasster und auf Rechnung des bahn.business-Teilnehmers durchgef�
 der in Nr. 3.5.1 bezeichneten Personen für den Zeitraum vom 01. Oktober des Vorjahres bis 30.
 September des laufenden Jahres (Bonusbemessungs-zeitraum, z.B. 01. Oktober 2018 30. September 2019) zugrunde gelegt.
 
+**Neue Nr. 3.1 für den Bonusbemessungszeitraum ab 01.10.2026**
+
+
+3.1 Für die Einordnung in die Bonusstufen und zur Berechnung des Kontinuitätsbonus wird der
+DB-Umsatz der erfassten Fahrkarten zum Flexpreis Business gemäß Nr. 3.6.3 und Sparpreis
+Business gemäß E.8 Aktionsangebote zum Zwecke geschäftlich oder dienstlich veranlasster und
+auf Rechnung des bahn.business-Teilnehmers durchgeführter Reisen der in Nr. 3.5.1 bezeichneten
+Personen für den Zeitraum vom 01. Oktober des Vorjahres bis 30. September des laufenden Jahres
+(Bonusbemessungszeitraum, z.B. 01. Oktober 2026 - 30. September 2027) zugrunde gelegt.
+
 
 3.2 Für den Zeitraum vom 01. Januar bis 31. Dezember des Folgejahres
 (Bonusgewährungszeitraum, z.B. 01. Januar - 31. Dezember 2020 auf Basis des
-
 Beispielbemessungszeitraums in Nr. 3.1) wird die Bonusleistung als Geschäftskunden-Rabatt
 gemäß nachstehender Tabelle beim Erwerb von Fahrkarten zum „Flexpreis Business“ mit/ohne
 BahnCard Business-Rabatt gewährt.
@@ -5319,6 +5330,43 @@ BahnCard Business-Rabatt gewährt.
 |5|200.000 €|5,0%|
 
 
+**Neuer Wortlaut Nr. 3.2 für Bonusleistungen ab 01. Januar 2028**
+
+
+3.2 Für den Zeitraum vom 01. Januar bis 31. Dezember des Folgejahres
+(Bonusgewährungszeitraum, z.B. 01. Januar - 31. Dezember 2028 auf Basis des
+Beispielbemessungszeitraums in Nr. 3.1) wird die Bonusleistung als Geschäftskunden-Rabatt
+gemäß nachstehender Tabelle beim Erwerb von Fahrkarten zum Flexpreis Business gemäß Nr.
+3.6.3 und Sparpreis Business gemäß E.8 Aktionsangebote gewährt.
+
+
+
+
+
+
+
+
+
+
+
+|Bonusstufe|Umsatz im<br>Bemessungszeitraum<br>ab|Bonusleistung<br>im Gewährungszeitraum|Col4|
+|---|---|---|---|
+||Fahrkarten zum<br>Sparpreis Business<br>und Flexpreis<br>Business ab<br>|Fahrkarten<br>zum<br>Sparpreis<br>Business<br>und<br>Flexpreis<br>Business<br>1. Klasse|Fahrkarten zum Sparpreis<br>Business und Flexpreis<br>Business<br>2. Klasse|
+|1|5.000€|2%|1%|
+|2|100.000€|3%|1,5%|
+|3|500.000 €|4%|2%|
+|4|1.000.000|5%|2,5%|
+
+
+Wird in zwei aufeinanderfolgen Bonusbemessungszeiträumen ein Umsatz gemäß Nr. 3.1 in
+mindestens gleicher Höher ohne Berücksichtigung eines Mindestumsatzes erreicht, wird im
+darauffolgenden Jahr zusätzlich ein Kontinuitätsbonus auf Fahrkarten zum Flexpreis Business und
+
+Sparpreis Business von 2% für Fahrkarten der 1. Klasse und 2. Klasse gewährt. Die Rabattsätze des
+Kontinuitätsbonus und der Bonusleistung werden addiert. Der sich hieraus ergebende
+Gesamtrabatt wird vom Fahrkartenwert in Abzug gebracht.
+
+
 3.3 Die Einordnung in eine Bonusstufe und die sich daraus ergebenden Bonusleistungen
 gelten für die unter den Nummern 3.1 und 3.2 genannten Zeiträume und werden innerhalb des
 Bonusgewährungszeitraums nicht verändert. Eine Addition von Umsätzen nach Nr. 3.2 und
@@ -5327,7 +5375,7 @@ Umsätzen nach Nr. 5 ist ausgeschlossen.
 
 3.4 Umsätze für Neukunden werden nach deren Anmeldung über die Kundennummer erfasst.
 Für den Bonusgewährungszeitraum nach Nr. 3.2 können grundsätzlich nur die im
-Bonusbemessungszeitraum nach Nr. 3.1 erfassten DB-Umsätze berücksichtigt werden.
+Bonusbemessungszeitraum nach Nr. 3.1 erfassten Umsätze berücksichtigt werden.
 
 
 3.5 Bonusfähige Reisen
@@ -5348,8 +5396,8 @@ Bemessungszeitraum beträgt.
 3.5.2 Der Anspruch auf eine Bonusleistung erlischt, wenn innerhalb von 18 Monaten weder
 Fahrkarten mit Kundennummer(n) noch Online-Tickets im Geschäftskundenportal erworben
 werden oder wenn eine missbräuchliche Nutzung - auch missbräuchliche Nutzung durch Dritte,
-die der bahn.business-Teilnehmer zu vertreten hat - festgestellt wird, mit automatischer Löschung
-der Kundennummer(n).
+die der bahn.business-Teilnehmer zu vertreten hat - festgestellt wird, mit Löschung der
+Kundennummer(n).
 
 
 3.6 Fahrkartenerwerb
@@ -5371,6 +5419,7 @@ Erfassungen der Umsätze sind grundsätzlich ausgeschlossen.
 ausgegeben, wenn zumindest eine Teilstrecke in Zügen der Produktklasse ICE oder IC/EC
 zurückgelegt wird.
 
+
 3.6.3.2 Zu Fahrkarten zum „Flexpreis Business“ wird für die erste und zweite Wagenklasse eine
 unentgeltliche Sitzplatzreservierung nach Nr. 5.3 BB Personenverkehr ausgegeben.
 
@@ -5381,7 +5430,6 @@ fünf Tagen je Richtung.
 
 Für die Hin- und Rückfahrt werden getrennte Belege je Fahrtrichtung ausgegeben, die zusammen
 als eine Fahrkarte gelten.
-
 
 Nach Fahrtantritt gilt die Fahrkarte Flexpreis Business bis maximal 03:00 Uhr des zweiten auf den
 Antrittstag folgenden Tages, längstens jedoch bis um 03:00 Uhr des auf den letzten Geltungstag
@@ -5447,6 +5495,7 @@ Personenverkehr.
 
 3.8 BahnCard Business
 
+
 3.8.1 Für bahn.business-Teilnehmer werden BahnCards nur als BahnCards Business angeboten.
 Sie werden als BahnCard Business 25/BahnCard Business 50 für die 2. Wagenklasse und BahnCard
 Business 25/BahnCard Business 50 für die 1. Wagenklasse ausgegeben und gewähren bei
@@ -5454,6 +5503,7 @@ geschäftlich oder dienstlich veranlassten Reisen gemäß Nr. 3.5.1 25% bzw. 50%
 Flexpreis und Flexpreis Business sowie 25% Rabatt auf den Super Sparpreis.
 Die BahnCard Business 25/50 gewährt gemäß Nummer 2.1 der BahnCard-Bedingungen bei privat
 veranlassten Reisen Ermäßigung auf Fahrkarten zum Flexpreis, Sparpreis sowie Super Sparpreis,
+
 Sparpreis Young, Super Sparpreis Young, Sparpreis Senior und Super Sparpreis Senior gemäß
 Nummern 3.2 bis 3.4 BB Personenverkehr.
 
@@ -5510,6 +5560,7 @@ Die ursprünglich ausgegebene BahnCard Business verliert mit Ausstellung der neu
 Business/BahnCard 100 ihre Gültigkeit. Umtausch und Erstattung können auch durch einen
 Dritten im Namen des Inhabers erfolgen.
 
+
 3.8.4.3 Für den Umtausch einer BahnCard in eine BahnCard Business für die gleiche oder höhere
 Wagenklasse bzw. die gleiche oder höhere Rabattstufe in der gleichen oder höheren Wagenklasse
 gelten die Regelungen nach Nr. 3.8.4.2.
@@ -5517,6 +5568,7 @@ Maßgeblich für die Berechnung des Restwertes ist der 1. Geltungstag der neuen 
 
 
 3.8.5 Inanspruchnahme des Rabatts
+
 Der Anspruch auf den BahnCard-Rabatt besteht nur bei Vorlage einer gültigen BahnCard Business
 bei der Fahrkartenkontrolle entsprechend Nr. 2.4 der BahnCard-Bedingungen.
 Legt der Mitarbeiter des bahn.business-Teilnehmers bei der Fahrkartenkontrolle zu seiner
@@ -5577,7 +5629,6 @@ die Regelungen nach Nr. 3.7.1 und 3.7.2.
 
 
 4.6 Anfragen, die sich auf die Bestellung von Fahrkarten über
-
 www.bahn.de/bahnbusiness beziehen, richten Sie bitte an folgende Adresse:
 
 
@@ -5588,6 +5639,7 @@ Online-Vertrieb
 Postfach 10 01 14
 
 96053 Bamberg
+
 Telefon: 030 58 60 20 901
 
 E-Mail: bahnbusiness-online@bahn.de
@@ -5658,6 +5710,7 @@ vorausgeht, gültig.
 Nach Fahrtantritt gilt das Reha-Comfortticket bis maximal 03:00 Uhr des zweiten auf den
 Antrittstag der Rückfahrt folgenden Tages. Die Fahrt muss jedoch spätestens um 03:00 Uhr des
 vierten auf das Entlassungsdatum folgenden Tages beendet sein. Maßgeblich ist das neue
+
 Entlassungsdatum sowie in Bezug auf das Fahrtantrittsdatum das Datum des Kontrollzeichens der
 Fahrkartenkontrolle.
 
@@ -5718,6 +5771,7 @@ PaketShops sind keine zulässigen Wunschadressen.
 Die Anmeldung ist frühestens 90 Tage vor der beabsichtigten Gepäckabholung und spätestens bis
 18 Uhr am Tag vor der beabsichtigten Gepäckabholung möglich.
 
+
 6.2.2 Normalgepäck
 Zur Beförderung als Normalgepäck sind Gegenstände zugelassen, die ausschließlich in Koffern,
 Reisetaschen, Reisesäcken oder Rucksäcken verpackt sind, sofern diese eine Länge von 1,20 m,
@@ -5726,6 +5780,7 @@ eine Breite von 0,60 m und eine Höhe von 0,60 m sowie ein Gewicht von 31,5 kg n
 
 
 6.2.3 Beförderungsausschluss
+
 Von der Beförderung als Reisegepäck ausgeschlossen sind Stoffe und Gegenstände, die gemäß Nr.
 7.3.1 der BB Personenverkehr von der Mitnahme als Handgepäck oder Traglasten ausgeschlossen
 sind. Des Weiteren ausgeschlossen sind Tiere, Pflanzen und verderbliche Lebensmittel sowie
