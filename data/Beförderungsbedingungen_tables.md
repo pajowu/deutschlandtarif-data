@@ -2,7 +2,7 @@
 
 ### **Neuausgabe vom 14. Dezember 2025**
 
-**Aktualisierter Stand vom 12. Oktober 2026**
+**Aktualisierter Stand vom 14. Oktober 2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -61,259 +61,258 @@ B.1 Zeitkarten .................................................................
 B.2 Geltungsumfang ................................................................................................................... 38
 
 
-B.3 Erwerb und Geltungszeitraum ............................................................................................. 38
+B.3 Erwerb und Geltungszeitraum ............................................................................................. 39
 
 
-B.4 Bleibt frei.............................................................................................................................. 40
+B.4 Bleibt frei.............................................................................................................................. 41
 
 
-B.5 Preise .................................................................................................................................... 40
+B.5 Preise .................................................................................................................................... 41
 
 
-B.6 Geltungsdauer ...................................................................................................................... 40
+B.6 Geltungsdauer ...................................................................................................................... 41
 
 
-B.7 Übergang, Umwege .............................................................................................................. 40
+B.7 Übergang, Umwege .............................................................................................................. 42
 
 
-B.8 Erstattung, Umtausch, Kündigung ....................................................................................... 40
+B.8 Erstattung, Umtausch, Kündigung ....................................................................................... 42
 
 
-B.9 Verlust .................................................................................................................................. 42
+B.9 Verlust .................................................................................................................................. 45
 
 
-B.10 Zahlungsverzug .................................................................................................................... 42
+B.10 Zahlungsverzug .................................................................................................................... 45
 
 
-B.11 Reservierung ........................................................................................................................ 43
+B.11 Reservierung ........................................................................................................................ 45
 
 
-B.12 IC/EC-Aufpreise zu Zeitkarten von Verkehrsverbünden/Tarifgemeinschaften .................. 43
+B.12 IC/EC-Aufpreise zu Zeitkarten von Verkehrsverbünden/Tarifgemeinschaften .................. 45
 
 
-B.13 Haftung für Ausfall, Verspätung und Anschlussversäumnis ................................................ 45
+B.13 Haftung für Ausfall, Verspätung und Anschlussversäumnis ................................................ 47
 
 
-**C** **Bedingungen für den Erwerb und die Nutzung von BahnCards (BahnCard) ................... 49**
+**C** **Bedingungen für den Erwerb und die Nutzung von BahnCards (BahnCard) ................... 51**
 
 
-C.1 Geltungsbereich ................................................................................................................... 49
+C.1 Geltungsbereich ................................................................................................................... 51
 
 
-C.2 BahnCard 25, BahnCard 50 ................................................................................................. 49
+C.2 BahnCard 25, BahnCard 50 ................................................................................................. 51
 
 
-C.3 BahnCard 100 ...................................................................................................................... 52
+C.3 BahnCard 100 ...................................................................................................................... 54
 
 
 **D** **Beförderungsbedingungen** **für** **besondere** **Personengruppen** **(Besondere**
-**Personengruppen) ....................................................................................................................... 58**
+**Personengruppen) ....................................................................................................................... 60**
 
 
-D.1 Anwendungsbereich ............................................................................................................ 58
+D.1 Anwendungsbereich ............................................................................................................ 60
 
 D.2 Menschen mit Behinderungen, schwerbehinderte und schwerkriegsbeschädigte Menschen
-
-58
-
-
-D.3 bleibt frei .............................................................................................................................. 60
+60
 
 
-D.4 Sonstige besondere Personengruppen ................................................................................ 60
+D.3 bleibt frei .............................................................................................................................. 62
+
+
+D.4 Sonstige besondere Personengruppen ................................................................................ 62
 
 
 **E** **Beförderungsbedingungen** **für** **Aktionsangebote** **der** **DB** **Fernverkehr** **AG**
-**(Aktionsangebote) ....................................................................................................................... 64**
+**(Aktionsangebote) ....................................................................................................................... 66**
 
 
-E.1 Bedingungen für Gutscheine und Aktionsangebote ............................................................ 64
+E.1 Bedingungen für Gutscheine und Aktionsangebote ............................................................ 66
 
 
-E.2 Gutscheinangebote .............................................................................................................. 74
+E.2 Gutscheinangebote .............................................................................................................. 76
 
 
-E.3 Bedingungen für das Angebot „Jugend BahnCard 25“ ....................................................... 75
+E.3 Bedingungen für das Angebot „Jugend BahnCard 25“ ....................................................... 77
 
 
-E.4 Bedingungen für das Online-Aktionsangebot „Übergang 1. Klasse“ .................................. 76
+E.4 Bedingungen für das Online-Aktionsangebot „Übergang 1. Klasse“ .................................. 78
 
 
-E.5 Bedingungen für das Aktionsangebot „10-Fahrten-Ticket/20-Fahrten-Ticket“................. 77
+E.5 Bedingungen für das Aktionsangebot „10-Fahrten-Ticket/20-Fahrten-Ticket“................. 79
 
 
-E.6 Bedingungen für die Aktion „Schnupper BahnCard – Upgrade BahnCard 1. Klasse“ ........ 79
+E.6 Bedingungen für die Aktion „Schnupper BahnCard – Upgrade BahnCard 1. Klasse“ ........ 81
 
 
 E.7 Bedingungen für die Aktion „BahnCard 100 für Personen im Alter von 6 bis einschließlich
-26 Jahren (My BahnCard 100)“ ....................................................................................................... 79
+26 Jahren (My BahnCard 100)“ ....................................................................................................... 81
 
 
-E.8 Bedingungen für das Aktionsangebot „Sparpreis Business“ .............................................. 80
+E.8 Bedingungen für das Aktionsangebot „Sparpreis Business“ .............................................. 82
 
 
-E.9 Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“ ........................................ 81
+E.9 Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“ ........................................ 83
 
 
-E.10 Bedingungen für das Aktionsangebot „BahnCard zum Aktionspreis“ ................................ 81
+E.10 Bedingungen für das Aktionsangebot „BahnCard zum Aktionspreis“ ................................ 83
 
 
-E.11 Bedingungen für den Erwerb und die Nutzung von Event Fahrkarten ............................... 82
+E.11 Bedingungen für den Erwerb und die Nutzung von Event Fahrkarten ............................... 84
 
 
-E.12 Bedingungen für das Aktionsangebot „My BahnCard 50 zum Aktionspreis“ ..................... 84
+E.12 Bedingungen für das Aktionsangebot „My BahnCard 50 zum Aktionspreis“ ..................... 86
 
 
-E.13 Bedingungen für die Aktion „Probe BahnCard 25 und 50 zum Aktionspreis“ ................... 84
+E.13 Bedingungen für die Aktion „Probe BahnCard 25 und 50 zum Aktionspreis“ ................... 86
 
 
-E.14 Bedingungen für die Aktion „Super Sparpreis Gruppe Aktion“ .......................................... 85
+E.14 Bedingungen für die Aktion „Super Sparpreis Gruppe Aktion“ .......................................... 87
 
 
-E.15 Bedingungen für die Aktion „Bahn Business Welcome Rabatt“ ......................................... 85
+E.15 Bedingungen für die Aktion „Bahn Business Welcome Rabatt“ ......................................... 87
 
 
-E.16 Bedingungen für das Aktionsangebot „Bahn Business Booster 2026“ .............................. 86
+E.16 Bedingungen für das Aktionsangebot „Bahn Business Booster 2026“ .............................. 88
 
 
-E.17 Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“ ........................................ 87
+E.17 Bedingungen für das Aktionsangebot „Super Sparpreis Aktion“ ........................................ 89
 
 
-E.18 Bedingungen für das Aktionsangebot „Probe BahnCard Gold“ .......................................... 87
+E.18 Bedingungen für das Aktionsangebot „Probe BahnCard Gold“ .......................................... 89
 
 
-E.19 Bedingungen für die Aktion „44-Stunden-Ticket Young“ ................................................... 88
+E.19 Bedingungen für die Aktion „44-Stunden-Ticket Young“ ................................................... 90
 
 
-E.20 Bedingungen für das Aktionsangebot „BahnCard 50 zum Aktionspreis“ ........................... 89
+E.20 Bedingungen für das Aktionsangebot „BahnCard 50 zum Aktionspreis“ ........................... 91
 
 
-E.21 Bedingungen für die Aktion „Flexpreis Young“ ................................................................... 90
+E.21 Bedingungen für die Aktion „Flexpreis Young“ ................................................................... 92
 
 
-E.22 Bedingungen für das Aktionsangebot „BahnCard 2. Klasse = BahnCard 1. Klasse“ .......... 90
+E.22 Bedingungen für das Aktionsangebot „BahnCard 2. Klasse = BahnCard 1. Klasse“ .......... 92
 
 
-E.23 Bedingungen für das Aktionsangebot „Super Sparpreis Last Minute“ ............................... 91
+E.23 Bedingungen für das Aktionsangebot „Super Sparpreis Last Minute“ ............................... 93
 
 
-E.24 Bedingungen für die Aktion „3x Fahren und 30% Reisegutschein erhalten“ ..................... 91
+E.24 Bedingungen für die Aktion „3x Fahren und 30% Reisegutschein erhalten“ ..................... 93
 
 
-E.25 Bedingungen für das Aktionsangebot „Kostenfreie Jugend BahnCard“ ............................. 92
+E.25 Bedingungen für das Aktionsangebot „Kostenfreie Jugend BahnCard“ ............................. 94
 
 
-E.26 Bedingungen für das Aktionsangebot „Familienticket“ ...................................................... 93
+E.26 Bedingungen für das Aktionsangebot „Familienticket“ ...................................................... 95
 
 
-E.27 Bedingungen für das Aktionsangebot „BahnCard 25 = BahnCard 50“ .............................. 94
+E.27 Bedingungen für das Aktionsangebot „BahnCard 25 = BahnCard 50“ .............................. 96
 
 
 E.28 Bedingungen für das Aktionsangebot „Mehrfahrtenticket Plus - Mehrfahrtenticket
-Mecklenburg-Vorpommern – Hamburg für Deutschland-Ticket Inhaber“ ..................................... 94
+Mecklenburg-Vorpommern – Hamburg für Deutschland-Ticket Inhaber“ ..................................... 96
 
 
 E.29 Bedingungen für das Aktionsangebot „Mehrfahrtenticket Plus - Mehrfahrten Ticket Mainz
--Bonn für Deutschland-Ticket Inhaber“ .......................................................................................... 96
+-Bonn für Deutschland-Ticket Inhaber“ .......................................................................................... 98
 
-E.30 Bedingungen für das Aktionsangebot „BahnCard 25 zum Aktionspreis“ ........................... 96
-
-
-E.31 Bedingungen für das Aktionsangebot „BahnCard 25 Business zum Aktionspreis“ ........... 97
+E.30 Bedingungen für das Aktionsangebot „BahnCard 25 zum Aktionspreis“ ........................... 98
 
 
-E.32 Bedingungen für die Aktion „Flexpreis Young“ ................................................................... 98
+E.31 Bedingungen für das Aktionsangebot „BahnCard 25 Business zum Aktionspreis“ ........... 99
 
 
-E.33 Bedingungen für das Aktionsangebot „Kostenfreie Jugend BahnCard“ ............................. 98
+E.32 Bedingungen für die Aktion „Flexpreis Young“ ................................................................. 100
+
+
+E.33 Bedingungen für das Aktionsangebot „Kostenfreie Jugend BahnCard“ ........................... 100
 
 
 E.34 Bedingungen für die Aktion „Probe BahnCard 100 zum Aktionspreis für Geschäftskunden“
 
-99
+101
 
 
-**F** **Bleibt frei ............................................................................................................................ 100**
+**F** **Bleibt frei ............................................................................................................................ 102**
 
 
 **G** **Bedingungen für den Erwerb und die Nutzung von bahn.business-Angeboten**
-**(bahn.business) .......................................................................................................................... 102**
+**(bahn.business) .......................................................................................................................... 104**
 
 
-G.1 Anwendungsbereich .......................................................................................................... 102
+G.1 Anwendungsbereich .......................................................................................................... 104
 
 
-G.2 Teilnahmebedingungen ...................................................................................................... 102
+G.2 Teilnahmebedingungen ...................................................................................................... 104
 
 
-G.3 Gewährung von Bonusleistungen ...................................................................................... 102
+G.3 Gewährung von Bonusleistungen ...................................................................................... 104
 
 
-G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 107
+G.4 Geschäftskundenportal (bahn.business-online) ................................................................ 109
 
 
 G.5 Gewährung von Rabatt für Reisen zu Rehabilitations-/Kuraufenthalten für
-Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 108
+Leistungsempfänger der Versicherungsträger (Reha-Reisen) ....................................................... 110
 
 
-**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ..... 114**
+**I** **Bedingungen für den Internet-Verkauf von Fahrkarten und BahnCards (Internet) ..... 116**
 
 
-I.1 Anwendungsbereich .......................................................................................................... 114
+I.1 Anwendungsbereich .......................................................................................................... 116
 
 
-I.2 Erwerb ................................................................................................................................ 114
+I.2 Erwerb ................................................................................................................................ 116
 
 
-I.3 Vorverkaufsfristen .............................................................................................................. 114
+I.3 Vorverkaufsfristen .............................................................................................................. 116
 
 
-I.4 Bleibt frei............................................................................................................................ 114
+I.4 Bleibt frei............................................................................................................................ 116
 
 
-I.5 BahnCard-Bestellung ......................................................................................................... 114
+I.5 BahnCard-Bestellung ......................................................................................................... 116
 
 
-I.6 Digitale Tickets ................................................................................................................... 114
+I.6 Digitale Tickets ................................................................................................................... 116
 
 
-I.7 Bleibt frei............................................................................................................................ 115
+I.7 Bleibt frei............................................................................................................................ 117
 
 
-I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 115
+I.8 Stornierung (Erstattung und Umtausch) ........................................................................... 117
 
 
-I.9 Zahlarten ............................................................................................................................ 115
+I.9 Zahlarten ............................................................................................................................ 117
 
 
-I.10 Belege im Sinne des deutschen Steuerrechts ................................................................... 116
+I.10 Belege im Sinne des deutschen Steuerrechts ................................................................... 118
 
 
-I.11 Datenschutz/Datensicherheit ........................................................................................... 116
+I.11 Datenschutz/Datensicherheit ........................................................................................... 118
 
 
-I.12 Sonstiges ............................................................................................................................ 116
+I.12 Sonstiges ............................................................................................................................ 118
 
 
-I.13 Anfragen/Kontakt .............................................................................................................. 116
+I.13 Anfragen/Kontakt .............................................................................................................. 118
 
 
-**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 118**
+**K** **Bedingungen für BahnBonus Prämienfahrkarten (Prämienfahrkarten) ........................ 120**
 
 
-K.1 Allgemeines ........................................................................................................................ 118
+K.1 Allgemeines ........................................................................................................................ 120
 
 
-K.2 Grundsätzliche Regelungen ............................................................................................... 118
+K.2 Grundsätzliche Regelungen ............................................................................................... 120
 
 
-K.3 Fahrgastrechte ................................................................................................................... 119
+K.3 Fahrgastrechte ................................................................................................................... 121
 
 
-K.4 Konditionen der BahnBonus Prämienfahrkarten .............................................................. 120
+K.4 Konditionen der BahnBonus Prämienfahrkarten .............................................................. 122
 
 
-Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ........................... 126
+Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ........................... 128
 
 |Nr. der Tarif-<br>Bekanntmachung|Kurzer Inhalt|
 |---|---|
@@ -366,6 +365,7 @@ Entgelte des Personenverkehrs für nicht in Tarifteilen enthaltene Leistungen ..
 |37/2026|BahnCard<br>- <br>Nr.2.3, 2.6.1.1: Anpassung der Zahlungsfrist<br>- <br>Nr. 2.3.1: Erwerb der ermäßigten BahnCard für Personen zwischen 27 und 64 Jahren<br>- <br>Nr. 2.5.2: Entfall der vorläufigen BahnCard<br>- <br>Nr. 2.8.1, 2.8.2: Entfall des Umtauschs in eine BahnCard einer höheren Klasse<br>Bahn.business<br>- <br>Nr. 3.8.4.1: Ergänzung der Erstattung im Fall des Kaufs einer höherwertigen BahnCard<br>- <br>Nr. 3.8.4.2, 3.8.4.3: Entfall des Umtauschs|
 |38/2026|Aktionsangebote<br>- <br>E.33: Kostenfreie Jugend BahnCard|
 |39/2026|Reisegepäck<br>- <br>Nr.1-6: Entfall der Gepäckbedingungen<br>Aktionsangebote<br>- <br>E.34: Probe BahnCard 100 zum Aktionspreis für Geschäftskunden|
+|40/20226|Zeitkarten<br>- <br>Nr.2.1, 3.1.1, 3.2.1, 8.2.2, 8.3.1, 8.5: Einstellung der Zeitkarten im Abo<br>- <br>Nr.5.1: Kriterien zur Preisermittlung von Zeitkarten<br>- <br>Nr.6: Entfall der Ausgabe von Schülerzeitkarten ausschließlich für Kalendermonate-<br>und Wochen<br>- <br>Nr.7.1: Entfall der Dauerübergangsfahrkarten|
 
 # **Beförderungsbedingungen** **für Personen durch die Unternehmen der** **Deutsche Bahn AG** **(BB Personenverkehr)**
 
@@ -1949,7 +1949,7 @@ aller betroffenen Halte:
 
 # **Bedingungen für den Erwerb und die** **Nutzung von Zeitkarten** **(Zeitkarten)**
 
-## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 05.06.2026**
+## **Gültig ab 14. Dezember 2025** **Aktualisierter Stand vom 14.10.2026**
 
 
 Herausgeber: DB Fernverkehr AG, Europa-Allee 78-84, 60486 Frankfurt am Main
@@ -1988,6 +1988,24 @@ Verbindung mit einem gültigen Schüler- oder Studierendenausweis, oder einem an
 Nachweis, der den Besuch einer Bildungseinrichtung gemäß Anlage 1 belegt.
 
 
+**Neuer Wortlaut Nr. 2.1 mit Wirkung ab 21.10.2026**
+
+
+2.1 Strecken- und Schülerzeitkarten berechtigen den in ihnen bezeichneten Inhaber (persönliche
+Strecken- und Schülerzeitkarten) innerhalb der Geltungsdauer zur Beförderung auf den in der
+Fahrkarte angegebenen Strecken und Produktklassen.
+Streckenzeitkarten werden jeweils als Monats- und Wochenkarten und Schülermonatskarten
+ausgestellt. Persönliche Jahreskarten im Abonnement („Jahreskarte im Abo“ bzw. „Monatskarte im
+Abo“) und Schülermonatskarten im Abonnement werden nur noch bis einschließlich 20.10.2026
+ausgestellt.
+Die Inhaber von Schülerzeitkarten können Schüler, Studenten und sonstige Personen gemäß
+Anlage 1 sein. Zur Vorbereitung oder Ablegung von vorgeschriebenen Prüfungen oder der
+Promotion kann die Schülerzeitkarte auch noch bis zu 1 1/2 Jahren nach Beendigung des Studiums
+in Anspruch genommen werden. Bei Reisenden ab 15 Jahren sind Schülerzeitkarten nur gültig in
+Verbindung mit einem gültigen Schüler- oder Studierendenausweis, oder einem anderen
+Nachweis, der den Besuch einer Bildungseinrichtung gemäß Anlage 1 belegt.
+
+
 2.2 bleibt frei
 
 
@@ -1996,6 +2014,15 @@ Monatskarte ausgegeben wird, berechtigt zur unentgeltlichen Mitnahme von einer P
 bis zu 3 Kindern nach Nr. 3.7.2 BB Personenverkehr an Samstagen. Es ist nicht gestattet, die
 Mitnahme gegen Zahlung eines Entgeltes anzubieten. Bei Nichtbeachtung wird die
 Streckenzeitkarte ungültig und eingezogen.
+
+**Neuer Wortlaut Nr. 2.3 mit Wirkung ab 21.10.2026**
+
+
+2.3 Eine Streckenzeitkarte, die als Jahreskarte im Abo/Monatskarte im Abo oder als
+Monatskarte ausgegeben wird, berechtigt zur unentgeltlichen Mitnahme von einer Person sowie
+bis zu 3 Kindern nach Nr. 3.7.2 BB Personenverkehr an Samstagen. Es ist nicht gestattet, die
+Mitnahme gegen Zahlung eines Entgeltes anzubieten. Bei Nichtbeachtung wird die
+Streckenzeitkarte ungültig.
 
 
 2.4 Schülerzeitkarten werden nur für Fahrten zur Ausbildungsstätte und nur für die 2.
@@ -2019,7 +2046,6 @@ Eine Jahreskarte im Abo/Monatskarte im Abo/Schülermonatskarte im Abo kann vorbe
 einer Bonitätsprüfung mit flexiblem Geltungsbeginn im Reisezentrum, einer DB Agentur über die
 Internetseite bahn.de und die Buchungs-App DB Navigator erworben werden. Sie wird
 ausschließlich als Handy-Ticket ausgegeben.
-
 Bestehende Zeitkarten im Abo als Papierfahrkarte können bis zum Ende ihrer aufgedruckten
 Gültigkeit genutzt werden. Zur Fortführung des Abos müssen Kunden vor Laufzeitende der
 Papierfahrkarte ihr Abo auf ein Handy-Ticket umstellen.
@@ -2037,6 +2063,30 @@ www.bahn.de oder die DB Navigator Buchungs-App wird diese direkt nach positiver
 Bonitätsprüfung ausgestellt.
 Die Zahlungsabwicklung erfolgt über das zentrale Kundenkonto des Bestellers der Zeitkarte.
 Abweichend von Nr. 2.1.3 BB Personenverkehr kann für die Bezahlung einer Zeitkarte per SEPALastschrifteinzug mit entsprechen dem Einverständnis einer anderen Person auch deren aktuelle
+private Bankverbindung benannt werden. Der SEPA-Lastschrifteinzug erfolgt in diesem Fall von
+der benannten Bankverbindung und nicht von einer im zentralen Kundenkonto hinterlegten
+Bankverbindung des Bestellers.
+
+
+**Neuer Wortlaut Nr. 3.1.1 mit Wirkung ab 21.10.2026**
+
+
+3.1.1 Eine Wochen- oder Monatskarte sowie Schülerwochenkarte und Schülermonatskarte
+
+wird ausschließlich als digitales Ticket ausgegeben.
+
+Abweichend von Nr. 2.1.2 der Beförderungsbedingungen für Personen durch die Unternehmen
+der Deutsche Bahn AG (BB Personenverkehr) können Zeitkarten frühestens 6 Monate vor dem
+ersten Geltungstag erworben werden.
+Eine Jahreskarte im Abo/Monatskarte im Abo/Schülermonatskarte im Abo kann bis 20.10.2026
+vorbehaltlich einer Bonitätsprüfung mit flexiblem Geltungsbeginn im Reisezentrum, einer DB
+Agentur über die Internetseite bahn.de und die Buchungs-App DB Navigator mit spätestem ersten
+Geltungstag 20.10.2026 erworben werden. Sie wird ausschließlich als Handy-Ticket ausgegeben.
+Jahreskarten im Abo/Monatskarten im Abo/Schülermonatskarten im Abo können mit flexiblem
+Geltungsbeginn erworben werden, wobei der letzte erste Geltungstag der 20.10.2026 ist. Sie
+werden direkt nach positiver Bonitätsprüfung ausgestellt.
+Die Zahlungsabwicklung erfolgt über das zentrale Kundenkonto des Bestellers der Zeitkarte.
+Abweichend von Nr. 2.1.3 BB Personenverkehr kann für die Bezahlung einer Zeitkarte per SEPALastschrifteinzug mit entsprechendem Einverständnis einer anderen Person auch deren aktuelle
 private Bankverbindung benannt werden. Der SEPA-Lastschrifteinzug erfolgt in diesem Fall von
 der benannten Bankverbindung und nicht von einer im zentralen Kundenkonto hinterlegten
 Bankverbindung des Bestellers.
@@ -2070,6 +2120,22 @@ in Textform oder über das Abo-Portal mitzuteilen. Namensänderungen sind dem Ab
 Textform mitzuteilen.
 
 
+**Neuer Wortlaut Nr. 3.2.1 mit Wirkung ab 21.10.2026**
+
+
+3.2.1 Ein am 21.10.2026 gültiger Vertrag über eine Jahreskarte im Abonnement oder Monatskarte
+im Abonnement wird aufgrund der Einstellung des Angebotes seitens des Verkehrsunternehmens
+zu dem sich nach Nr. 8.3.1 zu bestimmenden individuellen letzten Geltungstag im Juni 2027
+beendet.
+
+Unabhängig hiervon kann der Vertrag jederzeit in Textform mit einer Frist von einem Monat gem.
+Nr. 8.3.1 gekündigt werden. Die Fahrkarte wird unabhängig hiervon mit einer Geltungsdauer von
+jeweils einem Jahr ausgestellt.
+Rechtzeitig vor Ablauf der alten Jahreskarte wird die neue Fahrkarte mit Gültigkeit für ein Jahr
+ausgestellt. Änderungen von Anschrift sowie Bankverbindung sind dem Abo-Center unverzüglich
+in Textform oder über das Abo-Portal mitzuteilen. Namensänderungen sind dem Abo-Center in
+Textform mitzuteilen.
+
 3.2.2 Im Falle von Änderungen der Zeitkarten-Bedingungen wird das Verkehrsunternehmen
 diese dem Zeitkarten-Inhaber rechtzeitig mitteilen. Ist der Zeitkarten-Inhaber mit den
 Änderungen nicht einverstanden, so kann er das Vertragsverhältnis innerhalb von 4 Wochen nach
@@ -2077,6 +2143,7 @@ Zugang der Mitteilung gegenüber dem Abo-Center kündigen. Macht der Zeitkarten-
 seinem Kündigungsrecht keinen Gebrauch, so werden die geänderten Bedingungen ab dem
 mitgeteilten Änderungszeitpunkt wirksam. Hierauf wird das Verkehrsunternehmen in seiner
 Mitteilung den Zeitkarten-Inhaber jeweils hinweisen.
+
 
 3.3 bleibt frei
 
@@ -2086,6 +2153,13 @@ mit Vor- und Zunamen unterzeichnet wurde. Als Online- oder Handy-Ticket ausgegeb
 persönliche Zeitkarten sind ohne Unterschrift gültig. Im Übrigen gilt Nr. 2.9 BB Personenverkehr.
 
 
+**Neuer Wortlaut Nr. 3.4 mit Wirkung ab 21.10.2026**
+
+
+3.4 Als Online- oder Handy-Ticket ausgegebene persönliche Zeitkarten sind ohne Unterschrift
+gültig. Im Übrigen gilt Nr. 2.9 BB Personenverkehr.
+
+
 **B.4** **Bleibt frei**
 
 
@@ -2093,6 +2167,13 @@ persönliche Zeitkarten sind ohne Unterschrift gültig. Im Übrigen gilt Nr. 2.9
 
 
 5.1 Der Preis der Zeitkarten ergibt sich aus der jeweils gültigen Preisliste.
+
+
+**Neuer Wortlaut Nr. 5.1 mit Wirkung ab 21.10.2026**
+
+
+5.1 Der Preis der Zeitkarte ergibt sich aus der gewählten Verbindung in Abhängigkeit der
+gewählten Produktklasse und Wagenklasse.
 
 
 5.2 bleibt frei
@@ -2120,6 +2201,13 @@ eine Kalenderwoche ausgegeben. Übergangs- und Umwegfahrkarten gelten nur an dem
 Fahrkarte angegebenen Geltungstag.
 
 
+**Neuer Wortlaut Nr. 6 mit Wirkung ab 21.10.2026**
+
+
+Zeitkarten gelten bis 12.00 Uhr des auf den letzten Geltungstag folgenden Werktages. Ist der letzte
+Geltungstag ein Samstag, gelten die Karten bis Montag 12.00 Uhr. Schülerzeitkarten sind längstens
+bis zum Ablauf der Geltungsdauer des zugehörigen Nachweises gültig.
+
 **B.7** **Übergang, Umwege**
 
 
@@ -2130,6 +2218,14 @@ Dauer-Übergangsfahrkarten (Hin- und Rückfahrt) erworben werden; in diesem Fall
 Unterschied zwischen den jeweiligen Streckenzeitkartenpreisen beider Klassen zu zahlen. DauerÜbergangsfahrkarten als Jahreskarten können nicht als „Abo-Sofort“ nach Nr. 3.1.1 (ii) erworben
 werden. Bei übertragbaren Streckenzeitkarten ist ein Übergang in die höhere Produktklasse und
 bei Schülerzeitkarten ein Übergang in die 1. Wagenklasse ausgeschlossen.
+
+
+**Neuer Wortlaut Nr. 7.1 mit Wirkung ab 21.10.2026**
+
+
+7.1 Beim Übergang mit Zeitkarten in eine höhere Produkt- oder Wagenklasse ist der Unterschied
+zwischen den Flexpreisen der ursprünglichen und der höheren Produkt- oder Wagenklasse zu
+zahlen.
 
 
 7.2 Bei Umwegen ist der Unterschied zwischen den Flexpreisen für den in der Fahrkarte
@@ -2144,7 +2240,6 @@ Rabatt **.**
 
 
 8.1 Erstattung
-
 Bei Zeitkarten ist die Erstattung jeweils vor dem ersten Geltungstag - bei Jahreskarten im
 Abo/Monatskarte im Abo/Schülermonatskarte im Abo vor dem ersten Geltungstag des neuen
 Geltungsjahres – ohne Bearbeitungsentgelt möglich.
@@ -2176,6 +2271,20 @@ Schülermonatskarte im Abo wird die bisherige Zeitkarte zum Geltungsbeginn der n
 
 gesperrt.
 
+**Neuer Wortlaut Nr. 8.2.2 mit Wirkung ab 21.10.2026**
+
+
+8.2.2 Der Umtausch einer Jahreskarte im Abo/Monatskarte im Abo/Schülermonatskarte im Abo
+ist ab dem ersten Geltungstag des jeweiligen Geltungsjahres der Fahrkarte in eine entsprechende
+Jahreskarte unter Änderung der Produkt- oder Wagenklasse, des Geltungsbereichs oder der
+Übertragbarkeit zum selben Kalendertag eines späteren Monats wie der erste Geltungstag
+möglich, wenn der Antrag auf Änderung spätestens 14 Tage vor dem neuen Geltungsbeginn beim
+Abo-Center eingegangen ist.
+Differenzbeträge werden nacherhoben bzw. verrechnet. Der Umtausch erfolgt durch das
+ausgebende Abo-Center.
+Für den Umtausch wird kein Bearbeitungsentgelt erhoben.
+Die bisherige Zeitkarte wird bis zum Geltungsbeginn der neuen Zeitkarte gesperrt.
+
 
 8.2.3 Die Zahlweise (monatliche Zahlung/Einmalzahlung im Voraus) kann nur vor Beginn eines
 Geltungsjahres geändert werden.
@@ -2200,6 +2309,19 @@ Schülermonatskarte im Abo wird diese statt der Rückgabe zum Zeitpunkt des Wirk
 der Kündigung gesperrt.
 
 
+**Neuer Wortlaut Nr. 8.3.1 mit Wirkung ab 21.10.2026**
+
+
+8.3.1 Eine Jahreskarte im Abo/ Monatskarte im Abo/ Schülermonatskarte im Abo kann jederzeit
+mit einer Frist von einem Monat gekündigt werden. Kündigungen bedürfen für ihre Wirksamkeit
+der Textform.
+
+Bei einer als Handy-Ticket ausgegebenen Jahreskarte im Abo/ Monatskarte im Abo/
+Schülermonatskarte im Abo wird diese zum Zeitpunkt des Wirksamwerdens der Kündigung
+
+gesperrt.
+
+
 8.3.2 Erfolgt bei einer Monatskarte im Abo / einer Schülermonatskarte im Abo eine Kündigung vor
 Ablauf der ersten drei Monate des Vertrages, so wird für die tatsächliche Vertragslaufzeit die
 Differenz des anteiligen Preises der Monatskarte im Abo/Schülermonatskarte im Abo zum Preis
@@ -2212,9 +2334,11 @@ nachberechnet.
 
 Ein Mehrbetrag wird erstattet
 
+
 8.4 Im Falle einer mit Reiseunfähigkeit verbundenen Krankheit ist eine Erstattung unter
 Abzug eines Bearbeitungsentgelts in Höhe von 19,00 € nur bei einer persönlichen Jahreskarte
 (Jahreskarte im Abo/Monatskarte im Abo/Schülermonatskarte im Abo) möglich. Die
+
 Reiseunfähigkeit und deren Dauer sind durch ein ärztliches Attest gegenüber dem ausgebenden
 Abo-Center nachzuweisen. Es werden für die Erstattung nur Zeiträume von mehr als 21
 aufeinanderfolgenden Reiseunfähigkeitstagen, max. jedoch 60 Tage pro Geltungsjahr,
@@ -2249,8 +2373,26 @@ Der zu erstattende Betrag wird in dem Monat, der auf den Zeitpunkt der Rücksend
 Fahrkarte folgt, verrechnet - soweit eine Verrechnung nicht möglich ist - erstattet.
 
 
-8.6 Im Übrigen sind Erstattung und Umtausch von Zeitkarten ausgeschlossen.
+**Neuer Wortlaut Nr. 8.5 mit Wirkung ab 21.10.2026**
 
+
+8.5 Im Falle der Inanspruchnahme der Elternzeit nach dem Bundeselterngeld- und –zeit-gesetz
+(BEEG) ist eine Erstattung für Inhaber einer persönlichen Jahreskarte im Abo/Monatskarte im Abo/
+Schülermonatskarte im Abo für einen Zeitraum von maximal 60 aufeinanderfolgenden Tagen oder
+in 2 Teilen von je einem Monat möglich. Für jeden Tag der Elternzeit – gemäß Zeiten nach Satz 1 wird 1/360 (Gesamtbetrag) bzw. 1/30 (monatliche Zahlung) des gezahlten Entgelts unter Abzug
+eines Bearbeitungsentgelts in Höhe von 19,00 € erstattet. Dem Antrag in Textform mit Angabe des
+gewünschten Unterbrechungszeitraums des Abos sind beizufügen:(i) Bescheinigung des
+Arbeitgebers über die Inanspruchnahme der Elternzeit und deren Dauer (nach § 16 Abs. 1 Satz 6
+(BEEG)) und (ii) eine Kopie der Geburtsurkunde des Kindes. Der Antrag mit den Unterlagen muss
+spätestens 5 Tage nach dem ersten Unterbrechungstag beim ausgebenden Abo-Center vorliegen.
+Die Jahreskarte im Abo/ Monatskarte im Abo/ Schülermonatskarte im Abo wird ab dem Zeitpunkt
+der Unterbrechung zur Nutzung gesperrt und nach Ablauf des Unterbrechungszeitraums wieder
+zur Nutzung freigeschaltet.
+Der zu erstattende Betrag wird in dem Monat, der auf den Zeitpunkt der Rücksendung der
+Fahrkarte folgt, verrechnet - soweit eine Verrechnung nicht möglich ist - erstattet.
+
+
+8.6 Im Übrigen sind Erstattung und Umtausch von Zeitkarten ausgeschlossen.
 
 **B.9** **Verlust**
 
@@ -2268,8 +2410,7 @@ Zahlung des Monatsbetrages in Verzug ist oder (ii) in einem Zeitraum, der sich �
 Termine erstreckt, mit der Zahlung des Monatsbetrages in Höhe eines Betrages in Verzug ist, der
 mindestens dem Entgelt für zwei Monate entspricht. In diesem Fall wird für den abgelaufenen
 Geltungszeitraum der Monatskartenpreis nachberechnet. Wird die Zeitkarte nicht bis spätestens
-5 Tage nach dem Kündigungstermin bei einem DB Reisezentrum oder beim ausgebenden DB Abo
-Center zurückgegeben, wird dem Besteller bis zum Zeitpunkt der tatsächlichen Rückgabe der
+5 Tage nach dem Kündigungstermin bei einem DB Reisezentrum oder beim ausgebenden DB AboCenter zurückgegeben, wird dem Besteller bis zum Zeitpunkt der tatsächlichen Rückgabe der
 Monatskartenpreis in Rechnung gestellt.
 
 
@@ -2323,6 +2464,7 @@ der Karte angegebenen Geltungsdauer.
 
 Der Verkauf der IC/EC-Aufpreise als Jahres- und Monatskarten im Abonnement wird zum
 01.10.2025 eingestellt.
+
 Ein am 01.10.2025 gültiges Abonnement über IC/EC Aufpreise als Monatskarte wird noch für 6
 weitere Abo-Monate zum jeweils aktuellen Preis weitergeführt, sofern es durch den Inhaber nicht
 zu einem früheren Zeitpunkt ordentlich gekündigt wird.
@@ -2338,6 +2480,7 @@ Abonnement nicht durch den Inhaber ordentlich gekündigt worden ist.
 
 Die IC/EC-Aufpreise werden mit flexiblem Geltungsbeginn als Wochen-, Monats- oder Jahreskarten
 ausgegeben.
+
 
 IC/EC-Aufpreise zu einer Zeitkarte eines Verkehrsverbundes/ einer Tarifgemeinschaft als Wochenund als Monatskarte werden auch als Online- oder Handy-Ticket, IC/EC-Aufpreise zu einer
 Zeitkarte eines Verkehrsverbundes/einer Tarifgemeinschaft als Monatskarte im Abonnement bzw.
@@ -2381,7 +2524,6 @@ Ein Mehrbetrag wird erstattet.
 
 12.7 Für Verbundzeitkarten, die zur Mitnahme weiterer Personen berechtigen, gilt Nr. 2.3.
 
-
 12.8 Die Nutzung der 1. Wagenklasse ist mit 1. Klasse IC/EC-Aufpreiskarten nur in Verbindung
 mit den entsprechenden 1. Klasse-Verbundzeitkarten zugelassen.
 
@@ -2396,6 +2538,7 @@ nach den Nummern 8.4 und 8.5.
 Gemäß Anlage 3 der Internet-Bedingungen als „digitales Ticket“ über www.bahn.de/abo bzw.
 www.ic-ec-aufpreise-bahn.de buchbare IC/EC-Aufpreise zu Zeitkarten, können bis 1 Tag vor dem
 1. Geltungstag ohne Abzug eines Bearbeitungsentgelts storniert werden.
+
 
 **B.13** **Haftung für Ausfall, Verspätung und Anschlussversäumnis**
 
